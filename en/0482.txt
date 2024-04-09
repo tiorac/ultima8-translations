@@ -1,0 +1,2 @@
+01|0080|0080
+02|008E|0022|I'm in a fantasy-type bar setting!

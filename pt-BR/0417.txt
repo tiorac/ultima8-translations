@@ -1,0 +1,622 @@
+01|0080|0080
+04|0096|002D
+02|009A|0014|the body of Stellos 
+03|00C3|00A8
+04|00CF|002D
+02|00D3|0011|Stellos the monk 
+03|00F9|0072
+03|00FC|006F
+04|0103|0023
+02|0107|0007|Stellos
+03|0123|0048
+03|0126|0045
+04|012D|0021
+02|0131|0005|monk 
+03|014B|0020
+03|014E|001D
+02|0152|0004|man 
+01|0170|0170
+05|0190|0581:28F9
+05|0199|0581:28F9
+05|01B8|0581:28F9
+06|01DE|057C:143A
+06|0200|057C:133F
+01|0211|0211
+06|026D|0417:0BAD
+06|0285|0417:054E
+01|0293|0293
+05|02AB|0581:2A56
+05|02B9|0581:2A56
+05|02C7|0581:2A56
+05|02D5|0581:2A56
+01|030A|030A
+06|0331|0581:1C19
+04|035A|012C
+02|0392|0016|Stratos! Preserve me! 
+06|03C7|0581:29D8
+06|03E0|057C:15E7
+06|03FD|057C:15E7
+05|0410|057C:0113
+06|0431|0581:29D8
+06|044A|057C:15E7
+01|048B|048B
+06|04E0|057C:091C
+02|04F0|001D|What are you doing there...? 
+06|052A|0581:1C19
+06|053C|0417:0211
+01|054E|054E
+06|05E9|0417:06A1
+06|0620|0581:1C19
+06|065A|0581:1C19
+01|06A1|06A1
+05|06AF|0581:1D62
+04|06BF|0257
+04|06D2|0074
+06|06E7|057C:091C
+02|06F7|0007|Hello? 
+06|073A|0581:1C19
+04|074E|007D
+06|0763|057C:091C
+02|0773|0010|Can I help you? 
+06|07BF|0581:1C19
+04|07D3|0085
+02|07D7|0010|Who goes there? 
+06|0804|0581:1C19
+02|0814|001B|I can hear your footsteps! 
+06|084C|0581:1C19
+04|0860|00B3
+06|0875|057C:091C
+02|08A4|001E|Do you require my assistance? 
+06|08DF|0581:1C19
+02|08EF|0012|Very well then... 
+03|0916|0292
+06|0934|057C:091C
+04|0948|002F
+02|094C|0016|Where is that Xavier? 
+03|0977|0231
+04|097F|0055
+02|0983|0009|hmmmm... 
+06|09C8|0581:1C19
+04|09DC|002D
+02|09E0|0017|No rest for the weary. 
+04|0A11|0070
+02|0A15|0024|Brrrr! There is a chill in the air. 
+06|0A75|0581:1C19
+04|0A89|006F
+02|0A8D|000C|Perhaps...? 
+02|0ACE|0018|No, I don't think so... 
+04|0B00|003F
+02|0B04|0029|Oh mighty Stratos, forgive my fragility. 
+04|0B47|0061
+02|0B4B|0015|Oh, my aching bones. 
+06|0B9C|0581:1C19
+01|0BAD|0BAD
+04|0C23|0196
+04|0C50|015D
+04|0C6B|00C4
+06|0C77|057C:091C
+02|0C87|0011|I must meditate! 
+06|0CD5|0581:1C19
+02|0D04|0016|I feel refreshed now! 
+06|0D5C|0417:06A1
+06|0D9D|0581:1C19
+03|0DAD|FEA0
+03|0DB9|FE62
+03|0DC0|FE56
+01|0DC5|0DC5
+05|0DD3|0581:1D62
+04|0DE3|024D
+04|0DF6|00B4
+06|0E0B|057C:091C
+02|0E1B|0010|Can I help you? 
+06|0E48|0581:1C19
+02|0E77|000A|Oh, well. 
+06|0E9E|0581:1C19
+04|0EB2|0072
+06|0EC7|057C:091C
+02|0ED7|0005|Yes? 
+06|0F18|0581:1C19
+04|0F2C|0077
+06|0F44|057C:091C
+02|0F54|0026|Who goes there? I feel your presence. 
+06|0F97|0581:1C19
+04|0FAB|0082
+06|0FC0|057C:091C
+02|0FD0|0015|Speak! Who is there? 
+06|1002|0581:1C19
+03|1030|029A
+06|104E|057C:091C
+04|1062|007C
+04|1069|003F
+02|106D|0026|I must have a talk with the acolytes. 
+03|10A8|0036
+02|10AC|0020|I must have a talk with Torwin. 
+04|10E6|0055
+02|10EA|0009|hmmmm... 
+06|112F|0581:1C19
+04|1143|0035
+02|1147|001F|The flowers smell sweet today. 
+04|1180|0042
+02|1184|0015|Where is that focus? 
+06|11B6|0581:1C19
+04|11CA|003D
+02|11CE|0010|Ahh, fresh air. 
+06|11FB|0581:1C19
+04|120F|0054
+02|1213|001F|Oh, my bones feel tired today. 
+04|126B|005F
+02|128E|0013|Those noisy monks. 
+06|12BE|0581:1C19
+01|12CF|12CF
+04|12DF|0040
+02|12E5|0015|Pardon me, good sir. 
+06|1312|057C:0BCF
+03|131F|0033
+02|1325|000B|Pardon me. 
+06|1348|057C:0BCF
+05|136B|0581:2A56
+06|1394|057C:0BCF
+05|13A6|0581:2A56
+04|13B1|0056
+02|13B5|0014|Welcome, my friend. 
+02|13DE|0016|Hello again, Stellos. 
+02|13F8|0004|bye 
+03|1407|004D
+02|140B|0013|Welcome, stranger. 
+02|1433|0011|Good day to you. 
+02|1448|0004|bye 
+04|1461|002E
+02|1464|001F|Tell me of the Test of Wisdom. 
+04|1496|005F
+02|1499|0022|I have passed the Test of Wisdom. 
+02|14CC|001F|Tell me of the Test of Wisdom. 
+04|1507|0091
+02|150A|002E|What do you know of the Test of Centeredness? 
+02|1549|0022|I have passed the Test of Wisdom. 
+02|156F|001F|Tell me of the Test of Wisdom. 
+04|15A4|00C0
+02|15A7|0023|I have passed the first two tests. 
+02|15CE|0004|bye 
+02|15E3|0022|I have passed the Test of Wisdom. 
+02|1609|001F|Tell me of the Test of Wisdom. 
+02|162C|002E|What do you know of the Test of Centeredness? 
+04|166B|00FF
+02|166E|001C|I have constructed my Foci. 
+02|169B|0022|I have passed the Test of Wisdom. 
+02|16C1|001F|Tell me of the Test of Wisdom. 
+02|16E4|0023|I have passed the first two tests. 
+02|170B|002E|What do you know of the Test of Centeredness? 
+02|173D|0023|I passed the Test of Centeredness. 
+04|1777|0124
+02|177A|0021|I have completed the Third Test. 
+02|17AC|0022|I have passed the Test of Wisdom. 
+02|17D2|001F|Tell me of the Test of Wisdom. 
+02|17F5|0023|I have passed the first two tests. 
+02|181C|002E|What do you know of the Test of Centeredness? 
+02|184E|001C|I have constructed my Foci. 
+02|186E|0023|I passed the Test of Centeredness. 
+04|18A7|0121
+02|18AA|001E|I have passed the third test. 
+02|18D9|0022|I have passed the Test of Wisdom. 
+02|18FF|001F|Tell me of the Test of Wisdom. 
+02|1922|0023|I have passed the first two tests. 
+02|1949|002E|What do you know of the Test of Centeredness? 
+02|197B|001C|I have constructed my Foci. 
+02|199B|0023|I passed the Test of Centeredness. 
+04|19D9|0116
+02|19DC|0013|I have met Torwin. 
+02|1A00|0022|I have passed the Test of Wisdom. 
+02|1A26|001F|Tell me of the Test of Wisdom. 
+02|1A49|0023|I have passed the first two tests. 
+02|1A70|002E|What do you know of the Test of Centeredness? 
+02|1AA2|001C|I have constructed my Foci. 
+02|1AC2|0023|I passed the Test of Centeredness. 
+04|1B00|0126
+02|1B03|0023|I have spoken with Brother Xavier. 
+02|1B37|0022|I have passed the Test of Wisdom. 
+02|1B5D|001F|Tell me of the Test of Wisdom. 
+02|1B80|0023|I have passed the first two tests. 
+02|1BA7|002E|What do you know of the Test of Centeredness? 
+02|1BD9|001C|I have constructed my Foci. 
+02|1BF9|0023|I passed the Test of Centeredness. 
+04|1C37|011D
+02|1C3A|001A|I spoke with Holy Cyrrus. 
+02|1C65|0022|I have passed the Test of Wisdom. 
+02|1C8B|001F|Tell me of the Test of Wisdom. 
+02|1CAE|0023|I have passed the first two tests. 
+02|1CD5|002E|What do you know of the Test of Centeredness? 
+02|1D07|001C|I have constructed my Foci. 
+02|1D27|0023|I passed the Test of Centeredness. 
+04|1D65|016C
+02|1D68|000D|Poor Torwin. 
+02|1D86|0022|I have passed the Test of Wisdom. 
+02|1DAC|001F|Tell me of the Test of Wisdom. 
+02|1DCF|0023|I have passed the first two tests. 
+02|1DF6|002E|What do you know of the Test of Centeredness? 
+02|1E28|001C|I have constructed my Foci. 
+02|1E48|001A|I spoke with Holy Cyrrus. 
+02|1E66|0023|I have spoken with Brother Xavier. 
+02|1E8D|0013|I have met Torwin. 
+02|1EA4|0023|I passed the Test of Centeredness. 
+04|1EDE|0182
+02|1EE1|001F|I have heard the Mystic Voice. 
+02|1F04|0004|bye 
+02|1F15|0022|I have passed the Test of Wisdom. 
+02|1F3B|001F|Tell me of the Test of Wisdom. 
+02|1F5E|0023|I have passed the first two tests. 
+02|1F85|002E|What do you know of the Test of Centeredness? 
+02|1FB7|001C|I have constructed my Foci. 
+02|1FD7|001A|I spoke with Holy Cyrrus. 
+02|1FF5|0023|I have spoken with Brother Xavier. 
+02|201C|0013|I have met Torwin. 
+02|2033|0023|I passed the Test of Centeredness. 
+04|2067|002E
+02|206A|001B|I have the Breath of Wind. 
+02|2089|0004|bye 
+04|20A7|0022
+02|20AA|0013|I found this ring. 
+04|20D6|0063
+02|20D9|0023|I passed the Test of Centeredness. 
+02|210D|0022|I have passed the Test of Wisdom. 
+04|215B|001E
+02|2160|0010|I need healing. 
+02|217E|0004|bye 
+04|2188|4205
+02|21A6|0004|bye 
+02|21B9|0004|bye 
+02|21CB|0016|Hello again, Stellos. 
+04|21E6|009E
+02|21EA|002D|It is good to hear your voice again, friend. 
+02|222E|0016|Hello again, Stellos. 
+02|2251|0010|Who is Stratos? 
+02|2265|0010|What do you do? 
+03|2284|4106
+02|2289|0010|I need healing. 
+04|229E|013D
+04|22A5|0097
+02|22A9|006B|I am sorry, but I do not have the strength to perform such a service. Come back later after I have rested. 
+06|232C|057C:1090
+03|2339|4054
+03|233C|009C
+02|2340|001E|That is certainly no problem. 
+06|2378|0596:1E4B
+02|238E|0025|Please leave me now, I need to rest. 
+06|23CB|057C:1090
+03|23D8|3FB5
+03|23DB|3FAF
+02|23E0|0011|Good day to you. 
+04|23F6|0092
+02|23FA|0036|And a good day to you, my friend. How may I help you? 
+02|2447|0011|Good day to you. 
+02|2465|0018|By what are you called? 
+03|2488|3F02
+02|248D|0018|By what are you called? 
+04|24AA|00B4
+02|24AE|0036|I am Stellos. I have lived here for many, many years. 
+02|2501|0018|By what are you called? 
+02|2528|0010|What do you do? 
+02|253C|0010|How many years? 
+03|255E|3E2C
+02|2563|0010|What do you do? 
+04|2578|0099
+02|257C|002F|I am the leader of the Order of Enlightenment. 
+02|25C2|0010|What do you do? 
+02|25DF|0008|Leader? 
+02|25EB|0017|Order of Enlightenment 
+03|2611|3D79
+02|2616|0008|Leader? 
+04|2623|00BA
+02|2627|008A|Well, it really isn't an official title. Most of the younger members come to me for guidance because I am the oldest member of the Order. 
+02|26C8|0008|Leader? 
+03|26DD|3CAD
+02|26E2|0017|Order of Enlightenment 
+04|26FE|0088
+02|2702|0049|That is the name of those of us who follow the Great Air Titan, Stratos. 
+02|2762|0017|Order of Enlightenment 
+03|2786|3C04
+02|278B|0010|How many years? 
+04|27A0|00B6
+02|27A4|0050|Through the grace of the Great Air Titan, Stratos, I have lived over 200 years. 
+02|280B|0010|How many years? 
+02|2828|0010|Who is Stratos? 
+02|283C|000B|200 years! 
+03|2856|3B34
+02|285B|0010|Who is Stratos? 
+04|2870|012D
+02|2874|00BC|Stratos is the greatest of the Titans, for it is through the power of Stratos that we of the Order gain our ability to heal the hurts of the world. However, this gift is not without cost. 
+02|2947|0010|Who is Stratos? 
+02|2964|0014|Tell me of healing. 
+02|297C|0012|What is the cost? 
+03|299D|39ED
+02|29A2|0014|Tell me of healing. 
+04|29BB|01B4
+02|29C5|0109|The healing is done by using a Focus to channel the powers of Stratos to the patient. This is a delicate procedure for if the healer is not steady in his ability or disciplined in his art, he may reach too deeply into the power and destroy himself and the patient. 
+02|2AE5|0014|Tell me of healing. 
+02|2B08|001F|I would like to learn to heal. 
+04|2B4D|001F
+02|2B50|0010|I need healing. 
+03|2B6F|381B
+02|2B74|001F|I would like to learn to heal. 
+04|2B98|00C5
+02|2B9C|002C|To do that you will have to join the Order. 
+02|2BDF|001F|I would like to learn to heal. 
+02|2C0B|001D|Then I will join your order. 
+02|2C2C|0026|I am sorry, I cannot join your order. 
+03|2C5D|372D
+02|2C62|001D|Then I will join your order. 
+04|2C84|01B7
+02|2C88|015F|The first steps to joining the Order of Enlightenment are to pass the Tests of Wisdom and Centeredness. Brother Xavier can tell you more. I suggest you seek him out. Of course, I encourage you to spend time speaking to -all- of the Theurgists here, for every member of our order is likely to have some wisdom which might help you reach enlightenment. 
+02|2DFE|001D|Then I will join your order. 
+06|2E2B|057C:1090
+03|2E38|3555
+03|2E3B|354F
+02|2E40|0026|I am sorry, I cannot join your order. 
+04|2E6B|00D0
+02|2E6F|00A4|I'm sorry you are not interested. Should you change your mind, Brother Xavier is the one to speak to in order to begin your journey down the path to Enlightenment. 
+06|2F2B|057C:1090
+03|2F38|3455
+03|2F3B|344F
+02|2F40|0012|What is the cost? 
+04|2F57|00B6
+02|2F5B|007C|As you can see by the clouding in my eyes, I am blind. It is the price I pay for being able to serve Stratos so completely. 
+02|2FEE|0012|What is the cost? 
+03|300D|337D
+02|3012|000B|200 years! 
+04|3022|0090
+02|3026|005D|It is a long time for anyone to live. Stratos must have need for me to keep me here so long. 
+02|309A|000B|200 years! 
+03|30B2|32D8
+02|30B7|0022|I have passed the Test of Wisdom. 
+04|30DE|013D
+02|30E2|00CC|Your time studying was well spent then. Until you arrived, I was impressed with Torwin's speed, but we've never had a student succeed at the rate you are progressing. Stratos will be so pleased with you. 
+02|31C5|0022|I have passed the Test of Wisdom. 
+02|31F6|0019|Stratos will be pleased? 
+03|321B|316F
+02|3220|0019|Stratos will be pleased? 
+04|323E|01BF
+02|3242|017E|I commune daily with the Giver of Life. Recently she has been speaking of one who would come and be the greatest healer Argentrock Isle has ever seen. She described this great healer to me. When Torwin arrived here, I thought it was he she spoke of, but now I realize it is you. Oh, she has looked forward to your arrival and all the great things you will do as one of her healers! 
+02|33D7|0019|Stratos will be pleased? 
+03|33FD|2F8D
+02|3402|0023|I passed the Test of Centeredness. 
+04|342A|00A7
+02|342E|005C|I am pleased you have come through it unharmed. So many times we have lost initiates to it. 
+02|34A1|0023|I passed the Test of Centeredness. 
+03|34D1|2EB9
+02|34D6|001F|Tell me of the Test of Wisdom. 
+04|34FA|0115
+02|34FE|0081|Ah, so you have begun the road to Enlightenment. Stratos will be pleased. She sets great store by you. What do you wish to know? 
+02|3596|001D|Tell me the answers, please. 
+02|35B7|001E|Where can I find the answers? 
+02|35E3|001F|Tell me of the Test of Wisdom. 
+03|360F|2D7B
+02|3614|001D|Tell me the answers, please. 
+04|3636|010A
+02|363A|0073|It is forbidden for anyone to give away the answers to the Test of Wisdom. The answers you must find for yourself, 
+02|36B7|0025|, for they must come from your heart.
+02|36F4|001D|Tell me the answers, please. 
+02|3715|001E|Where can I find the answers? 
+03|3740|2C4A
+02|3745|001E|Where can I find the answers? 
+04|3768|0149
+02|376C|00E2|You must go to the library in the monastery. There you will find many old texts that discuss at great lengh the philosophy of Stratos. Read these and apply them to your own feelings. Only then will you find the right answers. 
+02|3865|001E|Where can I find the answers? 
+02|3887|001D|Tell me the answers, please. 
+03|38B1|2AD9
+02|38B6|0031|What do you know about the Test of Centeredness? 
+04|38EC|014C
+02|38F0|00F3|The Test of Centeredness is an important test as it tests your stamina and courage. Why even our most prized pupil, Torwin, took several tries before he managed to succeed. And he is one of the lucky ones. We've had many fall to their deaths. 
+02|39FA|0031|What do you know about the Test of Centeredness? 
+03|3A38|2952
+02|3A3D|0023|I have passed the first two tests. 
+04|3A65|0151
+02|3A69|00CB|Yes, I know. You have proven yourself worthy to wear the title Initiate. Now you are ready to begin learning the spells that Stratos grants us. However, before you do that, you must construct your Foci. 
+02|3B4B|0023|I have passed the first two tests. 
+02|3B7B|000F|What are Foci? 
+02|3B8E|001D|How do I construct the Foci? 
+03|3BB6|27D4
+02|3BBB|0021|I have completed the Third Test. 
+04|3BE1|00AA
+02|3BE5|0035|That is wonderful. Now you must construct your Foci. 
+02|3C31|0021|I have completed the Third Test. 
+02|3C5F|001D|How do I construct the Foci? 
+03|3C8B|26FF
+02|3C90|001D|How do I construct the Foci? 
+04|3CB2|03C3
+02|3CB6|0107|The construction of the Foci is the most important task an Initiate in the Order of Enlightenment can undertake. The Foci are wrought of the finest silver, found only in the caverns under our monastery. These caverns are dark and fraught with fearsome creatures. 
+04|3DD7|00F5
+05|3DE4|0581:1EE2
+04|3DEC|0070
+02|3DF0|0051|Using this key, you will be able to open the door where the silver may be found. 
+03|3E5C|006D
+02|3E60|0057|I would give you the key to the mine, but I see that your hands are full. Maybe later. 
+03|3ECC|014E
+02|3ED0|0138|Using the key I gave you earlier, you may use it to unlock the door to the mine. After you have removed enough silver ore to construct your focuses, please lock the door again. There are more than a few curious souls who have found that mine to be their final resting place, so please seal it when you are done. 
+02|401F|001D|How do I construct the Foci? 
+02|404B|001E|What do I do with the silver? 
+03|4075|2315
+02|407A|001E|What do I do with the silver? 
+04|409D|0189
+02|40A1|0143|You must take the silver to the blacksmith, Korick, in Tenebrae. Only he has the skill to forge the Foci. But these Foci will be without power. You must return here, place them upon the Altar of Focus in the monastary and call upon the name of Stratos. If you have met with her approval, she will fill them with her power. 
+02|41FB|001E|What do I do with the silver? 
+03|4226|2164
+02|422B|000F|What are Foci? 
+04|423F|0169
+02|4243|0132|A Focus is a talisman of great magical power. It is a channel. It allows the wielder to touch a small part of the great power of Stratos and use it for the specific purpose for which the Focus was designed such as healing. It is a powerful item, but in the hands of the inexperienced or weak, it can kill. 
+02|438C|000F|What are Foci? 
+03|43A8|1FE2
+02|43AD|001C|I have constructed my Foci. 
+04|43CE|012A
+02|43D2|00D3|Very good. You are well on your way to becoming a full Adept. The next step is a test of all you have learned. You must return to the caverns under the monastery. You will know what to do when you arrive there. 
+06|44E8|057C:1090
+03|44F5|1E98
+03|44F8|1E92
+02|44FD|001E|I have passed the third test. 
+04|4520|0136
+04|4527|0034
+02|452B|001B|That is a wonderful thing! 
+03|455B|00CB
+02|455F|0097|That is a wonderful thing. However, you will have to excuse me. I do not have the time to further your education. We have had a terrible thing happen. 
+02|460B|0013|What has happened? 
+02|462B|001E|I have passed the third test. 
+03|4656|1D34
+02|465B|0013|What has happened? 
+04|4673|0092
+02|4677|002E|Brother Xavier has lost his Focus of healing. 
+02|46BC|0013|What has happened? 
+02|46DE|0015|How did that happen? 
+03|4705|1C85
+02|470A|0015|How did that happen? 
+04|4724|0127
+02|4728|00C0|No one is sure. Poor Brother Xavier is beside himself with grief. It is very unlikely that an Adept would simply misplace something like that. Ah well, if he knows more, he is not telling me. 
+02|47FF|0015|How did that happen? 
+02|4823|001C|Do you think it was stolen? 
+03|484B|1B3F
+02|4850|001C|Do you think it was stolen? 
+04|4871|0198
+02|4875|0154|It wounds me deeply to think that one of our own would stoop so low as to steal from another enlightened one. It goes against all of Stratos' teachings. But, she also teaches mercy and compassion, so if it was stolen by one of our own, I will not hold it against that person, but rather, will help him find the path of Enlightenment again. 
+02|49E0|001C|Do you think it was stolen? 
+03|4A09|1981
+02|4A0E|0013|I have met Torwin. 
+04|4A26|017D
+04|4A2D|0041
+02|4A31|0028|I was saddened to learn of his tragedy. 
+03|4A6E|0110
+02|4A72|00B5|He is one of our newest Initiates. He has shown tremendous progress. Until you, he was the finest student we had ever trained. Recently he was been doing some interesting research. 
+02|4B3E|001F|What research is Torwin doing? 
+02|4B61|0014|One of your finest? 
+02|4B83|0013|I have met Torwin. 
+03|4BA3|17E7
+02|4BA8|001F|What research is Torwin doing? 
+04|4BCC|0105
+02|4BD0|00B8|He has been looking into the possibility of combining Foci to increase their power. Although I don't believe there is much chance, I don't like to stifle creativity and individuality. 
+02|4CA5|001F|What research is Torwin doing? 
+03|4CD1|16B9
+02|4CD6|0014|One of your finest? 
+04|4CEF|00E9
+02|4CF3|00AD|Certainly. He finished the Test of Wisdom in record time. He also successfully completed the Test of Centeredness with virtually no mishaps. We have been very proud of him. 
+02|4DB7|0014|One of your finest? 
+03|4DD8|15B2
+02|4DDD|0023|I have spoken with Brother Xavier. 
+04|4E05|00DA
+02|4E09|008F|He is such a fine man, and such a wonderful healer. His brusque manner has put some people off at times, but he really is a kind man at heart. 
+02|4EAF|0023|I have spoken with Brother Xavier. 
+03|4EDF|14AB
+02|4EE4|001A|I spoke with Holy Cyrrus. 
+04|4F03|011B
+02|4F07|00D9|Good Cyrrus. He is such a kind and gentle soul. In the beginning I was not sure he would be able to withstand the rigors of life here on Argentrock. But he has a core of iron, he does. He is truly a joy to work with. 
+02|4FF7|001A|I spoke with Holy Cyrrus. 
+03|501E|136C
+02|5023|000D|Poor Torwin. 
+04|5035|016C
+02|5039|0113|Loss of life is always a tragedy, however, the loss of one so gifted is even a greater loss for those who will not receive his healing powers. However, I am glad the Focus was found. You have plainly shown yourself to be ready to pass the final test and become a full Adept. 
+02|5163|000C|Poor Torwin 
+02|517E|0007|Adept? 
+02|5189|000C|Final test? 
+03|51A1|11E9
+02|51A6|0007|Adept? 
+04|51B2|0094
+02|51B6|0065|Yes. When you become an Adept, you will have full use of all the spells Stratos gives her followers. 
+02|5232|0007|Adept? 
+03|5246|1144
+02|524B|000C|Final test? 
+04|525C|0133
+02|5266|00D2|In the final test there are no creatures for you to fight, no riddles to answer nor problems to solve. There is simply you and your belief. You must rely upon your own ability and your faith in Stratos' power. 
+02|534F|000C|Final test? 
+02|536A|0019|How do I take this test? 
+03|538F|0FFB
+02|5394|0019|How do I take this test? 
+04|53B2|00F4
+02|53B6|00B3|You must travel to Windy Point where you will find two black pillars. Stand between those pillars. If you truly wish to hear the Mystic Voice, you must then take a leap of faith. 
+02|5480|0019|How do I take this test? 
+03|54A6|0EE4
+02|54AB|001F|I have heard the Mystic Voice. 
+04|54CF|0129
+02|54D3|00AF|Then you are truly an Adept. Your work and dedication have made it possible for you to reach enlightenment in less time than it has taken any other. You have done quite well. 
+02|5599|001F|I have heard the Mystic Voice. 
+02|55C5|0028|What do you know of the Breath of Wind? 
+03|55F8|0D92
+02|55FD|0028|What do you know of the Breath of Wind? 
+04|562A|00F3
+02|562E|006D|Ah, the Breath of Wind is that through which Stratos gives her power to her chosen children. Why do you ask? 
+02|56B2|0028|What do you know of the Breath of Wind? 
+02|56E9|0010|I must have it. 
+02|56FD|0014|I was just curious. 
+03|571D|0C6D
+02|5722|0014|I was just curious. 
+04|573B|00C9
+02|573F|007A|Ah, it is good for a Child of Stratos to seek knowledge. Continue on the path and you will soon gain the wisdom you seek. 
+02|57D0|0014|I was just curious. 
+06|57F4|057C:1090
+03|5801|0B8C
+03|5804|0B86
+02|5809|0010|I must have it. 
+04|581E|0114
+02|5822|00C4|Ah, I was afraid it would come to this. The Breath of Wind is found with Stratos. Although you will find it with Stratos, you cannot see it with only your eyes. There are many ways to see things. 
+02|58FD|0010|I must have it. 
+02|5911|0014|I was just curious. 
+03|5932|0A58
+02|5937|001B|I have the Breath of Wind. 
+04|5957|0135
+02|595B|00AB|You are to be congratulated, for you have achieved that which no other has. You will have to excuse me, however, if I seem to lack some enthusiasm at your accomplishment. 
+02|5A1D|001B|I have the Breath of Wind. 
+02|5A45|0020|Why are you lacking enthusiasm? 
+02|5A69|0018|No other has done this? 
+03|5A8C|08FE
+02|5A91|0020|Why are you lacking enthusiasm? 
+04|5AB6|00A1
+02|5ABA|0037|Taking the Breath of Wind is not without repercussion. 
+02|5B08|0020|Why are you lacking enthusiasm? 
+02|5B37|0014|What repercussions? 
+03|5B57|0833
+02|5B5C|0018|No other has done this? 
+04|5B79|009C
+02|5B7D|005C|Even I have not dared such a feat. You are truly one of unparalleled character and bravery. 
+02|5BF0|0018|No other has done this? 
+03|5C15|0775
+02|5C1A|0014|What repercussions? 
+04|5C33|0162
+02|5C37|0103|I understand you are doing what must be done, however, without the Breath of Wind to draw from, we of Argent Rock will be without our healing spells. So, I hope that you know what you do, for if you are in error, the entire population will suffer. As will I. 
+02|5D51|0014|What repercussions? 
+02|5D74|0015|Why will you suffer? 
+03|5D95|05F5
+02|5D9A|0013|I found this ring. 
+04|5DB2|0183
+02|5DB6|0015|Here let me feel it. 
+02|5DE1|00EB|Ah, yes. This is Torwin's. It is not very valuable, but he was very proud of it. He said it belonged to his father. I am afraid it is all that is left of poor Torwin. This must be returned to his mother. You will return it, won't you? 
+02|5EE3|0013|I found this ring. 
+02|5F05|000D|Yes, I will. 
+02|5F16|000D|No, I won't. 
+03|5F35|0455
+02|5F3A|000D|Yes, I will. 
+04|5F4C|0085
+02|5F50|003F|Ah, there is a good fellow. Stratos was right in trusting you. 
+02|5FA6|000D|Yes, I will. 
+02|5FB7|000D|No, I won't. 
+03|5FD1|03B9
+02|5FD6|000D|No, I won't. 
+04|5FE8|00CC
+02|5FEC|007E|But you found it and were the last to see Torwin alive. It is your duty, nay, your honor to take it to his mother. Won't you? 
+02|6081|000D|No, I won't. 
+02|609D|000B|I said no! 
+03|60B4|02D6
+02|60B9|000B|I said no! 
+04|60C9|005C
+02|60CD|0030|It seems then, that I've severly misjudged you. 
+06|6115|057C:1090
+03|6122|026B
+03|6125|0265
+02|612A|0015|Why will you suffer? 
+04|6144|01FB
+02|6148|0138|It was with the power of Stratos that I was able to stay alive. Now that the link has been severed, I will no longer receive those blessings which prolong my life. Even now, I feel the years creeping up on me. I am afraid I can last no longer. Goodbye, my friend, use the power well, for it comes at great cost. 
+06|629E|057C:091C
+06|62B6|0581:29D8
+06|62D5|0581:29D8
+06|6313|0581:29D8
+06|632F|057C:1090
+03|633C|0051
+03|633F|004B
+02|6344|0004|bye 
+04|634D|003D
+02|6351|0011|May you be well. 
+06|637A|057C:1090
+03|638D|BDEC

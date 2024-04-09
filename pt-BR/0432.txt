@@ -1,0 +1,72 @@
+01|0080|0080
+04|0096|0028
+02|009A|000F|dead guardsman 
+03|00BE|0020
+02|00C2|000A|guardsman 
+01|00E3|00E3
+06|0126|057C:091C
+06|013C|057C:15E7
+01|014D|014D
+06|0172|057C:143A
+06|0196|057C:133F
+01|01A7|01A7
+02|01B4|000B|Guardsman! 
+06|01D3|057C:0BCF
+06|01E8|0581:1C19
+05|01FC|0581:2A56
+04|0236|0076
+02|023A|004A|You must find safety, stranger, for the Titans spew their hatred upon us! 
+06|029C|057C:1090
+03|02A9|05D3
+03|02AC|00DB
+04|02B3|00D4
+02|02B7|00A8|Quickly seek shelter from the death that walks and the ground that quakes, stranger, lest you find death yourself. The once-buried now roam freely and must be stopped! 
+06|0377|057C:1090
+03|0384|04F8
+04|038E|00D7
+04|0395|004F
+02|0399|0030|Always hassling me! What do you want this time? 
+03|03E4|007E
+04|03F3|003E
+02|03F7|0025|Is there something I can do for you? 
+03|0431|0031
+02|0435|001B|Always with the questions! 
+03|0465|0038
+02|0469|001C|What do you want, stranger? 
+02|04A0|000D|Who are you? 
+02|04B1|0013|What is your duty? 
+02|04C8|000C|Where am I? 
+02|04D8|0004|Bye 
+02|04E9|0004|Bye 
+04|04F3|0389
+02|0511|000D|Who are you? 
+04|0523|004A
+02|0528|000D|Who are you? 
+02|0543|0015|I am called Pellgun. 
+03|056D|030C
+02|0572|0013|What is your duty? 
+04|058A|00BA
+02|058F|0013|What is your duty? 
+04|05B3|004A
+02|05B7|0031|I am charged with protecting the Tempest, Devon. 
+03|05FD|0044
+02|0601|002E|I am charged with protecting the Lady Mordea. 
+03|0644|0235
+02|0649|000C|Where am I? 
+04|065A|012B
+02|065F|000C|Where am I? 
+04|067C|004C
+02|0680|0033|You are in the royal palace of the Tempest, Devon. 
+03|06C8|00BA
+02|06CC|0030|You are in the royal palace of the Lady Mordea. 
+02|0712|0045|You had best be off before Mordea demands your head for trespassing. 
+06|076F|057C:1090
+03|0782|00FA
+03|0785|00F4
+02|078A|0004|Bye 
+04|0793|00E6
+02|0797|000B|Very good. 
+04|07C4|009F
+02|07CE|0083|I thank you for your assistance is deposing the tyrannical Mordea. Her unfair rulership has been brought to an end, thanks to you. 
+06|0869|057C:1090
+03|087C|FC68

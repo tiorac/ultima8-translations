@@ -1,0 +1,200 @@
+I've added to the Spanish translation of Ultima VIII: Pagan the tools used for
+do it. I've used several tools (although they could be embedded in one unique
+tool), this would be 5 tools for texts and 1 tool for graphics.
+
+
+============================== TOOLS EXPLANATION ==============================
+
+***** GRAPHIC TOOL *****
+
+The graphic tool used is named Ultima VIII: Pagan GraFX Tool v1.0 (U8FX.EXE).
+It has been developed with Microsoft Visual Basic 2010 Express (x32), and
+you will need probably .NET package.
+
+I know there are some tools for viewing several images (frames)
+for U8 .FLX files, BUT, this tool allows export/import to/from .PNG files
+(to edit them) AND allows also Save/Load shapes (.shp) files, the ones
+we can extract/import with U8FT.EXE tool.
+
+This tool permits:
+- Read and View shapes/frames from: U8SHAPES.FLX, U8FONTS.FLX, U8GUMPS.FLX
+- Import/Export to .PNG: U8FONTS.FLX, U8GUMPS.FLX (NOT COMPRESSED)
+  (is possible to implement the feature for U8SHAPES, but I have not needed
+   it for the Spanish translation).
+- Export to .PNG ALL frames from one given shape.
+- Load/Save one shape with all the frames (shape format usable with U8FT.EXE).
+- Export Palette U8PAL.PAL to .GPL (gimp) format.
+
+The tool has some more features, gives a bunch of info, tells wich color
+is the pixel we select in the frame, etc...
+
+I used the tool to export/import U8FONTS and U8GUMPS needed for the Spanish
+translation.
+
+Have in mind that when the tool is used, it is needed to tell where is
+U8PAL.PAL file (I recommend put it in the same folder with U8FX Tool).
+Also, when you open a .shp file (saved previously or extracted with U8FT.EXE),
+you will need to tell to the tool which type is (FONT, GUMP or SHAPE), if it
+is not correct, the tool will not understand what is reading.
+
+
+***** TRANSLATION TOOLS *****
+
+For my purposes I've decided to create 5 Tools with
+Microsoft Visual C++ 2010 Express (x32):
+
+1.) U8FT.EXE Tool
+This is a .FLX extractor/creator. I've used it with U8GUMPS.FLX, U8FONTS.FLX,
+U8SHAPES.FLX, EUSECODE.FLX and E44.FLX...E666.FLX flex files.
+
+When this tool is used it creates a "index.txt" file. This file is needed when
+creating again a new FLX file. Executing the tool will give to you the options
+or parameters you can use. This file is ALSO needed FOR THE NEXT tools.
+
+*If we extract from EUSECODE.FLX the result files has .cls extension (class).
+*If we extract from U8GUMPS.FLX, U8FONTS.FLX or U8SHAPES.FLX the result
+ files has .shp extension (shape).
+*If we extract from E44.FLX... E666.FLX the result files has .u8c extension.
+
+
+2.) U8DEC.EXE Tool
+This tool is used to decode or decompile the text part and needed instructions
+for do the translation. It should be used in one of the clases EUSECODE.FLX
+flex file has (except in 0000.cls and 0001.cls, globals and names classes).
+
+
+3.) U8CALC.EXE Tool
+This tool is used to calculate o recalculate the offsets, addresses or other
+things in a class that has been translated (and extracted previously with
+U8DEC.EXE)
+
+This tool also replaces some foreign characters:
+- In Spanish: 'á' 'é' 'í' 'ó' 'ú' 'ñ' 'ü' 'Á' 'É' 'Í' 'Ó' 'Ú' 'Ñ' 'Ü' '¡' '¿'
+having in mind the file "table.txt". See the one added in the package to
+have a sample of the format. (HEXCODE_FONTFRAME=<real character of language>)
+"HEXCODE_FONTFRAME" would be the hex position in U8FONTS.FLX of the font.
+Fonts used in Spanish translation:
+- 0000.shp(blue), 0005.shp(orange), 0006.shp(red), 0007.shp(green),
+  0008.shp(yellow) -> Dialogue fonts
+- 000A.shp, 000B.shp -> tombstones and plaques fonts
+- 0009.shp -> Books and scrolls font
+
+
+4.) U8COMP.EXE Tool
+This tool is used to encode or compile translated and recalculated class
+into a new .cls usable and ready to add into EUSECODE.FLX file.
+To compile one class it is needed the ORIGINAL ENGLISH class file.
+
+
+5.) U8Q.EXE Tool
+This tool unencrypts or encrypts ECREDITS.DAT and QUOTES.DAT to modify
+it if necessary. It uses 0x0A as new line char (not 0x0D 0x0A chars
+used by windows). It is necessary use special editor to edit this files.
+If some 0x0D code is used for do "new line", it must be deleted.
+
+
+
+***** ENVIRONMENT FOR TRANSLATION AND STEPS *****
+Once we know the tools, maybe it is needed to explain a bit more how we
+can translate for further translators. Only for EUSECODE.FLX file.
+I recommend to prepare this environment (sample of folders):
+
+/-TRANSLATION
+   /-EUSECODE
+       In this folder we will have original english EUSECODE.FLX and U8FT.EXE.
+       We use "U8FT -x EUSECODE.FLX" and will appear a bunch of .cls files and
+       one "index.txt" file.
+       Copy "index.txt in" the other four folders.
+       Copy all .cls files into /-DEC and /-COMP folders.     
+   /-DEC
+       In this folder we will have U8DEC.EXE, all .cls files and "index.txt".
+       After executing "U8DEC.EXE -a" we will have the same files and a bunch
+       of new .txt files with texts extracted. The same amount as .cls files,
+       of course (except 0000.cls and 0001.cls).
+       A sample of a .txt file (0x00B4 class in EUSECODE.FLX):
+          01|0080|0080
+          04|009B|0023
+          02|009F|000A|Blackwine 
+          03|00BE|00D6
+          04|00C6|0023
+          02|00CA|000A|Hurricane 
+          03|00E9|00AB
+          04|00F1|002A
+          02|00F5|0011|Breath o' Spirit 
+          03|011B|0079
+          04|0123|0025
+          02|0127|000C|Cloven Hoof 
+          03|0148|004C       
+          
+       We ONLY need to translate the text part. SAMPLE:
+       WARNING: Be aware of the white space(s) at the end of the texts!!!
+          01|0080|0080
+          04|009B|0023
+          02|009F|000A|Vinoscuro 
+          03|00BE|00D6
+          04|00C6|0023
+          02|00CA|000A|Huracán 
+          03|00E9|00AB
+          04|00F1|002A
+          02|00F5|0011|Aliento espiritual 
+          03|011B|0079
+          04|0123|0025
+          02|0127|000C|Pezuña hendida 
+          03|0148|004C   
+       
+       After translating .txt files, we copy them into CALC folder.    
+   /-CALC
+       In this folder we will have U8CALC.EXE, "index.txt", "table.txt" and
+       ALL .txt files from DEC folder translated.
+       We will use "U8CALC.EXE -a" and this creates the same files with
+       .new extension, with recalculated numbers and characters.
+       This would be nnnn.txt.new bunch of files.
+       We copy ALL this nnnn.txt.new files into COMP folder.
+   /-COMP
+       In this folder we will have U8COMP.EXE, "index.txt", ALL the original
+       nnnn.cls files from EUSECODE folder and nnnn.txt.new files from
+       CALC folder.
+       After executing "U8COMP -a" we will have the text translated class
+       files compiled in .cls files with .new extension.
+       This would be a bunch of nnnn.cls.new files.
+       We copy this nnnn.cls.new files into EUSECODE_NEW folder.
+       We MUST copy also the nnnn.cls files not compiled, if any, because some
+       of them are not needed to compile and maybe we decided not to add them
+       to the compile process, into EUSECODE_NEW folder AND rename them as
+       nnnn.cls.new file (with .new extension).
+   /-EUSECODE_NEW
+       In this folder we will have U8FT.EXE, "index.txt" and ALL the
+       modified nnnn.cls.new files.
+       Have in mind that you should change "index.txt" class names,
+       this would be change "nnnn.cls" FOR "nnnn.cls.new", if not the tool
+       will not read any file.
+       After that, we run "U8FT -c EUSECODE.FLX.new", for example.
+       Et voilà, we have here a new compiled EUSECODE with translated
+       texts.
+
+
+***** NOTES FOR TRANSLATIONS *****
+
+- Not all the classes extracted from EUSECODE.FLX have text for translate
+  but maybe it is needed to add them to the CALC process because maybe
+  they need some recalculations.
+- Normal files, like the ones with object names can be translated and
+  test ingame without touch anything more.
+  BUT there are files, that uses another class files that at the same time
+  CALL to another class file.
+  There are few, but testing ingame the translation and touching one
+  of this files can make the game crash and you must begin again
+  the betatesting.
+  Some files I recommend to leave for the end are:
+    7C, 41C, 41D, 56F, 571, 574, 57C, 581, 583, 589, 58A, 595
+- Maybe it is needed to delete \GAMEDAT folder files for betatesting.
+  Have it in mind.
+
+
+   
+   
+
+
+
+
+

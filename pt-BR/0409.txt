@@ -1,0 +1,759 @@
+01|0080|0080
+04|0096|0025
+02|009A|000C|dead Korick 
+03|00BB|004B
+04|00C2|002A
+02|00C6|0011|Korick the Smith 
+03|00EC|001A
+02|00F0|0004|man 
+01|010B|010B
+03|0124|00B8
+04|0176|0066
+02|01AE|000D|Stop! Thief! 
+06|01D4|058B:0080
+01|01E1|01E1
+06|022C|0409:16D8
+06|0244|0409:1051
+01|0252|0252
+05|026E|0581:28F9
+06|02A9|057C:143A
+06|02CB|057C:133F
+01|02DC|02DC
+06|0303|0581:1C19
+04|032C|0079
+04|0339|006C
+04|0348|0029
+02|034C|0010|Help me, Beren! 
+03|0371|0025
+02|0375|000F|Town Sorcerer! 
+06|039D|058B:0080
+01|03AA|03AA
+05|03BC|0581:2A56
+05|03CA|0581:2A56
+05|03D8|0581:2A56
+05|03E6|0581:2A56
+01|0420|0420
+02|042A|008E|Outstanding! I think that you find my armor to be the finest made. I have leggings, helmets, arm guards, and shields. Which would you prefer? 
+02|04CD|0009|Leggings 
+02|04DA|0007|Helmet 
+02|04E5|000B|Arm guards 
+02|04F4|0007|Shield 
+02|0521|0009|Leggings 
+04|052F|00B6
+02|0533|0090|Very good! My leggings sell for 12 obsidian coins per pair. I'm sure that you'll find that quite a bargain considering their unmatched quality. 
+03|05E5|018A
+02|05EA|000B|Arm guards 
+04|05FA|0050
+02|05FE|002A|Fine, my arm guards are but eleven coins. 
+03|064A|0125
+02|064F|0007|Shield 
+04|065B|005E
+02|065F|0038|So you are in need of a shield? Shields cost 12 Blacks. 
+03|06B9|00B6
+02|06BE|0007|Helmet 
+04|06CA|005E
+02|06CE|0038|Well, today shall be a good day! Helmets cost 13 coins. 
+03|0728|0047
+02|072D|0014|Nothing, thank you. 
+04|0746|0029
+02|074A|000D|As you wish. 
+03|076C|024A
+02|0772|0014|Here is the amount. 
+02|078A|0017|Never mind, thank you. 
+02|07C7|0014|Here is the amount. 
+04|07E0|019D
+05|07ED|0581:1EE2
+04|07F5|0101
+05|0803|0581:20B8
+04|080B|0039
+02|080F|0020|Thank you very much, my friend. 
+03|0844|00AF
+02|0848|0085|Ahh, it seems that you do not have enough money. Please come back when you enough Obsidian. Remember, quality is worth a high price. 
+05|08EC|0581:20B8
+03|08F3|00C3
+03|08F6|0084
+02|08FA|006E|Well, it seems that you are carrying too much. Do not worry, I will hold this for you until you can carry it. 
+03|097D|0039
+02|0981|0020|I understand. Thank you anyway. 
+01|09BF|09BF
+02|09C9|0093|Fine news! I am sure that you will appreciate the quality of my weapons. Would you be wanting a sabre, scimitar, mace, dagger, axe, or broadsword? 
+02|0A71|0006|Sabre 
+02|0A7B|0009|Scimitar 
+02|0A88|0005|Mace 
+02|0A91|0007|Dagger 
+02|0A9C|0004|Axe 
+02|0AA4|000B|Broadsword 
+02|0AD5|0006|Sabre 
+04|0AE0|0051
+02|0AE4|002B|Very well, a sabre costs but 75 Obsidians. 
+03|0B31|02D0
+02|0B36|0009|Scimitar 
+04|0B44|0058
+02|0B48|0032|A fine weapon. A scimiar will cost you 90 Blacks. 
+03|0B9C|0265
+02|0BA1|0005|Mace 
+04|0BAB|0074
+02|0BAF|004E|My, you must have some heavy work ahead of you. My maces are a mere 15 coins. 
+03|0C1F|01E2
+02|0C24|0007|Dagger 
+04|0C30|0064
+02|0C34|003E|Something to keep in your boot, eh? A dagger is  but 5 coins. 
+03|0C94|016D
+02|0C99|0004|Axe 
+04|0CA2|006D
+02|0CA6|0047|Ahh, I mighty weapon for a mighty fellow. One good axe costs 25 coins. 
+03|0D0F|00F2
+02|0D14|000B|Broadsword 
+04|0D24|0096
+02|0D28|0070|Very good. The broadsword is truly the most elegant and noble of weapons. My broadswords are but 125 Obsidians. 
+03|0DBA|0047
+02|0DBF|0014|Nothing, thank you. 
+04|0DD8|0029
+02|0DDC|000D|As you wish. 
+03|0DFE|024A
+02|0E04|0014|Here is the amount. 
+02|0E1C|0017|Never mind, thank you. 
+02|0E59|0014|Here is the amount. 
+04|0E72|019D
+05|0E7F|0581:1EE2
+04|0E87|0101
+05|0E95|0581:20B8
+04|0E9D|0039
+02|0EA1|0020|Thank you very much, my friend. 
+03|0ED6|00AF
+02|0EDA|0085|Ahh, it seems that you do not have enough money. Please come back when you enough Obsidian. Remember, quality is worth a high price. 
+05|0F7E|0581:20B8
+03|0F85|00C3
+03|0F88|0084
+02|0F8C|006E|Well, it seems that you are carrying too much. Do not worry, I will hold this for you until you can carry it. 
+03|100F|0039
+02|1013|0020|I understand. Thank you anyway. 
+01|1051|1051
+06|10DE|057C:091C
+06|10FB|057C:15E7
+06|110D|0409:119A
+06|112B|057C:15E7
+06|113D|0409:119A
+06|1155|0581:1C19
+06|1172|057C:15E7
+01|119A|119A
+05|11A8|0581:1D62
+04|11B8|01E0
+04|11CB|0083
+06|11E0|057C:091C
+02|11F0|0018|What can I get for you? 
+06|122B|057C:15E7
+06|1242|0581:1C19
+04|1256|0073
+02|125A|0029|There is nothing like a good day's work. 
+06|12A6|057C:15E7
+06|12BD|0581:1C19
+04|12D1|0050
+02|12D5|0023|I need to make a few more daggers. 
+06|1315|0581:1C19
+04|1329|006C
+06|133E|057C:091C
+06|135B|057C:15E7
+02|136B|0018|Fine quality items, eh? 
+03|1398|033B
+06|13B6|057C:091C
+04|13CA|0039
+02|13CE|0020|Hard work is good for the soul. 
+03|1403|02D0
+04|140B|0087
+02|140F|003D|Hmmm, I think that I got too much carbon in that last sword. 
+06|146F|057C:15E7
+06|1486|0581:1C19
+04|149A|0035
+02|149E|001F|It certainly gets hot in here. 
+04|14D7|0084
+02|14DB|003A|Perhaps I will take a few days off and go to the country. 
+06|1538|057C:15E7
+06|154F|0581:1C19
+04|1563|00A3
+02|1567|0030|Perhaps I should try my hand at jewelry making. 
+06|15BA|057C:15E7
+02|15CA|002A|No, that work is far too delicate for me. 
+04|160E|004E
+06|1621|057C:091C
+02|1631|0019|Another day at the shop. 
+04|1664|006F
+02|1668|0025|Oh how I love the glow of hot metal. 
+06|16B0|057C:15E7
+06|16C7|0581:1C19
+01|16D8|16D8
+06|1769|0409:181B
+06|1787|057C:15E7
+06|179E|0581:1C19
+06|17BB|057C:15E7
+06|17D6|0581:1C19
+06|17F3|057C:15E7
+01|181B|181B
+05|1829|0581:1D62
+04|1839|01BF
+04|184C|0076
+06|1861|057C:091C
+02|1871|000B|Oh, hello. 
+06|189F|057C:15E7
+06|18B6|0581:1C19
+04|18CA|0069
+02|18CE|001F|At last, some peace and quiet. 
+06|1910|057C:15E7
+06|1927|0581:1C19
+04|193B|0048
+02|193F|001B|How I value my time alone. 
+06|1977|0581:1C19
+04|198B|006A
+06|19A0|057C:091C
+06|19BD|057C:15E7
+02|19CD|0016|Are you following me? 
+03|19F8|0242
+06|1A16|057C:091C
+04|1A2A|0041
+02|1A2E|0028|Maybe I will stroll over to the valley. 
+03|1A6B|01CF
+04|1A73|007A
+02|1A77|0030|How good it is to be away from that noisy shop. 
+06|1ACA|057C:15E7
+06|1AE1|0581:1C19
+04|1AF5|0026
+02|1AF9|0010|Ahh, fresh air. 
+04|1B23|0071
+02|1B27|0027|I so love to walk at this time of day. 
+06|1B71|057C:15E7
+06|1B88|0581:1C19
+04|1B9C|009E
+02|1BA0|0020|What a lovely day for a stroll. 
+06|1BE3|057C:15E7
+02|1BF3|0035|Of course, -every- day is a lovely day for a stroll. 
+01|1C3F|1C3F
+06|1CD0|0409:1D82
+06|1CEE|057C:15E7
+06|1D05|0581:1C19
+06|1D22|057C:15E7
+06|1D3D|0581:1C19
+06|1D5A|057C:15E7
+01|1D82|1D82
+05|1D90|0581:1D62
+04|1DA0|01E5
+04|1DB3|0086
+06|1DC8|057C:091C
+02|1DD8|001B|Why are you in my bedroom? 
+06|1E16|057C:15E7
+06|1E2D|0581:1C19
+04|1E41|007C
+02|1E45|0032|I should probably eat something before I turn in. 
+06|1E9A|057C:15E7
+06|1EB1|0581:1C19
+04|1EC5|004A
+02|1EC9|001D|Perhaps I should get a wife. 
+06|1F03|0581:1C19
+04|1F17|006B
+06|1F2C|057C:091C
+06|1F49|057C:15E7
+02|1F59|0017|You are in my bedroom! 
+03|1F85|02BE
+06|1FA3|057C:091C
+04|1FB7|0045
+02|1FBB|002C|I need to build a new room onto this house. 
+03|1FFC|0247
+04|2004|006E
+02|2008|0024|Perhaps I should get an apprentice. 
+06|204F|057C:15E7
+06|2066|0581:1C19
+04|207A|002F
+02|207E|0019|This house is too small. 
+04|20B1|006B
+02|20B5|0021|I certainly did enjoy that walk. 
+06|20F9|057C:15E7
+06|2110|0581:1C19
+04|2124|008D
+02|2128|0015|I am rather thirsty. 
+06|2160|057C:15E7
+02|2170|002F|Yet, I would enjoy some company now and again. 
+04|21B9|0028
+02|21BD|0012|I had a long day. 
+04|21E9|005A
+02|21ED|0010|I am exhausted. 
+06|2220|057C:15E7
+06|2237|0581:1C19
+01|2248|2248
+02|2255|000D|Excuse me... 
+05|227A|0581:2A56
+06|2289|0581:1C19
+06|229B|057C:0BCF
+05|22AD|0581:2A56
+04|22B8|0098
+02|22BC|006F|I do not wish to speak to you, my lord. I have many things that I must do and these things do not include you. 
+06|2343|057C:1090
+03|2350|4305
+04|2357|00B6
+02|235B|0066|Now look, you, if you wish to come into -my- place, yau had better be more polite. Do you understand? 
+02|23D6|0010|Yes, I'm sorry. 
+02|23EA|0018|Shove off, you windbag! 
+03|240D|002B
+02|2411|0015|Fair greetin', mate. 
+04|243F|003A
+02|2442|0010|Yes, I'm sorry. 
+02|2456|0018|Shove off, you windbag! 
+03|2479|0071
+04|2480|004D
+02|2483|0015|How are you, Korick? 
+02|24A3|001B|I'd like to buy something. 
+03|24CD|001D
+02|24D0|0012|Greetings to you. 
+04|24F1|001F
+02|24F6|0011|Make me a focus. 
+02|2515|0009|Farewell 
+04|2524|4121
+02|2529|000A|Farewell. 
+02|2542|000A|Farewell. 
+02|2573|0012|Greetings to you. 
+04|258A|00DC
+02|258E|0063|Well, a new face in town. I am Korick, the smith here in Tenebrae. Have you come to buy something? 
+02|2608|000C|A new face? 
+02|2618|001B|I'd like to buy something. 
+02|2647|0012|Greetings to you. 
+03|2666|3FDC
+02|266B|001B|I'd like to buy something. 
+04|268B|014E
+04|2695|00D7
+02|2699|0094|I will be glad to sell you anything in my shop, but only when I am in it. Please stop by when I am there and I will be more than happy to help you. 
+02|2744|001B|I'd like to buy something. 
+03|276C|006A
+02|2770|0035|Outstanding! Would you like to buy armor or weapons? 
+02|27BA|0007|Armor. 
+02|27C5|0009|Weapons. 
+03|27D9|3E69
+02|27DE|0007|Armor. 
+06|27F0|0409:0420
+03|27FD|3E45
+02|2802|0009|Weapons. 
+06|2816|0409:09BF
+03|2823|3E1F
+02|2828|0010|Yes, I'm sorry. 
+04|283D|00F5
+02|2841|009C|Well, all is forgiven. I did not wish to be so gruff, but I will not tolerate rude behavior, even if it is unintended. So, what did you want to talk about? 
+02|28F2|001B|I'd like to buy something. 
+02|2911|0010|Where I'm from. 
+03|2932|3D10
+02|2937|0010|Where I'm from. 
+04|294C|011B
+02|2950|00A9|Oh aye, that is what we were talking about. Look, if you do not wish for me to know your whereabouts, just tell me so. You do not have to tell me some outlandish story. 
+02|2A10|0014|I'd rather not say. 
+02|2A28|0014|Somewhere far away. 
+02|2A4A|0010|Where I'm from. 
+03|2A67|3BDB
+02|2A6C|0014|I'd rather not say. 
+04|2A85|0104
+02|2A89|00A1|That is fine. Perhaps you will trust me after we have come to know each other better. It is perhaps a fault of mine that I am quite trusting of too many people. 
+02|2B41|0019|Why is trusting a fault? 
+02|2B68|0014|I'd rather not say. 
+03|2B89|3AB9
+02|2B8E|0019|Why is trusting a fault? 
+04|2BAC|00E2
+02|2BB0|00A1|Come now, we do not live in a perfect world. For all that I know you may be a dangerous person. But, I go on my instincts. And by nature I am a trusting fellow. 
+02|2C68|0019|Why is trusting a fault? 
+03|2C8E|39B4
+02|2C93|000C|A new face? 
+04|2CA4|00C1
+02|2CA8|003B|You are certainly not from Tenebrae. Are from the country? 
+02|2CFA|0017|None of your business. 
+02|2D15|0013|Not from Tenebrae. 
+02|2D2C|0012|Umm, the country. 
+02|2D4C|000C|A new face? 
+03|2D65|38DD
+02|2D6A|0013|Not from Tenebrae. 
+04|2D82|010A
+02|2D86|0071|I may not be wealthy and important but I do believe that I know everyone in town and everything about this town. 
+02|2E0C|0014|You're not wealthy? 
+02|2E24|0013|You know everyone? 
+02|2E3B|0024|You know everything about Tenebrae? 
+02|2E6C|0013|Not from Tenebrae. 
+03|2E8C|37B6
+02|2E91|0024|You know everything about Tenebrae? 
+04|2EBA|019D
+02|2EBE|0125|Oh yes. Over in on the East side, that's where all of the rich folk live. The library is also there. Of course Lady Mordea's palace occupies the central part of the city.  And here on the West side is where we common folk live. It has never been nice here but lately things have gotten worse. 
+02|2FFA|001E|How have things gotten worse? 
+02|3026|0024|You know everything about Tenebrae? 
+03|3057|35EB
+02|305C|001E|How have things gotten worse? 
+04|307F|0156
+02|3083|0110|Things have just deteriorated. There was a fire in the Northern part of the West side. The folks that lived there lost everything. Now they just wander the streets asking for handouts. The old man that lived there died in the fire. Folks say that he haunts the place now. 
+02|31AA|001E|How have things gotten worse? 
+03|31D5|346D
+02|31DA|0015|How are you, Korick? 
+04|31F4|010A
+02|31F8|008C|I am well and fine, my friend. I have actually accomplished quite a bit today. I must say that I feel truly blessed to have talented hands. 
+02|329B|0014|What have you done? 
+02|32B3|001B|You've got talented hands? 
+02|32DC|0015|How are you, Korick? 
+03|32FE|3344
+02|3303|0014|What have you done? 
+04|331C|0183
+02|3320|0104|Oh nothing special. I have just had a productive day so far. I truly hate it when I have not had a productive day. If I do not accomplish something by the time I am ready to sleep, I feel that I have wasted a part of my life. We all must contribute, you know. 
+02|343B|001D|I see that you like to work. 
+02|345C|0014|We must contribute? 
+02|347E|0014|What have you done? 
+03|349F|31A3
+02|34A4|001B|You've got talented hands? 
+04|34C4|012B
+02|34C8|00A5|I know that it sounds immodest to say such things but it -is- the truth. Besides, it was not I that created my talent. The creators made me as I am, skills and all. 
+02|3584|0019|Creators? What creators? 
+02|35A1|0018|Your talent with metal? 
+02|35C7|001B|You've got talented hands? 
+03|35EF|3053
+02|35F4|0019|Creators? What creators? 
+04|3612|01AB
+04|3619|00CD
+02|361D|008F|Please, not so loud. Although I feel that I can freely discuss my beliefs now that Mordea is gone, I certainly do not want a Titan to hear me. 
+02|36C3|0017|What are your beliefs? 
+03|36E6|00AC
+02|36EA|0096|Creators? I did not mention creators! You must have been mistaken my friend. I-I would never speak of such nonsense. Why, The Lady forbids such talk. 
+02|3797|0019|Creators? What creators? 
+03|37BD|2E85
+02|37C2|0017|What are your beliefs? 
+04|37DE|010C
+02|37E2|00A0|I believe in the Ancient Ones, the Gods of Emotion. The Ancient Ones have been here far longer than these Titans who currently exist. And they will come again. 
+02|3899|0020|You believe in gods of emotion? 
+02|38C7|0016|What are you beliefs? 
+03|38EA|2D58
+02|38EF|0020|You believe in gods of emotion? 
+04|3914|0102
+02|3918|00BA|Yes, everyone tells me that I am crazy, but they will see. But please I do not wish to discuss this any further. As I said, I would not wish for a Titan to hear me speak of such things. 
+02|39E9|0020|You believe in gods of emotion? 
+03|3A16|2C2C
+02|3A1B|0018|Your talent with metal? 
+04|3A38|0078
+02|3A3C|0038|Yes, I have always had a great talent in shaping metal. 
+02|3A8B|0018|Your talent with metal? 
+03|3AB0|2B92
+02|3AB5|001D|I see that you like to work. 
+04|3AD7|00D0
+02|3ADB|008B|Oh yes, my father taught me that you must work hard in order to be respected. No one respects a lazy person who does not carry their load. 
+02|3B7D|001D|I see that you like to work. 
+03|3BA7|2A9B
+02|3BAC|0014|We must contribute? 
+04|3BC5|011D
+02|3BC9|00E1|Yes, we must all do our part in society. If we do not all pull our load, then others must take up the slack. When that happens, then unhappiness breeds and society will break down. Hard work keeps all of this from happening. 
+02|3CC1|0014|We must contribute? 
+03|3CE2|2960
+02|3CE7|0014|You're not wealthy? 
+04|3D00|00BC
+02|3D04|0059|That is very true. One will never get rich as a blacksmith but I've never wanted riches. 
+02|3D74|0014|You're not wealthy? 
+02|3D97|0019|You never wanted riches? 
+03|3DBC|2886
+02|3DC1|0019|You never wanted riches? 
+04|3DDF|010F
+02|3DE3|0096|I am simple man. I have enough to make my way in the world. My greatest satisfaction is a job well done and that is something that money can not buy. 
+02|3E90|0015|You have enough, eh? 
+02|3EA9|0011|A job well done. 
+02|3EC8|0019|You never wanted riches? 
+03|3EEE|2754
+02|3EF3|0015|You have enough, eh? 
+04|3F0D|00F6
+02|3F11|00B9|Absolutely! After a good day's work, I have a good meal, a tall tankard of ale and some good conversation. After that, I have a comfortable bed awaiting me. What more could a man want? 
+02|3FE1|0015|You have enough, eh? 
+03|4003|263F
+02|4008|0011|A job well done. 
+04|401E|0133
+02|4022|00B5|For a true craftsman, his greatest joy is perfecting his craft. Men who take pride in what they make are becoming a dying breed. If you ask me, the world is changing for the worst. 
+02|40EE|0018|You perfect your craft? 
+02|410A|001B|How is the world changing? 
+02|4133|0011|A job well done. 
+03|4151|24F1
+02|4156|0018|You perfect your craft? 
+04|4173|00D5
+02|4177|0095|Well, one can never truly -perfect- one's craft. The best that a craftsman can hope to do is be a little better each time that he creates something. 
+02|4223|0018|You perfect your craft? 
+03|4248|23FA
+02|424D|001B|How is the world changing? 
+04|426D|0102
+02|4271|007E|It is true. People used to be very friendly to one another. Can you believe that not long ago I saw a cutpurse attack a lady? 
+02|4306|0013|What's a cutpurse? 
+02|431D|001C|People used to be friendly. 
+02|4347|001B|How is the world changing? 
+03|436F|22D3
+02|4374|0013|What's a cutpurse? 
+04|438C|013E
+02|4390|00C0|Oh, sorry. You really aren't from here, are you. A cutpurse is someone who steals from people. Anyway, this dishonorable wretch actually attacked a lady! It was a good thing that I was there. 
+02|4467|0014|He attacked a lady? 
+02|447F|001D|A good thing you were there? 
+02|44AA|0013|What's a cutpurse? 
+03|44CA|2178
+02|44CF|0014|He attacked a lady? 
+04|44E8|006B
+02|44EC|002F|Yes! A defenseless lady! Can you believe that? 
+02|4532|0014|He attacked a lady? 
+03|4553|20EF
+02|4558|001D|A good thing you were there? 
+04|457A|00D6
+02|457E|0071|Had I not been there, the thief would have gotten away with his crime. Fortunatly, I was there and thrashed him. 
+02|4606|0012|You thrashed him? 
+02|4626|001D|A good thing you were there? 
+03|4650|1FF2
+02|4655|0012|You thrashed him? 
+04|466C|0159
+02|4670|00DB|I most certainly did. Beren, the town Sorcerer was nowhere to be found, so I took care of the man myself. I do believe that the wretch is still in jail too. Her Ladyship does not look well upon violence against ladies. 
+02|4762|000E|In jail, huh? 
+02|4774|0024|Her Ladyship... do you mean Mordea? 
+02|47A6|0012|You thrashed him? 
+03|47C5|1E7D
+02|47CA|000E|In jail, huh? 
+04|47DD|008E
+02|47E1|0058|Yes sir. I don't mean to brag but I am rather proud of myself for capturing such a man. 
+02|4850|000E|In jail, huh? 
+03|486B|1DD7
+02|4870|0024|Her Ladyship... do you mean Mordea? 
+04|4899|00C8
+02|489D|007C|Yes. It is odd being ruled by a lady but Mordea is not like most women. She is very strong, like a man, and does rule well. 
+02|4930|0024|Her Ladyship... do you mean Mordea? 
+03|4961|1CE1
+02|4966|0012|Umm, the country. 
+04|497D|00D6
+02|4981|0073|The countryside can be so beautiful, particularly the valley. I would like to live there, but I must live in town. 
+02|4A0B|001B|Why must you live in town? 
+02|4A34|0012|Umm, the country. 
+03|4A53|1BEF
+02|4A58|001B|Why must you live in town? 
+04|4A78|0105
+02|4A7C|00AA|Well, I could never ply my trade in the country now, could I? There's not enough people in the country in need of a smith to keep me in business. So, where are you from? 
+02|4B3B|000B|The Valley 
+02|4B4A|0010|Martin's Meadow 
+02|4B5E|0014|Somewhere far away. 
+03|4B7D|1AC5
+02|4B82|000B|The Valley 
+04|4B92|0086
+02|4B96|003D|Strange, I've been there many times and I've never seen you. 
+02|4BE8|000B|Many times 
+02|4BF7|0016|You've never seen me? 
+03|4C18|1A2A
+02|4C1D|0014|Somewhere far away. 
+04|4C36|00AF
+02|4C3A|0059|Well, if you don't wish to tell me, I understand. Every man has got to have his secrets. 
+02|4CA8|0013|Not from Tenebrae. 
+02|4CBF|001B|I'd like to buy something. 
+03|4CE5|195D
+02|4CEA|000B|Many times 
+04|4CFA|014F
+02|4CFE|0103|Yes, I have been there many, many times and the only people who have lived there for a very long time have been a herdsman and his wife. Frankly, I don't think that you're tellin' me the truth and I don't like that. I think that you'd better just leave here. 
+02|4E18|000B|Many times 
+06|4E39|057C:1090
+03|4E46|180F
+03|4E49|17F9
+02|4E4E|0016|You've never seen me? 
+04|4E69|00DF
+02|4E6D|0088|No, never. I don't think that you're tellin' me the truth and I don't take to be lied to. I think that you'd just better leave my shop. 
+02|4F0C|0016|You've never seen me? 
+06|4F38|057C:1090
+03|4F45|1710
+03|4F48|16FA
+02|4F4D|0010|Martin's Meadow 
+04|4F62|00F6
+02|4F66|00A5|Martin's meadow? I've never heard of such a place. I think that you are lying to me and I don't have time to put up with that. I think that you ad better get goin'. 
+02|5022|0010|Martin's Meadow 
+06|5048|057C:1090
+03|5055|1600
+03|5058|15EA
+02|505D|0017|None of your business. 
+04|5079|00C4
+02|507D|0061|Look, I do not have to put up with rude people in my shop. I am slow to anger but don't test me! 
+02|50F5|0016|You're slow to anger? 
+02|5119|0017|None of your business. 
+03|513D|1505
+02|5142|0016|You're slow to anger? 
+04|515D|00D7
+02|5161|0074|I try to be understanding of others. Of course, when I lose my patience, I have ample means to vent my frustration. 
+02|51EC|0019|Understanding of others? 
+02|5213|0014|Your slow to anger? 
+03|5234|140E
+02|5239|0019|Understanding of others? 
+04|5257|00AA
+02|525B|0069|I do try to be understanding of others but I will not tolerate someone who is rude to me in my own shop. 
+02|52DB|0019|Understanding of others? 
+03|5301|1341
+02|5306|000A|Farewell. 
+04|5315|0059
+02|5319|0014|Adeus, meu amigo. 
+02|5344|000A|Farewell. 
+06|535E|057C:1090
+03|536B|12EA
+03|536E|12D4
+02|5373|0013|You know everyone? 
+04|538B|0104
+02|538F|00C9|Indeed I do. Everyone needs a smith now and then, you know. Those who are too high born to come into my shop personally are well known by everyone in town. Everyone else comes in here sooner or later. 
+02|546F|0013|You know everyone? 
+03|548F|11B3
+02|5494|001A|I have need of your shop. 
+04|54B3|0097
+02|54B7|0036|Do you? What sort of a commission do you have for me? 
+02|5504|0011|Umm, commission? 
+02|5523|001A|I have need of your shop. 
+03|554A|10F8
+02|554F|0011|Umm, commission? 
+04|5565|00F8
+02|5569|006A|Come now, friend, I don't work for free. If you want me to make something for you, You'll have to pay me. 
+02|55EA|002B|No, I want to make something in your shop. 
+02|5619|0018|Sorry, forget about it. 
+02|563F|0011|Umm, commission? 
+03|565D|0FE5
+02|5662|0018|Sorry, forget about it. 
+04|567F|00E0
+02|5683|008D|Very well, my strange friend, whatever you wish. If you change your mind please do come back. Now, if you will pardon me, I have work to do. 
+02|5727|0018|Sorry, forget about it. 
+06|574F|057C:1090
+03|575C|0EF9
+03|575F|0EE3
+02|5764|002B|No, I want to make something in your shop. 
+04|5794|01D3
+02|5798|0125|My friend, what I do here may look like menial labor to some but what I do do is a craft. Shaping metals is more than simply banging away on an anvil. What I do takes a great deal of skill and practice. You can not simply walk in here and and make something. You must have skill and practice. 
+02|58D4|0024|I -do- have experience in smithing. 
+02|58FC|0025|Look, this is very damned important! 
+02|592F|002B|No, I want to make something in your shop. 
+03|5967|0CDB
+02|596C|0025|Look, this is very damned important! 
+04|5996|0126
+02|59B9|006E|No, you look! This is my shop and I will not be spoken to in such a manner by -anyone-! Do you understand me? 
+02|5A3C|0030|I'm sorry, Korick. I didn't mean to be so rude. 
+02|5A70|0022|Out of my way, peasant. I'm busy! 
+03|5ABC|0B86
+02|5AC1|0022|Out of my way, peasant. I'm busy! 
+04|5AE8|00A6
+02|5AEC|001E|Not in -my- shop, you're not! 
+02|5B40|0022|Out of my way, peasant. I'm busy! 
+03|5B8E|0AB4
+02|5B93|0030|I'm sorry, Korick. I didn't mean to be so rude. 
+04|5BC8|0122
+02|5BCC|007B|Your apology	is accepted, my friend. There seems to be a great deal of pressure upon you. Would you like to talk about it? 
+02|5C5E|002F|Thanks, but I really need to make these items. 
+02|5C91|000E|Yes, I would. 
+02|5CAD|0030|I'm sorry, Korick. I didn't mean to be so rude. 
+03|5CEA|0958
+02|5CEF|000E|Yes, I would. 
+04|5D02|00A3
+02|5D06|001C|Good! Tell me what's wrong. 
+02|5D39|0043|I'm trying to save my world from being destroyed by an evil being. 
+02|5D8A|000E|Yes, I would. 
+03|5DA5|089D
+02|5DAA|0043|I'm trying to save my world from being destroyed by an evil being. 
+04|5DF2|0156
+02|5DF6|00EB|I see. Look, whatever is bothering you is causing you more trouble than I can help you with. I suggest that you seek the Theurgists. I believe that they may be able to help you with your problems. Now if you will excuse me, I am busy. 
+02|5EF8|0043|I'm trying to save my world from being destroyed by an evil being. 
+03|5F48|06FA
+02|5F4D|002F|Thanks, but I really need to make these items. 
+04|5F81|00E9
+02|5F85|005C|Well, I am not accustomed to letting people use my shop. Have you ever forged metal before? 
+02|5FF8|0028|Yes, I once forged a very mighty sword. 
+02|602E|002F|Thanks, but I really need to make these items. 
+03|606A|05D8
+02|606F|0028|Yes, I once forged a very mighty sword. 
+04|609C|00FC
+02|60A0|00AC|Even so, you could not be as practiced as I am. This is my living, you know. How about this, what do you say that we make these things together? Would you like to do that? 
+02|6161|0019|Yes, that would be fine. 
+02|617E|000F|No, thank you. 
+03|6198|04AA
+02|619D|000F|No, thank you. 
+04|61B1|00C7
+02|61B5|007D|I see. It would seem that no compromise, no matter how generous will suit you. You may not use my shop. I am busy. Farewell. 
+02|6249|000F|No, thank you. 
+06|6268|057C:1090
+03|6275|03E0
+03|6278|03CA
+02|627D|001C|People used to be friendly. 
+04|629E|00EF
+02|62A2|0091|Oh, aye. Time was when a person had no fears from no one. Now days, folks got to be careful. I suppose that's all them executions've been about. 
+02|634A|000C|Executions? 
+02|6364|001C|People used to be friendly. 
+03|638D|02B5
+02|6392|0018|Shove off, you windbag! 
+04|63AF|00CE
+02|63B3|0056|Right, that is it! I will not suffer your presence for another moment! Away with you! 
+02|643F|0018|Shove off, you windbag! 
+06|646D|057C:1090
+03|647A|01DB
+03|647D|01C5
+02|6482|000C|Executions? 
+04|6493|00E2
+02|6497|00AE|There's been quite a few of 'em of late. I suppose that The Lady has gotten plenty tired of scoundrels making life hard for the rest of us and is tryin' to put a stop to it. 
+02|655C|000C|Executions? 
+03|6575|00CD
+02|657A|0011|Make me a focus. 
+04|6590|00B2
+04|659A|0095
+02|659E|005C|I would be glad to. Come by my shop between bloodwatch and daytide and I will make you one. 
+02|6611|0011|Make me a focus. 
+06|6635|0409:6662
+03|6645|BECB
+06|664B|057C:1090
+01|6662|6662
+02|666D|0045|Do you have a chunk of silver ore? I require one to forge the focus. 
+06|66CD|0581:1AD0
+04|66E3|00B0
+02|6706|0059|What! How do you expect me to forge you a silver focus if you don't bring me silver ore! 
+03|6793|0471
+05|67A1|0581:20B8
+04|67A9|03DB
+02|67AD|0026|Good, you have a piece of silver ore. 
+02|67E9|001C|Which focus do you require? 
+02|681A|0008|sextant 
+02|6826|000E|pointing hand 
+02|6838|000A|open hand 
+02|6846|0007|bracer 
+02|6851|0006|chain 
+02|685B|0005|fist 
+02|6864|0009|open eye 
+02|6871|000B|closed eye 
+02|6880|0005|none 
+02|6892|0005|none 
+04|689D|01C4
+02|68BB|0005|none 
+04|68C5|0063
+02|68C9|0035|If you don't want a focus, don't ask me to make one! 
+05|691E|0581:1EE2
+03|6925|02DF
+03|6928|0136
+02|692D|0008|sextant 
+04|693A|0014
+02|6941|0005|none 
+03|694E|0110
+02|6953|000E|pointing hand 
+04|6966|0014
+02|696D|0005|none 
+03|697A|00E4
+02|697F|000A|open hand 
+04|698E|0014
+02|6995|0005|none 
+03|69A2|00BC
+02|69A7|0007|bracer 
+04|69B3|0014
+02|69BA|0005|none 
+03|69C7|0097
+02|69CC|0006|chain 
+04|69D7|0014
+02|69DE|0005|none 
+03|69EB|0073
+02|69F0|0005|fist 
+04|69FA|0014
+02|6A01|0005|none 
+03|6A0E|0050
+02|6A13|0009|open eye 
+04|6A21|0014
+02|6A28|0005|none 
+03|6A35|0029
+02|6A3A|000B|closed eye 
+04|6A4A|0014
+02|6A51|0005|none 
+03|6A61|FE2C
+04|6A66|00BB
+06|6A72|057C:091C
+06|6A88|057C:15E7
+06|6AA9|057C:091C
+02|6AB9|003E|There, your focus is finished. Mighty fine craftsmanship, no? 
+05|6B1A|0581:1EE2
+03|6B21|0060
+02|6B25|0035|If you don't want a focus, don't ask me to make one! 
+05|6B7A|0581:1EE2
+03|6B81|0083
+03|6B84|0080
+02|6B88|0067|What! You don't have the ore! I can't make you a focus unless you supply me with the proper materials! 

@@ -1,0 +1,605 @@
+01|0080|0080
+06|0096|0574:084D
+01|00A7|00A7
+03|00B8|0219
+03|00D5|01FC
+05|00DF|0581:2A56
+06|00F8|057C:091C
+04|0112|006B
+04|011A|005F
+02|0126|002C|You are unworthy to remain here. Die, fool! 
+03|0179|0158
+03|017D|FF92
+04|0187|0036
+02|0196|0012|Don't touch that. 
+03|01BD|0104
+04|01C7|0055
+02|01D6|0031|While you are here, you will leave my things be. 
+03|021C|00A5
+04|0226|0053
+02|0235|002F|I warn you. I will kill you for this behavior. 
+03|0279|0048
+02|0285|0015|You will die... now! 
+06|02C7|041C:04CE
+01|02D6|02D6
+04|02EA|006D
+04|02F6|0033
+02|02FA|001A|Vardion the dead Sorcerer 
+03|0329|002B
+02|032D|0015|Vardion the Sorcerer 
+03|0357|0107
+04|035E|005A
+04|036A|002E
+02|036E|0015|the deceased Vardion 
+03|0398|001D
+02|039C|0007|Vardion
+03|03B8|00A6
+04|03BF|0055
+04|03CB|0027
+02|03CF|000E|dead Sorcerer 
+03|03F2|001F
+02|03F6|0009|Sorcerer 
+03|0414|004A
+04|0420|0023
+02|0424|000A|dead mage 
+03|0443|001B
+02|0447|0005|mage 
+01|0463|0463
+06|049E|057C:143A
+06|04BA|057C:133F
+01|04CE|04CE
+06|05FD|057B:0080
+01|0608|0608
+05|061A|0581:2A56
+01|0623|0623
+06|0665|057C:0BCF
+06|0684|056F:0080
+06|069B|056F:25A0
+06|06BC|041C:54C4
+06|06D6|058A:4355
+06|06F0|058A:19C9
+06|070A|056F:2B0E
+06|071D|041C:073C
+06|072D|057C:1090
+01|073C|073C
+04|0785|0090
+02|0788|0017|Tell me of this place. 
+04|07AF|001C
+02|07B2|000D|Who are you? 
+04|07D3|001F
+02|07D6|0010|What do you do? 
+02|07F5|000A|Farewell. 
+05|0805|0581:3695
+03|0815|005C
+02|0818|0014|Yes, I am prepared. 
+02|0830|0019|Let me think on it more. 
+02|084D|001C|I won't do your dirty work! 
+02|0876|000A|Farewell. 
+04|0886|4C31
+05|088B|0581:29B4
+04|0898|00B8
+02|089C|0012|Are you finished? 
+02|08C3|0017|Tell me of this place. 
+04|08EA|001C
+02|08ED|000D|Who are you? 
+04|090E|001F
+02|0911|0010|What do you do? 
+02|0930|000A|Farewell. 
+05|0940|0581:3695
+03|0950|0020
+02|0953|000A|Farewell. 
+05|0963|0581:3695
+02|098E|0017|Tell me of this place. 
+04|09AA|0495
+04|09B2|02AA
+02|09BC|003E|How can it be that you do not know of the Sorcerer's Enclave? 
+02|0A0F|0016|I am a stranger here. 
+02|0A29|001D|I know. I'm just asking you. 
+02|0A4A|0019|Just answer my question. 
+02|0A89|0019|Just answer my question. 
+04|0AA7|0034
+02|0AAB|0015|What?! How dare you! 
+03|0ADB|017E
+02|0AE0|001D|I know. I'm just asking you. 
+04|0B02|005C
+02|0B06|003D|Fine then, you've no need to ask me your tiresome questions. 
+03|0B5E|00FB
+02|0B63|0016|I am a stranger here. 
+04|0B7E|00B9
+02|0B82|007D|You are a stranger indeed, but regardless, I will tell you because you need to be aware of the danger you are in while here. 
+02|0C18|0017|Tell me of this place. 
+03|0C37|0022
+06|0C3D|056F:2347
+02|0C4A|000A|Farewell. 
+04|0C65|01D7
+02|0C68|0020|This is the Sorcerer's Enclave. 
+02|0C90|000A|Farewell. 
+04|0CA9|00B2
+02|0CAE|0072|As First Acolyte, it is my duty to make sure that the Sorcerers learn about the Fire and keep the old ways alive. 
+04|0D2C|002C
+02|0D2F|001D|First Acolyte. What is that? 
+03|0D5B|0059
+02|0D60|004E|We Sorcerers gather here to learn about the Fire and keep the old ways alive. 
+04|0DCB|0028
+02|0DCE|0019|Tell me about Sorcerers. 
+04|0DF9|0024
+02|0DFC|0015|Tell me of the Fire. 
+04|0E23|0019
+02|0E26|000A|Old ways? 
+03|0E3F|465C
+02|0E44|000D|Who are you? 
+02|0E58|0010|What do you do? 
+04|0E6E|013E
+02|0E72|0060|I am Vardion, First Acolyte of Sorcerer's Enclave. Keep this in mind, and we'll have no strife. 
+02|0EE7|0014|What is an Acolyte? 
+02|0EFF|000A|Farewell. 
+04|0F17|002C
+02|0F1A|001D|First Acolyte. What is that? 
+04|0F49|0028
+02|0F4C|0019|Tell me about Sorcerers. 
+04|0F77|0026
+02|0F7A|0017|Tell me of this place. 
+03|0FAC|44EF
+02|0FB1|0019|Tell me about Sorcerers. 
+04|0FCF|0107
+02|0FD3|0053|Sorcerers are practitioners of the element of Fire. We are not to be trifled with. 
+02|103B|000A|Farewell. 
+04|1053|0023
+02|1056|0014|What is an element? 
+04|107C|0024
+02|107F|0015|Tell me of the Fire. 
+02|10A3|0020|Must you treat me like a child? 
+03|10D6|43C5
+02|10DB|0015|Tell me of the Fire. 
+04|10F5|00EA
+02|10F9|0080|Fire is all consuming. It lives within the mountain, and burns within your own body. It is the element I give my life to study. 
+02|1190|0015|Tell me of the Fire. 
+04|11B5|0023
+02|11B8|0014|What is an element? 
+03|11DF|42BC
+02|11E4|000A|Old ways? 
+04|11F3|00E2
+02|11F7|0060|The old ways are the rituals and ceremonies that we use to bind the Lord of Flame to our wills. 
+02|126C|001D|What rituals and ceremonies? 
+02|128D|000A|Farewell. 
+04|12A5|0029
+02|12A8|001A|Who is the Lord of Flame? 
+03|12D5|41C6
+02|12DA|0014|What is an Acolyte? 
+04|12F3|016C
+02|12F7|0055|Acolytes are chosen from amongst the Disciples to assist the Master in the old ways. 
+02|1361|0014|What is a Disciple? 
+02|1379|000A|Farewell. 
+04|1391|002A
+02|1394|001B|Who or what is the Master? 
+04|13C1|009B
+02|13C5|0059|One is chosen from their number to become the First Acolyte. I have that honor and duty. 
+02|1433|001D|First Acolyte. What is that? 
+03|145F|403C
+02|1464|001D|First Acolyte. What is that? 
+04|1486|0196
+02|148A|00BB|It is a position of respect amonst my kind. I handle the affairs of the Enclave, and our dealings with Tenebrae. This gives the Master more time to commit to his research and spellcraft. 
+02|155A|0021|You have dealings with Tenebrae? 
+02|157F|000A|Farewell. 
+04|1597|002A
+02|159A|001B|Who or what is the Master? 
+02|15C4|001F|What does the Master research? 
+02|15E7|0022|Spellcraft? Tell me more of this. 
+03|161C|3E7F
+02|1621|0014|What is an element? 
+04|163A|0E58
+04|1644|0D3D
+02|1648|0066|What do you mean 'What is an element?' Where do you come from that you could possibly be so ignorant? 
+02|16C3|0018|You don't want to know. 
+02|16DF|000A|Far away. 
+02|16ED|001E|The other side of the island. 
+02|170F|001E|I sailed from another island. 
+02|1731|001B|I come from another world. 
+02|175D|0000|
+04|1763|0BC9
+02|1781|0018|You don't want to know. 
+04|179E|0076
+02|17A2|0014|Yes, actually I do. 
+02|17CD|0018|You don't want to know. 
+02|17F2|0013|I cannot tell you. 
+03|1814|067C
+02|1819|0013|I cannot tell you. 
+04|1831|00C4
+02|1835|0061|I will respect your privacy, however, I might also ask you to respect mine when you question me. 
+02|18AD|0013|I cannot tell you. 
+02|18CD|0019|I still cannot tell you. 
+03|18F5|059B
+02|18FA|0019|I still cannot tell you. 
+04|1918|004C
+02|191C|0025|Fine then, but I will remember this. 
+02|195C|0000|
+03|1964|052C
+02|1969|000A|Far away. 
+04|1978|004D
+02|197C|001B|That I can believe. Go on. 
+02|19AE|000A|Far away. 
+03|19C5|04CB
+02|19CA|001E|The other side of the island. 
+04|19ED|010E
+02|19F1|0038|The other side of the island is inhospitable, stranger. 
+04|1A41|0031
+02|1A45|0018|Do not lie to me again. 
+03|1A72|0052
+02|1A76|003C|How am I to trust you if you keep attempting to deceive me. 
+02|1AD0|001E|The other side of the island. 
+03|1AFB|0395
+02|1B00|001E|I sailed from another island. 
+04|1B23|011E
+02|1B27|0048|That is quite unlikely. No one has sailed here for several generations. 
+04|1B87|0031
+02|1B8B|0018|Do not lie to me again. 
+03|1BB8|0052
+02|1BBC|003C|How am I to trust you if you keep attempting to deceive me. 
+02|1C16|001E|I sailed from another island. 
+03|1C41|024F
+02|1C46|001B|I come from another world. 
+04|1C66|022A
+04|1C6C|0019
+02|1C6F|0011|By the Guardian! 
+04|1C8D|005A
+02|1C90|004F|Although you are not completely honest, I do believe you. It would appear that 
+03|1CE7|0076
+04|1CEF|006E
+02|1CF2|0063|I really don't know whether or not to believe you. But if what you say is true, it would seem that 
+02|1D62|001D|I've found a world traveler. 
+02|1D9A|0073|My grandmother always said that there were other worlds out there. It's a shame she couldn't be here to see proof. 
+02|1E22|000D|Did she die? 
+02|1E33|0016|What happened to her? 
+02|1E4D|0012|Where is she now? 
+02|1E63|001A|Who was your grandmother? 
+02|1E88|0000|
+02|1E95|000D|Did she die? 
+04|1EA7|002D
+02|1EAC|0004|No. 
+02|1EB9|0016|What happened to her? 
+02|1ED9|0016|What happened to her? 
+04|1EF4|0041
+02|1EF9|001C| She just vanished one day. 
+02|1F1E|0012|Where is she now? 
+02|1F3A|0012|Where is she now? 
+04|1F51|0049
+02|1F56|001C| No one knows where she is. 
+02|1F7B|001A|Who was your grandmother? 
+02|1F9F|001A|Who was your grandmother? 
+04|1FBE|010B
+02|1FC1|0076|Her name was Mordra. She was a powerful mage, maybe she found the way to leave this world, perhaps she went to yours, 
+02|2041|0001| 
+04|2052|001B
+02|2057|0001| 
+02|2062|0001|.
+03|206D|0021
+02|2070|000A|traveler. 
+02|2084|0001| 
+02|20A2|0012|I don't think so. 
+02|20B8|0009|Perhaps. 
+02|20CE|0012|I don't think so. 
+02|20E7|0009|Perhaps. 
+04|20F6|006F
+02|20FA|0026|What is your world called, my friend? 
+02|2135|0007|Earth. 
+02|2140|000B|Britannia. 
+02|214F|000E|I cannot say. 
+02|216A|0007|Earth. 
+04|2176|009B
+02|217A|0077|How curious. Your world is named after one of the elements. This Earth must be a dark place indeed, filled with death. 
+02|220C|0000|
+02|2216|000B|Britannia. 
+04|2226|0069
+02|222A|0045|What an odd sounding name. But strangely enough, it sounds familiar. 
+02|228A|0000|
+02|2294|000E|I cannot say. 
+04|22A7|0082
+02|22AB|005E|Of course. I understand, it's a trade secret. You wouldn't want just anyone travelling there. 
+02|2324|0000|
+03|232C|F42C
+02|2330|003F|Now I believe you asked me, of all things, what an element is. 
+02|2385|005D|The elements number four: Earth, Water, Air, and Fire. And each has a power intrinsic to it. 
+02|23F7|0017|Tell me more of Earth. 
+02|2412|001B|What can you say of Water? 
+02|2431|001A|I wish to know about Air. 
+02|244F|000A|Farewell. 
+04|2467|0024
+02|246A|0015|Tell me of the Fire. 
+03|2492|3009
+02|2497|0020|Must you treat me like a child? 
+04|24BC|00D3
+02|24C0|008B|While you are in my Enclave, I will treat you however I please. But in truth I seek only to give warning to those uninitiated in our ways. 
+02|2562|0020|Must you treat me like a child? 
+03|258F|2F0C
+02|2594|001D|What rituals and ceremonies? 
+04|25B6|00E6
+02|25BA|0073|These rituals are shown to Sorcerers only. I will not reveal them to an outsider. To do so is punishable by death. 
+02|2644|001D|What rituals and ceremonies? 
+04|2671|0028
+02|2674|0019|Tell me about Sorcerers. 
+03|269C|2DFF
+02|26A1|001A|Who is the Lord of Flame? 
+04|26C0|0117
+02|26C4|0061|The Lord of Flame is the Father of the Daemons. He is the charnel pit from which all Fire comes. 
+04|273D|0048
+02|2740|0013|Father of Daemons? 
+02|2757|0015|Tell me of the Fire. 
+02|2770|000A|Farewell. 
+03|2785|004B
+02|278A|001A|Who is the Lord of Flame? 
+02|27B1|0013|Father of Daemons? 
+03|27D7|2CC4
+02|27DC|0014|What is a Disciple? 
+04|27F5|00A5
+02|27F9|003B|A Disciple is a Sorcerer who has not been made an Acolyte. 
+02|284B|0014|What is a Disciple? 
+04|286F|0028
+02|2872|0019|Tell me about Sorcerers. 
+03|289A|2C01
+02|289F|001B|Who or what is the Master? 
+04|28BF|00E7
+02|28C3|00A0|Master Malchir is the leader of our Enclave, but do not bother him with idle questions. He is a busy man and does not take kindly to interruptions of his work. 
+02|297A|001B|Who or what is the Master? 
+03|29A6|2AF5
+02|29AB|0021|You have dealings with Tenebrae? 
+04|29D1|01EC
+02|29D5|013B|Of course, dullard. Do you think we have the time to grow our own food? Make our own clothing? Craft our own buildings? We give Tenebrae the sure knowledge that the Lord of Flame will remain bound and that the volcano will remain dormant. In return they free us from the necessity of handling our more basic needs. 
+02|2B25|000A|Farewell. 
+04|2B3D|0029
+02|2B40|001A|Who is the Lord of Flame? 
+02|2B69|0020|You extort from the Tenebraens. 
+02|2B8D|0021|Shrewd bargaining on both sides. 
+03|2BBD|28DE
+02|2BC2|001F|What does the Master research? 
+04|2BE6|0207
+02|2BEA|00BD|That is not your business. And don't bother to ask him. He won't tell you and will most likely be angered by your interruption. And if he is angry, I will be angry. Do you take my meaning? 
+06|2CC4|0581:1B49
+04|2CDC|0035
+02|2CE0|001C|Good. I'm glad that you do. 
+03|2D11|00AB
+02|2D15|0095|Well, then. Let me be more explicit. If you anger Malchir, it is my duty to see that the source of his irritation is removed. Forcibly if necessary. 
+02|2DC1|001F|What does the Master research? 
+03|2DED|26AE
+02|2DF2|0022|Spellcraft? Tell me more of this. 
+04|2E19|00B9
+02|2E1D|0045|Spells are our means of releasing and controlling the power of Fire. 
+02|2E79|0022|Spellcraft? Tell me more of this. 
+04|2EAB|0024
+02|2EAE|0015|Tell me of the Fire. 
+03|2ED2|25C9
+02|2ED7|0017|Tell me more of Earth. 
+04|2EF3|0171
+02|2EF7|00B7|Earth is useful to Fire. It forms the channels through which Fire flows and provides the fuel by which it burns. The Mountain King and Lord of Flame have almost no conflict of wills. 
+02|2FC3|000A|Farewell. 
+04|2FDB|0024
+02|2FDE|0015|Tell me of the Fire. 
+04|3005|002D
+02|3008|001E|Tell me of the Mountain King? 
+04|3038|0029
+02|303B|001A|Who is the Lord of Flame? 
+03|3064|2437
+02|3069|001B|What can you say of Water? 
+04|3089|0107
+02|308D|0054|That element is anathema to Fire as the Lurker is the nemesis of the Lord of Flame. 
+02|30F6|000A|Farewell. 
+04|310E|0024
+02|3111|0015|Tell me of the Fire. 
+04|3138|0026
+02|313B|0017|Tell me of the Lurker? 
+04|3164|0029
+02|3167|001A|Who is the Lord of Flame? 
+03|3190|230B
+02|3195|001A|I wish to know about Air. 
+04|31B4|0150
+02|31B8|00A5|What is there to know? Air is at the beck and call of both Pyros and despised Hydros, and all but ignored by Lithos. Stratos is as weak as the those who follow her. 
+02|3272|000A|Farewell. 
+04|328A|001D
+02|328D|000E|Who is Pyros? 
+02|32AA|0015|Hydros, who is that? 
+02|32C3|0015|Who would Lithos be? 
+02|32DC|0019|Tell me more of Stratos. 
+03|3304|2197
+02|3309|0013|Father of Daemons? 
+04|3321|00B9
+02|3325|005B|Yes. All Daemons owe allegiance to Pyros for they are born when a life is ended in flames. 
+02|3397|0013|Father of Daemons? 
+04|33BA|001D
+02|33BD|000E|Who is Pyros? 
+03|33DA|20C1
+02|33DF|0020|You extort from the Tenebraens. 
+04|3404|00FD
+02|3408|00DE|With that single statement you have proven your total lack of understanding of our position. Perhaps I should introduce you to our patron Titan personally. I am quite sure that the Lord of Flame could teach you our value. 
+03|3501|1F9A
+02|3506|0021|Shrewd bargaining on both sides. 
+04|352C|03EE
+04|3534|02F7
+02|3538|0088|Your perceptions are both insightful and correct. Perhaps you have what it takes to become a Sorcerer. Does this prospect intrigue you? 
+06|35DD|0581:1B49
+04|35F5|010A
+02|35F9|0069|Excellent! I will personally see to your tutoring... that is after you perform one small service for me. 
+02|3677|0018|And what might that be? 
+02|3693|001A|I see. You need a lackey. 
+02|36B1|0023|Wait. I only said I was intrigued. 
+02|36D8|001C|Whatever you want, I'll do. 
+03|36FF|0129
+04|3707|0097
+02|370B|007E|I see. You are one who is willing to be a kith brought to slaughter. The Fire does not burn in your heart as it does in mine. 
+03|379E|0084
+02|37A2|006E|Your lack of interest is echoed by mine. I don't really think you have what it takes to be one of us, anyway. 
+03|382B|00EC
+02|382F|0073|So you have said before. Have you reconsidered your decision not to assist me? Will you seek the knowledge I wish? 
+02|38B7|0014|Yes, I am prepared. 
+02|38CF|0020|I am sorry, but I must decline. 
+02|38F3|001C|I won't do your dirty work! 
+03|391A|1B81
+02|391F|001E|Tell me of the Mountain King? 
+04|3942|014B
+02|3946|00D0|Of course, how could one be born in Pagan and not know of the Earth Titan. His Necromancers attend to the dead and put them beneath the ground to become his servants. His dominion is over the land and death. 
+02|3A2D|001E|Tell me of the Mountain King? 
+02|3A58|0022|What do you know of Necromancers? 
+03|3A8D|1A0E
+02|3A92|0017|Tell me of the Lurker? 
+04|3AAE|0209
+02|3AB2|0113|That foul entity long ago attempted to claim all the lands beneath her dark waters. She was thwarted by a Necromancer who became the first Tempest. Were it not for the Tempests, we Sorcerers would have no other choice than to release the Lord of Flame to do battle with her. 
+02|3BDA|000A|Farewell. 
+04|3BF2|0031
+02|3BF5|0022|What do you know of Necromancers? 
+02|3C26|0021|What can you say about Tempests? 
+04|3C59|0028
+02|3C5C|0019|Tell me about Sorcerers. 
+04|3C87|0029
+02|3C8A|001A|Who is the Lord of Flame? 
+03|3CB7|17E4
+02|3CBC|000E|Who is Pyros? 
+04|3CCF|00A0
+02|3CD3|0037|Pyros is the name of the Lord of Flame, Titan of Fire. 
+02|3D21|000E|Who is Pyros? 
+04|3D3F|0029
+02|3D42|001A|Who is the Lord of Flame? 
+03|3D6F|172C
+02|3D74|0015|Hydros, who is that? 
+04|3D8E|00A3
+02|3D92|003A|That accursed name belongs to the Lurker, Titan of Water. 
+02|3DE3|0015|Hydros, who is that? 
+04|3E08|0026
+02|3E0B|0017|Tell me of the Lurker? 
+03|3E31|166A
+02|3E36|0015|Who would Lithos be? 
+04|3E50|00AA
+02|3E54|003A|He is called the Mountain King and is the Titan of Earth. 
+02|3EA5|0015|Who would Lithos be? 
+04|3ECA|002D
+02|3ECD|001E|Tell me of the Mountain King? 
+03|3EFA|15A1
+02|3EFF|0019|Tell me more of Stratos. 
+04|3F1D|011F
+02|3F21|008D|She is the Titan of Air and is followed by the Order of Enlightment. A group of misguided mages, called Theurgists, led by a blind, old man. 
+02|3FC3|0016|Order of Enlightment? 
+02|3FDD|0020|What do you know of Theurgists? 
+02|4001|0022|Tell me of this 'blind, old man.' 
+02|4027|000A|Farewell. 
+03|403C|145F
+02|4041|0018|And what might that be? 
+04|405E|0112
+02|4062|0092|I will tell you only once a deal has been struck. Fear not. I won't make you do something you will regret. Are you prepared to undertake my task? 
+02|4109|0014|Yes, I am prepared. 
+02|4121|0019|Let me think on it more. 
+02|413E|001C|I won't do your dirty work! 
+03|4170|132B
+02|4175|001A|I see. You need a lackey. 
+04|4194|00BA
+02|4198|009B|I have no need of a lackey. The task I require to be fulfilled will take skill and guile. And if you think of yourself as a lackey, I have no need of you. 
+03|424E|124D
+02|4253|0023|Wait. I only said I was intrigued. 
+04|427B|0090
+02|427F|0071|Then stop wasting my time! When you wish to deal in earnest, you may return. Until that time, you are dismissed. 
+03|430B|1190
+02|4310|001C|Whatever you want, I'll do. 
+04|4331|015F
+02|4335|00DF|Your enthusiasm is encouraging, however, your blind acceptance does not give me much faith in your ability to accomplish the task I've set for you. Ah, well. Only one way to find out. Are you prepared to undertake my task? 
+02|4429|0014|Yes, I am prepared. 
+02|4441|0019|Let me think on it more. 
+02|445E|001C|I won't do your dirty work! 
+03|4490|100B
+02|4495|0022|What do you know of Necromancers? 
+04|44BC|0080
+02|44C0|0032|They are the practitioners of the magic of death. 
+02|4509|0022|What do you know of Necromancers? 
+03|453C|0F5F
+02|4541|0021|What can you say about Tempests? 
+04|4567|00BD
+02|456B|0074|Naught but that they provide a service to the people by keeping the storms that plague Pagan away from this island. 
+02|45F6|0021|What can you say about Tempests? 
+03|4624|0E77
+02|4629|0016|Order of Enlightment? 
+04|4644|00B2
+02|4648|004A|They style themselves as a religious order, following their Mystic Voice. 
+02|46A9|0016|Order of Enlightment? 
+02|46CC|001B|What is this Mystic Voice? 
+03|46F6|0DA5
+02|46FB|0020|What do you know of Theurgists? 
+04|4720|00F0
+02|4724|00A8|They practice healing arts and it is said that their leader can even bring the dead back to life. All in all, they are a coven of weak fools afraid to die for a cause. 
+02|47E3|0020|What do you know of Theurgists? 
+03|4810|0C8B
+02|4815|0022|Tell me of this 'blind, old man.' 
+04|483C|00FB
+02|4840|00B1|Stellos is his name and some say he's lived forever. I must give credit to this rumor, for he was an old man when I was a boy, and he hasn't changed a bit as I've become a man. 
+02|4908|0022|Tell me of this 'blind, old man.' 
+03|4937|0B64
+02|493C|0014|Yes, I am prepared. 
+04|4955|053D
+02|4959|00B4|Excellent. The pact has been made. You will now be my Disciple. I sense that you are one of the rare individuals who the Fire has chosen. The Fire gives you the Truename: Daemion. 
+02|4A23|00B5|Hold tightly to that name. It is your strength and also your weakness. My Truename is Morduin. I give it to you so that you may learn Sorcery from me. Reveal it upon pain of death. 
+02|4AEE|00C2|The task you must perform is to gain the Truename of Bane. She is a deceptive and conniving wench. Do not be fooled by her apparent friendliness. It's a ruse. She is power hungry and ambitious. 
+02|4BC6|00E0|It is my belief that she seeks the death of the Master and myself in order to become the most powerful Sorcerer of Pagan. This is not a problem in and of itself. It is how she intends to go about it that causes the problem. 
+02|4CBC|00D6|Were she to issue the Calling and challenge by the proper methods, I would surely defeat her, but knowing this, she intends to strike clandestinely. The factions that exist in the Enclave will war if this happens. 
+02|4DA8|00BD|The possibility of losing control of the Lord of Flame will vastly increase and should this catastrophe come to pass, Pagan will be doomed.*You must hurry. I know not when she will attack. 
+02|4E80|000A|Farewell. 
+03|4E92|0609
+02|4E97|0019|Let me think on it more. 
+04|4EB5|0244
+04|4EBF|00D9
+02|4EC3|0029|You will not! I will have my answer now. 
+02|4F03|0019|Let me think on it more. 
+02|4F20|001C|I won't do your dirty work! 
+02|4F4B|0021|I cannot accept an unknown task. 
+02|4F70|001C|I won't do your dirty work! 
+03|4F98|015E
+04|4FA2|007D
+02|4FA6|0064|Very well, but remember, I am not a patient man. Do not delay over long, or I may retract my offer. 
+03|501F|00C9
+04|5029|004D
+02|502D|0034|Be swift. I grow weary of waiting upon your answer. 
+03|5076|0072
+04|5080|0068
+02|5084|004F|This capricious behavior begins to anger me. I will not endure it any further. 
+03|50F6|03C1
+03|50F9|03A2
+02|50FE|001C|I won't do your dirty work! 
+04|511F|007C
+02|5123|0053|Dolt! You will regret ever having come to our Enclave! Prepare yourself for death! 
+03|519B|0300
+02|51A0|001B|What is this Mystic Voice? 
+04|51C0|005F
+02|51C4|001C|It is the alias of Stratos. 
+02|51F7|001B|What is this Mystic Voice? 
+03|521F|027C
+02|5224|0021|I cannot accept an unknown task. 
+04|524A|0129
+02|524E|0072|I can understand your qualms, but put them to rest. I only seek a specific piece of information. Will you aid me? 
+02|52D7|0021|I cannot accept an unknown task. 
+02|52FC|001C|I won't do your dirty work! 
+02|5327|0020|I am sorry, but I must decline. 
+02|534B|001C|I won't do your dirty work! 
+03|5373|0128
+02|5378|0020|I am sorry, but I must decline. 
+04|539D|0068
+02|53A1|0032|Very well. Perhaps you will reconsider with time. 
+02|53E8|000A|Farewell. 
+03|5405|0096
+02|540A|000A|Farewell. 
+06|541F|056F:1DAD
+03|542C|006F
+02|5431|0000|
+04|5436|0025
+06|543C|056F:2347
+02|5449|000A|Farewell. 
+03|545B|0040
+02|545F|002A|I can't understand you. What did you say? 
+04|54A2|0012
+02|54A5|000A|Farewell. 
+03|54B7|B3BA
+01|54C4|54C4
+06|54DB|057C:15E7
+04|54EF|01E0
+02|54F3|00D8|If it would not be too much to ask, Master, I would like to become your First Acolyte. I have experience in dealing with the duties involved, and I promise you will not find my abilities wanting. Will you accept me? 
+06|55E6|0581:1AD0
+04|55FC|004C
+02|5600|0033|Thank you, Master! You won't regret this decision. 
+03|5648|007E
+02|564C|0068|I understand, Master. I won't take any more of your time. Whatever I have is, of course, yours to take. 
+03|56CF|00A0
+02|56D3|008A|I hope I am performing my duties to your satisfaction. But I will attempt to improve them further. I must go now to return to my studies. 
+06|577A|0581:1C19
+06|5797|057C:15E7

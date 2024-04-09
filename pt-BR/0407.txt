@@ -1,0 +1,332 @@
+01|0080|0080
+04|0094|002F
+02|0098|0013|Mordea the Tempest 
+03|00C0|0076
+03|00C3|0073
+04|00CA|0022
+02|00CE|0006|Mordea
+03|00E9|004D
+03|00EC|004A
+04|00F3|0024
+02|00F7|0008|Tempest 
+03|0114|0022
+03|0117|001F
+02|011B|0006|woman 
+01|013B|013B
+05|0168|0581:28F9
+06|018A|057C:143A
+06|01E0|057C:133F
+06|0207|057C:15E7
+06|022E|057C:143A
+06|027E|057C:133F
+06|02A5|057C:143A
+06|02F5|057C:133F
+05|0304|0581:28F9
+05|030D|0581:28F9
+05|0317|0581:28F9
+06|033A|057C:143A
+06|0390|057C:133F
+06|03B7|057C:15E7
+06|03DE|057C:143A
+06|042E|057C:133F
+06|0455|057C:143A
+06|04A5|057C:133F
+05|04B4|0581:28F9
+05|04BD|0581:28F9
+06|04E0|057C:143A
+06|0536|057C:133F
+06|055D|057C:15E7
+06|0584|057C:143A
+06|05D4|057C:133F
+06|05FB|057C:143A
+06|064B|057C:133F
+01|065C|065C
+06|06D6|0407:1A50
+06|06EE|0407:1E62
+01|06FC|06FC
+01|073D|073D
+04|0761|010A
+06|07B1|0581:1C6D
+02|07BD|001A|Playing with my food, eh? 
+06|07F3|057C:15E7
+06|081A|057C:091C
+02|082A|0024|You need to be taught some manners! 
+06|0865|0407:261B
+04|0882|01BE
+06|08D2|0581:1C6D
+04|0903|00DC
+06|0918|057C:091C
+06|0935|057C:15E7
+06|0952|057C:15E7
+02|0962|0019|I saw you with that key! 
+06|09A8|057C:091C
+06|09B9|0407:261B
+06|09D0|057C:15E7
+03|09DF|0061
+02|09E3|0019|I saw you with that key! 
+06|0A29|057C:091C
+06|0A3A|0407:261B
+04|0A58|00EF
+06|0AB0|057C:091C
+06|0AEB|0581:1C6D
+02|0AFB|0013|Do not touch that! 
+06|0B2B|0581:1C8B
+06|0B3D|0407:065C
+01|0B4C|0B4C
+04|0B5B|0063
+06|0B62|058B:0080
+05|0B7C|0581:2A56
+05|0B8A|0581:2A56
+02|0B92|0017|Beren! I am assaulted! 
+03|0BBE|015C
+06|0BDD|0581:1C19
+04|0C06|0114
+04|0C2F|00B3
+06|0C44|057C:091C
+02|0C54|0017|You will pay for that! 
+06|0C8E|057C:15E7
+06|0CAB|057C:15E7
+06|0CBC|0407:261B
+06|0CD3|057C:15E7
+03|0CE2|0038
+02|0CE6|0017|You will pay for that! 
+06|0D14|0407:261B
+01|0D1F|0D1F
+03|0D32|0C67
+04|0D41|0069
+04|0D49|0061
+02|0D4D|0038|Imbecile! Do you wish to join Toran? Get out of my way! 
+06|0D9D|057C:1090
+03|0DAA|0BEF
+04|0DB2|0026
+02|0DB8|000B|Greetings! 
+03|0DD8|0032
+02|0DDE|001A|Greetings, your Ladyship! 
+06|0E1F|057C:0E4F
+06|0E32|057C:0BCF
+04|0E44|0055
+02|0E48|0018|Are you speaking to me? 
+02|0E75|000B|Yes, I am. 
+02|0E84|0004|bye 
+03|0E99|00E1
+04|0EA0|0039
+02|0EA4|001A|Oh, no. 'Tis you again... 
+03|0ED9|0074
+04|0EEC|002B
+02|0EF0|0012|Greeting's again. 
+03|0F17|0036
+02|0F1B|0014|How can I help you, 
+02|0F39|0001|?
+02|0F50|0016|May I speak with you? 
+02|0F6A|0004|bye 
+02|0F7D|0005|I am 
+02|0F8C|0001|.
+02|0F98|0004|bye 
+04|0FA2|09B5
+02|0FA7|0004|bye 
+02|0FBA|0004|bye 
+02|0FE5|000B|Yes, I am. 
+04|0FF5|00E5
+02|0FFF|002F|Who are you that you dare address the Tempest? 
+02|1045|000B|Yes, I am. 
+02|105F|001A|That is not your concern. 
+02|107D|0016|May I speak with you? 
+02|1097|000D|Who are you? 
+02|10A8|0009|Tempest? 
+02|10B5|001A|Tell me of the Tempestry. 
+03|10DA|087A
+04|10E2|00D9
+02|10E6|005B|I know not your name nor your face. I think you are not from Tenebrae. Where are you from? 
+02|1156|0015|I am from Britannia. 
+02|116F|0011|I am from Earth. 
+02|1184|0014|I am from far away. 
+02|119C|0014|I am from Tenebrae. 
+03|11BB|0799
+02|11C0|0014|I am from Tenebrae. 
+04|11D9|0096
+06|11DE|0407:19F4
+02|11E8|005F|You are a liar. I know all my subjects...and they know me. I will not tolerate such impudence. 
+06|125F|057C:1090
+03|126C|072D
+03|126F|06E5
+02|1274|0009|Tempest? 
+02|1284|001A|Tell me of the Tempestry. 
+04|12A4|00B8
+06|12A9|0407:19F4
+02|12B3|0081|Know you not of the Tempestry and its great power? Perhaps, then you should like a taste of it. -When I feed you to the Lurker!- 
+06|134C|057C:1090
+03|1359|0640
+03|135C|05F8
+02|1361|0016|May I speak with you? 
+04|137C|0111
+02|1380|0066|I am not familiar with your name or your face. I think you are not from Tenebrae. Where are you from? 
+02|1403|0018|By what are you called? 
+02|1428|0015|I am from Britannia. 
+02|1441|0014|I am from far away. 
+02|1459|0011|I am from Earth. 
+02|146E|0014|I am from Tenebrae. 
+03|148D|04C7
+02|1492|0015|I am from Britannia. 
+04|14AC|00C3
+06|14B1|0407:19F4
+02|14BB|008C|I've never heard of such a place. You are either a liar or a fool. You don't look smart enough to be a liar and I will not tolerate a fool. 
+06|155F|057C:1090
+03|156C|042D
+03|156F|03E5
+02|1574|000D|Who are you? 
+04|1586|00D6
+06|158B|0407:19F4
+02|159B|0099|Fool! I am the Lady Mordea, the Tempest of Tenebrae. You will use reverence when dealing with me in the future or I shall have you thrown to the Lurker! 
+06|164C|057C:1090
+03|1659|0340
+03|165C|02F8
+02|1661|001A|That is not your concern. 
+04|1680|0091
+06|1685|0407:19F4
+02|168F|005A|Knave! Keep a civil tongue in your head or I shall have it cut out and fed to the fishes! 
+06|1701|057C:1090
+03|170E|028B
+03|1711|0243
+02|1716|0014|I am from far away. 
+04|172F|0091
+06|1734|0407:19F4
+02|173E|0054|Do not toy with me, rogue. I will not tolerate such rudeness. Begone from my sight. 
+06|17B0|057C:1090
+03|17BD|01DC
+03|17C0|0194
+02|17C5|0011|I am from Earth. 
+04|17DB|00CF
+06|17E0|0407:19F4
+02|17EA|0098|Earth? What sort of nonsense is this? A place called Earth? There is no such place by that name. You are nothing more than a simpleminded fool. Begone. 
+06|189A|057C:1090
+03|18A7|00F2
+03|18AA|00AA
+04|18BD|002C
+02|18C1|0013|Waste not my time! 
+03|18E9|0058
+02|18ED|001E|I have better things to do... 
+02|1921|000E|Leave me now. 
+06|1947|057C:1090
+03|1954|0045
+03|1957|F63C
+02|195B|001C|Begone! I wish to be alone. 
+06|198F|057C:1090
+01|19A4|19A4
+06|19E0|057C:15E7
+01|19F4|19F4
+06|1A1C|057C:15E7
+06|1A39|057C:15E7
+01|1A50|1A50
+06|1A75|057C:15E7
+06|1AF0|057C:15E7
+06|1B9E|057C:091C
+06|1BB0|0407:2250
+06|1BD1|0581:1C19
+04|1BFC|00B9
+04|1C1F|0094
+06|1C3E|057C:091C
+06|1C54|057C:15E7
+02|1C64|0017|What an ugly painting! 
+06|1CA3|0581:1C19
+03|1CB3|FF69
+06|1CF7|057C:091C
+06|1D09|0407:2250
+04|1D78|00BE
+06|1DAE|057C:091C
+06|1DC5|0581:1C19
+06|1DDB|057C:15E7
+03|1DEA|0048
+06|1DFF|057C:091C
+02|1E0F|0011|Away from there! 
+03|1E36|FF3F
+06|1E4E|0581:1C19
+03|1E5D|FBFA
+01|1E62|1E62
+06|1E73|057C:15E7
+06|1EB9|057C:15E7
+06|1EE3|057C:15E7
+06|1EFC|057C:15E7
+06|1F12|057C:15E7
+06|1F3B|0581:1C19
+06|1F50|0407:1F62
+01|1F62|1F62
+04|1FA8|0215
+04|1FAD|0177
+06|1FB7|057C:15E7
+06|1FE1|057C:15E7
+04|2000|002A
+02|2004|0014|Where's the butter? 
+04|2032|0030
+02|2036|001A|Aramina, my cup is empty! 
+04|206A|002C
+02|206E|0016|Who cooked this slop? 
+04|209E|0025
+02|20A2|000F|Too much salt! 
+04|20CB|0030
+02|20CF|001A|The torax is undercooked! 
+06|2112|0581:1C19
+03|2121|012A
+03|2124|0096
+04|2133|0038
+02|2137|001F|Hey! People are starving here! 
+03|216B|0029
+02|216F|0013|My plate is empty! 
+06|21AB|0581:1C19
+03|21BA|0091
+03|21BD|008E
+04|21CC|0029
+02|21D0|0010|I need a plate! 
+03|21F5|0033
+02|21F9|001D|I can not eat off the table! 
+06|223F|0581:1C19
+01|2250|2250
+03|2261|021B
+04|2274|0029
+02|2278|0013|Off with his head! 
+04|22A5|0033
+02|22A9|001D|Feed them all to the Lurker! 
+04|22E0|0049
+02|22E4|0011|More executions! 
+06|2312|0581:1C19
+06|2323|0407:2481
+04|2331|004B
+02|2335|0013|Flog the peasants! 
+06|2365|0581:1C19
+06|2376|0407:2481
+04|2384|0050
+02|2388|0018|More work for less pay! 
+06|23BD|0581:1C19
+06|23CE|0407:2481
+04|23DC|004A
+02|23E0|0012|Double the taxes! 
+06|240F|0581:1C19
+06|2420|0407:2481
+04|242E|004E
+02|2432|0016|No more days of rest! 
+06|2465|0581:1C19
+06|2476|0407:2481
+01|2481|2481
+03|2492|0184
+04|24AB|0169
+04|24BE|0029
+02|24C4|0011|You are correct! 
+04|24EF|0022
+02|24F5|000A|Yes! Yes! 
+04|2519|002D
+02|251F|0015|You are so generous! 
+04|254E|002D
+02|2554|0015|I will attend to it! 
+04|2583|002C
+02|2589|0014|Yes, your Ladyship! 
+04|25B7|0025
+02|25BD|000D|Pure genius! 
+04|25E4|002C
+02|25EA|0014|I agree completely! 
+03|2614|FE94
+01|261B|261B
+06|2641|0581:29D8
+06|265F|0581:1C8B
+06|26CB|0581:1C19
+06|26ED|0581:29D8
+06|2770|0581:1C19
+06|279A|0581:29D8

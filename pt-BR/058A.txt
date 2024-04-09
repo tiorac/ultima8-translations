@@ -1,0 +1,365 @@
+01|0080|0080
+06|00BB|057C:15E7
+01|00D1|00D1
+02|00D9|0014|AAAAAAAAUUUUUUUUGH! 
+06|00F6|057C:087D
+06|010F|0581:1C19
+02|011F|0010|Aaaaauuuuuuugh! 
+06|0138|057C:087D
+01|014B|014B
+04|0164|00CB
+02|0167|001D|How may I serve you, master? 
+02|018C|0086|Find the one called Sabriane. Put an end to her life and then return from whence you came.*I command that you do this in Pyros' name. 
+02|021A|000D|Yes, master. 
+03|022F|00CB
+02|0232|001F|How may I serve you, mistress? 
+02|0259|0085|Find the one called Morduin. Put an end to his life and then return from whence you came.*I command that you do this in Pyros' name. 
+02|02E6|000F|Yes, mistress. 
+04|032D|085E
+06|03BF|057C:091C
+06|03DC|057C:15E7
+06|03F8|057C:15E7
+06|0418|057C:091C
+02|042C|0008|In Flam!
+06|043D|057C:087D
+06|046A|0583:059A
+06|048D|057C:15E7
+02|049C|0011|Kal Flam Bal Zen!
+06|04B6|057C:087D
+06|04CB|0581:1C19
+06|04E7|057C:15E7
+06|0586|007C:10C3
+06|05CD|0583:1F65
+06|05E0|0581:1C19
+05|0673|057C:0113
+06|068C|057C:15E7
+05|069F|057C:0113
+06|06BB|057C:15E7
+06|06CE|0581:1C19
+06|06EB|057C:15E7
+06|0708|057C:15E7
+06|071F|0581:1C19
+06|073C|057C:15E7
+06|0794|0581:1C19
+06|07AB|0583:1F65
+05|07BA|057C:0113
+06|07C9|0581:1C19
+06|07E8|0581:1C19
+06|0805|057C:15E7
+06|0821|057C:15E7
+02|082D|0008|An Flam!
+06|083E|057C:087D
+06|086E|0581:1C19
+06|0882|0583:0AF5
+06|08A5|057C:15E7
+06|08C2|057C:15E7
+06|08E4|057C:091C
+06|08FF|057C:091C
+06|0925|057C:091C
+06|0938|0581:1C19
+06|097F|058A:00D1
+06|0998|0581:1C19
+06|09DB|0581:1C19
+06|09FC|0581:1C19
+06|0A28|0581:1C19
+06|0A49|0581:1C19
+06|0A6B|0581:1C19
+06|0AB0|0581:1C19
+06|0AD1|0581:1C19
+06|0AF2|0581:1C19
+06|0B13|0581:1C19
+06|0B38|0581:1C19
+02|0B47|0015|There... it is done. 
+06|0B7F|057C:091C
+01|0B96|0B96
+02|0BA0|0000|
+04|0BAF|002E
+02|0BB2|0007|Vardion
+02|0BC1|0004|Bane
+03|0BDD|002B
+02|0BE0|0004|Bane
+02|0BEC|0007|Vardion
+06|0C13|0581:1C19
+04|0C52|0D6A
+06|0C87|0583:1F65
+06|0C9A|0581:1C19
+05|0CC4|057C:0113
+06|0CF3|057C:15E7
+06|0D18|057C:15E7
+05|0D2D|057C:0113
+06|0D3C|0581:1C19
+06|0D5C|057C:091C
+06|0D7C|057C:091C
+06|0D99|057C:15E7
+02|0DC1|0046|I have sensed a daemonic presence within the confines of the Enclave.*
+02|0E0E|001E|, what is the meaning of this?
+06|0E56|057C:15E7
+02|0E65|0014|Forgive me, Master. 
+02|0E80|009F| was planning to assassinate you.*With the aid of this stranger, I summoned a daemon to rid us of the threat. Surely you understand that I had to do something.
+02|0F3C|0023|I understand no such thing*Get up! 
+06|0F82|057C:15E7
+02|0F94|0058|You should have brought this to my attention before acting on your baseless suspicions. 
+02|1002|002B|Yes, Master. I only sought to protect you. 
+06|105C|057C:091C
+06|1081|057C:15E7
+06|10A2|057C:15E7
+06|10CB|057C:091C
+02|10DD|0090|Well, in your feeble attempt at guarding my person, you have destroyed a valuable Acolyte at a time when I need to call upon the Lord of Flame. 
+02|1182|0032|How exactly do you propose to solve this dilemma, 
+02|11BB|0001|?
+04|11DF|003F
+02|11E2|0034|If you will permit me to remain your First Acolyte, 
+03|121E|003B
+02|1221|0033|If you will allow me to become your First Acolyte, 
+02|125E|005F|I believe that I can give you a fine Disciple to assist in the Ritual of Fire. That one there. 
+06|12E9|057C:091C
+06|130E|057C:091C
+06|1337|057C:091C
+02|1348|0000|
+04|134E|003A
+02|1351|0012|He calls himself, 
+02|136A|0001|.
+02|138C|003D|His Sorcerous potential is truly great. Can you not feel it? 
+06|13FE|057C:091C
+06|1428|057C:091C
+06|144D|057C:15E7
+06|1472|057C:15E7
+06|1492|057C:091C
+02|14A0|00AC|Of course I can! Do not presume to tell me my craft.* Teach him our ways, and keep in mind that while he is your Disciple, all his actions reflect upon you, First Acolyte. 
+02|1562|0070|Yes! I understand, my Master.*I will provide you with an excellent Acolyte. We will begin training immediately. 
+02|15EA|008B|See that you do. And when he is ready, send him to me.* If he can survive the Obsidian Fortress, he will be ready for the Ritual of Flame. 
+06|1698|057C:15E7
+02|16A7|000D|Yes, Master. 
+06|16F0|057C:15E7
+06|1707|0583:1F65
+06|171A|0581:1C19
+05|172F|057C:0113
+06|173E|0581:1C19
+05|1765|057C:0113
+06|1774|0581:1C19
+06|1791|057C:15E7
+06|17B7|057C:091C
+06|17E7|057C:091C
+02|17F7|00CC|Well, Disciple. It's time to make an Acolyte out of you. Go and read the books of our library. They will show you how to become a Sorcerer. Come to me only if you have questions about Sorcery in general. 
+05|1903|0581:1EE2
+04|190B|0047
+02|190F|002E|Here's the key to the library.*Run along now. 
+03|1952|0062
+05|1960|0581:24A7
+04|1968|004C
+02|196C|0033|Come fetch the key to the library.*Then run along. 
+01|19C9|19C9
+04|19D8|005F
+02|19DB|0010|You lied to me! 
+02|19EF|0017|You are quite devious. 
+02|1A0A|0022|I would learn more about Sorcery. 
+03|1A37|002D
+02|1A3A|0022|I would learn more about Sorcery. 
+04|1A6B|0219
+02|1A6F|003E|I cannot assist you during your test. Do you wish to forfeit? 
+06|1ACA|0581:1B49
+04|1AE2|005A
+02|1AE6|003B|You disappoint me, my Disciple. But, how may I assist you? 
+03|1B3C|0145
+04|1B44|010A
+02|1B47|001F|Very well. But you must hurry. 
+04|1B73|002C
+02|1B78|001E|You have not even started and 
+03|1B9F|0067
+04|1BA9|002D
+02|1BAE|001F|You have made a good start but 
+03|1BD6|0030
+04|1BE0|0026
+02|1BE5|0018|You are almost done but 
+02|1C0B|0026|Master Malchir will not wait forever. 
+03|1C4B|251A
+06|1C5E|056F:2347
+03|1C6B|24FA
+06|1C74|0595:0D58
+03|1C81|24E4
+03|1C84|0027
+02|1C89|0019|I am ready to be tested. 
+02|1CDE|000A|Farewell. 
+04|1CEE|2477
+02|1CF3|000A|Farewell. 
+02|1D0C|000A|Farewell. 
+05|1D24|0581:29B4
+04|1D31|007C
+02|1D35|0024|I must return to my work, Disciple. 
+06|1D7B|056F:1DAD
+06|1D8E|0595:0A03
+02|1D9B|000A|Farewell. 
+02|1DCB|0010|You lied to me! 
+04|1DE0|00CF
+02|1DE4|0046|And what of it? Are you here to bother me with your petty conscience? 
+02|1E41|0010|You lied to me! 
+02|1E60|001A|Obviously, you have none. 
+02|1E7E|001F|No, of course not. Forgive me. 
+03|1EAF|229A
+02|1EB4|0017|You are quite devious. 
+04|1ED0|00E5
+02|1ED4|007C|I thought you would see it that way. A job needed doing, and I was the one to do it. Very simple. Now, about your training. 
+02|1F65|0022|I would learn more about Sorcery. 
+02|1F8B|0019|I am ready to be tested. 
+03|1FB5|2194
+02|1FBA|001A|Obviously, you have none. 
+04|1FD9|00F0
+02|1FDD|00D1|That's right, Disciple. And if you know what's good for you, you'll lose yours. It gets in the way of Sorcery. If you can't handle this, you're no good to us, and if you're no good to us, then you must leave. 
+03|20C9|2080
+02|20CE|001F|No, of course not. Forgive me. 
+04|20F2|010B
+02|20F6|00A8|Forgive you? You are the Disciple, I am your Sponsor. I give the orders. I will forgive you when you earn my forgiveness. You do that by becoming a competent Sorcerer. 
+02|21B3|0022|I would learn more about Sorcery. 
+02|21D9|0019|I am ready to be tested. 
+03|21FD|1F4C
+02|2202|0022|I would learn more about Sorcery. 
+04|2229|0136
+05|222E|0581:1A85
+04|223B|0028
+02|223E|001D|Would you? Well then, learn. 
+03|2263|0065
+04|226B|0036
+02|226E|002B|Excellent. Knowledge is the path to power. 
+03|22A1|0027
+02|22A4|001F|Very well. I am here to teach. 
+02|22CD|0015|What would you know? 
+02|22FC|0016|How will I be tested? 
+02|2316|001C|Tell me about spellcasting. 
+02|2336|001E|I wish to know about a spell. 
+03|235F|1DEA
+02|2364|0019|I am ready to be tested. 
+04|2382|039D
+04|2387|030E
+02|238B|00FD|Are you? We shall see.*Your test will consist of enchanting a focus or foci, your choice, with the spells of Flash, Flame Bolt, and Endure Heat. If you find that you are not ready once the test begins, you may still leave, but the test will be forfeit. 
+02|249E|001F|Do you wish to begin the test? 
+06|24DA|0581:1B49
+04|24F2|0101
+06|254E|057C:091C
+02|255E|0057|Your test begins now. Do not fail. I will not tolerate failure in one of my Disciples. 
+06|25CE|058A:4172
+06|25E1|0581:1C19
+03|25F0|1B75
+03|25F3|009F
+04|25FB|0064
+02|25FF|004B|Very well. But learn quickly. The Master does not like to be kept waiting. 
+06|266F|056F:2347
+03|267C|1AE9
+06|2685|0595:0D58
+03|2692|1AD3
+03|2695|005F
+02|2699|0049|I am busy right now, Disciple. I will test you when I am at my pentacle. 
+02|26F9|0019|I am ready to be tested. 
+03|271F|1A2A
+02|2724|001C|What is the Ritual of Fire? 
+04|2745|01B7
+02|2749|0092|That is the ceremony we use to call upon our patron Titan, Pyros, Lord of Flame. Your final test hinges upon how well you perform in that ritual. 
+02|27F1|00CB|You will need to bring a red candle, that you will ignite by use of Sorcery. You will then kneel and begin the chant,~ 'In Sanct An Por'. Very simple, is it not? When it is over, you may do as you wish. 
+02|28D3|001C|What is the Ritual of Fire? 
+03|28FC|184D
+02|2901|0016|How will I be tested? 
+04|291C|0375
+02|2920|00A6|First, I will test your ability to create and bind sorcerous energies to physical paraphernalia, when you can do this, I will pronounce you fit to become an Acolyte. 
+02|29DC|00E3|For your next test, I will give you the key of the Acolyte. It is not a physical key, as such, but the ability to enter into the Obsidian Fortress. Your test lies within. If you survive to find Master Malchir, you have passed. 
+02|2AD5|009A|Your third test will be given by the Master himself. He will choose a spell for you to cast. Cast it successfully and you will be accepted as an Acolyte. 
+02|2B85|00A8|Your final test will be to assist in the Ritual of Fire. Do this competently, and your position as Acolyte, as well as my position as First Acolyte, will be confirmed. 
+02|2C44|0016|How will I be tested. 
+02|2C69|001C|What is the Ritual of Fire? 
+03|2C91|14B8
+02|2C96|001C|Tell me about spellcasting. 
+04|2CB7|0249
+02|2CBB|00D6|Sorcerous spellcasting is a craft. It involves binding the power of Fire into a physical focus. The foci we use are: the pentacle symbol, a metal wand, rod, or staff, and a talisman in the form of a daemon's head. 
+02|2DA7|00EE|A pentagram is required to contain the power channeled into the focus, candles are used to indicate the nature of the spell, and certain reagents, placed strategically near certain candles, unleash and shape the energies to be channeled. 
+02|2EAA|001E|Where do I place the candles? 
+02|2ECC|0012|Explain the foci. 
+02|2EE2|0013|What are reagents? 
+03|2F00|1249
+02|2F05|001E|I wish to know about a spell. 
+04|2F28|00BC
+02|2F2C|0076|You must find the spellbook with that knowledge and research its properties. Other than that, I cannot reveal to you. 
+02|2FB9|001E|I wish to know about a spell. 
+03|2FE4|1165
+02|2FE9|001E|Where do I place the candles? 
+04|300C|0684
+04|3011|05BF
+02|3015|007E|Each point of the pentacle has a small spike upon which a candle can be placed. These points have names associated with them. 
+02|30A9|0057|The point farthest from the core of the volcano is called the Aphelion, and it lies... 
+06|3127|057C:091C
+06|3148|057C:15E7
+06|319D|057C:15E7
+02|31A9|0009|...here. 
+06|31CE|007C:10C3
+02|31DA|0041|The next two candles are called Mesostelae. Mesostel Pa rests... 
+06|323E|057C:15E7
+06|3291|057C:15E7
+06|32A3|007C:10C3
+02|32AF|0009|...here. 
+02|32CE|0034|And its companion, Mesostel Ze sits across from it. 
+06|335B|057C:15E7
+06|336D|007C:10C3
+02|3379|0066|The final candles, closest to the volcano are appropriately named Perivolcanae. Perivolcan Pa lies... 
+06|3402|057C:15E7
+06|3459|057C:15E7
+06|346B|007C:10C3
+02|3477|0009|...here. 
+02|3496|0010|And its mate... 
+06|3503|057C:15E7
+06|3515|007C:10C3
+02|3521|0013|...is placed here. 
+06|3557|057C:15E7
+06|3574|057C:15E7
+06|359D|057C:091C
+06|35C1|057C:091C
+03|35D0|0090
+02|35D4|007A|This lesson will have to wait, Disciple. I am not prepared to teach it at the moment. Ask again when I am at my pentacle. 
+02|3665|001E|Where do I place the candles? 
+03|3690|0AB9
+02|3695|0012|Explain the foci. 
+04|36AC|040A
+02|36B0|0089|A focus is designed to hold the energy of a spell. Each focus has different limitations as to the choice and power of the spell focused. 
+02|374F|00E6|The pentacle symbol is the least powerful, but quite possibly the most useful focus. It is designed to contain the energies of the Ignite and Extinguish spells, however, any other spell may be worked into its pattern for one use. 
+02|384B|011D|The wand can hold the Ignite, Extinguish, Flash, and Flame Bolt spells. The Rod holds all wand spells in addition to the protective spells of Endure Heat, Fire Shield, and Armor of Flames. The staff holds all of the wand and rod spells along with the Create Fire and Explosion spells. 
+02|397E|005B|The daemon talisman holds only the Summon Daemon, Banish Daemon, and Conflagration spells. 
+02|39EF|0091|When you wish to enchant a focus, you merely place it at the center of a prepared pentacle, then concentrate your will upon the pentacle itself. 
+02|3A97|0012|Explain the foci. 
+03|3AB6|0693
+02|3ABB|0013|What are reagents? 
+04|3AD3|0535
+02|3AD7|0073|They are all things which the Lord of Flame provides for us, and they each are imbued with different capabilities. 
+02|3B60|006A|The simplest reagent is volcanic ash. Its purpose in Sorcery is to represent the spark that brings flame. 
+02|3BE0|0066|Pumice is thrown far from the maw of the volcano, and has the property of giving distance to a spell. 
+02|3C5C|00A3|Obsidian is a very enduring substance. It can be worn down, to fine grains of sand, but if melted it resumes its former properties. It grants duration to a spell. 
+02|3D15|0074|Raw iron, or pig iron, is strong yet flexible to work with. It lends this protective nature to sorcerous endeavors. 
+02|3D9F|008F|Brimstone is a volatile substance, and confers this to Sorcerous enchantment in the form of raw power. Be careful in your use of this reagent. 
+02|3E44|00D6|Daemon bone, hard to aquire, and harder still to use. This, of course, is the reagent required to make spells dealing with the daemonic servants of Pyros. If you are not wary with its use, it will be your undoing. 
+02|3F30|00A1|Reagents are placed about the candles to lend their particular properties to the spell. Other than proximity to the correct candle, their placement matters not. 
+02|3FE8|0013|What are reagents? 
+03|4008|0141
+02|400D|000A|Farewell. 
+06|402C|056F:1DAD
+06|403F|0595:0A03
+03|404C|00FD
+02|4051|0000|
+04|4056|0042
+06|4066|056F:2347
+06|4079|0595:0D58
+02|4086|000A|Farewell. 
+03|4098|00B1
+02|409C|009B|I believe something you said was incorrectly spelled. I don't know why I know this. It was as if giant, blue letters had appeared, blazing across the sky. 
+04|4150|0012
+02|4153|000A|Farewell. 
+03|4165|DB74
+01|4172|4172
+06|4195|057C:091C
+03|41C1|018F
+05|41C8|0581:1D62
+03|41F2|015E
+04|41FC|0151
+06|420F|0581:1C19
+06|4221|057C:0BCF
+02|422F|00ED|Well done, Disciple! You are now ready to seek out the Master. Go to the Obsidian Fortress. The gates will no longer bar you. In my eyes you are now an Acolyte, only Master Malchir has the right to revoke this should you fail his tests. 
+06|4340|057C:1090
+03|4350|FE2F
+01|4355|4355
+02|4360|006B|I am sorry, Acolyte. I have no time for conversation. My duties as First Acolyte preclude idle discussion. 
+04|43E5|008A
+02|43E9|0074|Besides, I believe the Master still wishes to see you. Do not tarry overlong. Malchir is not known to be forgiving. 

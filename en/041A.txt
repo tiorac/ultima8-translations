@@ -1,0 +1,459 @@
+01|0080|0080
+04|0094|002C
+02|0098|0013|Torwin the ex-monk 
+03|00C0|009A
+04|00CC|0029
+02|00D0|0010|Torwin the monk 
+03|00F5|0065
+04|00FC|001F
+02|0100|0006|Torwin
+03|011B|003F
+04|0122|001E
+02|0126|0005|monk 
+03|0140|001A
+02|0144|0004|man 
+01|015F|015F
+05|017F|0581:28F9
+05|0188|0581:28F9
+05|01A7|0581:28F9
+05|01B0|0581:28F9
+05|01BA|0581:28F9
+06|01FA|057C:143A
+06|021C|057C:133F
+01|022D|022D
+05|026E|0581:2A56
+05|027C|0581:2A56
+05|028A|0581:2A56
+05|0298|0581:2A56
+06|02AB|041A:0C23
+06|02C3|041A:0531
+06|02E0|057C:15E7
+01|02F4|02F4
+05|0306|0581:2A56
+05|0314|0581:2A56
+05|0322|0581:2A56
+05|0330|0581:2A56
+01|0339|0339
+03|0352|00DF
+06|03C8|057C:091C
+02|03D8|001D|What are you doing there...? 
+06|0412|0581:1C19
+06|0424|041A:022D
+01|0436|0436
+06|045D|0581:1C19
+04|0486|00A6
+06|0493|0581:29D8
+02|049F|0016|Stratos! Preserve me! 
+05|04CE|057C:0113
+06|0500|0581:29D8
+01|0531|0531
+06|0598|041A:0623
+06|05AD|0581:1C19
+06|05CD|057C:15E7
+06|05E4|0581:1C19
+06|05FF|0581:1C19
+01|0623|0623
+05|0631|0581:1D62
+04|0653|0295
+04|0666|0071
+06|067B|057C:091C
+02|068A|000B|Excuse me? 
+06|06B4|057C:15E7
+06|06CB|0581:1C19
+04|06DF|00E4
+06|06F4|057C:091C
+06|0711|057C:15E7
+02|0720|0010|Can I help you? 
+06|074F|057C:15E7
+06|076C|057C:15E7
+06|0783|0581:1C19
+06|07A0|057C:15E7
+06|07B7|0581:1C19
+04|07CB|0060
+02|07CE|001B|Ask if you need something! 
+06|0808|057C:15E7
+06|081F|0581:1C19
+04|0833|00B2
+06|0848|057C:091C
+02|0857|0012|What do you want? 
+06|0888|057C:15E7
+06|08A5|057C:15E7
+06|08C2|057C:15E7
+06|08D9|0581:1C19
+03|08E8|0336
+06|0906|057C:091C
+04|091A|004A
+02|091E|0017|Where is that old man? 
+06|0958|057C:15E7
+04|096C|008D
+06|097D|057C:15E7
+06|099A|057C:15E7
+02|09AA|0009|hmmmm... 
+06|09D6|057C:15E7
+06|09ED|0581:1C19
+04|0A01|003B
+02|0A05|0025|Studying is such a waste of my time. 
+04|0A44|00B8
+02|0A48|0017|Where is that book...? 
+06|0A82|057C:15E7
+06|0A9F|057C:15E7
+06|0ABC|057C:15E7
+06|0AD9|057C:15E7
+06|0AF0|0581:1C19
+04|0B04|0035
+02|0B08|001F|I know it is here somewhere... 
+04|0B41|002C
+02|0B45|0016|I need to sit down... 
+04|0B75|00A9
+02|0B79|0025|I don't know why I put up with this. 
+06|0BC1|057C:15E7
+06|0BDE|057C:15E7
+06|0BFB|057C:15E7
+06|0C12|0581:1C19
+01|0C23|0C23
+06|0C4A|057C:15E7
+04|0C8F|0198
+04|0CA7|0164
+04|0CAF|00D2
+06|0CBB|057C:091C
+02|0CCA|0011|I must meditate! 
+06|0CFA|057C:15E7
+06|0D12|0581:1C19
+06|0D2F|057C:15E7
+02|0D3E|0015|I can't concentrate! 
+06|0D72|057C:15E7
+06|0D8F|041A:0E31
+06|0DA4|0581:1C19
+06|0DC4|057C:15E7
+06|0DDB|0581:1C19
+06|0DFC|0581:1C19
+06|0E17|0581:1C19
+03|0E27|FE65
+03|0E2C|FE2A
+01|0E31|0E31
+05|0E3F|0581:1D62
+04|0E61|0295
+04|0E74|0093
+06|0E89|057C:091C
+02|0E99|000B|Excuse me! 
+06|0EC7|057C:15E7
+06|0EE4|057C:15E7
+06|0EFB|0581:1C19
+04|0F0F|00DE
+06|0F24|057C:091C
+06|0F41|057C:15E7
+02|0F51|0005|Yes? 
+06|0F79|057C:15E7
+06|0F96|057C:15E7
+06|0FAD|0581:1C19
+06|0FCA|057C:15E7
+06|0FE1|0581:1C19
+04|0FF5|0044
+02|0FF9|0017|Humph. Some people...! 
+06|102D|0581:1C19
+04|1041|00B2
+06|1056|057C:091C
+02|1066|000D|Do you mind? 
+06|1096|057C:15E7
+06|10B3|057C:15E7
+06|10D0|057C:15E7
+06|10E7|0581:1C19
+03|10F6|02F1
+06|1114|057C:091C
+04|1128|0030
+02|112C|001A|I must speak with Cyrrus. 
+04|1160|00AB
+06|1171|057C:15E7
+06|118E|057C:15E7
+02|119E|000A|hmmmm...  
+06|11CB|057C:15E7
+06|11E8|057C:15E7
+06|11FF|0581:1C19
+04|1213|0022
+02|1217|000C|heh, heh... 
+04|123D|00B6
+02|1241|0015|Where is that focus? 
+06|1279|057C:15E7
+06|1296|057C:15E7
+06|12B3|057C:15E7
+06|12D0|057C:15E7
+06|12E7|0581:1C19
+04|12FB|003B
+02|12FF|0008|Damn... 
+06|132A|057C:15E7
+04|133E|0024
+02|1342|000E|I feel tired. 
+04|136A|007D
+02|136E|0016|I should take a walk. 
+06|13A7|057C:15E7
+06|13C4|057C:15E7
+06|13DB|0581:1C19
+01|13EC|13EC
+02|13F7|0005|I am 
+02|1406|0001|.
+02|1410|000B|My name is 
+02|1425|0001|.
+04|1434|0253
+02|1439|000A|Excuse me 
+06|1466|057C:0E4F
+06|1479|057C:0BCF
+05|148B|0581:2A56
+04|1496|018F
+04|149D|003E
+02|14A1|0025|Will you be wasting more of my time? 
+03|14DB|0085
+04|14EE|0035
+02|14F2|001C|What do you want this time? 
+03|1523|003D
+02|1527|0027|I haven't much time. What do you need? 
+04|1567|0021
+02|156A|000F|Hello, Torwin. 
+03|1588|0028
+02|158B|0019|Is your name not Torwin? 
+04|15D2|001E
+02|15D5|000F|I need healing 
+04|15F7|002B
+02|15FA|001C|I have completed the Tests. 
+03|1625|005F
+02|1629|0017|Have I met you before? 
+02|165B|001D|I don't believe we have met. 
+03|1687|01BE
+05|16CB|0581:2A56
+06|16D8|057C:15E7
+06|16EB|0581:1C19
+06|16FC|041A:3725
+02|1707|0007|Torwin!
+06|179B|057C:091C
+06|17B3|057C:091C
+05|17C7|0581:2A56
+06|17D4|057C:15E7
+06|17E4|057C:15E7
+02|17F3|0019|Go away, leave me alone! 
+02|1821|001C|Someone's Focus is missing. 
+02|184A|0004|bye 
+04|1854|1EC2
+04|1875|0025
+02|187A|0004|bye 
+02|188D|0004|bye 
+02|189F|000F|Hello, Torwin. 
+04|18B3|0099
+02|18BD|0033|Oh, I'm very bad with names. What was yours again? 
+02|1907|000F|Hello, Torwin. 
+02|1925|0018|You don't need to know. 
+03|194C|1DC7
+02|1951|0019|Is your name not Torwin? 
+04|196F|00BD
+02|197F|0047|Yes, my name is Torwin. I'm very bad with names. What was yours again? 
+02|19DD|0018|You don't need to know. 
+02|1A06|0019|Is your name not Torwin? 
+03|1A2C|1CE7
+04|1A34|00E5
+02|1A38|004F|Yes, well, I probably won't remember it next time I see you. What do you want? 
+02|1AA0|0018|You don't need to know. 
+02|1AC7|0015|What do you do here? 
+04|1AEC|002A
+02|1AF1|001C|Someone's focus is missing. 
+03|1B19|1BFA
+02|1B1E|001D|I don't believe we have met. 
+04|1B40|0098
+02|1B50|001E|My name is Torwin. And yours? 
+02|1B85|001D|I don't believe we have met. 
+02|1BB1|0018|You don't need to know. 
+03|1BD8|1B3B
+04|1BE0|00D5
+02|1BEA|0015|Well, anyway, hello, 
+02|1C09|0017|. What brings you here?
+02|1C36|0015|What do you do here? 
+04|1C5E|002B
+02|1C61|001C|Someone's Focus is missing. 
+02|1C90|0018|You don't need to know. 
+03|1CB5|1A5E
+02|1CBA|0015|What do you do here? 
+04|1CD4|0133
+02|1CDE|008B|For now I am only a healer. But that is just because they have not recognized my superior abilities, but they will. Believe me, they will. 
+02|1D80|0015|What do you do here? 
+02|1DA2|0012|You are a healer? 
+02|1DB8|0019|What superior abilities? 
+02|1DD5|0023|Who will recognize your abilities? 
+03|1E07|190C
+02|1E0C|0019|What superior abilities? 
+04|1E2A|00C6
+02|1E2E|0085|Why, my talent for magic, of course. I've passed all the tests, faster than anyone ever has before...and anyone ever will, I'm sure. 
+02|1ECA|0019|What superior abilities? 
+03|1EF0|1823
+02|1EF5|0023|Who will recognize your abilities? 
+04|1F1D|0121
+02|1F21|00B7|Everyone, of course. I never make an error when I am casting the magic. I even constructed my foci correctly on the very first try. And it is the finest of all the foci, I might add. 
+02|1FEF|0023|Who will recognize your abilities? 
+02|2021|0011|What is a Focus? 
+03|203E|16D5
+02|2043|0011|What is a Focus? 
+04|2059|0099
+02|205D|0060|Oh, I could explain it, but I doubt you would understand. It's very complicated, magic and all. 
+02|20D4|0011|What is a Focus? 
+03|20F2|1621
+02|20F7|0012|You are a healer? 
+04|210E|0098
+02|2112|0043|Yes, why else would I be here? Anyway, are you in need of healing? 
+02|216C|0012|You are a healer? 
+02|218B|0004|aye 
+02|2193|0004|nay 
+03|21A6|156D
+02|21AB|0018|You don't need to know. 
+04|21C8|007D
+02|21CC|004B|If you are going to be rude, then I shall not take the time to assist you. 
+06|2235|057C:1090
+03|2242|14D4
+03|2245|14CE
+02|224A|0004|aye 
+02|2255|000F|I need healing 
+04|226A|00BC
+02|226E|0073|What? You look healthy enough to me! Begone! I do not have the time nor the patience for hangnails and paper cuts! 
+06|22FF|057C:1090
+02|230C|0006|Wimp! 
+03|2323|13F3
+03|2326|13ED
+02|232B|0004|nay 
+04|2334|0126
+02|2338|00FA|Actually, I'm relieved, for I do not wish to take precious time away from my studies. No one here has the raw talent and ability I have. And, I will suffer no one to surpass me. I -must- be the best, I -will- be the best! Now, if you will excuse me. 
+06|244A|057C:1090
+03|2457|12BF
+03|245A|12B9
+02|245F|001C|I have completed the Tests. 
+04|2480|0097
+02|2484|006B|What?! That is not possible! No one has ever completed the tests faster than I! I will not stand for this! 
+06|2507|057C:1090
+03|2514|1202
+03|2517|11FC
+02|251C|001C|Someone's Focus is missing. 
+04|253D|0098
+02|2541|0033|A missing focus? I know nothing about this matter. 
+02|258B|001C|Someone's Focus is missing. 
+02|25B4|0012|I believe you do. 
+03|25D5|113E
+02|25DA|0012|I believe you do. 
+04|25F1|00B6
+02|25F5|0049|I know nothing, I tell you. Why I haven't even been near Brother Xavier! 
+02|2655|0012|I believe you do. 
+02|2674|0024|But you knew it was Brother Xavier. 
+03|26A7|106C
+02|26AC|0024|But you knew it was Brother Xavier. 
+04|26D5|00B7
+02|26D9|0034|Well, I didn't steal it. I only meant to borrow it. 
+02|2724|0024|But you knew it was Brother Xavier. 
+02|2755|0012|Did not steal it? 
+02|276B|0012|Only borrowed it? 
+03|278C|0F87
+02|2791|0012|Did not steal it? 
+04|27A8|0057
+02|27AC|001D|I told you, I'm not a thief! 
+02|27E0|0012|Did not steal it? 
+03|27FF|0F14
+02|2804|0012|Only borrowed it? 
+04|281B|00A5
+02|281F|0028|I needed the magic in it for my father. 
+02|285E|0012|Only borrowed it? 
+02|2874|0012|Did not steal it? 
+02|2893|0011|the magic in it? 
+02|28A8|000D|your father? 
+03|28C0|0E53
+02|28C5|0011|the magic in it? 
+04|28DB|00D1
+02|28DF|0098|Foci are very strong lines to the great Stratos. I thought that perhaps with two, I might be able to draw twice as much power from the great Air Titan. 
+02|298E|0011|the magic in it? 
+03|29AC|0D67
+02|29B1|000D|your father? 
+04|29C3|00F6
+02|29C7|007E|Yes, my father. His name is....er,..was Toran. He lived in Tenebrae, my home town. He's dead now, killed by that evil Mordea. 
+02|2A5C|000D|your father? 
+02|2A76|0017|Toran was your father? 
+02|2A91|0019|Why did Mordea kill him? 
+03|2AB9|0C5A
+02|2ABE|0017|Toran was your father? 
+04|2ADA|00A0
+02|2ADE|0061|Yes. He was a good man, not afraid to speak out for what he believed...and he was killed for it. 
+02|2B56|0017|Toran was your father? 
+03|2B7A|0B99
+02|2B7F|0019|Why did Mordea kill him? 
+04|2B9D|012E
+02|2BA1|00A3|That murdering bitch! She had him executed for simply speaking his mind. Is that right? Can a man's life be snuffed out for mere words? Is that right, I ask you!? 
+02|2C5B|0019|Why did Mordea kill him? 
+02|2C81|0015|I saw his execution. 
+04|2CA9|001F
+02|2CAC|0010|Mordea is dead. 
+03|2CCB|0A48
+02|2CD0|0015|I saw his execution. 
+04|2CEA|0174
+02|2CEE|00DC|Then you saw as his head was severed from his body with the single swing of the executioner's ax. In that instant, the most important man in my life was taken from me, and I could do nothing about it... not then anyway. 
+02|2DE1|0015|I saw his execution. 
+04|2E07|0027
+02|2E0C|0016|You could do nothing? 
+03|2E2E|002D
+02|2E33|001F|You could do nothing about it? 
+03|2E5E|08B5
+02|2E63|0016|You could do nothing? 
+04|2E7E|0174
+02|2E82|0120|I could do nothing, just as I could do nothing to stop you surpassing my deeds here at Argentrock. Until you arrived, I was the quickest learner and the most clever with the magic. You stole that from me, but I will still have my revenge. No, that is mine and mine alone. Do you hear me? 
+02|2FB9|0016|You could do nothing? 
+02|2FDE|0008|revenge 
+03|2FF2|0721
+02|2FF7|0010|Mordea is dead. 
+04|300C|0150
+02|3010|0101|She is dead? This can not be! I was to kill her! ~You have stolen from me every thing. I was the best student here until you arrived. ~I was the quickest learner and the cleverest with the magic. ~You stole that from me, and now you have stolen my revenge! 
+02|3128|0010|Mordea is dead. 
+02|3145|0008|revenge 
+03|315C|05B7
+02|3161|0008|revenge 
+04|316E|00CE
+02|3172|0070|I will still have my revenge! I will bring my father back to life! I will bring him back from the Pit of Death! 
+02|31F9|0008|revenge 
+02|3210|0020|Your father is with the Lurker. 
+03|323C|04D7
+02|3241|0020|Your father is with the Lurker. 
+04|3266|0291
+02|326A|006C|YOU LIE! He is in the Pit of Death and I SHALL BRING HIM BACK! Do you hear? I shall! And I shall do it now! 
+02|32EC|002B|Why, I don't need this extra focus at all! 
+05|3331|0581:2A56
+06|333F|057C:15E7
+06|3407|057C:15E7
+06|341E|0581:1C19
+02|342E|0029|I am strong enough to do it on my own... 
+02|346D|0029|And I will! I'm coming for you, father!! 
+06|34BF|041A:383B
+02|34CA|000E|Torwin, wait! 
+06|34EB|041A:38B8
+03|34F4|0222
+03|34F7|021C
+02|34FC|001F|You could do nothing about it? 
+04|3520|00CD
+02|3524|0058|Not then, but with what I have learned here, I will be able to make things right again! 
+02|3593|001F|You could do nothing about it? 
+02|35C1|0020|How will you make things right? 
+03|35ED|0126
+02|35F2|0020|How will you make things right? 
+04|3617|00B9
+02|361B|005B|I will use the magic from Stratos to bring my father back to life. I will have my revenge! 
+02|368D|0020|How will you make things right? 
+02|36BC|0008|revenge 
+03|36D0|0043
+02|36D5|0004|bye 
+04|36DE|0035
+02|36E2|0009|Goodbye. 
+06|3703|057C:1090
+03|3716|E12F
+01|3725|3725
+05|3747|0581:24A7
+01|383B|383B
+05|3847|0581:2A56
+06|3857|057C:091C
+06|386D|057C:15E7
+06|3883|057C:15E7
+06|38A4|057C:15E7
+01|38B8|38B8
+06|38C7|0581:1C19
+06|38E1|057C:091C
+06|38F9|057C:15E7
+06|391D|057C:15E7
+05|3930|0581:1D62
+06|3946|0581:1C19
+06|3968|057C:15E7

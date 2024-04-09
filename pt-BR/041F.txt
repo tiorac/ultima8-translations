@@ -1,0 +1,669 @@
+01|0080|0080
+06|0096|0574:084D
+01|00A7|00A7
+03|00B8|01CD
+05|00C2|0581:2A56
+06|00DB|057C:091C
+04|00F5|0060
+04|00FD|0054
+02|0109|0029|You will pay for that it with your life! 
+03|0151|0134
+03|0155|FF9D
+04|015F|0036
+02|016E|0012|Leave that alone. 
+03|0195|00E0
+04|019F|0043
+02|01AE|001F|I said, leave my things alone! 
+03|01E2|0093
+04|01EC|0051
+02|01FB|002D|I will kill you if you move my things again! 
+03|023D|0038
+02|0249|000D|Now you die! 
+06|027B|041F:045E
+01|028A|028A
+04|029E|0065
+04|02AA|002F
+02|02AD|001B|Gorgrond the late Sorcerer 
+03|02D9|0027
+02|02DC|0016|Gorgrond the Sorcerer 
+03|0303|00EB
+04|030A|0052
+04|0316|002A
+02|0319|0016|the deceased Gorgrond 
+03|0340|0019
+02|0343|0008|Gorgrond
+03|035C|0092
+04|0363|004B
+04|036F|0022
+02|0372|000E|dead Sorcerer 
+03|0391|001A
+02|0394|0009|Sorcerer 
+03|03AE|0040
+04|03BA|001E
+02|03BD|000A|dead mage 
+03|03D8|0016
+02|03DB|0005|mage 
+01|03F3|03F3
+06|042E|057C:143A
+06|044A|057C:133F
+01|045E|045E
+06|049B|057B:0080
+01|04A9|04A9
+05|04BB|0581:2A56
+01|04C4|04C4
+06|0506|057C:0BCF
+06|0520|041F:05A8
+06|0537|041F:1A5E
+06|0554|041F:24D8
+06|0576|041F:1E03
+06|0589|041F:22C2
+06|0599|057C:1090
+01|05A8|05A8
+04|05B7|0CAD
+02|05C1|001C|What do you want, stranger? 
+02|05F2|0015|Just your attention. 
+02|060B|0018|I wish to speak to you. 
+02|0627|001C|It's none of your business. 
+02|0669|0015|Just your attention. 
+04|0683|0026
+02|0687|000D|Who are you? 
+03|06A9|00BD
+02|06AE|0018|I wish to speak to you. 
+04|06CB|0026
+02|06CF|000D|Who are you? 
+03|06F1|0075
+02|06F6|001C|It's none of your business. 
+04|0717|003C
+02|071B|0015|Alright, then leave! 
+03|0750|0D95
+06|0759|041F:17D7
+03|0766|0D7F
+02|0769|000C|I am called 
+02|077F|0001|.
+02|078B|0013|I cannot tell you. 
+02|07A2|001A|You would not understand. 
+04|07E5|0067
+02|07E9|000F|Oh, greetings, 
+02|0802|0028|. I am Gorgrond. What do you need of me?
+03|084C|09D6
+02|0851|0013|I cannot tell you. 
+04|0869|08BB
+02|086D|0009|Why not? 
+02|088B|0024|If I did, I would have to kill you. 
+02|08B3|0015|What does it matter? 
+02|08CC|000E|I'm not sure. 
+02|0900|0024|If I did, I would have to kill you. 
+04|0929|0071
+02|092D|0058|Ha, you'd find that hard to do. But I like you, you're funny. What do you want to know? 
+03|099A|0787
+02|099F|0015|What does it matter? 
+04|09B9|06A2
+02|09BD|0034|Well, what do I call you if I don't know your name? 
+02|0A06|0014|Good question. I am 
+02|0A24|0001|.
+02|0A30|0015|That's your problem. 
+02|0A49|0015|You may call me Sir. 
+04|0A87|0067
+02|0A8B|000F|Oh, greetings, 
+02|0AA4|0028|. I am Gorgrond. What do you need of me?
+03|0AEE|056A
+02|0AF3|0015|That's your problem. 
+04|0B0D|04CC
+02|0B11|0033|Fine then, I'll call you Dungbreath. Will that do? 
+02|0B59|0013|No, please call me 
+02|0B76|0001|.
+02|0B82|001A|Yes, that will do nicely. 
+02|0BA0|0018|No, I won't abide that. 
+02|0BBE|0021|You will die for your insolence! 
+02|0C05|001A|Yes, that will do nicely. 
+04|0C24|0048
+02|0C28|0029|Fine then. What do you want, Dungbreath? 
+03|0C6C|036A
+02|0C71|0018|No, I won't abide that. 
+04|0C8E|0279
+02|0C92|003F|Well, it's too bad you couldn't give me your name, Dungbreath. 
+02|0CE6|000D|I will! It's 
+02|0CFD|0001|.
+02|0D09|001F|I don't care what you call me. 
+02|0D2C|0014|That's it! You die! 
+04|0D69|0067
+02|0D6D|000F|Oh, greetings, 
+02|0D86|0028|. I am Gorgrond. What do you need of me?
+03|0DD0|0134
+02|0DD5|001F|I don't care what you call me. 
+04|0DF9|004E
+02|0DFD|002F|Good. Dungbreath it is. What do you seek here? 
+03|0E47|00BD
+02|0E4C|0014|That's it! You die! 
+04|0E65|008C
+02|0E69|0069|I do not think so, fool. My Sorcery will bring you to your knees, then I will feed you to my pet daemon! 
+06|0EF7|041F:17D7
+03|0F04|05E1
+03|0F07|00CF
+04|0F0F|0042
+02|0F13|001D|Fine then. What do you want, 
+02|0F3A|0001|?
+03|0F51|0085
+02|0F56|0021|You will die for your insolence! 
+04|0F7C|0047
+02|0F80|0021|It is you who will die, peasant! 
+03|0FC0|0525
+06|0FC9|041F:17D7
+03|0FD6|050F
+03|0FD9|007F
+02|0FDE|0015|You may call me Sir. 
+04|0FF8|004D
+02|0FFC|0027|And you may call me your death, knave! 
+03|1042|04A3
+06|104B|041F:17D7
+03|1058|048D
+03|105B|00C6
+02|1060|000E|I'm not sure. 
+04|1073|009B
+02|1077|0082|Are you simple minded? Should I speak slower? Why... can't... you... tell... me... your... name? Oh, nevermind. What do you want? 
+06|1114|041F:17D7
+03|1121|03C4
+03|1124|00FE
+02|1129|001A|You would not understand. 
+04|1148|00C7
+02|114C|00A0|Do you take me for a fool? I am not a simplemind! My Sorcery is strong, as you will see if you anger me further. Go away now, before I loose my anger upon you. 
+03|120C|02D9
+06|1215|041F:17D7
+03|1222|02C3
+04|1229|0015
+02|122C|000A|Dungbreath
+03|123E|0023
+03|1251|0010
+02|1254|0008|stranger
+03|1264|0281
+04|126B|0015
+02|126E|000A|Dungbreath
+03|1280|0023
+03|1293|0010
+02|1296|0008|stranger
+04|12B8|00AD
+04|12BE|001B
+02|12C1|0006|What, 
+02|12CE|0002|? 
+03|12D9|006C
+04|12E1|001F
+02|12E4|0014|Must you pester me? 
+03|1300|0045
+02|1303|003D|I am not a sage. I have no great information to give to you. 
+02|134A|0012|What do you want? 
+03|1365|016F
+04|136F|008E
+04|1375|0035
+02|1378|002A|Go away! I do not wish to speak with you. 
+03|13AA|0050
+04|13B2|002A
+02|13B5|001F|I don't like you. Leave me be! 
+03|13DC|001E
+02|13DF|0016|Disturb me no longer. 
+03|13FD|00D7
+04|1407|002B
+02|140B|000F|You die, fool! 
+03|142F|00B6
+03|1432|00A2
+04|1438|0033
+02|143B|000D|Hello again, 
+02|144F|0013|. What do you want?
+03|146B|0069
+04|1473|0033
+02|1478|001C|What do you want of me now, 
+02|149B|0001|?
+03|14A6|002E
+02|14AB|0023|Greetings again. What do you need? 
+01|14F2|14F2
+02|14FC|0008|stranger
+02|150C|0009|Farewell.
+04|1521|0015
+02|1524|000A|Dungbreath
+03|1536|0023
+03|1549|0010
+02|154C|0008|stranger
+04|156E|0077
+04|1574|001E
+02|1577|000A|Leave me, 
+02|1588|0001|.
+03|1592|0050
+04|159A|0014
+02|159D|0009|Go away! 
+03|15AE|0034
+02|15B1|000D|Have a care, 
+02|15C5|0017|. I am no gentle giant.
+03|15E5|01D8
+04|15EF|018E
+04|15F5|0077
+02|15F8|002F|I can see that you will not survive long here, 
+02|162E|0035|. Good luck to you. With your tongue, you'll need it.
+03|166C|010E
+04|1674|0050
+02|1677|0045|My temper will be kept only for so long. Go now while you still may. 
+03|16C4|00B6
+02|16C7|00AE|I have held my temper long enough!... No, I will not destroy you yet. But be warned, you have crossed the threshold into dangerous territory. Few have survived where you go. 
+03|177D|0040
+04|1783|001D
+02|1786|0009|Adeus, 
+02|1796|0001|.
+03|17A0|001D
+04|17A8|0015
+02|17AB|000A|Farewell. 
+01|17D7|17D7
+04|17E5|0015
+02|17E8|000A|Dungbreath
+03|17FA|0023
+03|180D|0010
+02|1810|0008|stranger
+04|1832|0086
+04|1838|003F
+02|183B|0034|This is boring, I will not wait upon your slow wit. 
+03|1877|003E
+04|187F|0036
+02|1882|0006|Well, 
+02|188F|001D|, I cannot wait here forever.
+03|18B8|0181
+04|18C2|00AE
+04|18C8|0046
+02|18CB|001F|I find you irritating. Go now, 
+02|18F1|0014|, and do not return.
+03|190E|005F
+02|1911|0057|I will not kill you yet, fool. But if you ever speak to me again, you will risk death. 
+03|1970|00C9
+04|1976|0071
+02|1979|0045|Perhaps your thoughts are too much for your little mind. Think less, 
+02|19C5|0019|, it will serve you well.
+03|19E7|0052
+04|19EF|004A
+02|19F2|003F|If you wish to speak, you must first open your mouth, dullard. 
+01|1A5E|1A5E
+04|1A77|0015
+02|1A7A|000A|Dungbreath
+03|1A8C|0023
+03|1A9F|0010
+02|1AA2|0008|stranger
+02|1AB2|0014|I meant no offense. 
+02|1ACA|001A|Must you be so obstinate? 
+04|1AF6|0038
+02|1AF9|0026|You will tell me what I want to know! 
+03|1B2E|003B
+04|1B38|0024
+02|1B3B|0012|I will crush you! 
+03|1B69|028D
+02|1B6C|000B|Nevermind. 
+02|1B88|000B|Nevermind. 
+04|1B99|025D
+02|1BB7|0014|I meant no offense. 
+04|1BD0|0075
+02|1BD4|0043|Some was taken, but I am a forgiving sort. What do you want of me? 
+06|1C35|041F:24D8
+03|1C42|01B4
+03|1C45|01AE
+02|1C4A|001A|Must you be so obstinate? 
+04|1C69|0040
+02|1C6D|0024|Only to those of a churlish nature. 
+03|1CA6|0150
+03|1CA9|014A
+02|1CAE|0026|You will tell me what I want to know! 
+04|1CD9|0047
+02|1CDD|0020|Leave... here... now. Else die. 
+03|1D1D|00D9
+03|1D20|00D3
+02|1D25|001C|You are not worthy to live! 
+04|1D46|007F
+02|1D4A|0059|You are wrong, it is you who are not worthy, and I shall prove it upon your body, knave! 
+03|1DC2|0034
+03|1DC5|002E
+02|1DCA|000B|Nevermind. 
+06|1DE6|041F:17D7
+03|1DF6|FD8D
+01|1E03|1E03
+05|1E0F|0581:1A85
+04|1E20|0227
+04|1E28|00FC
+02|1E2C|00E3|Do you know what you have done? You have allowed Bane to destroy one of the most powerful, resourceful, and courageous Sorcerers this isle has ever known. I shall never forgive you for it, even though Malchir has. Leave me be. 
+03|1F24|0115
+04|1F2E|0071
+02|1F32|0058|Go! You have killed my closest comrade! What else would you have of me? Leave me alone! 
+03|1F9F|009A
+04|1FA9|0086
+02|1FAD|006D|If you speak to me again, I shall allow you to feel the agony that you visited upon my friend! Leave or die! 
+03|2047|0276
+04|204D|00C3
+02|2051|00AA|Now that Vardion has allowed you to join us, you should learn as much from him as you can. Vardion always says that a moment spent in study is worth a day spent at play. 
+03|2110|0134
+04|2118|009E
+02|211C|0085|I thank you for helping to destroy that conniving kith, Bane. She would have driven the Sorcerers into open war with the Tenebraens. 
+03|21B6|008E
+02|21BA|0078|Prepare for the Trials of the Obsidian Fortress as best as you can. You are not allowed to leave once you have entered. 
+02|2248|0063|Forgive me, for I can speak no more at the moment, matters weigh heavily upon my mind... Farewell. 
+01|22C2|22C2
+06|22DA|057C:15E7
+04|22EE|00D0
+02|22F2|00B1|Master! I am not worthy. Forgive my lack of attentiveness. I will return to my studies. There is no need for punishment. I promise that my performance will improve. You'll see. 
+03|23BE|00A0
+02|23C2|008A|Forgive me. I have offended you. I never seem to do things right. I will redouble my efforts to make your faith in me not seem misplaced. 
+06|2469|0581:1C19
+06|2486|057C:15E7
+01|2497|2497
+04|249D|0030
+02|24A0|001A|Don't call me Dungbreath. 
+05|24C0|0581:3695
+01|24D8|24D8
+02|24F6|0024|What can you tell me of this place? 
+04|252A|0024
+02|252D|0015|What do you do here? 
+04|2555|0015
+02|2558|000A|Dungbreath
+03|256A|0023
+03|257D|0010
+02|2580|0008|stranger
+02|2590|000A|Farewell. 
+02|25AB|000A|Farewell. 
+04|25BB|2412
+05|25C0|0581:29B4
+04|25CD|00ED
+02|25D0|0018|Is there anything else, 
+02|25EF|0001|?
+02|260A|0024|What can you tell me of this place? 
+04|263E|0024
+02|2641|0015|What do you do here? 
+04|2669|0015
+02|266C|000A|Dungbreath
+03|267E|0023
+03|2691|0010
+02|2694|0008|stranger
+02|26A4|000A|Farewell. 
+02|26BD|000A|Farewell. 
+05|26CD|0581:3695
+02|26F8|0024|What can you tell me of this place? 
+04|2721|00B9
+02|2725|0006|Well, 
+02|2732|0021|, this is the Sorcerer's Enclave.
+02|2769|0022|Tell me about Sorcerer's Enclave. 
+04|2799|002E
+02|279C|001F|What can you say of Sorcerers? 
+05|27CC|041F:2497
+03|27DA|21D7
+02|27DF|0015|What do you do here? 
+04|27F9|0088
+02|27FD|0011|I am a Sorcerer. 
+04|2826|002E
+02|2829|001F|What can you say of Sorcerers? 
+02|2859|0015|What do you do here? 
+03|2881|2130
+02|2886|001A|Don't call me Dungbreath. 
+04|28A5|0372
+02|28A9|0020|Tell me your name, and I won't. 
+02|28DE|000D|I am called, 
+02|28F5|0001|.
+02|2901|0013|Why must you know? 
+02|2918|0015|I will not tell you. 
+04|2956|0063
+02|295A|0035|That's much better. Now we can be on speaking terms. 
+03|29B9|0232
+02|29BE|0013|Why must you know? 
+04|29D6|01A9
+02|29DA|0056|I don't, I just will continue to call you Dungbreath until I know a name to call you. 
+02|2A45|0014|Fine then, call me, 
+02|2A63|0001|.
+02|2A6F|0015|You will never know. 
+04|2AAD|0063
+02|2AB1|0035|That's much better. Now we can be on speaking terms. 
+03|2B10|006C
+02|2B15|0015|You will never know. 
+04|2B2F|002B
+02|2B33|0012|Fine, Dungbreath. 
+03|2B5A|0022
+06|2B60|041F:17D7
+02|2B6D|000A|Farewell. 
+03|2B7F|006C
+02|2B84|0015|I will not tell you. 
+04|2B9E|002B
+02|2BA2|0012|Fine, Dungbreath. 
+03|2BC9|0022
+06|2BCF|041F:17D7
+02|2BDC|000A|Farewell. 
+02|2BF0|001A|Don't call me Dungbreath. 
+03|2C17|1D9A
+02|2C1C|0022|Tell me about Sorcerer's Enclave. 
+04|2C43|00F3
+02|2C47|000C|Let me see, 
+02|2C5A|0048|. It's in a ravine. It's filled with lava. Hmmm... Yes, that's about it.
+02|2CB8|0021|You're not very bright, are you? 
+02|2CDD|0019|I see. That was helpful. 
+02|2CFA|0021|What an... esoteric description. 
+05|2D28|041F:2497
+03|2D36|1C7B
+02|2D3B|001F|What can you say of Sorcerers? 
+04|2D5F|00E8
+02|2D63|006D|Oh, quite a bit. I am most knowledgeable, you know. I have studied here for a long time. Since I was a babe. 
+02|2DE5|001A|Well... What can you say? 
+02|2E03|0014|You were born here? 
+02|2E1B|001D|I find that hard to believe. 
+03|2E47|1B6A
+02|2E4C|0021|Not really very bright, are you? 
+04|2E72|0059
+02|2E76|0035|Smart enough not to speak to someone who insults me! 
+03|2ECB|1AE6
+02|2ED0|0019|I see. That was helpful. 
+04|2EEE|0181
+02|2EF2|00B6|Thank you. Glad to be of aid. Vardion always says that I am so mercifully free of cluttering thoughts. I'm not sure what he means, but he smiles when he says it. So it must be good. 
+02|2FBD|000A|Farewell. 
+04|2FD5|0028
+02|2FD8|0019|Vardion? Tell me of him. 
+02|3000|001B|You -are- free of thought. 
+02|301F|0021|I think he means you are stupid. 
+02|3044|001C|It is good to have friends. 
+03|306F|1942
+02|3074|0021|What an... esoteric description. 
+04|309A|0103
+02|309E|006F|Do you think so? What's esso?... Bane uses that word sometimes. She's not nice like Vardion. What do you mean? 
+02|3122|001F|Nothing. Don't worry about it. 
+02|3145|001F|Tell me what you know of Bane. 
+04|3172|0028
+02|3175|0019|Vardion? Tell me of him. 
+03|319D|1814
+02|31A2|001A|Well... What can you say? 
+04|31C1|009D
+02|31C5|0012|Hmmm? About what, 
+02|31DE|0001|?
+02|31F7|001A|Well... What can you say? 
+02|321E|001A|About Sorcerer's Enclave! 
+05|323E|0581:3650
+05|3250|041F:2497
+03|325E|1753
+02|3263|0014|You were born here? 
+04|327C|00CD
+02|3280|005D|Of course. Are you a simpleton? All Pagans are born on this island. Not very smart, are you? 
+02|32F4|0014|You were born here? 
+02|3315|001E|I meant, here in the Enclave. 
+05|3339|0581:3650
+03|3349|1668
+02|334E|001D|I find that hard to believe. 
+04|3370|00A1
+02|3374|0027|No, really. I was a child at one time. 
+02|33B2|001D|I find that hard to believe. 
+02|33DC|001F|No. Your knowledge is suspect. 
+05|3401|0581:3650
+03|3411|15A0
+02|3416|0019|Vardion? Tell me of him. 
+04|3434|0114
+02|3438|0091|He is the greatest Pagan alive. Um, except for the Master, perhaps. He knows so many things. It hurts my head to even think about what he knows. 
+02|34DE|0014|Why is he so great? 
+02|34F6|001F|Can you tell me what he knows? 
+04|3523|0022
+02|3526|0013|Who is the Master. 
+03|3548|1469
+02|354D|001A|About Sorcerer's Enclave! 
+04|356C|005A
+02|3570|0036|I can tell you this... You are beginning to anger me! 
+03|35C6|13EB
+02|35CB|001F|Tell me what you know of Bane. 
+04|35EF|01BA
+04|35F7|0085
+02|35FB|001F|Why, is she a friend of yours? 
+02|362F|001A|As a matter of fact, yes. 
+02|364D|0013|No, of course not. 
+02|3664|0010|Why do you ask? 
+04|3683|009C
+02|3687|0055|I have already told you. She is a back-stabbing, foul-tempered, mean-spirited wench. 
+02|36F3|001F|Tell me what you know of Bane. 
+03|371F|0087
+02|3723|001B|Vardion has plans for her. 
+04|3756|0028
+02|3759|0019|Vardion? Tell me of him. 
+04|3784|0022
+02|3787|0013|Tell me his plans. 
+03|37A9|1208
+02|37AE|0021|I think he means you are stupid. 
+04|37D4|0040
+02|37D8|001C|And I think you are a dolt! 
+03|3814|119D
+02|3819|001C|It is good to have friends. 
+04|383A|0071
+02|383E|002D|Yes, and Vardion is the best friend to have. 
+02|3882|001C|It is good to have friends. 
+03|38AB|1106
+02|38B0|001B|You -are- free of thought. 
+04|38D0|0086
+02|38D4|002A|Thank you. But you are not very original, 
+02|3905|0001|.
+02|391E|001B|You -are- free of thought. 
+05|3948|041F:2497
+03|3956|105B
+02|395B|001F|Nothing. Don't worry about it. 
+04|397F|0050
+02|3983|0009|I won't. 
+02|39A3|001F|Nothing. Don't worry about it. 
+03|39CF|0FE2
+02|39D4|001F|No. Your knowledge is suspect. 
+04|39F8|00B7
+02|39FC|0013|A suspect of what? 
+02|3A26|001F|No. Your knowledge is suspect. 
+02|3A52|001F|Do you know anything of value? 
+02|3A75|0021|That's it. I've had it. Goodbye! 
+05|3A9F|0581:3674
+03|3AAF|0F02
+02|3AB4|001E|I meant, here in the Enclave. 
+04|3AD7|00B9
+02|3ADB|0022|Oh, yes. I was born in this room. 
+02|3B04|0039| I don't remember anything about it though. So don't ask.
+02|3B55|001E|I meant, here in the Enclave. 
+05|3B82|041F:2497
+03|3B90|0E21
+02|3B95|0014|Why is he so great? 
+04|3BAE|00D7
+02|3BB2|003C|Because he is the First Acolyte, and... because he said so. 
+02|3C03|0019|What is a First Acolyte? 
+04|3C2A|0026
+02|3C2D|0017|Acolyte? What is that? 
+02|3C53|0023|Do you believe everything he says? 
+03|3C85|0D2C
+02|3C8A|001F|Can you tell me what he knows? 
+04|3CAE|0089
+02|3CB2|0042|No! I told you it hurts to even think about it. You must be deaf. 
+02|3D0B|001F|Can you tell me what he knows? 
+03|3D37|0C7A
+02|3D3C|0013|Who is the Master. 
+04|3D54|00C8
+02|3D58|002F|Master Malchir is the leader of the Sorcerers. 
+02|3D9C|001E|Tell me about Master Malchir. 
+02|3DBE|001F|How did Malchir become leader? 
+04|3DEB|002E
+02|3DEE|001F|What can you say of Sorcerers? 
+03|3E1C|0B95
+02|3E21|001A|As a matter of fact, yes. 
+04|3E40|00B0
+02|3E44|0068|Well, guard your back well. You would be suprised what might sprout from it, with her as your 'friend'. 
+02|3EC3|001A|As a matter of fact, yes. 
+03|3EF0|0AC1
+02|3EF5|0013|No, of course not. 
+04|3F0D|00D3
+02|3F11|0042|Well, you should know that Vardion has some plans concerning her. 
+02|3F6A|0013|No, of course not. 
+04|3F8D|0028
+02|3F90|0019|Vardion? Tell me of him. 
+04|3FBB|0022
+02|3FBE|0013|Tell me his plans. 
+03|3FE0|09D1
+02|3FE5|0010|Why do you ask? 
+04|3FFA|00D9
+02|3FFE|009B|Because she is a back-stabbing, foul-tempered, mean-spirited wench. And she hates me. I don't know why, but now I hate her too. Again, is she your friend? 
+02|40B0|0010|Why do you ask? 
+03|40D3|08DE
+02|40D8|0021|That's it. I've had it. Goodbye! 
+04|40FE|0025
+06|4104|041F:14F2
+02|4111|000A|Farewell. 
+03|4123|088E
+02|4128|001F|Do you know anything of value? 
+04|414C|0087
+02|4150|0063|I know that you are beginning to irritate me. And that I don't have to listen to you. Leave me be. 
+03|41D3|07DE
+02|41D8|0013|Tell me his plans. 
+04|41F0|006E
+02|41F4|0033|No, I can't do that. You have to ask him yourself. 
+02|423E|0013|Tell me his plans. 
+03|425E|0753
+02|4263|001E|Tell me about Master Malchir. 
+04|4286|012C
+02|428A|0084|Why should I? You aren't a Sorcerer. And if you want to be one, you should talk to Vardion. I don't have the patience to train you. 
+02|4325|001E|Tell me about Master Malchir. 
+04|4353|002E
+02|4356|001F|What can you say of Sorcerers? 
+04|4387|0028
+02|438A|0019|Vardion? Tell me of him. 
+03|43B2|05FF
+02|43B7|001F|How did Malchir become leader? 
+04|43DB|0139
+02|43DF|00C6|How should I know? He was Master when I started learning to walk. In my first memories, I remember hearing him say that I would be a strong Acolyte one day. This seemed to bring him great pleasure. 
+02|44BC|001F|How did Malchir become leader? 
+04|44EB|0026
+02|44EE|0017|Acolyte? What is that? 
+03|4514|049D
+02|4519|0019|What is a First Acolyte? 
+04|4537|00D4
+02|453B|006B|That is the Sorcerer who runs the Enclave in the Master's absence. Really, that's just about all the time. 
+02|45BD|0019|What is a First Acolyte? 
+04|45E6|0022
+02|45E9|0013|Who is the Master. 
+03|460B|03A6
+02|4610|0017|Acolyte? What is that? 
+04|462C|0088
+02|4630|0017|You're looking at one. 
+02|465E|0017|Acolyte? What is that? 
+02|4682|0023|What does being an Acolyte entail? 
+03|46B4|02FD
+02|46B9|0023|Do you believe everything he says? 
+04|46E1|007C
+02|46E5|0031|Yes. He has never lied to me yet. He told me so. 
+02|472D|0023|Do you believe everything he says? 
+03|475D|0254
+02|4762|0023|What does being an Acolyte entail? 
+04|478A|00E5
+02|478E|0027|We assist the Master with his rituals, 
+02|47BC|0037|. He draws upon our power to replace his when it wanes.
+02|480B|0023|What does being an Acolyte entail? 
+02|483B|000E|What rituals? 
+05|4861|041F:2497
+03|486F|0142
+02|4874|000E|What rituals? 
+04|4887|0094
+02|488B|002A|I can't tell you. You are not a Sorcerer. 
+02|48CC|000E|What rituals? 
+04|48EA|002E
+02|48ED|001F|What can you say of Sorcerers? 
+03|491B|0096
+02|4920|000A|Farewell. 
+06|4935|041F:14F2
+03|4942|006F
+02|4947|0000|
+04|494C|0025
+06|4952|041F:17D7
+02|495F|000A|Farewell. 
+03|4971|0040
+02|4975|002A|I can't understand you. What did you say? 
+04|49B8|0012
+02|49BB|000A|Farewell. 
+03|49CD|DBD9

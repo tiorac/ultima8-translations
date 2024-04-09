@@ -1,0 +1,75 @@
+01|0080|0080
+04|0094|0028
+02|0098|000F|dead guardsman 
+03|00BC|0020
+02|00C0|000A|guardsman 
+01|00E1|00E1
+05|0122|0581:2A56
+06|012B|040B:077B
+01|0136|0136
+06|015B|057C:143A
+06|0177|057C:133F
+01|0188|0188
+05|019A|0581:2A56
+01|01A3|01A3
+02|01B0|000B|Guardsman! 
+06|01CF|057C:0BCF
+06|01E4|0581:1C19
+05|01F8|0581:2A56
+04|0232|005E
+02|0236|0032|Run for you life, fool! The Titans have gone mad! 
+06|0280|057C:1090
+03|028D|04E5
+03|0290|00AA
+04|0297|00A3
+02|029B|0077|Lithos makes the land quake and the dead rise. Run, fool, and hide before the very city falls to the undead onslaught. 
+06|032A|057C:1090
+03|0337|043B
+04|0341|00A8
+04|0348|0029
+02|034C|000A|What now? 
+03|0371|0075
+04|0380|0030
+02|0384|0017|What can I do for you? 
+03|03B0|0036
+02|03B4|0020|What questions do you have now? 
+03|03E9|0038
+02|03ED|001C|What do you want, stranger? 
+02|0424|000D|Who are you? 
+02|0435|0013|What is your duty? 
+02|044C|000C|Where am I? 
+02|045C|0004|Bye 
+02|046D|0004|Bye 
+04|0477|02FB
+02|0495|000D|Who are you? 
+04|04A7|00C6
+02|04AC|000D|Who are you? 
+02|04C7|006F|I am the one who is going to be poking a certain meddler with a halberd, if he does not mind his	own business. 
+02|054C|000C|Understand? 
+03|056D|0202
+02|0572|0013|What is your duty? 
+04|058A|00D5
+02|058F|0013|What is your duty? 
+02|05B0|007C|What does it look like? My job is pounding these cobblestones back down into the dirt. They keep coming out of the roadway. 
+02|0642|0008|Fool... 
+03|065F|0110
+02|0664|000C|Where am I? 
+04|0675|00A6
+02|067A|000C|Where am I? 
+02|0694|001E|What do I look like? A guide? 
+02|06C8|0025|Leave me, I must be about my duties! 
+06|0705|057C:1090
+03|0718|005A
+03|071B|0054
+02|0720|0004|Bye 
+04|0729|0046
+02|072C|001F|Fine. I must get back to work. 
+06|075F|057C:1090
+03|0772|FCF6
+01|077B|077B
+06|07C9|0581:1C19
+06|07E1|057C:091C
+06|07F8|0581:1C19
+06|0852|0581:1C19
+06|086A|057C:091C
+06|0881|0581:1C19

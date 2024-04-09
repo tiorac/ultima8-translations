@@ -1,0 +1,37 @@
+01|0080|0080
+03|00BF|070E
+05|012A|057C:0113
+06|0145|057C:15E7
+06|015C|0583:1F65
+06|016F|0581:1C19
+06|01B3|0581:1C19
+05|01C8|057C:0113
+06|01D7|0581:1C19
+06|01FB|057C:091C
+06|0232|0581:1C6D
+02|024C|0122|Greetings Disciple.*You will remain within this fortress until you have found my inner sanctum, or you are dead. Even then, you shall not leave this place. Within the chamber beyond this hall you will see the fate that befalls those who fail. The Trials of the Obsidian Fortress begin now. 
+06|03B2|057C:091C
+06|03D3|057C:15E7
+06|03F4|057C:15E7
+05|0462|0581:1A96
+05|0476|0581:1A96
+06|048E|0581:1C19
+06|04D6|057C:15E7
+06|04EF|057C:15E7
+05|052E|057C:0113
+06|054F|057C:15E7
+06|0570|057C:15E7
+06|059B|057C:091C
+02|05AD|001B|Guardians! Do your duties! 
+06|05F5|057C:15E7
+06|0608|0581:1C19
+02|061D|0052|Farewell, Disciple. I sincerely hope you survive to become an Acolyte. Good luck. 
+06|0695|057C:15E7
+06|06A8|0581:1C19
+06|06BF|0583:1F65
+06|06D2|0581:1C19
+05|06E7|057C:0113
+06|06F6|0581:1C19
+05|0739|057C:0113
+06|076C|0581:1C6D
+06|07B0|0581:1C19

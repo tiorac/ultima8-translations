@@ -1,0 +1,652 @@
+01|0080|0080
+04|008F|0021
+02|0093|0008|Corinth 
+03|00B0|001C
+02|00B4|0006|Woman 
+01|00D1|00D1
+06|0108|057C:15E7
+04|0146|00B2
+04|015C|0052
+02|0166|0023|I would not do that if I were you! 
+06|01A1|040F:02BA
+03|01AE|004A
+02|01B2|000D|Stop! Thief! 
+06|01DD|0581:1C19
+06|01F0|058B:0080
+01|01FD|01FD
+05|022F|0581:28F9
+05|0238|0581:28F9
+05|0257|0581:28F9
+05|0260|0581:28F9
+06|0287|057C:143A
+06|02A9|057C:133F
+01|02BA|02BA
+06|0309|040F:0364
+06|033B|040F:09B5
+01|0349|0349
+05|035B|0581:2A56
+01|0364|0364
+06|03FB|057C:091C
+06|0418|057C:15E7
+06|042A|040F:04DC
+06|0448|057C:15E7
+06|045F|0581:1C19
+06|047C|057C:15E7
+06|0497|0581:1C19
+06|04B4|057C:15E7
+01|04DC|04DC
+05|053A|0581:1CE3
+04|054A|0204
+04|055D|0072
+06|0572|057C:091C
+02|0582|0007|Hello. 
+06|05AC|057C:15E7
+06|05C3|0581:1C19
+04|05D7|0072
+02|05DB|0028|I -do- wish that we had a larger house. 
+06|0626|057C:15E7
+06|063D|0581:1C19
+04|0651|0048
+02|0655|001B|Oh how I miss my baby boy. 
+06|068D|0581:1C19
+04|06A1|00AA
+06|06B6|057C:091C
+06|06D3|057C:15E7
+02|06E3|0017|Do you need something? 
+06|0717|0581:1C19
+02|0727|0012|Very well then... 
+03|074E|0262
+06|076C|057C:091C
+04|0780|0036
+02|0784|001D|We must clean up this house. 
+03|07B6|01FA
+04|07BE|0073
+02|07C2|0029|I wonder what Cyrrus is doing right now? 
+06|080E|057C:15E7
+06|0825|0581:1C19
+04|0839|001F
+02|083D|0009|No rats! 
+04|0860|005E
+02|0864|0014|Mmmm, kith fillets! 
+06|089B|057C:15E7
+06|08B2|0581:1C19
+04|08C6|002C
+02|08CA|0016|I truly despise rats! 
+04|08FA|002D
+02|08FE|0017|I need some kith milk. 
+04|092F|0081
+02|0933|0037|I certainly am glad that a kith did not devour Cyrrus. 
+06|098D|057C:15E7
+06|09A4|0581:1C19
+01|09B5|09B5
+06|0A4C|057C:091C
+06|0A69|057C:15E7
+06|0A7B|040F:0B2D
+06|0A99|057C:15E7
+06|0AB0|0581:1C19
+06|0ACD|057C:15E7
+06|0AE8|0581:1C19
+06|0B05|057C:15E7
+01|0B2D|0B2D
+05|0B8B|0581:1CE3
+04|0B9B|01FF
+04|0BAE|0072
+06|0BC3|057C:091C
+02|0BD3|0007|Hello. 
+06|0BFD|057C:15E7
+06|0C14|0581:1C19
+04|0C28|006D
+02|0C2C|0023|All day long, all I see are torax. 
+06|0C72|057C:15E7
+06|0C89|0581:1C19
+04|0C9D|0048
+02|0CA1|001B|Oh how I miss my baby boy. 
+06|0CD9|0581:1C19
+04|0CED|00AA
+06|0D02|057C:091C
+06|0D1F|057C:15E7
+02|0D2F|0017|Do you need something? 
+06|0D63|0581:1C19
+02|0D73|0012|Very well then... 
+03|0D9A|0294
+06|0DB8|057C:091C
+04|0DCC|0049
+02|0DD0|0030|I wonder what the people in Tenebrae are doing? 
+03|0E15|0219
+04|0E1D|0073
+02|0E21|0029|I wonder what Cyrrus is doing right now? 
+06|0E6D|057C:15E7
+06|0E84|0581:1C19
+04|0E98|0029
+02|0E9C|0013|No rats! NO RATS!! 
+04|0EC9|006C
+02|0ECD|0022|I hope that no kiths come around. 
+06|0F12|057C:15E7
+06|0F29|0581:1C19
+04|0F3D|002C
+02|0F41|0016|I truly despise rats! 
+04|0F71|0036
+02|0F75|0020|I need some variety in my life. 
+04|0FAF|007F
+02|0FB3|0035|I wish that Gwillim were more sensitive to my needs. 
+06|100B|057C:15E7
+06|1022|0581:1C19
+01|1033|1033
+06|1041|057C:0BCF
+02|104F|000A|Greetings 
+02|106E|000B|I'm called 
+02|1083|0001|.
+04|1091|007C
+04|1098|004A
+02|109B|001B|I -do- apologize, my lady. 
+02|10BA|0020|Don't turn away from me, woman! 
+03|10EC|4FA4
+03|10EF|001B
+02|10F2|0010|Hello, Corinth. 
+03|110D|009B
+04|1114|004D
+02|1117|001B|I -do- apologize, my lady. 
+02|1136|0020|Don't turn away from me, woman! 
+03|1161|0047
+02|1164|0011|Hello, stranger. 
+02|1179|001A|I hope I'm not intruding. 
+02|1197|0009|Adeus 
+02|11AD|0009|Adeus 
+04|11BC|4ED4
+02|11C1|0009|Adeus 
+02|11D9|0009|Adeus 
+02|1209|0011|Hello, stranger. 
+04|121F|00A6
+02|1223|005B|Pardon me, sir, but I ask that you treat me with a bit more respect here upon my own land. 
+02|1293|0015|I apologize, m'lady. 
+02|12AC|000E|Quiet, woman! 
+03|12C5|4DC8
+02|12CA|0015|I apologize, m'lady. 
+04|12E4|0100
+02|12E8|00BC|Apology accepted, sir. I hope that I was not too terse in my response. We certainly do not get many strangers up here. Allow me to introduce my self; I am Corinth. By what are you called? 
+02|13BB|0018|I would rather not say. 
+03|13E4|4CA9
+02|13E9|0020|Don't turn away from me, woman! 
+04|140E|00B6
+02|1412|0055|What? I cannot believe how rude you are! Go away before I call the Tenebrae guards!! 
+02|1484|0020|Don't turn away from me, woman! 
+06|14B4|057C:1090
+03|14C1|4BCF
+03|14C4|4BC9
+04|14CC|00A9
+02|14D0|0020|Well, I am pleased to meet you, 
+02|14FA|0017|. You are welcome here.
+02|1527|0022|So, you don't see many strangers? 
+02|154D|0009|Corinth? 
+02|155A|0010|What do you do? 
+03|1575|4B18
+02|157A|0018|I would rather not say. 
+04|1597|006F
+02|159B|001C|Very well, I shall not pry. 
+02|15CC|0022|So, you don't see many strangers? 
+02|15F2|0009|Corinth? 
+03|1606|4A87
+02|160B|000E|Quiet, woman! 
+04|161E|008B
+02|1622|003C|I will not tolerate such rudeness. Get off of my land, now! 
+02|1675|000E|Quiet, woman! 
+06|1699|057C:1090
+03|16A6|49EA
+03|16A9|49E4
+02|16AE|0009|Corinth? 
+04|16BC|00C6
+02|16C0|0075|I was named for my mother who did not survive my birth. Father wished to preserve her memory by naming me after her. 
+02|174C|0007|Father 
+02|1757|0007|Mother 
+02|176C|0009|Corinth? 
+03|1782|490B
+02|1787|0007|Mother 
+04|1793|0063
+02|1797|0034|Did you not hear me? I said that my mother is dead. 
+02|17E2|0007|Mother 
+03|17F6|4897
+02|17FB|0007|Father 
+04|1807|00D5
+02|180B|006E|Lleu was my father but he is dead now. Lleu was a fine herdsman but his devotion to his herd cost him dearly. 
+02|1890|0013|He was a herdsman? 
+02|18A7|000A|Cost him? 
+02|18B5|0005|Lleu 
+02|18C8|0007|Father 
+03|18DC|47B1
+02|18E1|0005|Lleu 
+04|18EB|00B9
+02|18EF|0065|Yes, Lleu, it's an old name. It is rarely used today. In many ways my father's name suited him well. 
+02|196B|000C|Suited him? 
+02|197B|0009|old name 
+02|1992|0005|Lleu 
+03|19A4|46E9
+02|19A9|000C|Suited him? 
+04|19BA|0091
+02|19BE|003E|My father was an old fashioned man with old fashioned values. 
+02|1A13|0011|Old values, huh? 
+02|1A32|000C|Suited him? 
+03|1A4B|4642
+02|1A50|0011|Old values, huh? 
+04|1A66|00F3
+02|1A6A|0098|Well I don't mean to say that we don't have values today. I certainly don't want you to get the impression that I'm not happy with our people's values. 
+02|1B19|0014|our people's values 
+02|1B3B|0011|Old values, huh? 
+03|1B59|4534
+02|1B5E|001B|I -do- apologize, my lady. 
+04|1B7E|0098
+02|1B82|0054|Very well, sir, I accept your apology. I am called Corinth. By what are you called? 
+02|1BED|0018|I would rather not say. 
+03|1C16|4477
+02|1C1B|0010|Hello, Corinth. 
+04|1C30|0090
+02|1C34|003A|Well, hello, my friend. I hope that all is well with you. 
+02|1C85|0010|What do you do? 
+02|1CA3|0010|Hello, Corinth. 
+03|1CC0|43CD
+02|1CC5|0009|old name 
+04|1CD3|007F
+02|1CD7|0033|It is a very old name. But it's not a Zealan name. 
+02|1D21|000D|Zealan name? 
+02|1D3C|0009|old name 
+03|1D52|433B
+02|1D57|000D|Zealan name? 
+04|1D69|009D
+02|1D6D|0045|That is what I was told. Actually, I know nothing about the Zealans. 
+02|1DC9|0015|Who are the Zealans? 
+02|1DEC|000D|Zealan name? 
+03|1E06|4287
+02|1E0B|0015|Who are the Zealans? 
+04|1E25|016F
+02|1E29|0132|All I know of them are but dim memories of stories that I was told as a child. Supposedly there were a race of people that once lived here on Pagan who were quite savage. My father used to tell me that if I did not behave, the Zealans would come and get me. Anyway, that is all that I know of the Zealans. 
+02|1F72|0015|Who are the Zealans? 
+03|1F94|40F9
+02|1F99|0014|our people's values 
+04|1FB2|00B7
+02|1FB6|0064|Lady Mordea has given us a culture to be proud of. Life is certainly better today than in the past. 
+02|2031|0009|the past 
+02|2048|0014|our people's values 
+03|2069|4024
+02|206E|0009|the past 
+04|207C|0072
+02|2080|0041|Her Ladyship has given us peace and order. I am happy with that. 
+02|20D8|0009|the past 
+03|20EE|3F9F
+02|20F3|0013|He was a herdsman? 
+04|210B|0089
+02|210F|004E|Lleu was a herdsman from the time that he was a boy. It was all that he knew. 
+02|2174|0013|He was a herdsman? 
+03|2194|3EF9
+02|2199|000A|Cost him? 
+04|21A8|007A
+02|21AC|0048|Yes, long ago Lleu's herd was attacked by a kith. The kith killed Lleu. 
+02|220B|000A|Cost him? 
+03|2222|3E6B
+02|2227|001A|I hope I'm not intruding. 
+04|2246|00DF
+02|224A|00A5|No, you are welcome here. Although you did alarm me a bit. We do no get many strangers up here. Still, it is not for simple folk to say where and when -you- travel. 
+02|2304|0016|Do you know who I am? 
+03|2325|3D68
+02|232A|0016|Do you know who I am? 
+04|2345|0107
+02|2349|00C6|Well, to be honest, no. But, someone of my stature certainly has no business telling a warrior what he can or can not do. But I have not introduced myself. I am Corinth. And by what are you called? 
+02|2426|0015|I prefer not to say. 
+03|244C|3C41
+04|2454|007C
+02|2458|000A|Well met, 
+02|246C|0019|. It is good to know you.
+02|249B|0010|What do you do? 
+02|24AF|0009|Corinth? 
+03|24D0|3BBD
+02|24D5|0015|I prefer not to say. 
+04|24EF|0093
+02|24F3|0042|Very well, I am sure that you have your reasons for your secrecy. 
+02|254A|0019|You think I'm a warrior? 
+02|2567|0010|What do you do? 
+03|2582|3B0B
+02|2587|0019|You think I'm a warrior? 
+04|25A5|00CF
+02|25A9|008E|Come now, do not be modest. You have the obvious look of a warrior. Look how you are dressed! I may live in the country, but I am not stupid. 
+02|264E|0019|You think I'm a warrior? 
+03|2674|3A19
+02|2679|0010|What do you do? 
+04|268E|00DF
+02|2692|007F|As we live in the country, away from most people, I do many things. Since my son did move away I am not as busy as I once was. 
+02|2728|000C|Many things 
+02|2738|000A|Your son? 
+02|2750|0010|What do you do? 
+03|276D|3920
+02|2772|000C|Many things 
+04|2783|00DE
+02|2787|0083|I take care of my husband, feed him, stitch his clothes and such. I also keep the house and help tend the torax from time to time. 
+02|2821|000E|Your husband? 
+02|2833|0007|Torax? 
+02|2848|000C|Many things 
+03|2861|382C
+02|2866|000A|Your son? 
+04|2875|00C2
+02|2879|006F|My dear Cyrrus. I am so proud of him. His father and I are but simple people. But Cyrrus will do great things. 
+02|28FD|000C|His father? 
+02|290D|000E|Great things? 
+02|291F|000D|Simple folk. 
+03|2937|3756
+02|293C|000C|His father? 
+04|294D|0057
+02|2951|0023|That would be my husband, Gwillim. 
+02|298B|000C|His father? 
+03|29A4|36E9
+02|29A9|000D|Simple folk. 
+04|29BB|015F
+02|29BF|00E6|Look about you, my lord. Does this look like the home of a wealthy family? Ours are not easy lives, yet we are proud people. Not many can do what we do. And our family has lived in this valley and worked the land for generations. 
+02|2ABC|0010|What do you do? 
+02|2AD0|0022|You've been here for generations? 
+02|2B00|000D|Simple folk. 
+03|2B1A|3573
+02|2B1F|0022|You've been here for generations? 
+04|2B46|0127
+02|2B4A|00A9|Oh yes. There used to be a great many families that lived in the valley. But that was long ago. Now, only Gwillim and I are left to keep the legacy of the valley alive. 
+02|2C08|0008|Legacy? 
+02|2C14|001D|What happened to the others? 
+02|2C3E|0022|You've been here for generations? 
+03|2C6D|3420
+02|2C72|0008|Legacy? 
+04|2C7F|00E6
+02|2C83|009A|Yes, we are the only folk that are left who know the myths and legends of the valley. It is sad, but we are the only people left who care of such things. 
+02|2D34|000E|No one cares? 
+02|2D50|0008|Legacy? 
+03|2D65|3328
+02|2D6A|000E|No one cares? 
+04|2D7D|00B7
+02|2D81|0081|There is no one -left- to care. Roam this valley all that you wish and the only people that you will see are Gwillim and myself. 
+02|2E19|000E|No one cares? 
+03|2E34|3259
+02|2E39|001D|What happened to the others? 
+04|2E5B|0186
+02|2E5F|00C7|Well, there was a great war long, long ago. That was the beginning of the end, I suppose. Since that time, many people believed that the land was cursed. Many people died and many others moved away. 
+04|2F44|002F
+02|2F47|001D|Cursed? By a ghost, perhaps? 
+03|2F73|0016
+02|2F78|0008|Cursed? 
+02|2F8E|001B|Where did the people move? 
+02|2FB7|001D|What happened to the others? 
+03|2FE1|30AC
+02|2FE6|0008|Cursed? 
+04|2FF3|00C7
+02|2FF7|0097|Well that is what some folk believe, but Gwillim and I... That is to say, ahh... Some people believe that the land is cursed. It is best left at that. 
+02|30A5|0008|Cursed? 
+03|30BA|2FD3
+02|30BF|001B|Where did the people move? 
+04|30DF|00BE
+02|30E3|0034|My father says that most of them moved to the city. 
+02|312E|001B|This was before your time? 
+02|314D|001A|The city? You're kidding! 
+02|3175|001B|Where did the people move? 
+03|319D|2EF0
+02|31A2|001A|The city? You're kidding! 
+04|31C1|00A1
+02|31C5|005F|No, I am quite serious. The city, like the valley has suffered much and many people have died. 
+02|323B|001A|The city? You're kidding! 
+03|3262|2E2B
+02|3267|001B|This was before your time? 
+04|3287|0114
+02|328B|0091|Oh yes, it was long ago. I have only heard stories. By the time I was born, there were only two families here in the valley, mine and Gwillim's. 
+02|3333|0018|What about when you go? 
+02|334F|0016|And Gwillim's family? 
+02|3373|001B|This was before your time? 
+03|339B|2CF2
+02|33A0|0016|And Gwillim's family? 
+04|33BB|00D1
+02|33BF|006E|Oh, they too died off. Gwillim's only brother died rather tragically, and his parents eventually died of age. 
+04|3446|001E
+02|344B|0010|How did he die? 
+02|3469|0016|And Gwillim's family? 
+03|348C|2C01
+02|3491|001D|Cursed? By a ghost, perhaps? 
+04|34B3|007C
+02|34B7|001C|Yes! How did you know that? 
+02|34EE|0014|I have heard tales. 
+02|3506|001E|Can you tell me of the ghost? 
+03|352F|2B5E
+02|3534|0018|What about when you go? 
+04|3551|00F5
+02|3555|0078|It is sad, but I fear that when Gwillim and I are gone, then gone too shall be this way of life. I blame myself for it. 
+02|35E4|0015|That is sad, indeed. 
+02|35FD|0016|You blame -yourself-? 
+02|3621|0018|What about when you go? 
+03|3646|2A47
+02|364B|0015|That is sad, indeed. 
+04|3665|0098
+02|3669|005B|I suppose that is the way of things. But still, I can not help but cry when I think of it. 
+02|36DB|0015|That is sad, indeed. 
+03|36FD|2990
+02|3702|0016|You blame -yourself-? 
+04|371D|012D
+02|3721|00AB|Oh, please forget that ever I said such a thing. I need not trouble someone who is a virtual stranger with talk such as this. I have rattled on for far too long as it is. 
+02|37E3|0014|This is no trouble. 
+02|37FB|001E|How could you blame yourself? 
+02|3827|0016|You blame -yourself-? 
+03|384A|2843
+02|384F|0014|This is no trouble. 
+04|3868|0061
+02|386C|0025|I thank you. You are kind to say so. 
+02|38A8|0014|This is no trouble. 
+03|38C9|27C4
+02|38CE|001E|How could you blame yourself? 
+04|38F1|010E
+02|38F5|0094|Well, there was an accident many years ago... You see, Cyrrus was not our only child. Oh dear, I can not believe that I am telling you all of this. 
+02|39A0|0010|It's ok, go on. 
+02|39B4|0012|Stop if you wish. 
+02|39D4|001E|How could you blame yourself? 
+03|39FF|268E
+02|3A04|0012|Stop if you wish. 
+04|3A1B|0193
+02|3A1F|013F|No, I will continue. For some reason it feels good to tell this to someone. I had a child after Cyrrus, a baby girl. One day while the baby was still very young, I went into the barn to fetch a pail. I was only gone but for a moment, but while I was out of the house, a kith did come into the house and devour my baby. 
+02|3B75|000C|How tragic! 
+02|3B8F|0012|Stop if you wish. 
+03|3BAE|24DF
+02|3BB3|0010|It's ok, go on. 
+04|3BC8|016D
+02|3BCC|011B|Yes, I shall. You see, when Cyrrus was still young, I gave birth to a baby girl. One day while the baby was still very young, I went into the barn to fetch a pale. I was only gone but for a moment, but while I was out of the house, a kith did come into the house and devour my baby. 
+02|3CFE|000C|How tragic! 
+02|3D18|0010|It's ok, go on. 
+03|3D35|2358
+02|3D3A|000C|How tragic! 
+04|3D4B|0128
+02|3D4F|00F4|For years I have carried the shame and guilt of knowing that I was responsible for my baby's death. Gwillim has always been very kind and supportive. He tried to tell me that it was not my fault, yet always will have to live with this sadness. 
+02|3E5A|000C|How tragic! 
+03|3E73|221A
+02|3E78|0014|I have heard tales. 
+04|3E91|007C
+02|3E95|0040|Strange. I had no idea that such tales have stretched very far. 
+02|3EEC|0014|I have heard tales. 
+03|3F0D|2180
+02|3F12|001E|Can you tell me of the ghost? 
+04|3F35|0132
+02|3F39|00A3|Well, I have not seen the ghost myself. I have only heard stories. However, Gwillim, my husband, has seen the creature, but he is very reluctant to talk about it. 
+02|3FF3|001A|Gwillim's seen the ghost? 
+02|4011|001D|Why is he reluctant to talk? 
+02|403C|001E|Can you tell me of the ghost? 
+03|4067|2026
+02|406C|001A|Gwillim's seen the ghost? 
+04|408B|013D
+02|408F|00BB|Yes, twice, and it was long ago. The first time was when he and his brother were young men. They where watching over their herd when upon the hillside they saw a glowing form above them. 
+02|4161|001C|What about the second time? 
+02|4181|0012|They both saw it? 
+02|41A1|001A|Gwillim's seen the ghost? 
+03|41C8|1EC5
+02|41CD|001C|What about the second time? 
+04|41EE|0160
+02|41F2|00D9|The second time, the ghost was actually on the ground, in front of Gwillim. He said that the ghost appeared to dance around him, as though it was mocking Gwillim. He also said that it looked most unusual for a ghost. 
+02|42E2|001E|Where was it the second time? 
+02|4304|0013|It looked unusual? 
+02|4325|001C|What about the second time? 
+03|434E|1D3F
+02|4353|0012|They both saw it? 
+04|436A|00A9
+02|436E|006F|Indeed they did. From that time on, Karpese, that was Gwillim's brother was obsessed with capturing the ghost. 
+02|43F4|0012|They both saw it? 
+03|4413|1C7A
+02|4418|001D|Why is he reluctant to talk? 
+04|443A|0132
+02|443E|00ED|Gwillim was frightened very deeply by what he saw. He is a strong man and does not scare easily. Whatever Gwillim saw did disturb him deeply and brings back memories of his brother. Therefore Gwillim does not like to speak of the ghost. 
+02|4542|001D|Why is he reluctant to talk? 
+03|456C|1B21
+02|4571|0013|It looked unusual? 
+04|4589|017D
+02|458D|011F|Yes. Anyone who has had the misfortune to have visited the graveyard has probably seen a ghost floating in the distance. It is not unusual to see something such as that in a place where there is nothing but death. But Gwillim told me that the ghost that haunts this valley is different. 
+02|46C3|0015|How is it different? 
+02|46E6|0013|It looked unusual? 
+03|4706|1987
+02|470B|0015|How is it different? 
+04|4725|00ED
+02|4729|00B0|Well, most ghosts that people have seen are vaporous in appearance. According to Gwillim, this ghost here is invisible except for the armor which it bears. It is most unusual. 
+02|47F0|0015|How is it different? 
+03|4812|187B
+02|4817|001E|Where was it the second time? 
+04|483A|0099
+02|483E|0053|I am not certain. Gwillim could tell you if you can get him to speak of the ghost. 
+02|48A8|001E|Where was it the second time? 
+03|48D3|17BA
+02|48D8|0010|How did he die? 
+04|48ED|006E
+02|48F1|0036|He went searching for the ghost and did never return. 
+02|493E|0010|How did he die? 
+03|495B|1732
+02|4960|0007|Torax? 
+04|496C|011F
+02|4970|00D6|Yes, the animals that you will see grazing here in the valley. Do not tell me that you have never heard of a torax. We have been trying to increase the size of our herd so that we can save a little bit more money. 
+02|4A5D|000C|Save money? 
+02|4A77|0007|Torax? 
+03|4A8B|1602
+02|4A90|000C|Save money? 
+04|4AA1|00C7
+02|4AA5|0075|Yes, it is difficult to do because we don't have very much. Sometimes my husband hunts kiths to bring in extra food. 
+02|4B31|0010|He hunts kiths? 
+02|4B4F|000C|Save money? 
+03|4B68|1525
+02|4B6D|0010|He hunts kiths? 
+04|4B82|00D1
+02|4B86|0074|Kith meat is very tasty but they are dangerous animals. It is said that a kith can cut a man in half with its jaws. 
+02|4C11|0010|He hunts kiths? 
+02|4C30|0017|That sounds dangerous. 
+03|4C53|143A
+02|4C58|0017|That sounds dangerous. 
+04|4C74|007A
+02|4C78|003B|Not many people hunt them. But Gwillim is very good at it. 
+02|4CCA|0017|That sounds dangerous. 
+03|4CEE|139F
+02|4CF3|000E|Your husband? 
+04|4D06|008D
+02|4D0A|0036|Gwillim is my husband. He is a strong and goodly man. 
+02|4D57|0013|Strong and goodly? 
+02|4D78|000E|Your husband? 
+03|4D93|12FA
+02|4D98|0013|Strong and goodly? 
+04|4DB0|00E9
+02|4DB4|0087|Many men drink every night and beat their wives but Gwillim does not do such things. He does not even mind that I sacrifice to Hydros. 
+02|4E52|0019|You sacrifice to Hydros? 
+02|4E79|0013|Strong and goodly? 
+03|4E99|11F4
+02|4E9E|0019|You sacrifice to Hydros? 
+04|4EBC|00DA
+02|4EC0|007F|Gwillim is a farmer, so he sacrifices to Lithos, the Earth Titan. But, like my father, I sacrifice to the Water Titan, Hydros. 
+02|4F56|0019|You sacrifice to Hydros? 
+02|4F7E|000C|Why Hydros? 
+03|4F96|10F7
+02|4F9B|000C|Why Hydros? 
+04|4FAC|00B3
+02|4FB0|007F|My father taught me to sacrifice to Hydros. All of my family has sacrificed to the Lurker for as far back as any can remember. 
+02|5046|000C|Why Hydros? 
+03|505F|102E
+02|5064|000E|Great things? 
+04|5077|009B
+02|507B|005C|Yes! Cyrrus has gone to study with the Theurgists. He will help many people as a Theurgist. 
+02|50EC|000A|Theurgist 
+02|50FA|000D|Help people? 
+03|5112|0F7B
+02|5117|000A|Theurgist 
+04|5126|00FC
+02|512A|008C|The Theurgists are the disciples of the Air Titan. Although Gwillim sacrifices to Lithos, I believe that Cyrrus was born to be a Theurgist. 
+02|51CD|0014|But what of Hydros? 
+02|51E5|0018|Born to be a Theurgist? 
+02|520B|000A|Theurgist 
+03|5222|0E6B
+02|5227|000D|Help people? 
+04|5239|0095
+02|523D|0060|The Theurgists specialize in healing the sick. Some say that they can even bring back the dead. 
+02|52B4|000D|Help people? 
+03|52CE|0DBF
+02|52D3|0014|But what of Hydros? 
+04|52EC|0135
+02|52F0|00CD|All of the Titans are worthy of service. Gwillim did not much like the idea of Cyrrus being a Theurgist but saw the boy's dedication. If Cyrrus is meant to serve Stratos then we must not stand in his way. 
+02|53D4|0014|But what of Hydros? 
+02|53F7|001E|All of the Titans are worthy? 
+03|5421|0C6C
+02|5426|001E|All of the Titans are worthy? 
+04|5449|0122
+02|544D|00C3|By that, I mean that all of the Titans are great powers. I do not mean to say that all are not worthy of good people's service. I would not claim that Pyros and his sorcerers are worthy of such. 
+02|5527|001E|All of the Titans are worthy? 
+02|5554|000B|Sorcerers? 
+03|556B|0B22
+02|5570|0018|Born to be a Theurgist? 
+04|558D|0174
+02|5591|0104|All of his life Cyrrus has most enjoyed caring for others. He has always a talent for healing. It did not matter if it was a person or an animal, Cyrrus would heal it if it were sick. I knew that he was born to be a Theurgist, not to spend his life on a farm. 
+02|56AC|000E|Even animals? 
+02|56BE|0010|Not at the farm 
+02|56DC|0018|Born to be a Theurgist? 
+03|5701|098C
+02|5706|000B|Sorcerers? 
+04|5716|0079
+02|571A|0046|Ask me nothing of them. It is ill business to speak of the sorcerers. 
+02|5777|000B|Sorcerers? 
+03|578F|08FE
+02|5794|0010|Not at the farm 
+04|57A9|010E
+02|57AD|00A0|Gwillim wanted very much for Cyrrus to follow in his footsteps at the farm. I convinced Cyrrus that his future was more important than his father's traditions. 
+02|5864|000C|His future? 
+02|5874|0018|His father's tradition. 
+02|589A|0010|Not at the farm 
+03|58B7|07D6
+02|58BC|0018|His father's tradition. 
+04|58D9|00F7
+02|58DD|00B7|All of Gwillim's kin have always been herdsmen. Gwillim takes great pride in working the land. As Cyrrus is our only son, Gwillim expected Cyrrus to carry on the family's traditions. 
+02|59AB|0018|His father's tradition. 
+03|59D0|06BD
+02|59D5|0022|So, you don't see many strangers? 
+04|59FC|00CD
+02|5A00|0068|We rarely have visitors here in the country.	We do see that strange old hermit once in a while, though. 
+02|5A7F|000D|What hermit? 
+02|5A9A|0022|So, you don't see many strangers? 
+03|5AC9|05C4
+02|5ACE|000D|What hermit? 
+04|5AE0|00FC
+02|5AE4|00A4|I believe that his name is Mythran. He goes into Tenebrae now and then, for supplies I suppose. No one knows much about Mythran but there are many tales about him. 
+02|5B9F|0015|What kinds of tales? 
+02|5BC2|000D|What hermit? 
+03|5BDC|04B1
+02|5BE1|0015|What kinds of tales? 
+04|5BFB|00FE
+02|5BFF|00BB|Oh I don't not know them all. People claim that he knows magic. Some people even claim to have bought magic scrolls from the old hermit. But I would not believe everything that you hear. 
+02|5CD1|0015|What kinds of tales? 
+03|5CF9|0394
+02|5CFE|000C|His future? 
+04|5D0F|0123
+02|5D13|00EF|I knew that if Cyrrus became a farmer, he would be poor for the rest of life. Gwillim does not know that I convinced Cyrrus to seek the Theurgists, but I had to, for Cyrrus' sake. Now he can lead a life far richer than that of a farm man. 
+02|5E19|000C|His future? 
+03|5E32|025B
+02|5E37|000E|Even animals? 
+04|5E4A|00CE
+02|5E4E|0063|My, but you do ask many questions! But yes, Cyrrus loves animals. He has always been a caring man. 
+02|5EC8|000E|Even animals? 
+02|5EE5|0027|I'm sorry if I ask too many questions. 
+03|5F18|0175
+02|5F1D|0027|I'm sorry if I ask too many questions. 
+04|5F49|00E4
+02|5F4D|0095|No, I am sorry if I made you uncomfortable. I enjoy your company! As I said, we do not see many visitors here, I am glad to have someone to talk to. 
+02|5FF9|0027|I'm sorry if I ask too many questions. 
+03|602D|0060
+02|6032|0009|Adeus 
+04|6040|004D
+02|6044|0009|Farewell 
+02|6064|0009|Adeus 
+06|607D|057C:1090
+03|6090|B118

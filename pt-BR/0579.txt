@@ -1,0 +1,99 @@
+01|0080|0080
+05|008A|0581:36E7
+02|0090|00D1|SCROLL OF DISPELLING MAGICAL PORTALS.~By Mythran ~~This scroll has been constructed to unravel the countermagics used to seal all types of portals, including doors and sealed walls. Do not store in damp areas.
+06|018B|0581:1C19
+06|01AC|057C:15E7
+06|01C4|0581:29D8
+06|01E1|057C:15E7
+06|0202|057C:15E7
+06|0223|057C:15E7
+06|023A|0581:1C19
+04|0282|00CD
+04|029A|00AD
+06|02C5|0044:08B4
+03|02D4|0073
+02|02DA|002F|Hmmmm... Perhaps an additional item is needed. 
+06|0330|057C:15E7
+03|0347|00E1
+03|034F|FF30
+06|0385|0579:042D
+06|03B7|0579:047E
+06|03DE|057C:15E7
+04|03F8|0030
+02|03FE|0018|Hmmmm... Nothing found. 
+01|042D|042D
+06|0463|0581:1C19
+01|047E|047E
+06|04F5|0581:1C19
+01|0520|0520
+05|052A|0581:36E7
+02|0530|0082|DETECTION SCROLL OF TRAPPED CHESTS.~Enchanted by Varkus ~ ~Caster! ~Using this scroll will forewarn you of all trap laden chests. 
+06|05E2|0581:1C19
+06|0603|057C:15E7
+06|061B|0581:29D8
+06|0638|057C:15E7
+06|0659|057C:15E7
+06|068D|0579:0755
+04|06AE|0034
+02|06B4|0019|No chests around here... 
+03|06E2|0045
+03|06FC|002B
+02|0702|0013|No traps detected! 
+06|073C|057C:15E7
+01|0755|0755
+06|07C7|0581:1C19
+01|07F1|07F1
+05|07FB|0581:36E7
+02|0801|00AD|DESTRUCTION SCROLL OF TRAPS IN CHESTS.~Enchanted by Varkus ~ ~Caster! ~Casting this scroll will destroy traps within all nearby chests. ~Beware! You do so at your own risk! 
+06|08DE|0581:1C19
+06|08FF|057C:15E7
+06|0920|057C:15E7
+06|0938|0581:29D8
+06|0955|057C:15E7
+06|0989|0579:0A9A
+06|09A5|0581:1C19
+04|09C1|0034
+02|09C7|0019|No chests around here... 
+03|09F5|0045
+03|0A0F|002B
+02|0A15|0013|No traps detected! 
+06|0A60|057C:15E7
+06|0A81|057C:15E7
+01|0A9A|0A9A
+06|0AD3|057C:0676
+01|0AF5|0AF5
+05|0AFF|0581:36E7
+02|0B05|00AA|SCROLL OF HEALING~Enchanted by Varkus ~ ~Caster! ~Casting this scroll will improve the quality of your health, and heal many of your minor wounds. ~Use only as directed. 
+06|0BE9|057C:15E7
+06|0C01|0581:29D8
+06|0C1E|057C:15E7
+06|0CA0|057C:15E7
+01|0CC1|0CC1
+05|0CCB|0581:36E7
+02|0CD1|00EF|SCROLL OF RESTORATION~Enchanted by Varkus ~ ~Caster! ~Casting this scroll will restore you to full health, and heal your major wounds. ~Beware! If you are already at prime health, this powerful magic may weaken you. ~Use only as directed. 
+06|0DFA|057C:15E7
+06|0E12|0581:29D8
+06|0E2F|057C:15E7
+06|0E50|057C:15E7
+05|0E99|057C:0080
+06|0ECD|057C:15E7
+01|0EEE|0EEE
+05|0EF8|0581:36E7
+02|0EFE|0139|SCROLL OF INVISIBILITY~Enchanted by Magethief Vermin ~~In casting this scroll my friend you will become as clear as the wind itself. Mind that you practice stealth, for any noises you make may give you away. Mind to that you act quickly, lest this magic wear away while you are about your devious acts.~~%Vermin. 
+06|1071|057C:15E7
+06|109E|057C:15E7
+06|10BF|057C:15E7
+06|10E0|057C:15E7
+05|1119|057C:0113
+05|1126|057C:0113
+06|1183|0581:1C19
+05|11A7|057C:0113
+01|11E7|11E7
+05|11F1|0581:36E7
+02|11F7|00DC|SCROLL OF REVISIBILITY~Enchanted by Magethief Vermin ~Casting this scroll my friend will reveal any hidden treasure around you. Mind you though, do not cast this while you thieve, for you too will be revealed.~~%Vermin. 
+06|130D|057C:15E7
+06|1339|057C:15E7
+06|135A|057C:15E7
+06|13EA|0581:1C19
+05|1430|057C:0113
+06|147E|057C:15E7

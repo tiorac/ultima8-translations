@@ -1,0 +1,7 @@
+01|0080|0080
+03|009F|00DF
+04|00F3|007D
+02|00F9|0023|Monster egg could not find hatcher!
+02|013F|000F|Egg quality is 
+02|015C|0001|.
+01|0183|0183

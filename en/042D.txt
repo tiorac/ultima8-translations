@@ -1,0 +1,108 @@
+01|0080|0080
+04|0094|0028
+02|0098|000F|dead guardsman 
+03|00BC|0020
+02|00C0|000A|guardsman 
+01|00E1|00E1
+05|0124|0581:2A56
+06|012D|042D:0C02
+01|0138|0138
+06|015D|057C:143A
+06|0179|057C:133F
+01|018A|018A
+05|019C|0581:2A56
+01|01A5|01A5
+02|01B2|000B|Guardsman! 
+06|01D1|057C:0BCF
+06|01E6|0581:1C19
+05|01FA|0581:2A56
+04|0234|006A
+02|0238|003E|The Titans are angry! Run to safety and pray for their mercy! 
+06|028E|057C:1090
+03|029B|095E
+03|029E|007D
+04|02A5|0076
+02|02A9|004A|For the sake of Lithos, we are beset by the dead! Find shelter, stranger. 
+06|030B|057C:1090
+03|0318|08E1
+04|0322|00A5
+04|0329|002F
+02|032D|0010|What is it now? 
+03|0358|006C
+04|0367|002B
+02|036B|0012|What do you want? 
+03|0392|0032
+02|0396|001C|What! Again with questions! 
+03|03C7|0032
+02|03CB|001C|What do you want, stranger? 
+02|03FC|000D|Who are you? 
+02|040D|0013|What is your duty? 
+02|0424|000C|Where am I? 
+02|0434|0004|Bye 
+02|0445|0004|Bye 
+04|044F|07AA
+02|046D|000D|Who are you? 
+04|047F|008E
+02|048A|000D|Who are you? 
+02|04A5|0053|My name is none of your concern. What -is- your concern is staying out of trouble. 
+03|050D|06E9
+02|0512|0013|What is your duty? 
+04|052A|0142
+02|052F|0013|What is your duty? 
+04|0553|006F
+02|0557|0056|My duty is to protect the Tempest, Devon, though I doubt he needs it with his powers. 
+03|05C2|00A7
+02|05C6|0091|My duty is to protect her Ladyship, Mordea, though I doubt she needs it with her powers. You would have to be insane to think of assaulting her. 
+03|066C|058A
+02|0671|000C|Where am I? 
+04|0682|0528
+02|0687|000C|Where am I? 
+04|06A4|002F
+02|06A8|0019|Try to listen this time! 
+02|06DD|001D|You are in central Tenebrae. 
+06|0718|057C:091C
+06|072E|057C:15E7
+02|073E|0024|This direction leads to the palace. 
+06|077E|057C:15E7
+06|079F|057C:091C
+04|07B3|004E
+02|07B7|0038|Since you're new here I'd suggest you stay clear of it! 
+04|0808|003D
+02|080C|0024|It is a quiet place without Mordea. 
+03|0845|006C
+02|0849|0056|You should head east or west, for the palace holds only trouble for the likes of you. 
+06|08BD|057C:091C
+06|08D2|057C:15E7
+02|08DE|002A|To the East is where the rich folks live. 
+06|0924|057C:15E7
+06|0945|057C:091C
+02|0955|0031|On that side is a library and a weapons trainer. 
+06|09A4|057C:091C
+06|09B9|057C:15E7
+02|09C5|002A|And that is where all the poor sods live. 
+06|0A0B|057C:15E7
+06|0A2C|057C:091C
+02|0A3C|003C|There is the smithy and a tavern in that direction as well. 
+04|0A91|00A3
+06|0AA6|057C:091C
+02|0AB6|0056|I must be getting back to duty, now. Mayhaps later we'll meet at the Shattered Skull. 
+06|0B24|057C:1090
+03|0B31|00C8
+03|0B34|0073
+06|0B49|057C:091C
+02|0B59|0029|Now, move along so I can return to duty. 
+06|0B9A|057C:1090
+03|0BA7|0052
+03|0BAA|004C
+02|0BAF|0004|Bye 
+04|0BB8|003E
+02|0BBB|0017|I go back to duty now. 
+06|0BE6|057C:1090
+03|0BF9|F847
+01|0C02|0C02
+06|0C50|0581:1C19
+06|0C68|057C:091C
+06|0C7F|0581:1C19
+06|0CD9|0581:1C19
+06|0CF1|057C:091C
+06|0D08|0581:1C19

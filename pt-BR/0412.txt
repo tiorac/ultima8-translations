@@ -1,0 +1,671 @@
+01|0080|0080
+04|0094|002B
+02|0098|0012|the body of Rhian 
+03|00BF|00A4
+04|00CB|002A
+02|00CF|0011|Rhian the weaver 
+03|00F5|006E
+04|00FC|001E
+02|0100|0005|Rhian
+03|011A|0049
+04|0121|0023
+02|0125|0007|weaver 
+03|0141|0022
+03|0144|001F
+02|0148|0006|woman 
+01|0168|0168
+03|017D|01FC
+06|0192|057C:15E7
+04|01C2|01B7
+04|01FF|00B5
+04|0215|0052
+02|021F|0023|I would not do that if I were you! 
+06|025A|0412:0536
+03|0267|0112
+02|026B|000D|Stop! Thief! 
+06|0296|0581:1C19
+06|02A9|058B:0080
+03|02B4|00C5
+04|02BE|002B
+02|02C2|000C|I saw that! 
+03|02E9|0090
+04|02F3|0042
+02|02F7|0023|Stop that, or I'll call the guard! 
+03|0335|0044
+04|033F|003A
+02|0343|001B|This is your last warning! 
+01|037E|037E
+05|03A9|0581:28F9
+05|03B2|0581:28F9
+05|03BC|0581:28F9
+05|03DF|0581:28F9
+05|03E8|0581:28F9
+05|040B|0581:28F9
+06|0435|057C:143A
+06|0457|057C:133F
+01|0468|0468
+06|048F|0581:1C19
+04|04B8|0079
+06|04BF|058B:0080
+04|04D4|005D
+04|04E3|0029
+02|04E7|0010|Help me, Beren! 
+03|050C|0025
+02|0510|000F|Town Sorcerer! 
+01|0536|0536
+06|059D|0412:0631
+06|05BC|0412:06DC
+06|05CA|0412:0804
+06|05E2|0412:0EC5
+01|05F0|05F0
+01|0631|0631
+04|064E|0024
+02|0652|000B|boo-hoo... 
+03|0672|001C
+02|0676|0006|-sob- 
+06|0698|057C:15E7
+06|06BA|0581:1C19
+05|06D0|0581:2A56
+03|06D7|FF67
+01|06DC|06DC
+06|06ED|057C:15E7
+04|0709|001F
+02|070D|0006|-sob- 
+03|0728|001E
+02|072C|0008|-sniff- 
+06|0750|057C:15E7
+06|0772|0581:1C19
+05|0788|0581:2A56
+03|078F|FF6A
+01|0794|0794
+06|07B9|057C:15E7
+06|07D6|057C:15E7
+06|07F3|057C:15E7
+01|0804|0804
+06|081C|057C:15E7
+06|082E|0412:0862
+06|084E|0581:1C19
+01|0862|0862
+05|087D|0581:1D62
+04|089B|0212
+04|08AE|00C9
+04|08B5|005C
+06|08BF|057C:15E7
+02|08CF|0014|Why, hello, friend. 
+06|08FF|057C:15E7
+03|090E|05B2
+03|0911|0066
+06|091B|057C:15E7
+02|092B|0021|What do you want here, stranger? 
+06|0968|057C:15E7
+03|0977|0549
+04|097F|005C
+06|0989|057C:15E7
+02|0999|0017|Looking for something? 
+06|09CC|057C:15E7
+03|09DB|04E5
+04|09E3|00C7
+04|09EA|005C
+06|09F4|057C:15E7
+02|0A04|0014|Please look around. 
+06|0A34|057C:15E7
+03|0A43|047D
+03|0A46|0064
+06|0A50|057C:15E7
+02|0A60|001F|Please, do not touch anything. 
+06|0A9B|057C:15E7
+03|0AAA|0416
+03|0AAD|0413
+05|0AB4|0581:1D62
+04|0AC0|0400
+04|0AD3|0056
+06|0ADD|057C:15E7
+02|0AED|0011|What am I to do? 
+06|0B1A|057C:15E7
+03|0B29|0397
+04|0B31|005F
+06|0B3B|057C:15E7
+02|0B4B|001A|I must carry on some how. 
+06|0B81|057C:15E7
+03|0B90|0330
+04|0B98|00DE
+06|0BA2|057C:15E7
+02|0BB2|000B|Woe is me! 
+06|0BD9|057C:15E7
+06|0BEF|057C:15E7
+06|0C05|057C:15E7
+05|0C1B|0581:2A56
+02|0C23|0012|I must be strong! 
+06|0C51|057C:15E7
+06|0C67|057C:15E7
+03|0C76|024A
+04|0C7E|0062
+06|0C88|057C:15E7
+02|0C98|001D|Oh, these tired old hands... 
+06|0CD1|057C:15E7
+03|0CE0|01E0
+04|0CE8|0099
+06|0CF2|057C:15E7
+02|0D02|001E|Perhaps I should take a walk. 
+06|0D3C|057C:15E7
+02|0D4C|0020|I'm just so tired, maybe later. 
+03|0D81|013F
+04|0D89|0036
+02|0D8D|001D|The days are growing longer. 
+03|0DBF|0101
+06|0DD1|057C:15E7
+06|0DE8|0581:1C19
+06|0DFE|057C:15E7
+03|0E0D|00B3
+04|0E15|00A8
+06|0E1F|057C:15E7
+02|0E2F|000B|Oh, Toran! 
+06|0E56|057C:15E7
+06|0E6C|057C:15E7
+06|0E82|057C:15E7
+06|0E98|057C:15E7
+06|0EAE|057C:15E7
+01|0EC5|0EC5
+06|0F63|0412:0FFB
+06|0F81|057C:15E7
+06|0F98|0581:1C19
+06|0FBC|0581:1C19
+06|0FD9|057C:15E7
+01|0FFB|0FFB
+05|1059|0581:1CE3
+05|1067|0581:1D62
+04|1085|01F5
+06|10A5|057C:091C
+04|10B9|007B
+04|10C0|004B
+02|10C4|0015|Good day, my friend. 
+06|10FC|057C:15E7
+03|110B|0029
+02|110F|0013|Excuse me, please. 
+04|113C|0081
+04|1143|004C
+02|1147|0016|Need some assistance? 
+06|1180|057C:15E7
+03|118F|002E
+02|1193|0018|Stranger, are you lost? 
+04|11C5|0098
+04|11CC|0091
+06|11D7|0581:1C19
+06|11F8|057C:091C
+02|1208|0026|Pardon me, I did not mean to stare... 
+06|1251|057C:15E7
+06|1268|0581:1C19
+03|1277|02A5
+03|127A|02A2
+05|1281|0581:1D62
+04|128D|028F
+06|12AB|057C:091C
+04|12BF|0030
+02|12C3|001A|Storm clouds are brewing. 
+04|12F7|0068
+06|1308|057C:15E7
+02|1318|001E|The winds are growing colder. 
+06|1353|0581:1C19
+04|1367|00A3
+02|136B|001A|I should be going home... 
+06|13A8|057C:15E7
+02|13B8|0023|but there is nothing for me there. 
+06|13FE|057C:15E7
+04|1412|0075
+02|1416|002B|I can find no beauty in the world anymore. 
+06|1464|057C:15E7
+06|147B|0581:1C19
+04|148F|008A
+06|14A0|057C:15E7
+02|14B0|0011|What am I to do? 
+06|14E4|057C:15E7
+02|14F4|0013|I must find a way. 
+01|1521|1521
+02|152B|004B|Well, I'm afraid I do not know much about gems. What do you have to offer? 
+02|158C|0009|Hmmmm... 
+04|15E7|0213
+04|15EF|005A
+02|15F3|002B|For this gem you have I can only offer you 
+02|162C|0007| coins.
+03|1649|0069
+02|164D|000A|For these 
+02|1665|0024| gems you have I can only offer you 
+02|1698|0007| coins.
+02|16B6|001D|Is this an acceptable offer? 
+06|16EE|0581:1AD0
+04|16FD|00AC
+02|1701|0021|Very good. Here is your stone... 
+05|1742|0581:1EE2
+02|174A|0022|...and I'll take this. Thank you. 
+03|17A6|00D9
+03|17A9|004E
+02|17AD|0035|That's fine, that's fine. I do not wish to push you. 
+03|17F7|0088
+03|17FA|0085
+02|17FE|0030|Hmmmm... It seems you have misplaced your gems. 
+02|1844|0029|When you find them please bring them by. 
+01|1884|1884
+02|188E|0068|Certainly. I have diamonds, rubies, gemstone necklaces and gemstone rings. In which are you interested? 
+02|190B|000A|A diamond 
+02|1919|0007|A ruby 
+02|1924|0012|Gemstone necklace 
+02|193A|000E|Gemstone ring 
+02|194C|0014|Nothing, thank you. 
+02|1986|000A|A diamond 
+04|1995|00C3
+02|1999|00A2|This is lovely. It was one of Toran favorites.-sniff- I'm sorry, I don't really know what it is worth. He was going to sell if for 45 stones. Are you interested? 
+03|1A58|0273
+02|1A5D|0007|A ruby 
+04|1A69|006B
+02|1A6D|004A|Oh, my son, Torwin, liked this one so much. -sob- The price is 20 stones. 
+03|1AD4|01F7
+02|1AD9|0012|Gemstone necklace 
+04|1AF0|0095
+02|1AF4|0074|Oh, I was there when he bought this from a young miner. The price is only 36 blacks. Quite a deal, don't you think? 
+03|1B85|0146
+02|1B8A|000E|Gemstone ring 
+04|1B9D|00B5
+02|1BA1|0094|This is my favorite piece. -sob- I am loath to part with it, it reminds me of Toran. But times are hard for a -snif- widow. The price is 22 stones. 
+03|1C52|0079
+02|1C57|0014|Nothing, thank you. 
+04|1C70|0029
+02|1C74|000D|As you wish. 
+03|1C96|029D
+03|1C99|0032
+02|1C9D|0019|Perhaps some other time. 
+03|1CCB|0268
+02|1CCE|0014|Here is the amount. 
+02|1CE6|0017|Never mind, thank you. 
+02|1D23|0014|Here is the amount. 
+04|1D3C|0172
+05|1D4A|0581:1EE2
+04|1D52|00FD
+05|1D60|0581:20B8
+04|1D68|0037
+02|1D6C|001E|Thank you. Thank you so much. 
+03|1D9F|00AD
+02|1DA3|0082|Oh. I'm so sorry. It seems times are hard for you, as well. Perhaps this will still be here when you have a little more to spend. 
+05|1E45|0581:20B8
+03|1E4C|00E7
+03|1E4F|005C
+02|1E53|0046|Oh, your hands are full! I will keep this until you have room for it. 
+03|1EAE|0039
+02|1EB2|0020|I understand. Thank you anyway. 
+03|1EE7|004C
+02|1EEC|0000|
+04|1EF1|0042
+02|1EF5|0029|Perhaps you need time to think about it. 
+01|1F3C|1F3C
+02|1F46|00CD|Certainly, I have only rough cloth to work with, so I'm afraid it will be nothing like some of the rich Kith silk you are used to. I have cloaks, shirts, vests and robes. Which would you be interested in? 
+02|2028|0008|A cloak 
+02|2034|0008|A shirt 
+02|2040|0005|Vest 
+02|2049|0014|Nothing, thank you. 
+02|2083|0008|A cloak 
+04|2090|0052
+02|2094|0031|I have a nice warm cloak. The price is 6 stones. 
+03|20E2|0151
+02|20E7|0008|A shirt 
+04|20F4|0042
+02|20F8|0021|I have shirts for 4 stones each. 
+03|2136|00FD
+02|213B|0005|Vest 
+04|2145|0061
+02|2149|0040|A vest would look very imposing on you. Their cost is 7 stones. 
+03|21A6|008D
+02|21AB|0014|Nothing, thank you. 
+04|21C4|0029
+02|21C8|000D|As you wish. 
+03|21EA|02B2
+03|21ED|0046
+02|21F1|002D|Well, I guess you are really not interested. 
+03|2233|0269
+02|2236|0014|Here is the amount. 
+02|224E|0017|Never mind, thank you. 
+02|228B|0014|Here is the amount. 
+04|22A4|0172
+05|22B2|0581:1EE2
+04|22BA|00FD
+05|22C8|0581:20B8
+04|22D0|0037
+02|22D4|001E|Thank you. Thank you so much. 
+03|2307|00AD
+02|230B|0082|Oh. I'm so sorry. It seems times are hard for you, as well. Perhaps this will still be here when you have a little more to spend. 
+05|23AD|0581:20B8
+03|23B4|00E8
+03|23B7|005C
+02|23BB|0046|Oh, your hands are full! I will keep this until you have room for it. 
+03|2416|0039
+02|241A|0020|I understand. Thank you anyway. 
+03|244F|004D
+02|2454|0000|
+04|2459|0043
+02|245D|002A|Perhaps you are not interested after all. 
+01|24A5|24A5
+03|24B8|2951
+05|24C2|0581:2A56
+05|24D0|0581:2A56
+02|24D7|0005|I am 
+02|24E6|0001|.
+04|24F5|0021
+02|24FA|000B|Excuse me. 
+03|2516|0020
+02|251B|000D|Ola. 
+04|2545|00B2
+06|254B|057C:0E4F
+05|255D|0581:2A56
+05|2569|0581:2A56
+02|2571|0061|My husband,-sob-  oh, my husband, what shall I do? What shall become of me? Oh no, no, no! -sob- 
+06|25EA|057C:1090
+03|25F7|2812
+04|25FE|0112
+06|2604|057C:0E4F
+05|2616|0581:2A56
+05|2622|0581:2A56
+04|2635|0076
+02|2639|0010|Oh, forgive me. 
+02|265F|0006|-sob- 
+02|267B|001B|I can not bear such grief. 
+03|26AB|0052
+02|26AF|0012|Please, leave me. 
+02|26D7|0014|I can not talk now. 
+06|2703|057C:1090
+03|2710|26F9
+06|271D|057C:0E4F
+05|272F|0581:2A56
+05|273B|0581:2A56
+06|2749|057C:15E7
+06|275E|057C:0BCF
+05|2770|0581:2A56
+05|277C|0581:2A56
+04|2788|0042
+02|278C|0005|Yes? 
+02|27AC|0013|What is your name? 
+03|27CA|00A8
+05|27CF|0581:1A85
+04|27DE|002A
+02|27E2|0011|Greetings again. 
+03|2808|001D
+02|280C|0007|Hello. 
+02|2828|000E|Hello, Rhian. 
+04|284C|0026
+02|284F|0017|What do you sell here? 
+04|28A7|0060
+04|28AE|0024
+02|28B3|0013|I found this ring. 
+03|28D2|0035
+02|28D7|0027|I'm sorry, but your son won't be back. 
+04|291E|002A
+02|2921|001B|Tell me again of your son. 
+04|295A|00B0
+02|295E|0010|Oh, forgive me. 
+02|2984|0006|-sob- 
+02|29A0|001B|I can not bear such grief. 
+02|29D1|0014|I can not talk now. 
+06|29FD|057C:1090
+03|2A0A|23FF
+02|2A0F|000A|Farewell. 
+04|2A1F|23DA
+02|2A24|000A|Farewell. 
+02|2A3D|000A|Farewell. 
+02|2A6E|0013|What is your name? 
+04|2A86|0196
+04|2A8D|010A
+02|2A91|0094|Strange, I thought I told you. Oh, in my grief, I must have forgotten to tell you my name. I am so sorry. My name is Rhian, that is it, just Rhian. 
+02|2B3C|0013|What is your name? 
+02|2B53|0019|What is your name again? 
+02|2B7B|0010|What do you do? 
+03|2B97|0082
+02|2B9B|001D|My name is Rhian, and yours? 
+02|2BCF|0013|What is your name? 
+02|2BF1|0017|None of your business. 
+03|2C1C|21DA
+02|2C21|000E|Hello, Rhian. 
+04|2C34|00F7
+02|2C38|0032|Hello, my friend. What can I help you with today? 
+04|2C83|0037
+02|2C86|0028|I am interested in purchasing clothing. 
+04|2CC1|002B
+02|2CC4|0019|I am interested in gems. 
+03|2CEC|001F
+02|2CEF|0010|What do you do? 
+02|2D10|000E|Hello, Rhian. 
+03|2D2B|20CB
+02|2D30|0017|None of your business. 
+04|2D4C|00B5
+02|2D50|0057|I'm sorry if I have offended you. I meant no harm. Please forgive me. I am very sorry. 
+02|2DBE|0017|None of your business. 
+02|2DE2|0010|What do you do? 
+03|2E01|1FF5
+02|2E06|0013|I found this ring. 
+04|2E1E|0269
+05|2E2C|0581:20B8
+04|2E37|014E
+06|2E3C|0412:0794
+02|2E46|0117|Oh, oh dear, oh dear dear. -sob- This was my husband's. He gave it to our son upon his 16 birthday.-sob- Torwin never -sniff- took it off, oh, I can hardly bear to look at it. You are so kind to bring it to me. Now I have something to remember them by. Now, if you'll excuse me. 
+06|2F75|0412:4E14
+03|2F82|1E87
+03|2F85|00DD
+02|2F89|0082|This...this is my son's ring. -sniff- Toran gave it to him for his 16 birthday. Torwin never took it off. How did you come by it? 
+02|3022|0027|I'm sorry, but your son won't be back. 
+02|304D|000C|I found it. 
+02|3067|0013|I found this ring. 
+03|3087|1D6F
+02|308C|000C|I found it. 
+04|309D|0136
+02|30A1|0102|Oh, this does not bode well. This ring was Torwin's pride and joy. This is not good at all. Something must have happened to him. Oh no, I can not bear the thought. What if something dreadful has happened? What if he is ill or injured? This is just terrible! 
+02|31BA|000C|I found it. 
+03|31D3|1C23
+02|31D8|0010|What do you do? 
+02|31EF|0017|What do you sell here? 
+04|320C|0183
+02|3210|00C5|I'm a weaver. I make clothing. And...and because of, I, oh I can not say it without crying...-sniff- my husband's -sob- execution -sob sob-, I have taken over the running of my husband's gem shop. 
+02|32EC|0010|What do you do? 
+02|3300|0017|What do you sell here? 
+02|3324|0015|Your husband's shop? 
+02|333D|0016|Do you sell clothing? 
+04|3367|001F
+02|336A|0010|Why do you cry? 
+03|338F|1A67
+02|3394|0015|Your husband's shop? 
+04|33AE|00CA
+02|33B8|005F|Toran was the gem cutter here in town. As my son is no longer here, I am left to run the shop. 
+02|342E|0015|Your husband's shop? 
+02|3450|0019|I am interested in gems. 
+03|3478|197E
+02|347D|0016|Do you sell clothing? 
+04|3498|0095
+02|34A2|001A|I sell those that I make. 
+02|34D3|0016|Do you sell clothing? 
+02|34F6|0028|I am interested in purchasing clothing. 
+03|352D|18C9
+02|3532|0019|I am interested in gems. 
+04|3550|0126
+04|355A|008B
+02|355E|0024|Would you like to buy or sell gems? 
+02|3597|0009|buy gems 
+02|35A4|000A|sell gems 
+02|35BF|0019|I am interested in gems. 
+03|35E5|008E
+02|35E9|0050|I'm sorry but all my wares are at my shop. Please come by there a little later. 
+02|3650|0019|I am interested in gems. 
+03|3676|1780
+02|367B|0009|buy gems 
+04|3689|002B
+02|368E|0009|buy gems 
+06|36A7|0412:1884
+03|36B4|1742
+02|36B9|000A|sell gems 
+04|36C8|002C
+02|36CD|000A|sell gems 
+06|36E7|0412:1521
+03|36F4|1702
+02|36F9|0028|I am interested in purchasing clothing. 
+04|3726|0132
+02|3731|0028|I am interested in purchasing clothing. 
+04|376D|004A
+02|3772|0028|I am interested in purchasing clothing. 
+06|37AA|0412:1F3C
+03|37B7|009E
+02|37BB|0051|I have many things in my shop. Please come by there when I am open for business. 
+02|3823|0028|I am interested in purchasing clothing. 
+03|3858|159E
+04|3860|00DE
+02|3864|0007|Hello, 
+02|3875|0041|, - sob- I am afraid I am not good company at this terrible time.
+02|38D0|0017|None of your business. 
+02|38F4|0010|What do you do? 
+04|3918|001F
+02|391B|0010|Why do you cry? 
+03|393E|14B8
+02|3943|0010|Why do you cry? 
+04|3958|010F
+02|395C|0094|I'm sorry if my tears upset you, but -sob- it is so sad. I was once the wife of Toran. But now he is gone and my son is gone...whatever shall I do? 
+02|3A07|0010|Why do you cry? 
+02|3A26|0018|Toran was your husband? 
+02|3A42|0013|Where is your son? 
+03|3A67|138F
+02|3A6C|0018|Toran was your husband? 
+04|3A89|009F
+02|3A8D|003C|Yes and he was executed by the Tempest, Lady Mordea. -sob-. 
+02|3AE0|0018|Toran was your husband? 
+02|3B07|0015|Why was he executed? 
+03|3B28|12CE
+02|3B2D|0015|Why was he executed? 
+04|3B47|012E
+02|3B4B|00AF|I tried to warn him about speaking his mind so openly, but he would laugh and say that no man need fear the truth. In the end 'twas Mordea's wrath that he should have feared. 
+02|3C11|0015|Why was he executed? 
+02|3C35|0017|Feared Mordea's wrath? 
+02|3C50|0019|He was an outspoken man? 
+03|3C75|1181
+02|3C7A|0017|Feared Mordea's wrath? 
+04|3C96|00DB
+02|3C9A|009C|She does not take kindly to things said about her. It will cost you your life, as it did my poor Toran, -sob- but I should not burden you with my troubles. 
+02|3D4D|0017|Feared Mordea's wrath? 
+03|3D71|1085
+02|3D76|0019|He was an outspoken man? 
+04|3D94|0179
+02|3D98|00EC|Toran feared no one, not even the Tempest. Of late, he had begun to question the need for these executions. He was in the tavern when the guards came for him... oh, I tried to warn him, -sob-  Now I have no one, not even my son. -sob-. 
+02|3E9B|0019|He was an outspoken man? 
+04|3EC6|0044
+02|3ECB|0013|Where is your son? 
+02|3EEB|0013|Where is your son? 
+03|3F0D|0EE9
+02|3F12|0013|Where is your son? 
+02|3F2C|001B|Tell me again of your son. 
+04|3F4D|00CB
+02|3F51|0031|My son, Torwin, left home to become a Theurgist. 
+02|3F99|0013|Where is your son? 
+02|3FB0|0013|Where is your son? 
+02|3FC7|001B|Tell me again of your son. 
+02|3FF1|0015|What is a Theurgist? 
+03|4018|0DDE
+02|401D|0015|What is a Theurgist? 
+04|4037|013A
+02|403B|0044|A Theurgist is a healer. Oh, please do not misunderstand me, friend 
+02|4089|0085|, I think it is grand that my son should want to be a healer. Why I'm thrilled, but I am concerned by the suddenness of his decision.
+02|4126|0015|What is a Theurgist? 
+02|414A|001B|You question his decision? 
+03|4171|0C85
+02|4176|001B|You question his decision? 
+04|4196|025E
+02|419A|0188|I'm sorry if I appear to be a terrible mother by questioning his decision, but he never showed any sign of wanting to be a healer when he was growing up. He just wanted to be a gemcutter like his father. -sob- And now that he is gone, I am left alone with no one to support me. But, at least I know he is alive and well. -sniffle- I can always hope he will return to his poor widowed mother. 
+02|4339|001B|You question his decision? 
+04|4365|0064
+04|436C|0039
+02|436F|0027|I'm sorry, but your son won't be back. 
+03|43A5|0021
+02|43AA|0013|I've met your son. 
+03|43C9|0028
+02|43CE|001A|I hope he returns to you. 
+03|43F4|0A02
+02|43F9|001A|I hope he returns to you. 
+04|4418|00C7
+02|441C|0085|That would be wonderful. Oh, how I'd love to see him again. Even...even if just for a short visit. -sob-, Oh, to see his face again! 
+02|44B8|001A|I hope he returns to you. 
+03|44DF|0917
+02|44E4|0013|I've met your son. 
+04|44FC|0114
+02|4500|00E8|Oh, is he well? Does he speak of me? I am sure he must be the finest healer on Argentrock. Oh, -sob- his father would be so proud... if only my husband could hear this, but he never will. He will never know... oh, no, no, no! -sob- 
+06|4600|0412:4E14
+03|460D|07FC
+03|4610|07E6
+02|4615|0027|I'm sorry, but your son won't be back. 
+04|4641|00CE
+02|4645|001A|What?! What do you mean?! 
+02|4674|001C|Your son committed suicide. 
+02|4694|0016|Your son passed away. 
+02|46AE|001A|Your son had an accident. 
+02|46D5|0027|I'm sorry, but your son won't be back. 
+03|470F|06E7
+02|4714|001C|Your son committed suicide. 
+04|4735|017B
+06|473A|0412:0794
+02|4744|0084|But..but, that can't be true, oh no, no, no, it just can't be. Oh my son, my little boy.... How can this be? -sob-, please tell me! 
+02|47DF|001C|Your son committed suicide. 
+02|47FF|0016|Your son passed away. 
+02|4819|001A|Your son had an accident. 
+02|4840|0027|He was trying to resurrect his father. 
+02|486B|000F|I do not know. 
+02|487E|0027|He couldn't pass the Theurgists tests. 
+03|48B0|0546
+02|48B5|000F|I do not know. 
+04|48C9|009C
+02|48CD|0070|Oh, I don't think I can bear it. My heart will break in two. -sob- I'm sorry, I fear I can speak no more of it. 
+06|4955|057C:1090
+03|4962|04A7
+03|4965|0491
+02|496A|0015|You son passed away. 
+04|4984|00CF
+06|4989|0412:0794
+02|4993|0098|He passed away? He was so young! Oh my, I can't believe it, I just can't.-sob- He mustn't be dead. No, no, no, he mustn't. I can't go on! Oh, no,no,no. 
+06|4A43|0412:4E14
+03|4A50|03B9
+03|4A53|03A3
+02|4A58|001A|Your son had an accident. 
+04|4A77|00C4
+06|4A7C|0412:0794
+02|4A86|008D|An accident? No, I should never have let him go. Oh, now I am alone forever. What ever shall I do? What ever shall I do? No, no, no, no..... 
+06|4B2B|0412:4E14
+03|4B38|02D1
+03|4B3B|02BB
+02|4B40|0027|He was trying to resurrect his father. 
+04|4B6C|00B3
+06|4B71|0412:0794
+02|4B7B|007C|Oh, -sob- my brave, sweet boy.-sob- He loved his father so. Now they are both lost to me, what shall I do? What shall I do? 
+06|4C0F|0412:4E14
+03|4C1C|01ED
+03|4C1F|01D7
+02|4C24|0027|He couldn't pass the Theurgists tests. 
+04|4C50|00CE
+06|4C55|0412:0794
+02|4C5F|0097|I don't believe you! My boy is so smart. He could not have failed! -sob- He could have done it...now he does not have a chance to try again...oh no... 
+06|4D0E|0412:4E14
+03|4D1B|00EE
+03|4D1E|00D8
+02|4D22|001E|Perhaps we shall speak later. 
+06|4D58|057C:1090
+03|4D65|00A4
+02|4D6A|000A|Farewell. 
+04|4D79|007D
+04|4D7E|0043
+02|4D82|000B|Farewell,  
+02|4D97|0001|.
+06|4DB1|057C:1090
+03|4DBE|004B
+03|4DC1|0032
+02|4DC5|0009|Farewell 
+06|4DE6|057C:1090
+03|4DF9|DC11
+06|4DFF|057C:1090
+01|4E14|4E14
+06|4E26|0412:06DC
+05|4E35|0581:1D62
+06|4E4C|0581:1C8B
+06|4E66|0581:1C8B
+06|4E90|057C:15E7
+06|4EB3|057C:15E7
+06|4EC4|0412:0631
+05|4ED3|0581:1D62
+06|4EEA|0581:1C8B
+06|4F04|0581:1C8B

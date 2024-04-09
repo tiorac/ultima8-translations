@@ -1,0 +1,258 @@
+01|0080|0080
+06|0090|0574:084D
+01|00A1|00A1
+04|00B5|0073
+04|00C1|0036
+02|00C4|0022|Arcadion the late daemon Sorcerer 
+03|00F7|002E
+02|00FA|001D|Arcadion the daemon Sorcerer 
+03|0128|00FE
+04|012F|0053
+04|013B|002A
+02|013E|0016|Arcadion the deceased 
+03|0165|001A
+02|0168|0009|Arcadion 
+03|0182|00A4
+04|0189|0059
+04|0195|0029
+02|0198|0015|dead daemon Sorcerer 
+03|01BE|0021
+02|01C1|0010|daemon Sorcerer 
+03|01E2|0044
+04|01EE|0020
+02|01F1|000C|dead daemon 
+03|020E|0018
+02|0211|0007|daemon 
+01|022B|022B
+06|025E|057B:0080
+01|0269|0269
+05|027B|0581:2A56
+01|0284|0284
+06|0301|057C:091C
+06|0320|057C:15E7
+05|0347|0581:1D62
+05|035D|0581:1D62
+04|036C|0154
+04|0371|00AA
+03|03E8|0030
+02|03EC|0016|Back to the entrance. 
+03|041B|00A5
+03|0492|002E
+02|0496|0014|Off to the gateway. 
+03|04C3|FE69
+01|04CA|04CA
+06|050C|057C:0BCF
+06|051C|0439:054B
+06|052C|0439:1256
+06|053C|057C:1090
+01|054B|054B
+04|055A|01AD
+02|055E|018E|You have somehow managed to defeat or evade the first guardians of the Obsidian Fortress, mortal. And now, you have shown an inkling of wisdom in not attempting to attack me. Perhaps you are worthy...* Perhaps not.*Regardless, in reward, I will assist you now by giving you access to the rest of the fortress and offering the use of my pentacle and sundry items you might need in preparing spells. 
+03|0707|015C
+04|070F|0154
+05|0714|0581:1A85
+04|0722|00AB
+04|0728|0039
+02|072C|0014|What is it you need,
+02|074A|0001|?
+03|0761|0069
+04|0769|0039
+02|0772|001A|, how can I be of service?
+03|07A2|0028
+02|07A6|0012|What do you want? 
+03|07CD|0096
+04|07D3|002E
+02|07D7|0015|What is it you need? 
+03|0801|0062
+04|0809|0032
+02|080D|0019|How can I be of service? 
+03|083B|0028
+02|083F|0012|What do you want? 
+01|0868|0868
+05|0874|0581:1A85
+04|0881|0023
+02|0885|000A|Farewell. 
+03|08A4|006A
+04|08AC|002B
+02|08B0|0012|Prepare yourself. 
+03|08D7|0037
+02|08DB|0021|Seek the Burning Path, Sorcerer. 
+01|0913|0913
+05|091F|0581:1A85
+04|092C|0023
+02|0930|000A|Farewell. 
+03|094F|004B
+04|0957|0043
+02|095B|002A|If you do not wish to speak, then do not. 
+01|099F|099F
+02|09AE|0014|Where are you from? 
+02|09D7|0016|I am from this place. 
+02|09F1|0013|I come from Earth. 
+02|0A08|0016|Britannia is my home. 
+02|0A22|001D|Most recently, Serpent Isle. 
+02|0A43|0014|It does not matter. 
+02|0A7D|0016|I am from this place. 
+04|0A98|0078
+02|0AA2|0059|You do not have the feel of a Pagan, but if that is what you wish me to believe, I will. 
+03|0B10|0316
+02|0B15|0013|I come from Earth. 
+04|0B2D|0100
+02|0B37|00E1|Earth. Yes. Quite an interesting place. I visited there long ago. It would seem that there my kind are either revered as kin to the Dark Ones or feared as unholy assistants to some evil being or other. A silly people indeed. 
+03|0C2D|01F9
+02|0C32|0016|Britannia is my home. 
+04|0C4D|007B
+02|0C57|0058|Britannia? I have never heard of such a place. It must be a truly out of the way realm. 
+03|0CC8|015E
+02|0CCD|001D|Most recently, Serpent Isle. 
+04|0CEF|006D
+02|0CF9|004A|I have never heard of this isle. It must be a truly out of the way realm. 
+03|0D5C|00CA
+02|0D61|0014|It does not matter. 
+04|0D7A|0040
+02|0D84|0021|Yes. You are right. It does not. 
+03|0DBA|006C
+02|0DC4|0050|I take your silence as a reply. You wish to remain unknown. That is acceptable. 
+04|0E2B|0422
+02|0E2E|0013|Don't you know me? 
+02|0E45|0014|We have met before. 
+02|0E7F|0013|Don't you know me? 
+04|0E97|001C
+02|0E9A|0014|We have met before. 
+02|0EB8|0014|We have met before. 
+04|0ED1|0345
+02|0ED5|0037|No. We have not met. At least, I do not think we have. 
+02|0F21|001C|You were bound to Erethian. 
+02|0F41|0023|I crafted the Shade Blade for you. 
+02|0F8A|001C|You were bound to Erethian. 
+04|0FAB|00B1
+02|0FAF|0098|Erethian? I know of no one by that name. I have never been bound to anyone. Not even the Lord of Flame. I am alone in that respect, amongst daemonkind. 
+03|105C|00C2
+02|1061|0023|I crafted the Shade Blade for you. 
+04|1089|005E
+02|108D|0045|Shade Blade? What is that? I think you have mistaken me for another. 
+03|10E7|0037
+02|10EB|001E|What else would you speak of? 
+03|111E|012F
+02|1122|00DF|Perhaps we shall meet again in the distant future. Time does strange things to those who travel the worlds, as you doubtless know. I shall have to try to remember what you have said. Now then... what can I assist you with? 
+03|1216|0037
+02|121A|001E|What else would you speak of? 
+01|1256|1256
+04|1264|0117
+05|1269|0581:1A85
+04|1276|004E
+02|127A|0035|Go now. Master Malchir is not a patient sort of man. 
+03|12C4|00B1
+04|12CC|0063
+02|12D0|004A|Do you wish the master to be displeased with you? Go through the gateway. 
+03|132F|0046
+02|1333|0030|You must not waste time. The Master awaits you. 
+03|1378|11F3
+03|137B|00F5
+04|1382|00EE
+02|1386|00CC|You have performed remarkably well, Disciple. Or rather, I should say, Acolyte. For if you please the Master, that is what you shall be. Go to him now. The gateway will take you to his inner sanctum now. 
+03|146D|10FE
+02|1473|0022|Tell me of the Obsidian Fortress. 
+04|14A5|001B
+02|14AA|000D|Who are you? 
+04|14C8|002E
+02|14CD|0020|What are you? Why are you here? 
+04|14FE|002C
+02|1503|001E|Do I know you from somewhere? 
+02|152F|000A|Farewell. 
+04|153F|102C
+05|1544|0581:29B4
+04|1551|010E
+02|1555|003E|If there is nothing more, you should proceed with the trials. 
+02|15A8|0022|Tell me of the Obsidian Fortress. 
+04|15DA|001B
+02|15DF|000D|Who are you? 
+04|15FD|002E
+02|1602|0020|What are you? Why are you here? 
+04|1633|002C
+02|1638|001E|Do I know you from somewhere? 
+02|1662|000A|Farewell. 
+05|1672|0581:3695
+02|169D|0022|Tell me of the Obsidian Fortress. 
+04|16C4|00B7
+02|16C8|001E|What would you know about it? 
+02|16FB|001E|Are you one of its guardians? 
+02|171D|0014|How was it created? 
+02|1735|0015|What are the Trials? 
+02|174E|0022|Where is Malchir's inner sanctum? 
+03|177B|0DED
+02|1780|000D|Who are you? 
+04|1792|019F
+04|17A0|013E
+02|17A4|002E|I am known as Arcadion. And who might you be? 
+02|17E7|0005|I am 
+02|17F6|0001|.
+02|1802|0018|It is not your concern. 
+04|1843|0048
+02|184D|0019|I recognize that name... 
+06|187E|0439:099F
+03|188B|0050
+02|188F|0037|As you wish. Proceed with the Trials, and leave me be. 
+03|18DB|0C90
+03|18DE|002E
+02|18E2|0018|I am known as Arcadion. 
+02|1917|000D|Who are you? 
+03|1931|0C37
+02|1936|0020|What are you? Why are you here? 
+04|195B|014B
+02|195F|00D1|A curious sort, aren't you? I am a daemon Sorcerer. The only daemon Sorcerer as far as I know. I am here at the behest of Master Malchir. He is providing my training as a Sorcerer in exchange for my services. 
+02|1A47|0020|What are you? Why are you here? 
+02|1A76|001E|Services? What might they be? 
+03|1AA6|0AC2
+02|1AAB|001E|Do I know you from somewhere? 
+04|1ACE|0098
+02|1AD2|0042|Perhaps... I have traveled extensively, in this realm and others. 
+06|1B2C|0439:099F
+02|1B3B|001E|Do I know you from somewhere? 
+03|1B66|0A02
+02|1B6B|001E|Services? What might they be? 
+04|1B8E|0090
+02|1B92|004A|I... welcome those who would attempt the Trials of the Obsidian Fortress. 
+02|1BF3|001E|Services? What might they be? 
+03|1C1E|094A
+02|1C23|001E|Are you one of its guardians? 
+04|1C46|00B2
+02|1C4A|006C|Not really. I am merely a test. As you can see by the bones strewn about... many have not passed this test. 
+02|1CCD|001E|Are you one of its guardians? 
+03|1CF8|0870
+02|1CFD|0014|How was it created? 
+04|1D16|02B6
+02|1D1A|027A|The first Sorcerers were revered by the people, but not so later generations. Eventually, fear and mistrust arose on both sides. The Master Sorcerer called upon the might of the Pyros who reluctantly came to his aid. The Lord of Flame in turn called upon his comrade, Lithos, and together they thrust the living rock up through a lake of lava that had formed in Daemon's Crag. Pyros then poured forth the excess lava into a river that blocked the path to the Sorcerer's Enclave. The cavern through which it flows, aptly called the Mouth of the Daemon, is the first obstacle for those who would disturb the mages of Sorcerer's Enclave.
+02|1FAB|0014|How was it created? 
+03|1FCC|059C
+02|1FD1|0015|What are the Trials? 
+04|1FEB|01A3
+02|1FEF|0139|If I were to reveal that to you they wouldn't be much of a test of your capabilities, would they? Just walk through the pillars at the rear of this chamber, and the gateway will take you to the Trials. It will not bring you back here until you have collected the four special Sorcerer's symbols, so prepare well. 
+02|213F|0015|What are the Trials? 
+02|2163|001F|What do the symbols look like? 
+03|218E|03DA
+02|2193|0022|Where is Malchir's inner sanctum? 
+04|21BA|016E
+02|21BE|0100|Through the gateway beyond the pillars in the rear of the chamber, but not until you have succeeded in accomplishing the Trials. When you have done so, I will allow you to go to Malchir's inner sanctum. He awaits you even now, so be quick about your task. 
+02|22D5|0022|Where is Malchir's inner sanctum? 
+02|2306|0016|Let me go to him now. 
+03|2328|0240
+02|232D|001F|What do the symbols look like? 
+04|2351|006D
+02|2355|0026|You will know them when you see them. 
+02|2392|001F|What do the symbols look like? 
+03|23BE|01AA
+02|23C3|0016|Let me go to him now. 
+04|23DE|00F5
+02|23E2|00B7|Of course... What do you take me for? If I were to allow you to go to Malchir untested, he would be displeased. One does not live very long when one has displeased a Master Sorcerer. 
+02|24B0|0016|Let me go to him now. 
+03|24D3|0095
+02|24D8|000A|Farewell. 
+06|24ED|0439:0868
+03|24FA|006E
+02|24FF|0000|
+04|2504|0025
+06|250A|0439:0913
+02|2517|000A|Farewell. 
+03|2529|003F
+02|252D|0029|Do not toy with me. What is it you want? 
+03|256B|EFBF

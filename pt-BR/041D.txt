@@ -1,0 +1,480 @@
+01|0080|0080
+06|0096|0574:084D
+01|00A7|00A7
+03|00B8|020B
+03|00D5|01EE
+05|00DF|0581:2A56
+06|00F8|057C:091C
+04|0112|006A
+04|011A|005E
+02|0126|002B|I see you are a thief. Then perish as one. 
+03|0178|014B
+03|017C|FF93
+04|0186|0036
+02|0195|0012|Leave that alone. 
+03|01BC|00F7
+04|01C6|0044
+02|01D5|0020|Will you leave my things alone? 
+03|020A|00A9
+04|0214|004E
+02|0223|002A|You are close to death my foolish friend. 
+03|0262|0051
+02|026E|001E|Your death is your own doing. 
+06|02B9|041D:050A
+01|02C8|02C8
+04|02DC|0067
+04|02E8|0030
+02|02EC|0017|Bane the dead Sorcerer 
+03|0318|0028
+02|031C|0012|Bane the Sorcerer 
+03|0343|0101
+04|034A|0054
+04|0356|002B
+02|035A|0012|the deceased Bane 
+03|0381|001A
+02|0385|0004|Bane
+03|039E|00A6
+04|03A5|0055
+04|03B1|0027
+02|03B5|000E|dead Sorcerer 
+03|03D8|001F
+02|03DC|0009|Sorcerer 
+03|03FA|004A
+04|0406|0023
+02|040A|000A|dead mage 
+03|0429|001B
+02|042D|0005|mage 
+01|0449|0449
+06|0496|057C:143A
+06|04B2|057C:133F
+06|04DA|057C:143A
+06|04F6|057C:133F
+01|050A|050A
+06|0617|057B:0080
+06|0668|057B:0080
+01|0673|0673
+05|0685|0581:2A56
+01|068E|068E
+06|06AB|057C:0BCF
+06|06CA|0595:0080
+06|06E1|0595:1162
+06|0702|041D:5614
+06|071C|058A:4355
+06|0736|058A:19C9
+06|0750|0595:170E
+06|0763|041D:0782
+06|0773|057C:1090
+01|0782|0782
+04|07CD|00B3
+02|07D0|0026|Tell me of the Enclave and Morgaelin. 
+04|0806|0023
+02|0809|0014|What is a Truename? 
+04|0831|002C
+02|0834|001D|Tell me of the Elder Tongue. 
+02|0860|000A|Farewell. 
+05|0870|0581:3695
+03|0880|009C
+02|0883|0017|I agree to your terms. 
+02|089E|0019|What else can you offer? 
+02|08BB|001E|I will not be your spy, lady. 
+02|08DD|001F|I do not trust -your- motives. 
+02|0900|0014|Let me think on it. 
+02|0921|000A|Farewell. 
+04|0931|4CD6
+05|0936|0581:29B4
+04|0943|0100
+02|0947|0037|Is there anything else that you would wish to discuss? 
+02|0993|0026|Tell me of the Enclave and Morgaelin. 
+04|09C9|0023
+02|09CC|0014|What is a Truename? 
+04|09F4|002C
+02|09F7|001D|Tell me of the Elder Tongue. 
+02|0A23|000A|Farewell. 
+05|0A33|0581:3695
+03|0A43|002B
+04|0A4B|0023
+02|0A4E|000A|Farewell. 
+05|0A5E|0581:3695
+02|0A8C|0026|Tell me of the Enclave and Morgaelin. 
+04|0AB7|0138
+02|0ABB|0085|The Sorcerer's Enclave sits in the arms of Daemon's Crag, over-topped by Mount Morgaelin. The volcano is the namesake of the island. 
+02|0B55|000A|Farewell. 
+04|0B6D|0028
+02|0B70|0019|Tell me about Sorcerers. 
+02|0B98|0025|Why is the crag named after Daemons? 
+02|0BC1|001F|Does Morgaelin have a meaning? 
+03|0BEF|49FC
+02|0BF4|0014|What is a Truename? 
+04|0C0D|01EA
+02|0C11|011D|I see by your question that you are unlearned in the ways of Sorcery, and Sorcerers for that matter. A Truename is the name given a Sorcerer when she begins her training. The names you chose later or were given before have no power. I am called Bane, although that is not my Truename. 
+02|0D43|0017|What is your Truename? 
+02|0D5E|000A|Farewell. 
+04|0D76|0020
+02|0D79|0011|What is Sorcery? 
+04|0D9C|0028
+02|0D9F|0019|Tell me about Sorcerers. 
+04|0DCA|0020
+02|0DCD|0011|Power over what? 
+03|0DF7|47F4
+02|0DFC|001D|Tell me of the Elder Tongue. 
+04|0E1E|01D2
+02|0E22|00F4|That is my speciality, for I am an avid student of the language and all languages for that matter. The Elder Tongue allows Sorcerers such as myself to unleash or bind Fire. All Acolytes must learn it to create the enchanted tools of our trade. 
+02|0F2B|000A|Farewell. 
+04|0F43|0028
+02|0F46|0019|Tell me about Sorcerers. 
+04|0F71|0029
+02|0F74|001A|What do you mean by Fire? 
+04|0FA0|0023
+02|0FA3|0014|What is an Acolyte? 
+02|0FC6|0011|Enchanted tools? 
+03|0FF0|45FB
+02|0FF5|0019|Tell me about Sorcerers. 
+04|1013|0178
+02|1017|00C3|If you wish, but know this: the real power of the Truename will only be given to one initiated in our ways. Would you know about the current Sorcerers, or perhaps some of those that went before? 
+02|10EF|000A|Farewell. 
+04|1107|0023
+02|110A|0014|What is a Truename? 
+02|112D|0009|Current. 
+02|113A|0018|Those that went before. 
+04|1164|0020
+02|1167|0011|Power over what? 
+03|118B|4460
+02|1190|0025|Why is the crag named after Daemons? 
+04|11BA|0559
+02|11BE|005F|Long ago, this was the place where the first Daemon appeared. Would you care to hear the tale? 
+06|123A|0581:1B49
+04|1252|043B
+02|1256|0086|A man and his only daughter, Arianna, were pursued up this crag by Zealans who wished to take his life... and more from his daughter. 
+02|12F2|0060|The Zealans cornered the man and his child upon the cliffs overlooking the fiery river of lava. 
+02|1368|00BB|At last seeing all hope of escape vanish, the man decided that he would rather his daughter go to a quick, if painful death, than go to the fate the brutish Zealans had in store for her. 
+02|1439|005E|Tears in his eyes, he threw his lovely daughter into the lava and turned to face the Zealans. 
+02|14AD|0084|Just as they were about to finish off the badly wounded man, a hideous, redish beast leaped out of the lava and slew them to a man. 
+02|1547|008A|The beast turned upon the wounded man. As it was almost upon him, he yelled out,*`In the name of my beloved Arianna, please leave me be.` 
+02|15E7|0091|At the dying man's last word, the Daemon vanished in a cloud of brimstone. As fortune would have it, the man lived a while yet to tell his tale. 
+03|168D|004F
+04|1695|003F
+02|1699|0026|Very well, it is truly a tale of woe. 
+02|16D7|0000|
+02|16E1|0025|Why is the crag named after Daemons? 
+03|1713|3ED8
+02|1718|001F|Does Morgaelin have a meaning? 
+04|173C|00E3
+02|1740|006A|Yes, indeed it does. It means Dark Jewel in the tongue of the Elders. You are a curious sort, aren't you? 
+02|17C1|001F|Does Morgaelin have a meaning? 
+04|17F0|002C
+02|17F3|001D|Tell me of the Elder Tongue. 
+03|181F|3DCC
+02|1824|0011|What is Sorcery? 
+04|183A|00EA
+02|183E|00AD|Sorcery is the art of manipulating Fire. It is not an easy path to take as you can see by the scars that mark those of my Sorcerous kind, however, it does have its rewards. 
+02|1902|0011|What is Sorcery? 
+03|1924|3CC7
+02|1929|0011|Power over what? 
+04|193F|0203
+02|1943|0117|Why, over the Fire of course. The Truename of the Sorcerer is melded to the spell to give it meaning. The Truename of the Daemon binds it to the Sorcerer's will. Even the most powerful Daemon, the Lord of Flame himself, may be commanded so... if one also has the Tongue of Fire. 
+02|1A6F|000A|Farewell. 
+04|1A87|0029
+02|1A8A|001A|What do you mean by Fire? 
+02|1AB3|001A|What exactly is a Daemon? 
+04|1ADF|0031
+02|1AE2|0022|Tell me about this Lord of Flame. 
+02|1B13|001C|What is the Tongue of Fire? 
+03|1B42|3AA9
+02|1B47|0017|What is your Truename? 
+04|1B63|00E4
+02|1B67|00A5|Not so quickly, Daemion. Perhaps when we have grown accustomed to each other more, I shall reveal that to you. Until that time, it shall remain mine, and mine only. 
+02|1C23|0017|What is your Truename? 
+03|1C47|39A4
+02|1C4C|001A|What do you mean by Fire? 
+04|1C6B|014D
+02|1C6F|0072|Fire is the most powerful and destructive of the Elements, as the Lord of Flame is the most potent of the Titans. 
+02|1CF6|0019|Tell me of the Elements? 
+02|1D13|000A|Farewell. 
+04|1D2B|0031
+02|1D2E|0022|Tell me about this Lord of Flame. 
+04|1D62|0020
+02|1D65|0011|What is a Titan? 
+02|1D85|0020|What do you know of the Titans? 
+03|1DB8|3833
+02|1DBD|0014|What is an Acolyte? 
+04|1DD6|00FD
+02|1DDA|0090|I for one am an Acolyte Sorcerer. Acolytes, are the group of Sorcerers that the Master calls upon to aid him in the performance of his Sorcery. 
+02|1E81|0014|What is an Acolyte? 
+04|1EA5|0027
+02|1EA8|0018|Tell me of your Master. 
+03|1ED3|3718
+02|1ED8|0011|Enchanted tools? 
+04|1EEE|0099
+02|1EF2|0060|Wands, rods, staves and other unperishable metal paraphernalia are the trappings of a Sorcerer. 
+02|1F69|0011|Enchanted tools? 
+03|1F87|3664
+02|1F8C|0009|Current. 
+04|1F9A|0173
+02|1F9E|00A2|The living Sorcerers of the Cabal are divided into two groups: the body and the will. The body is made up of all the Acolytes and the will is that of the Master. 
+02|2055|000A|Farewell. 
+04|206D|0022
+02|2070|0013|What is the Cabal? 
+04|2095|0023
+02|2098|0014|What is an Acolyte? 
+02|20BB|0016|Who are the Acolytes? 
+04|20E3|0027
+02|20E6|0018|Tell me of your Master. 
+03|210D|34DE
+02|2112|0018|Those that went before. 
+04|212F|02E4
+02|2133|00AB|The history of Sorcerers is not a subject I am too familiar with. Those who spend their time delving into the greatness of long dead mages cannot become great themselves. 
+02|21F4|009C|However, I do know that a powerful man, called Maedron by some, had the foresight and wisdom to overthrow the tyrannical leadership of the dullard Corodin. 
+02|22A6|00B8|Corodin was the first, but not the best, leader of the Cabal. Maedron set the precedent for The Calling by challenging Corodin to a Sorcerous duel, and defeating him by wit and might. 
+02|2373|0020|Do you know more about Maedron? 
+02|2397|0019|Tell me more of Corodin. 
+02|23B4|000A|Farewell. 
+04|23CC|0022
+02|23CF|0013|What is the Cabal? 
+04|23F4|001C
+02|23F7|000D|The Calling? 
+03|2413|31D8
+02|2418|001A|What exactly is a Daemon? 
+04|2437|01AC
+02|243B|00A0|A Daemon is the essence of a man or woman who has been vanquished by flame. It is almost mindless and filled with a destructive rage that consumes all it sees. 
+02|24F1|007D|It owes allegiance to the Lord of Flame, and can be made a servant by a Sorcerer with the knowledge and power to control it. 
+02|2585|001A|What exactly is a Daemon? 
+04|25AF|0031
+02|25B2|0022|Tell me about this Lord of Flame. 
+03|25E3|3008
+02|25E8|0022|Tell me about this Lord of Flame. 
+04|260F|0185
+02|2613|00D8|The Lord of Flame is none other than the Titan of the Element of Fire. He was bound to the will of the Sorcerers, long ago, and remains bound to this very day. It is by his chained might that we control our Sorcery. 
+02|2700|000A|Farewell. 
+04|2718|0020
+02|271B|0011|What is a Titan? 
+04|273E|0029
+02|2741|001A|What do you mean by Fire? 
+04|276D|0020
+02|2770|0011|What is Sorcery? 
+03|2794|2E57
+02|2799|001C|What is the Tongue of Fire? 
+04|27BA|00B2
+02|27BE|006E|I know very little about it save that it is the focus of the Sorcerer's ability to control the Lord of Flame. 
+02|2843|001C|What is the Tongue of Fire? 
+03|286C|2D7F
+02|2871|0019|Tell me of the Elements? 
+04|288F|058E
+02|2893|00BA|I have never met an outlander before, but you must be from far away to not know of the Elements. Far away indeed. Nonetheless, be welcome for I will tell of them if you wish it. Do you? 
+06|296A|0581:1B49
+04|2982|03A5
+02|2986|0096|The first is Earth: a base and slow Element, its power is over death and the land. It mixes well with Fire, but I mislike the feel of it, personally. 
+02|2A32|00E9|Water is next: it is, of course, unloved by those who follow the Sorcerous path. But I cannot in good faith call it a weak Element, for its bailiwick extends throughout the deep seas and the Air is a fond cohort of it in the storms. 
+02|2B31|00AB|The Air follows: Water and Fire use it as they will, while Earth all but ignores it. Do not take it lightly, however, for life is its power and none can exist without it. 
+02|2BF2|0120|Fire is last, but also the greatest: as a Sorcerer, I know well the caress of the flame. Its power is in the undoing of all that exists, but it also has the ability to create. Does not a blacksmith use it to forge a better steel? Does not a baker use it to make the bread that feeds him? 
+03|2D27|00CB
+04|2D2F|00BB
+02|2D33|00A2|Good. To expound upon things of this nature gives one a pedantic and scholarly aire. I am neither of these things, as I prefer to be considered a woman of deeds. 
+02|2DED|0000|
+02|2DF7|0019|Tell me of the Elements? 
+03|2E1D|27CE
+02|2E22|0011|What is a Titan? 
+04|2E38|020F
+02|2E3C|0044|I -- What? Do you mean to tell me you know not what the Titans are? 
+06|2E9D|0581:1B49
+04|2EB5|00D0
+02|2EB9|00B7|Well, it's simple enough. They are only the most powerful beings in all of Pagan. Were they not bound by or in contract with the people, as in times before, they would be gods to us. 
+03|2F85|009B
+04|2F8D|008B
+02|2F91|0072|It is good that you do know, for I did not think that one could come from so far as to be ignorant of the Titans. 
+02|301B|0000|
+02|3025|0011|What is a Titan? 
+03|3047|25A4
+02|304C|0020|What do you know of the Titans? 
+04|3071|00F3
+02|3075|00AB|I know the names and titles by which the people adress them, and the Elements they have reign over. Other than this I cannot... or will not tell you... at least, not yet. 
+02|3137|0020|What do you know of the Titans? 
+03|3164|2487
+02|3169|0013|What is the Cabal? 
+04|3181|0194
+02|3185|00B1|The Cabal is simply the term we Sorcerers use to mean our kind, collectively. It is made up of one Master, one First Acolyte, three other Acolytes, and various other Disciples. 
+02|324B|000A|Farewell. 
+04|3263|0027
+02|3266|0018|Tell me of your Master. 
+04|3290|0032
+02|3293|0023|What do you mean by First Acolyte? 
+04|32C8|0023
+02|32CB|0014|What is an Acolyte? 
+02|32EE|0014|What is a Disciple? 
+03|3315|22D6
+02|331A|0016|Who are the Acolytes? 
+04|3335|02FC
+02|3339|00A9|The Acolytes are poorly led by the First Acolyte who is more beast than man. His name is Vardion, and you would do well to avoid him, as his odor can be most offensive. 
+02|33F8|00A9|I, of course, am also one of the Acolytes, then there is Gorgrond. Sometimes a bit slow of wit, and easily led astray by those that he thinks are of greater importance. 
+02|34B7|00A3|Lastly, there is Beren. A man to be trusted. He is as good as his word, and his word is beyond reproach. You could do worse than to take his advice in all things. 
+02|356F|000A|Farewell. 
+04|3587|0032
+02|358A|0023|What do you mean by First Acolyte? 
+02|35BC|0019|Tell me more of Vardion. 
+02|35D9|0021|Do you know more about Gorgrond? 
+02|35FE|0020|What else can you say of Beren. 
+03|3631|1FBA
+02|3636|0018|Tell me of your Master. 
+04|3653|01C3
+02|3657|00B3|Malchir is a wily one, but his self-interest is counter to my own outgoing nature. He should become more concerned with the other Sorcerers instead of always hiding himself away. 
+02|3720|0093|Nonetheless, he makes a fine and powerful Master otherwise. Other Acolytes malicious comments are unwarranted and you should take no heed of them. 
+02|37CA|0018|Tell me of your Master. 
+02|37EF|0014|Malicious comments? 
+03|3816|1DD5
+02|381B|0019|Tell me more of Corodin. 
+04|3839|00B2
+02|383D|0071|Truly, I know little else of the man. He died ages ago and before that he did little to recommend him to memory. 
+02|38C5|0019|Tell me more of Corodin. 
+03|38EB|1D00
+02|38F0|0020|Do you know more about Maedron? 
+04|3915|0232
+02|3919|0088|He was a great Sorcerer, quite possibly the greatest. It was his insight that brought about the magical formulae we use in our Sorcery. 
+02|39B7|00DF|He created the Elder Tongue to aid in the manipulation of Fire and our modern spellcraft. In truth, I wish I could have been one of his contemporaries, for there is no telling what great mysteries were lost upon his death. 
+02|3AAB|000A|Farewell. 
+04|3AC3|0020
+02|3AC6|0011|What is Sorcery? 
+04|3AE9|002C
+02|3AEC|001D|Tell me of the Elder Tongue. 
+04|3B1B|0029
+02|3B1E|001A|What do you mean by Fire? 
+03|3B47|1AA4
+02|3B4C|000D|The Calling? 
+04|3B5E|0285
+02|3B62|00F9|The Calling is a challenge from one Sorcerer to another, and invariably ends in the death of one of the participants. No other form of arbitration is allowed, save as the Master deems fitting. It is the way by which we keep peace amongst ourselves. 
+02|3C71|00C9|The rules of issuing a Call are as follows: No Sorcerer may Call upon another without the permission of the Master, except when the Master Calls or is Called. Only an Acolyte may Call upon the Master. 
+02|3D50|005E|A Sorcerer who breaks these simple rules can usually number his remaining days upon one hand. 
+02|3DC5|000D|The Calling? 
+03|3DE3|1808
+02|3DE8|0023|What do you mean by First Acolyte? 
+04|3E10|046A
+02|3E14|0079|The First Acolyte is chosen to be the Master's second in command, and tends to the daily affairs of running the Enclave. 
+02|3EA3|0057|The Master needs someone who understands people. Someone with a vision for the future. 
+04|3F14|0227
+02|3F17|0008|Vardion,
+04|3F2A|0027
+02|3F2F|001C| our current First Acolyte, 
+02|3F56|0043| is not this someone. Far to the contrary. He lingers in the past. 
+02|3FB4|007D|Observing out-dated traditions for tradition's sake... but I digress.*Perhaps you grow bored with this line of conversation? 
+02|4048|0023|What do you mean by First Acolyte? 
+04|407B|0028
+02|407E|0019|Tell me more of Vardion. 
+02|40AC|0012|No, please go on. 
+02|40C2|001B|Can we change the subject? 
+02|40E1|0018|Yes, I'm sorry, I have. 
+02|40FD|001F|Not bored, just disinterested. 
+02|4120|000A|Farewell. 
+03|413B|0138
+04|4143|00CA
+02|4147|002F|Are you still wary of discussing this further? 
+02|418D|0023|What do you mean by First Acolyte? 
+02|41C3|0012|No, please go on. 
+02|41D9|001B|Can we change the subject? 
+02|41F8|000A|Farewell. 
+03|420D|0066
+02|4211|001E|Perhaps you are this someone. 
+02|4246|0023|What do you mean by First Acolyte? 
+03|427A|1371
+02|427F|0014|What is a Disciple? 
+04|4298|0161
+02|429C|008B|A Disciple is a Sorcerer, and therefore a full member of the Cabal, but they have not been inducted into the select group called Acolytes. 
+02|433D|0084|Not to champion my own meager abilities, but only the most powerful and... or skilled Disciples are allowed to join into our ranks. 
+02|43D8|0014|What is a Disciple? 
+03|43F9|11F2
+02|43FE|0019|Tell me more of Vardion. 
+04|441C|01D9
+02|4420|0124|Not to put too fine a point on it, he is a brutish, overbearing, pompous lout. In other words, I find his presence intolerable and if Master Malchir were not so engrossed in his own affairs, I feel sure that he would allow me to issue The Calling to Vardion, even if he is the First Acolyte. 
+02|4559|000A|Farewell. 
+04|4571|0027
+02|4574|0018|Tell me of your Master. 
+04|459E|001C
+02|45A1|000D|The Calling? 
+04|45C0|0032
+02|45C3|0023|What do you mean by First Acolyte? 
+03|45F5|0FF6
+02|45FA|0021|Do you know more about Gorgrond? 
+04|4620|012B
+02|4624|00E2|He is as simple-minded as he is magically powerful... in a raw, and unskilled fashion. He is the perfect tool, which is why, I believe, he was made an Acolyte. Certainly, he is useful to those in a position to manipulate him. 
+02|471D|0021|Do you know more about Gorgrond? 
+03|474B|0EA0
+02|4750|0020|What else can you say of Beren. 
+04|4775|0123
+02|4779|00DB|Naught but good. His mind is quick, his body a finely crafted work, his magical skill and power are only slightly beneath my own. Taken altogether, quite a remarkable fellow. I would trust him with my life, were I you. 
+02|486B|0020|What else can you say of Beren. 
+03|4898|0D53
+02|489D|0014|Malicious comments? 
+04|48B6|0093
+02|48BA|0057|It would only perpetuate these comments to give them voice, therefore I shall refrain. 
+02|4928|0014|Malicious comments? 
+03|4949|0CA2
+02|494E|0012|No, please go on. 
+04|4965|03D2
+02|4969|008A|I will entrust to you further knowledge of our predicament. I have reason to believe that Vardion is preparing to assassinate the Master. 
+02|4A09|00EA|He thinks that Malchir breaks with too many of the old traditions but fears his power. Should he kill Malchir and become Master, he will return the Enclave to the days when Sorcerers were shunned by the rest of the island's populace. 
+02|4B09|00E1|To get to the point at hand, I must ask a favor of you. I need someone to enter into the confidences of the First Acolyte and acquire from him his Truename. This will aid me in performing a scrying to know Vardion's motives. 
+02|4C00|0080|Will you do this?*If so, I can offer you a position as a Disciple... or even Acolyte, should Vardion's intentions be murderous. 
+02|4C95|0017|I agree to your terms. 
+02|4CB0|0019|What else can you offer? 
+02|4CCD|001E|I will not be your spy, lady. 
+02|4CEF|001F|I do not trust -your- motives. 
+02|4D12|0014|Let me think on it. 
+03|4D37|08B4
+02|4D3C|001B|Can we change the subject? 
+04|4D5C|00B5
+02|4D60|0096|Of course. I am truly sorry to embroil you in the affairs of what must be, to you, a strange people indeed. Please forgive my temporary indiscretion. 
+03|4E11|07DA
+02|4E16|0018|Yes, I'm sorry, I have. 
+04|4E33|0045
+02|4E37|0026|Please... let me bore you no further. 
+03|4E78|0773
+02|4E7D|001F|Not bored, just disinterested. 
+04|4EA1|007F
+02|4EA5|0060|As your interest wanes, so does my civility. Please go before I say something you might regret. 
+03|4F20|06CB
+02|4F25|0017|I agree to your terms. 
+04|4F41|02E1
+02|4F45|00DA|Good. You are perceptive and wise, my Daemion. Firstly, in order to become a Disciple Sorcerer, you must have an Acolyte for a sponsor. I shall be that for you. Secondly, as your sponsor, I will give you a Truename... 
+02|5035|00FD|Daemion you are to me, and Daemion you shall be to the Fire. My inner sight judged your name correctly it would seem. I have always had that ability. To lend power to your Truename, I must reveal mine to you. Sabriane it is, and it means Well of Stars. 
+02|5148|00AD|Now your first task as my Disciple is to enter into the confidences of our illustrious First Acolyte and get from him his Truename. I care not how you do this, just get it. 
+02|5210|000A|Farewell. 
+03|5222|03C9
+02|5227|0019|What else can you offer? 
+04|5245|00DF
+02|5249|00C0|I have made a far greater offer than you apparently are capable of understanding. To become a Sorcerer is to become one with power. Take that as you will, as you take leave of these premises. 
+03|5324|02C7
+02|5329|001E|I will not be your spy, lady. 
+04|534C|0094
+02|5350|0075|That is your choice, my ignorant friend. My offer still stands, but perhaps you are not the one I should give it to. 
+03|53E0|020B
+02|53E5|001F|I do not trust -your- motives. 
+04|5409|009C
+02|540D|007D|It is not my motives that should be in question. You are the stranger here. And if I wished it, I could have you thrown out! 
+03|54A5|0146
+02|54AA|0014|Let me think on it. 
+04|54C3|0092
+02|54C7|0067|I apologize for placing this pressure on you, but it is of dire consequence. I will await your answer. 
+02|5543|000A|Farewell. 
+03|5555|0096
+02|555A|000A|Farewell. 
+06|556F|0595:0A03
+03|557C|006F
+02|5581|0000|
+04|5586|0025
+06|558C|0595:0D58
+02|5599|000A|Farewell. 
+03|55AB|0040
+02|55AF|002A|I can't understand you. What did you say? 
+04|55F2|0012
+02|55F5|000A|Farewell. 
+03|5607|B315
+01|5614|5614
+06|562B|057C:15E7
+04|563F|01D7
+02|5643|00CF|If it would not be too much to ask, Master, I would like to become your First Acolyte. I can learn the duties involved very quickly, and I promise you will not find my abilities wanting. Will you accept me? 
+06|572D|0581:1AD0
+04|5743|004C
+02|5747|0033|Thank you, Master! You won't regret this decision. 
+03|578F|007E
+02|5793|0068|I understand, Master. I won't take any more of your time. Whatever I have is, of course, yours to take. 
+03|5816|00A0
+02|581A|008A|I hope I am performing my duties to your satisfaction. But I will attempt to improve them further. I must go now to return to my studies. 
+06|58C1|0581:1C19
+06|58DE|057C:15E7

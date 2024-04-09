@@ -1,0 +1,446 @@
+01|0080|0080
+04|0094|0035
+02|0098|001C|The late executioner Shaana 
+03|00C9|006F
+04|00D0|0020
+02|00D4|0007|Shaana 
+03|00F0|0048
+04|00F7|0025
+02|00FB|000C|executioner 
+03|011C|001C
+02|0120|0006|woman 
+01|013D|013D
+05|0165|0581:28F9
+05|018A|0581:28F9
+06|01B7|057C:143A
+06|01D9|057C:133F
+01|01EA|01EA
+06|0235|0413:08CD
+05|024D|0581:2A56
+06|0256|0413:029E
+05|0269|0581:2A56
+01|0283|0283
+05|0295|0581:2A56
+01|029E|029E
+06|0301|0413:03B0
+06|031F|057C:15E7
+06|033A|0581:1C19
+06|0357|057C:15E7
+06|037F|0581:1C19
+06|039C|057C:15E7
+01|03B0|03B0
+04|03D0|01D4
+06|03E5|057C:091C
+06|0402|057C:15E7
+06|041F|057C:15E7
+04|043A|0023
+02|043E|000A|En guard! 
+03|045D|0022
+02|0461|000C|Watch this! 
+06|0490|057C:15E7
+06|04A7|0581:1C19
+05|04BD|0581:2A56
+06|04E1|057C:15E7
+06|0505|057C:091C
+06|051C|0581:1C19
+06|053D|057C:091C
+06|055A|057C:15E7
+06|0577|057C:15E7
+06|0594|057C:15E7
+03|05A4|FE29
+01|05AB|05AB
+03|05BE|0306
+04|05D1|011E
+04|05D9|00BA
+06|05DF|057C:0BCF
+06|05FA|057C:15E7
+02|060A|0036|I am much too busy to talk to you now. Out of my way! 
+06|0663|057C:15E7
+06|0675|057C:1090
+03|0693|0231
+04|06A2|0020
+02|06A5|0009|Aaagh... 
+03|06BF|0205
+03|06C2|002D
+02|06C5|0009|Ooooo... 
+06|06E2|057C:1090
+03|06EF|01D5
+04|0725|0080
+02|0729|0064|You fool! I have no time for conversation. The Titans are angry. You had best find permanent cover! 
+03|07A2|0122
+03|07A5|00F5
+04|07AC|00EE
+02|07B0|00D2|I speak to no one when the living dead walk the streets. If you are dead, then return to where you once rested. And if you are alive, you had best find shelter from the rampaging ghouls and the quaking ground! 
+06|08A7|0413:2A16
+06|08BA|0413:0973
+01|08CD|08CD
+06|08EB|0581:1C19
+06|090F|0581:1C19
+04|092A|0022
+02|092E|0009|ooouuu...
+03|094C|001F
+02|0950|0009|auuggh...
+03|096E|FF89
+01|0973|0973
+02|0984|000D|Pardon me... 
+06|09A9|057C:0BCF
+04|09C2|0020
+02|09C7|0012|Why are you here? 
+02|09E6|0014|Good day, stranger. 
+02|0A11|000D|Who are you? 
+02|0A22|000A|Nice axe. 
+02|0A3A|0009|Adeus 
+04|0A49|1FB2
+04|0A5D|002F
+02|0A62|0009|Adeus 
+02|0A7A|0009|Adeus 
+02|0AAA|000D|Who are you? 
+04|0ABC|00CB
+02|0AC0|0042|Not that it is any of your concern, stranger, I am called Shaana. 
+02|0B26|000D|Who are you? 
+04|0B45|003F
+02|0B48|0010|What do you do? 
+02|0B5C|0020|Who was the man I saw you kill? 
+03|0B87|1E71
+02|0B8C|000A|Nice axe. 
+04|0B9B|00A3
+02|0B9F|0016|Yes, stranger, it is. 
+02|0BD3|000A|Nice axe. 
+04|0BEF|004C
+02|0BF2|0010|What do you do? 
+02|0C06|0020|Who was the man I saw you kill? 
+02|0C2A|0009|Adeus 
+03|0C3E|1DBA
+02|0C43|0000|
+04|0C48|00CD
+04|0C50|0068
+02|0C54|004B|I would advise you to listen when I speak, lest I I tire of being ignored. 
+03|0CB8|005A
+02|0CBC|002B|I do not waste time with mindless toraxen! 
+06|0D05|057C:1090
+03|0D12|1CF9
+03|0D15|1CE3
+02|0D1A|0020|Who was the man I saw you kill? 
+04|0D3F|017F
+02|0D43|00F1|The man I just killed? You must be an imbecile to think that I have any knowledge -- or desire for the knowledge -- of whom I execute. Even were I interested, there are too many to remember. Why are you so concerned about me and my victims? 
+02|0E4B|0010|What do you do? 
+02|0E5F|0020|Who was the man I saw you kill? 
+02|0E8C|000A|I am not. 
+02|0E9A|0015|I am simply curious. 
+03|0EBE|1B3A
+02|0EC3|0010|What do you do? 
+04|0ED8|013C
+02|0EDC|00AE|I assume you are speaking in jest, for it is obvious by my executioner's blade that I... remove heads to earn my keep. Why are you so concerned about my name and occupation? 
+02|0FA1|0010|What do you do? 
+02|0FB5|0020|Who was the man I saw you kill? 
+02|0FE2|000A|I am not. 
+02|0FF0|0015|I am simply curious. 
+03|1014|19E4
+02|1019|000A|I am not. 
+04|1028|010E
+02|102C|0086|Then by all means stop wasting my time. One would think you were employed by the scholar, the way you waste time with useless banter. 
+02|10C9|000A|I am not. 
+02|10D7|0015|I am simply curious. 
+02|10FB|0014|Who is the scholar? 
+02|1113|0017|I am not wasting time. 
+03|1136|18C2
+02|113B|0015|I am simply curious. 
+04|1155|011C
+02|1159|0094|I am not here to satisfy an idle curiosity, stranger. One would think you were employed by the scholar, the way you waste time with useless banter. 
+02|1204|000A|I am not. 
+02|1212|0015|I am simply curious. 
+02|1236|0014|Who is the scholar? 
+02|124E|0017|I am not wasting time. 
+03|1271|1787
+02|1276|0017|I am not wasting time. 
+04|1292|0065
+02|1296|0039|You are wrong, stranger. You are wasting mine. Farewell. 
+06|12E7|057C:1090
+03|12F4|1717
+03|12F7|1701
+02|12FC|0014|Who is the scholar? 
+04|1315|028B
+02|1319|01F7|If I am to be a source of information, I do not expect this to occupy too much of my time. The scholar, Bentic, is a rather long-winded individual who spends his days and nights buried in the pages of the many books he maintains. In fact, stranger, perhaps you should speak with him. His work -is- knowledge, after all, and I doubt the rest of us have time for this prattle. Then again, you seem the sort to be more interested in hearing rumors in a darkened tavern than the ramblings of a learned man. 
+02|1527|0014|Who is the scholar? 
+02|153F|0017|I am not wasting time. 
+02|1565|0016|Where is the scholar? 
+02|157F|0015|Where is the tavern? 
+03|15A0|1458
+02|15A5|0016|Where is the scholar? 
+04|15C0|01C2
+02|15C4|0162|So it -is- the knowledge you seek. Then you may find Bentic in the northeastern part of town. He is wise and knows much, and he will impart that which you wish and more. I will tell you this, stranger: if he cannot answer your query then only one other might. But I am loath to tell you who for fear you would waste his precious time like you have mine. 
+02|173D|0016|Where is the scholar? 
+02|1760|0013|Who is this other? 
+03|1782|1276
+02|1787|0013|Who is this other? 
+04|179F|00C7
+02|17A3|005A|Swear to me you will not disturb his study without due cause and I will name him. Agreed? 
+02|1818|0013|Who is this other? 
+02|1838|000E|Aye, I swear. 
+02|184A|0011|I swear nothing. 
+03|1866|1192
+02|186B|0011|I swear nothing. 
+04|1881|0085
+02|1885|0015|Then I tell nothing. 
+02|18B1|000E|Aye, I swear. 
+02|18C3|0011|I swear nothing. 
+02|18E5|0016|I apologize. I swear. 
+03|1906|10F2
+02|190B|000E|Aye, I swear. 
+04|191E|013B
+02|1922|00D4|Very well. His name is Mythran. You may find him outside the city walls. His wisdom is great, but I warn you not to visit him for idle prattle such as this. I swear myself that you do not wish to see me angered. 
+02|1A0F|0009|Adeus 
+02|1A29|000E|Aye, I swear. 
+02|1A3B|0011|I swear nothing. 
+03|1A59|0F9F
+02|1A5E|0016|I apologize. I swear. 
+04|1A79|013C
+02|1A7D|00FE|I hope for your sake you speak the truth. I swear myself that you do not wish to see me angered. Very well. His name is Mythran. You may find him outside the city walls. His wisdom is great, but I warn you not to visit him for idle prattle such as this. 
+02|1B92|0016|I apologize. I swear. 
+03|1BB5|0E43
+02|1BBA|0015|Where is the tavern? 
+04|1BD4|00D7
+02|1BD8|009A|The Shattered Skull is the large building in the center of town. Orlok is the man you seek. I am certain his tales of seafaring will amuse you to no end. 
+02|1C89|0015|Where is the tavern? 
+03|1CAB|0D4D
+02|1CB0|000B|What pact? 
+04|1CC0|01B3
+02|1CC4|014B|You know very little of our culture, stranger. I suggest that change. The pact is one forged ages ago between Lithos and our people. Our duty from the covenant is to send our dead to Lithos. Yet Lady Mordea elects to give them to her patron, Hydros. 'Tis only a matter of time before the dead rise up and avenge the Mountain King. 
+02|1E26|000B|What pact? 
+02|1E40|0010|Dead rising up? 
+02|1E54|0013|The Mountain King? 
+03|1E73|0B85
+02|1E78|0013|The Mountain King? 
+04|1E90|00E4
+02|1E94|007C|'Tis the earned title for Lithos, He who resides in the great Hall within the mountains. However, few have ever been there. 
+02|1F27|0013|The Mountain King? 
+02|1F3E|0010|Dead rising up? 
+02|1F5D|000B|Which few? 
+03|1F74|0A84
+02|1F79|0010|Dead rising up? 
+04|1F8E|01B8
+02|1F92|013C|Aye, so the story goes. When he is angry, Lithos will set upon us our long lost kindred which he has willed to live again. Well, 'tis hardly living, but legend holds that they walk and fight like men. I have seen such wander about inside the confines of the cemetery, though even -I- have not dared to enter within. 
+02|20E5|001F|Why do you avoid the cemetery? 
+02|2112|0010|Dead rising up? 
+02|2126|0013|The Mountain King? 
+03|2146|08B2
+02|214B|000B|Which few? 
+04|215B|006D
+02|215F|0012|The Necromancers. 
+02|2188|000B|Which few? 
+02|21A2|001A|Who are the Necromancers? 
+03|21C8|0830
+02|21CD|001A|Who are the Necromancers? 
+04|21EC|019D
+02|21F0|0133|I tire of these questions. They are common to all Tenebraeans, yet to me do you pose them. The Necromancers are the line of mages who carry out our half of the pact with Lithos. Their duties are quite distasteful, but they are necessary. If you are truly interested in them, why not speak to them yourself. 
+02|233A|001A|Who are the Necromancers? 
+02|2363|001A|Are they in the cemetery? 
+03|2389|066F
+02|238E|001A|Are they in the cemetery? 
+04|23AD|0118
+02|23B1|00D6|Do not tell me you are so much a fool as to take me seriously! I will grant you this, stranger, you are indeed brave if not equally senseless! Aye, the Necromancers reside in the graveyard. Beware where you tread. 
+02|249E|001A|Are they in the cemetery? 
+03|24C5|0533
+02|24CA|001F|Why do you avoid the cemetery? 
+04|24EE|00D7
+02|24F2|0068|An odd question, stranger. I do not wish audience with the dead. That is the realm of the Necromancers. 
+02|2571|001F|Why do you avoid the cemetery? 
+02|259F|001A|Who are the Necromancers? 
+03|25C5|0433
+02|25CA|0013|What do you study? 
+04|25E2|01DD
+04|25E7|00CC
+02|25EB|00A0|My dear stranger, if I have not yet made it perfectly clear that my business is none of your concern, let me do so now. My business, -is- none of your concern. 
+06|26A3|057C:1090
+03|26B0|035B
+03|26B3|0109
+02|26B7|00CA|My dear stranger, if I have not yet made it perfectly clear that my business is none of your concern, let me do so now. As far as you need know, I am but an executioner. Nothing more, but nothing less. 
+02|2796|001E|Yet you study other pursuits. 
+03|27BF|0239
+02|27C4|0017|Why was Bentic killed? 
+04|27E0|00BE
+02|27E4|0092|'Tis not mine to judge the condemned. I simply carry out The Lady's commands. If you have issue with that, I suggest you speak with her. Goodbye. 
+06|288E|057C:1090
+03|289B|0170
+03|289E|015A
+02|28A3|0012|Why are you here? 
+04|28BA|00C9
+02|28BE|0097|'Twould be best for you, stranger, to ignore such things.	Tell no one of seeing me here... or you, yourself, shall feel my axe upon your scrawny neck. 
+06|2973|057C:1090
+03|2980|008B
+03|2983|0075
+02|2988|0009|Adeus 
+02|2998|0014|Nao, desculpe. Adeus. 
+04|29B2|0046
+02|29B7|0009|Adeus 
+02|29C4|0014|Nao, desculpe. Adeus. 
+06|29E8|057C:1090
+03|29FB|E03A
+06|2A01|057C:1090
+01|2A16|2A16
+04|2A28|0030
+02|2A2E|0015|Hello again, Shaana. 
+03|2A58|0025
+02|2A5E|000D|Hello again. 
+06|2A83|057C:0BCF
+02|2A90|000E|May we speak? 
+04|2AAE|001B
+02|2AB3|000D|Who are you? 
+04|2AD8|0020
+02|2ADD|0012|Why are you here? 
+02|2AFD|0009|Adeus 
+04|2B0C|1AAF
+04|2B20|002F
+02|2B25|0009|Adeus 
+02|2B3D|0009|Adeus 
+02|2B6D|000D|Who are you? 
+04|2B7F|0084
+02|2B83|0042|Not that it is any of your concern, stranger, I am called Shaana. 
+02|2BE9|000D|Who are you? 
+03|2C03|19B5
+02|2C08|0000|
+04|2C0D|00CD
+04|2C15|0068
+02|2C19|004B|I would advise you to listen when I speak, lest I I tire of being ignored. 
+03|2C7D|005A
+02|2C81|002B|I do not waste time with mindless toraxen! 
+06|2CCA|057C:1090
+03|2CD7|18E4
+03|2CDA|18DE
+02|2CDF|000E|May we speak? 
+04|2CF2|018F
+04|2CFA|008E
+02|2CFE|003F|Greetings again, stranger. I suppose you wish more of my time? 
+02|2D56|0014|Nao, desculpe. Adeus. 
+02|2D6E|000F|Only a moment. 
+03|2D88|00F6
+02|2D8C|00C7|You display considerable courage speaking to me after wasting my time when we last spoke. Too much courage. I am still not impressed. Perhaps another time I will be more inclined to hear your words. 
+06|2E71|057C:1090
+03|2E7E|173D
+03|2E81|1737
+02|2E86|000F|Only a moment. 
+04|2E9A|0315
+04|2EA4|017B
+04|2EB2|00B2
+02|2EB6|0099|Enough of this, fool! I am not here to act as your source for information. If you feel the need for idle gossip, go and listen to Orlok's grand stories. 
+03|2F64|00A5
+02|2F68|008F|Enough of this, fool! I am not here to act as your source for information. If your question needs answering, find the scholar and disturb him! 
+06|300F|057C:1090
+03|301C|159F
+03|301F|0127
+04|3029|0087
+02|302D|006E|Have you nothing more to do than have me answer your questions?	Do you not think I have work elsewhere to do? 
+03|30B0|0096
+02|30B4|0080|Very well, stranger. You have a moment. What is it that you want? And I assume it is not to beg me away from an appointed task. 
+02|3149|0013|What is your task? 
+02|3160|0009|Adeus 
+04|3178|0025
+02|317D|0017|Why was Bentic killed? 
+03|31AF|1409
+02|31B4|0013|What is your task? 
+04|31CC|0123
+02|31D0|00C4|I think that you need not know such things. But let me assure you that not all of my life revolves around death. Most times there are far more interesting things to study than a decapitated body. 
+02|32A9|0017|Only most of the time? 
+02|32C4|0013|What do you study? 
+02|32DB|0009|Adeus 
+03|32EF|12C9
+02|32F4|0017|Only most of the time? 
+02|3312|001E|Yet you study other pursuits. 
+04|3336|01F7
+02|333E|00F3|I have warned you not to pry into my affairs. Do not fool yourself into thinking that I am incapable of performing the duties of my position -- even when the victims are not bound. I have -no- qualms about slaying someone who deserves to die. 
+06|345C|057C:091C
+02|346C|003B|Though I do not necessarily agree with the Lady's methods. 
+02|34BE|0017|Only most of the time? 
+02|34D9|001E|Yet you study other pursuits. 
+02|3506|001B|With what do you disagree? 
+03|352D|108B
+02|3532|001B|With what do you disagree? 
+04|3552|01E3
+04|3559|00DE
+02|355D|00C5|'Tis a moot point, considering she is no longer alive, but it was not right to let the body fall to The Lurker. It violated the pact, something which Lithos was not likely to tolerate much longer. 
+03|3637|009D
+02|363B|0087|'Tis not right to let the body fall to The Lurker. It violates the pact, something for which Lithos will not likely stand much longer. 
+02|36D9|001B|With what do you disagree? 
+04|3706|002C
+02|370B|000F|Who is Lithos? 
+02|371E|000B|What pact? 
+03|3735|0E83
+02|373A|000F|Who is Lithos? 
+04|374E|010A
+02|3752|00CD|I know not from where you hail, stranger, but I wonder about a man who does not know of the Titans. Speak to the scholar.  He will show you the answer to your question. I assume you -do- know how to read. 
+02|383C|000F|Who is Lithos? 
+03|3858|0D60
+02|385D|000B|What pact? 
+04|386D|01B9
+02|3871|014B|You know very little of our culture, stranger. I suggest that change. The pact is one forged ages ago between Lithos and our people.	Our duty from the covenant is to send our dead to Lithos. Yet Lady Mordea elects to give them to her patron, Hydros. 'Tis only a matter of time before the dead rise up and avenge the Mountain King. 
+02|39D9|000B|What pact? 
+02|39F3|0010|Dead rising up? 
+02|3A07|0013|The Mountain King? 
+03|3A26|0B92
+02|3A2B|0013|The Mountain King? 
+04|3A43|00E4
+02|3A47|007C|'Tis the earned title for Lithos, He who resides in the great Hall within the mountains. However, few have ever been there. 
+02|3ADA|0013|The Mountain King? 
+02|3AF1|0010|Dead rising up? 
+02|3B10|000B|Which few? 
+03|3B27|0A91
+02|3B2C|0010|Dead rising up? 
+04|3B41|01B8
+02|3B45|013C|Aye, so the story goes. When he is angry, Lithos will set upon us our long lost kindred which he has willed to live again. Well, 'tis hardly living, but legend holds that they walk and fight like men. I have seen such wander about inside the confines of the cemetery, though even -I- have not dared to enter within. 
+02|3C98|001F|Why do you avoid the cemetery? 
+02|3CC5|0010|Dead rising up? 
+02|3CD9|0013|The Mountain King? 
+03|3CF9|08BF
+02|3CFE|000B|Which few? 
+04|3D0E|006D
+02|3D12|0012|The Necromancers. 
+02|3D3B|000B|Which few? 
+02|3D55|001A|Who are the Necromancers? 
+03|3D7B|083D
+02|3D80|001A|Who are the Necromancers? 
+04|3D9F|019D
+02|3DA3|0133|I tire of these questions. They are common to all Tenebraeans, yet to me do you pose them. The Necromancers are the line of mages who carry out our half of the pact with Lithos. Their duties are quite distasteful, but they are necessary. If you are truly interested in them, why not speak to them yourself. 
+02|3EED|001A|Who are the Necromancers? 
+02|3F16|001A|Are they in the cemetery? 
+03|3F3C|067C
+02|3F41|001A|Are they in the cemetery? 
+04|3F60|0118
+02|3F64|00D6|Do not tell me you are so much a fool as to take me seriously! I will grant you this, stranger, you are indeed brave if not equally senseless! Aye, the Necromancers reside in the graveyard. Beware where you tread. 
+02|4051|001A|Are they in the cemetery? 
+03|4078|0540
+02|407D|001F|Why do you avoid the cemetery? 
+04|40A1|00D7
+02|40A5|0068|An odd question, stranger. I do not wish audience with the dead. That is the realm of the Necromancers. 
+02|4124|001F|Why do you avoid the cemetery? 
+02|4152|001A|Who are the Necromancers? 
+03|4178|0440
+02|417D|0013|What do you study? 
+04|4195|01EA
+04|419A|00CC
+02|419E|00A0|My dear stranger, if I have not yet made it perfectly clear that my business is none of your concern, let me do so now. My business, -is- none of your concern. 
+06|4256|057C:1090
+03|4263|0358
+03|4266|0116
+02|426A|00CA|My dear stranger, if I have not yet made it perfectly clear that my business is none of your concern, let me do so now. As far as you need know, I am but an executioner. Nothing more, but nothing less. 
+02|4349|001E|Yet you study other pursuits. 
+02|436B|0009|Adeus 
+03|437F|0239
+02|4384|0017|Why was Bentic killed? 
+04|43A0|00BE
+02|43A4|0092|'Tis not mine to judge the condemned. I simply carry out The Lady's commands. If you have issue with that, I suggest you speak with her. Goodbye. 
+06|444E|057C:1090
+03|445B|0160
+03|445E|015A
+02|4463|0012|Why are you here? 
+04|447A|00C9
+02|447E|0097|'Twould be best for you, stranger, to ignore such things.	Tell no one of seeing me here... or you, yourself, shall feel my axe upon your scrawny neck. 
+06|4533|057C:1090
+03|4540|007B
+03|4543|0075
+02|4548|0009|Adeus 
+02|4558|0014|Nao, desculpe. Adeus. 
+04|4572|0046
+02|4577|0009|Adeus 
+02|4584|0014|Nao, desculpe. Adeus. 
+06|45A8|057C:1090
+03|45BB|E53D

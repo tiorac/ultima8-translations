@@ -1,0 +1,984 @@
+01|0080|0080
+04|008F|0020
+02|0093|0007|Mythran
+03|00AF|003F
+04|00B6|001E
+02|00BA|0005|mage 
+03|00D4|001A
+02|00D8|0004|man 
+01|00F3|00F3
+05|0102|0581:28F9
+05|010B|0581:28F9
+05|0126|0581:28F9
+05|0140|0581:28F9
+05|015A|0581:28F9
+05|0174|0581:28F9
+06|0196|057C:133F
+01|01A7|01A7
+01|01D4|01D4
+05|01E6|0581:2A56
+01|01EF|01EF
+04|0204|0024
+02|0208|000B|Very well. 
+03|0228|0173
+02|022C|0157|There is only one spell which I have bothered to transcribe onto scrolls. This spell enables the caster to dispel magics that seal entryways and portals. Unlike other spells, you do not need to learn this spell before casting it. However, the magics upon the scroll will disappear after you read it, so you may use each spell of opening once. 
+02|039F|003A|You wish to buy the Scroll of Dispelling Magical Portals? 
+02|03EE|0005|Aye. 
+02|03F7|0005|Nay. 
+02|0422|0005|Aye. 
+04|042C|010D
+04|0434|00B0
+02|0438|0091|Since the ink and parchment do have a cost to them, as well as the time I take to transcribe the magical words, I must ask you for 50 obsidians. 
+03|04E4|0052
+02|04E8|003C|As you know, I must charge you 50 obsidians for the scroll. 
+03|0539|006D
+02|053E|0000|
+02|0545|0005|Nay. 
+04|0550|0056
+02|0554|003A|Perhaps you wish to discuss something other than scrolls. 
+03|05A3|02FA
+02|05A9|0011|I will pay that. 
+02|05BE|0013|I cannot pay that. 
+02|05F7|0011|I will pay that. 
+04|060D|019B
+05|061B|0581:20B8
+04|0623|00BD
+05|0658|0581:1EE2
+04|0660|0033
+02|0664|001A|Excellent. Use this well. 
+03|0693|004A
+05|06A2|0581:24A7
+04|06AA|0033
+02|06AE|001A|Excellent. Use this well. 
+03|06E0|00C8
+02|06E4|00AF|My friend, it seems you have not the obsidian for this. Of course, I realize you were not attempting to fool me, but perhaps you should return later when you can pay the fee. 
+03|07A8|00F5
+02|07AD|0013|I cannot pay that. 
+04|07C5|007B
+02|07C9|0062|I am sorry that I cannot help you then. Perhaps you should return later when you can pay the fee. 
+03|0840|005D
+02|0845|0000|
+04|084A|0053
+02|084E|003A|Perhaps you wish to discuss something other than scrolls. 
+01|08A6|08A6
+04|08BB|0078
+02|08BF|005F|Do you wish to purchase the reagents of Necromancy, Sorcery, or those specific to Thaumaturgy? 
+03|0933|00BC
+02|0937|00A0|You do realize that I only have reagents for the spells I teach. Do you wish to purchase the reagents of Necromancy, Sorcery, or those specific to Thaumaturgy? 
+02|09F2|000C|Necromancy. 
+02|0A02|0009|Sorcery. 
+02|0A0F|000D|Thaumaturgy. 
+02|0A20|000B|Nevermind. 
+02|0A51|000C|Necromancy. 
+04|0A62|0073
+02|0A66|003B|Do you wish to buy Bone, Executioner's Hood, or Blackmoor? 
+02|0ABC|000C|Necromancy. 
+03|0AD5|0160
+02|0ADA|0009|Sorcery. 
+04|0AE8|0077
+02|0AEC|0042|Do you wish to buy Obsidian, Brimstone, Pumice, Ash, or Pig Iron? 
+02|0B49|0009|Sorcery. 
+03|0B5F|00D6
+02|0B64|000D|Thaumaturgy. 
+04|0B76|0083
+02|0B7A|004A|Do you wish to buy Eye of Newt, Bat Wing, Serpent Scale, or Dragon Blood? 
+02|0BDF|000D|Thaumaturgy. 
+03|0BF9|003C
+02|0BFE|000B|Nevermind. 
+04|0C0E|0027
+02|0C12|000B|Very well. 
+03|0C32|07FD
+04|0C3D|0047
+02|0C40|0006|Bone. 
+02|0C4A|0014|Executioner's Hood. 
+02|0C62|000B|Blackmoor. 
+02|0C71|000B|Nevermind. 
+04|0C8C|0056
+02|0C8F|000A|Obsidian. 
+02|0C9D|000B|Brimstone. 
+02|0CAC|0008|Pumice. 
+02|0CB8|0005|Ash. 
+02|0CC1|000A|Pig Iron. 
+02|0CCF|000B|Nevermind. 
+04|0CEA|005A
+02|0CED|000D|Eye of Newt. 
+02|0CFE|000A|Bat Wing. 
+02|0D0C|000F|Serpent Scale. 
+02|0D1F|000E|Dragon Blood. 
+02|0D31|000B|Nevermind. 
+02|0D62|000B|Blackmoor. 
+04|0D72|0022
+02|0D82|000A|Blackmoor 
+03|0D94|02F7
+02|0D99|0014|Executioner's Hood. 
+04|0DB2|002B
+02|0DC2|0013|Executioner's Hood 
+03|0DDD|02AE
+02|0DE2|000A|Pig Iron. 
+04|0DF1|0021
+02|0E01|0009|Pig Iron 
+03|0E12|0279
+02|0E17|0005|Ash. 
+04|0E21|001C
+02|0E31|0004|Ash 
+03|0E3D|024E
+02|0E42|000E|Dragon Blood. 
+04|0E55|0025
+02|0E65|000D|Dragon Blood 
+03|0E7A|0211
+02|0E7F|0006|Bone. 
+04|0E8A|001D
+02|0E9A|0005|Bone 
+03|0EA7|01E4
+02|0EAC|0008|Pumice. 
+04|0EB9|001F
+02|0EC9|0007|Pumice 
+03|0ED8|01B3
+02|0EDD|000B|Brimstone. 
+04|0EED|0022
+02|0EFD|000A|Brimstone 
+03|0F0F|017C
+02|0F14|000D|Eye of Newt. 
+04|0F26|0024
+02|0F36|000C|Eye of Newt 
+03|0F4A|0141
+02|0F4F|000A|Bat Wing. 
+04|0F5E|0021
+02|0F6E|0009|Bat Wing 
+03|0F7F|010C
+02|0F84|000F|Serpent Scale. 
+04|0F98|0026
+02|0FA8|000E|Serpent Scale 
+03|0FBE|00CD
+02|0FC3|000A|Obsidian. 
+04|0FD2|0021
+02|0FE2|0009|Obsidian 
+03|0FF3|0098
+02|0FF8|000B|Nevermind. 
+04|1008|002B
+02|100C|000B|Very well. 
+03|1030|03FF
+03|1033|0058
+02|1038|0000|
+04|103D|004E
+02|1041|0032|Perhaps you are not truly interested in reagents. 
+03|1088|03A7
+04|1093|0046
+02|1096|000B|I must ask 
+02|10AF|0018| obsidian coins for the 
+02|10CF|0001|.
+03|10D9|0042
+02|10DC|000B|I must ask 
+02|10F5|0017| obsidian coin for the 
+02|1114|0001|.
+02|112F|0011|I will pay that. 
+02|1144|0013|I cannot pay that. 
+02|117D|0011|I will pay that. 
+04|1193|01A2
+05|11A1|0581:20B8
+04|11A9|00C1
+05|11DD|0581:1EE2
+04|11E5|0033
+02|11E9|001A|Excellent. Use this well. 
+03|1218|0049
+05|1226|0581:24A7
+04|122E|0033
+02|1232|001A|Excellent. Use this well. 
+03|126A|00C8
+02|126E|00AF|My friend, it seems you have not the obsidian for this. Of course, I realize you were not attempting to fool me, but perhaps you should return later when you can pay the fee. 
+03|1332|00FD
+03|1335|00FA
+02|133A|0013|I cannot pay that. 
+04|1352|007E
+02|1356|0062|I am sorry that I cannot help you then. Perhaps you should return later when you can pay the fee. 
+03|13CD|0062
+03|13D0|005F
+02|13D5|0000|
+04|13DA|0055
+02|13DE|0039|Perhaps you are not so interested in reagents after all. 
+01|143C|143C
+04|1451|00F7
+04|145F|0099
+02|1463|0077|You are ready for the final spell that I can teach you -- the spell that permits travel through the very Ether itself. 
+03|14F8|004D
+02|14FC|0030|It is too early for you to learn another spell. 
+03|1545|0B3E
+03|1548|038A
+04|154F|00D2
+04|1556|007B
+02|155A|0059|You are ready for your fifth lesson in Thaumaturgy -- the spell of complete devastation. 
+03|15D1|004D
+02|15D5|0030|It is too early for you to learn another spell. 
+03|161E|0A65
+03|1621|02B1
+04|1628|00B2
+04|162F|005B
+02|1633|0039|You are ready for your fourth spell -- Call Destruction. 
+03|168A|004D
+02|168E|0030|It is too early for you to learn another spell. 
+03|16D7|09AC
+03|16DA|01F8
+04|16E1|00D0
+04|16E8|0079
+02|16EC|0057|You are ready for your third lesson in Thaumaturgy -- the spell of creature summoning. 
+03|1761|004D
+02|1765|0030|It is too early for you to learn another spell. 
+03|17AE|08D5
+03|17B1|0121
+04|17B8|00AE
+04|17BF|0057
+02|17C3|0036|You are ready for your second spell -- Meteor Shower. 
+03|1816|004D
+02|181A|0030|It is too early for you to learn another spell. 
+03|1863|0820
+03|1866|006C
+02|186A|004E|You are ready for your first lesson in Thaumaturgy -- the blast of confusion. 
+03|18DA|07A9
+03|18DD|07A6
+04|18E4|007F
+02|18E8|0066|As you know, my friend, I am still forced to charge a modicum of obsidian for the knowledge I impart. 
+03|1963|013D
+02|1967|0127|Before we begin, I must confess that the eternal pursuit of knowledge, despite the solitude I afford myself on this dreary island, is costly. As I result, I am afraid I must charge you a modest fee to help defray the cost of my studies. Please accept my humble apologies for this inconvenience. 
+02|1AA4|000B|I must ask 
+02|1ABD|0013| in obsidian chits.
+02|1AE6|0011|I will pay that. 
+02|1AFB|0013|I cannot pay that. 
+02|1B34|0011|I will pay that. 
+04|1B4A|0442
+05|1B58|0581:20B8
+04|1B60|035F
+05|1BFB|0581:1EE2
+04|1C03|0036
+02|1C07|001D|Excellent. We can now begin. 
+03|1C39|004D
+05|1C48|0581:24A7
+04|1C50|0036
+02|1C54|001D|Excellent. We can now begin. 
+02|1C8A|008B|Here is the book that describes the process by which you cast the spell. Study it well and you shall quickly master the necessary aspects. 
+04|1D2E|0054
+02|1D32|003B|Do not forget that you will need reagents for your spells. 
+03|1D82|013A
+02|1D86|011E|As you will learn from the book I have given you, each spell has particular components, in this case reagents, that are a required part of casting the spell. I can sell some of these to you if you wish, but only after you have read the spell and determined what reagents you will need. 
+03|1EBF|00CA
+02|1EC3|00B1|My friend, it seems you have not the obsidian for this. Of course, I realize you were not attempting to fool me, but perhaps you should return later when you -can- pay the fee. 
+03|1F89|00FA
+03|1F8C|00F7
+02|1F91|0013|I cannot pay that. 
+04|1FA9|007E
+02|1FAD|0062|I am sorry that I cannot help you then. Perhaps you should return later when you can pay the fee. 
+03|2024|005F
+03|2027|005C
+02|202C|0000|
+04|2031|0052
+02|2035|0036|Perhaps you are not so interested in magic after all. 
+01|208C|208C
+06|209A|057C:0BCF
+04|20BD|002F
+02|20C1|000A|Good day, 
+02|20D5|0001|.
+03|20EC|001D
+02|20F0|0007|Hello. 
+06|2147|0421:219B
+06|215F|0421:87A8
+06|2179|0421:87A8
+06|218C|0421:65C3
+01|219B|219B
+02|21A7|0015|May I ask your name? 
+02|21C0|0017|What an unusual house. 
+02|21E5|0009|Goodbye. 
+02|21FC|0009|Goodbye. 
+04|220B|059A
+04|2219|002F
+02|221E|0009|Goodbye. 
+02|2236|0009|Goodbye. 
+02|2266|0017|What an unusual house. 
+04|2282|00BB
+02|2286|007C|Unusual? I do not see anything unusual about my living quarters. It does not differ from any other extra-dimensional abode. 
+02|2319|0017|What an unusual house. 
+03|233D|0465
+02|2342|0000|
+04|2347|00FA
+04|234F|005C
+02|2353|003F|I am sorry, was my response unclear? You did hear me, I trust. 
+03|23AB|0093
+02|23AE|006F|Very well. Your mind is filled with many thoughts other than what we are discussing. We can resume this later. 
+06|2431|057C:1090
+03|243E|0367
+03|2441|0361
+02|2446|0015|May I ask your name? 
+04|2460|00DE
+02|2464|004F|You may ask indeed, stranger. I am Mythran. By what name do you go, young one? 
+02|24D6|0015|May I ask your name? 
+02|24F8|000C|I am called 
+02|250E|0001|.
+02|251A|0015|I do not wish to say.
+03|253E|0264
+02|2543|0015|I do not wish to say.
+02|255F|001C|Je pr‚fŠre ne point le dire.
+02|2583|0028|Das will ich Euch lieber nicht verraten.
+04|25B1|00B2
+02|25B5|005C|Very well then. Please tell me your business with me so that I may return to my activities. 
+02|262A|0015|I do not wish to say.
+06|2653|0421:27B4
+03|2660|0145
+03|2663|013F
+04|266B|0093
+02|2674|000B|Greetings, 
+02|2689|001D|. And how might I assist you?
+02|26B3|0016| I do not wish to say.
+06|26EE|0421:27B4
+03|26FB|00AA
+03|26FE|00A4
+02|2703|0009|Goodbye. 
+04|2711|0091
+02|2714|0052|Ah, I see, you do not wish to converse with me. I am sorry for your interruption. 
+02|2779|0009|Goodbye. 
+06|2792|057C:1090
+03|27A5|FA52
+01|27B4|27B4
+02|27BE|0017|I have many questions. 
+04|27E4|0026
+02|27E7|0017|I wish to buy scrolls. 
+04|2811|0027
+02|2814|0018|I wish to learn spells. 
+04|283F|0027
+02|2842|0018|I wish to buy reagents. 
+02|2869|0009|Goodbye. 
+02|2883|0009|Goodbye. 
+04|2892|205F
+04|28A0|002F
+02|28A5|0009|Goodbye. 
+02|28BD|0009|Goodbye. 
+04|28D6|002F
+02|28D9|001D|I wish to buy more reagents. 
+03|2905|0036
+04|2911|002A
+02|2914|0018|I wish to buy reagents. 
+02|2959|0017|I have many questions. 
+04|2975|01E3
+02|2979|00E2|Ah, good. It is always important to ask questions. That way one will never run out of things to learn. I cannot refuse one who has traversed ghoul-filled passages to meet with my hospitality. What are some of these questions? 
+02|2A72|0017|I have many questions. 
+02|2A98|0015|Tell me about Pagan. 
+02|2AB1|0010|What do you do? 
+04|2AD1|0025
+02|2AD6|0017|How can I leave Pagan? 
+04|2AFD|0028
+02|2B02|001A|Is there a haunted grove? 
+04|2B2D|0028
+02|2B32|001A|What about Pagan history? 
+03|2B58|1D96
+02|2B5D|0017|I wish to buy scrolls. 
+04|2B79|0058
+02|2B7E|0017|I wish to buy scrolls. 
+02|2BA3|0009|Ah, yes. 
+06|2BC4|0421:01EF
+03|2BD1|1D1D
+02|2BD6|0000|
+04|2BDB|00FA
+04|2BE3|005C
+02|2BE7|003F|I am sorry, was my response unclear? You did hear me, I trust. 
+03|2C3F|0093
+02|2C42|006F|Very well. Your mind is filled with many thoughts other than what we are discussing. We can resume this later. 
+06|2CC5|057C:1090
+03|2CD2|1C1F
+03|2CD5|1C19
+02|2CDA|0018|I wish to buy reagents. 
+02|2CF9|001D|I wish to buy more reagents. 
+04|2D1C|0087
+02|2D21|0018|I wish to buy reagents. 
+02|2D46|001D|I wish to buy more reagents. 
+02|2D73|000B|Very well. 
+06|2D96|0421:08A6
+03|2DA3|1B4B
+02|2DA8|001A|Is there a haunted grove? 
+04|2DC7|00F1
+02|2DCB|00A9|A haunted grove of trees? Well, I have heard such rumors applied to a circle of dead trees here on the plateau, though I will not confirm the existence of undead there. 
+02|2E91|001A|Is there a haunted grove? 
+03|2EB8|1A36
+02|2EBD|0010|What do you do? 
+04|2ED2|0141
+02|2ED6|00E1|That is an interesting question. I do many things. I suppose I spend most of my time studying and exploring the mind. I do not believe that thoughts should be confined within the skull, so I study a little bit of everything. 
+02|2FD4|0010|What do you do? 
+02|2FF1|0013|What do you study? 
+03|3013|18DB
+02|3018|0013|What do you study? 
+04|3030|011D
+02|3034|00CC|To tell you would take nearly as much time as I have spent collecting the information. Suffice it to say that I try to learn as much about everything as I can. Of course, my preference is to study magic. 
+02|3117|0013|What do you study? 
+02|3137|0007|Magic? 
+03|314D|17A1
+02|3152|0007|Magic? 
+02|3160|0018|I wish to learn spells. 
+04|317E|00E1
+04|3185|0051
+02|3189|0022|You wish to learn spells from me? 
+06|31C9|0421:64C5
+03|31D6|004E
+02|31DA|0038|Perhaps in the future I will have the time to show you. 
+02|322F|0007|Magic? 
+02|323A|0018|I wish to learn spells. 
+03|325F|168F
+02|3264|0015|Tell me about Pagan. 
+04|327E|00B8
+02|3282|006B|Your question is quite broad in scope. Do you wish me to talk about the city, the island, or all of Pagan? 
+06|3305|0421:4A45
+02|3314|0015|Tell me about Pagan. 
+03|3336|15B8
+02|333B|001A|What about Pagan history? 
+04|335A|00BC
+02|335E|006A|The history of this land is quite long, and there is much I can tell you. Where would you prefer I start? 
+06|33E0|0421:48FE
+02|33EF|001A|What about Pagan history? 
+03|3416|14D8
+02|341B|001D|Do you know of The Guardian? 
+04|343D|01B4
+02|3441|0169|Ah, interesting question. Indeed I do. Furthermore, I know that -you- know of him as well. However, you will find that no one else on Pagan has heard anything other than that this mysterious Guardian spoke to the early Pagans to warn them of disaster. Perhaps, some other time and place, we may speak further on this subject. Ask of it no more for now, please. 
+02|35C7|001D|Do you know of The Guardian? 
+03|35F1|12FD
+02|35F6|0017|How can I leave Pagan? 
+04|3612|0294
+04|3619|010F
+02|361C|002D|I have never had anyone ask such a question, 
+02|3653|00CC|. Do you truly wish a means off this world? Or are you simply testing the limits of my knowledge? I ask this because finding the answer would be extremely tedious, and I do not plan to toil for no reason.
+03|3728|0100
+02|372B|00F8|I have never had anyone ask such a question. Do you truly wish a means off this world? Or are you simply testing the limits of my knowledge? I ask this because finding the answer would be extremely tedious, and I do not plan to toil for no reason. 
+02|383E|0017|How can I leave Pagan? 
+02|3862|0017|I plan to leave Pagan. 
+02|387D|0011|This was a test. 
+02|3892|0009|Goodbye. 
+03|38A6|1048
+02|38AB|0017|I plan to leave Pagan. 
+04|38C7|02A3
+02|38CB|0254|That 'tis, indeed, a tremendous task you are planning to undertake. I, myself, have given considerable thought to finding ways to cross into what you would call `other worlds.' I have not yet uncovered a solution. However, I -have- come to the conclusion that it is the power of the Titans that makes such travel impossible even for one with my command of the arcane. Therefore, it is reasonable to assume that to depart from Pagan, one must master the powers of all four of the Titans. I suppose the best place to begin is with one of the schools of magic. Have you spoken with the Necromancers?
+02|3B3A|000D|Yes, I have. 
+02|3B4B|0010|No, I have not. 
+03|3B6A|0D84
+02|3B6F|000D|Yes, I have. 
+04|3B81|0339
+04|3B88|015A
+02|3B8C|0141|Then I expect you still have much more to learn about the powers of Necromancy. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. 
+03|3CE2|0196
+02|3CE6|0180|Then I expect you will have more to learn more about the powers of Necromancy. In fact, you must attempt to acquire those powers for yourself. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. 
+02|3E7B|001D|Do you know of The Guardian? 
+02|3E9C|0009|Goodbye. 
+03|3EBA|0A34
+02|3EBF|0010|No, I have not. 
+04|3ED4|030C
+04|3EDB|0181
+02|3EDF|0045|That is the answer you wish to give me? How sad. Oh well, nevermind. 
+02|3F3A|010D|I suggest you begin with the Necromancers, then. Speak with Vividos about becoming his apprentice. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. 
+03|405C|0143
+02|4060|012D|Then I suggest you begin with them. Speak with Vividos about becoming his apprentice once Lothian has passed on her powers to him. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. 
+02|41A2|001C|Where are the Necromancers? 
+02|41C2|0009|Goodbye. 
+03|41E0|070E
+02|41E5|001C|Where are the Necromancers? 
+04|4206|00F5
+02|420A|00B1|They reside in the cemetery. I believe you will wish to take the East Road from the city. I suggest you go with care, for many of the walking dead also reside in the graveyard. 
+02|42D2|001C|Where are the Necromancers? 
+03|42FB|05F3
+02|4300|0011|This was a test. 
+04|4316|0089
+02|4319|0062|I do not like to be tested. Perhaps you should give me time to renew my desire to speak with you. 
+06|438F|057C:1090
+03|439C|0555
+03|439F|054F
+02|43A4|0009|Goodbye. 
+04|43B2|053C
+02|43B6|008B|May you fare well, stranger to this land. If there is anything in my house that will aid you on your journeys, feel free to help yourself. 
+04|445B|0465
+02|4465|0328|Wait. Before you go, my friend, I wish to give you two items that I believe will assist you in your travels. The first is an item of recall I acquired many years ago. When you find yourself in trouble, you may use this item to teleport to my front door. Througout the world there are other disks to which you can also be transported if you so wish, providing you can visualize these places. How powerful this item is, I cannot say, for I do not know whether other, stronger powers may prevent it from functioning at certain times.~Furthermore, I wish to give you this potion of healing, which will magically aid the recovery of your wounds. I will try to have others for you as you make return visits, but since the cost to me in time and energy is great, I will not have one for you every time you visit me.
+02|47F0|001A|Excellent. Use this well. 
+05|482A|0581:1EE2
+04|4832|001F
+02|4836|0006|Here. 
+03|4851|004C
+05|4860|0581:24A7
+04|4868|0035
+02|486C|001C|I will set it down for you. 
+02|48A0|0012|Again, fare well. 
+02|48C5|0009|Goodbye. 
+06|48DE|057C:1090
+03|48F1|DF8D
+01|48FE|48FE
+02|4909|0122|Better than wasting your time and mine with a lengthy story when we could be discussing more interesting matters, let me simply suggest that you read my essay on the subject. The book should be around here somewhere. Most likely I have left it upstairs. Feel free to borrow it if you wish. 
+01|4A45|4A45
+04|4A56|0075
+02|4A5A|005F|Have we not already discussed this subject enough? Ah, very well, what is it you wish to know? 
+02|4ADE|001B|Are they not all the same? 
+02|4AFD|000A|The city. 
+02|4B0B|000C|The island. 
+02|4B1B|000E|All of Pagan. 
+02|4B2D|001E|Actually, I meant the people. 
+02|4B4F|0014|Enough about Pagan. 
+02|4B70|0014|Enough about Pagan. 
+04|4B8A|192E
+02|4BA8|001B|Are they not all the same? 
+04|4BC8|0111
+02|4BCC|00CE|Indeed, no, although many people use -- or should I say misuse -- the word `Pagan' to mean the world, the island, and, for a few ethnocentrics, the city. In actuality, Pagan is only the name for the world. 
+02|4CB1|001B|Are they not all the same? 
+03|4CD9|17DC
+02|4CDE|001E|Actually, I meant the people. 
+04|4D01|0176
+02|4D05|00D0|To be honest, I know little about the people. A few come to visit me for my knowledge. And even fewer to buy my scrolls. I do know a little about the mages of Pagan. Is it them you are interested in knowing? 
+02|4DF2|001B|Are they not all the same? 
+02|4E11|001E|Actually, I meant the people. 
+02|4E3C|0016|Tell me of the mages. 
+02|4E56|0012|You sell scrolls? 
+03|4E77|163E
+02|4E7C|0016|Tell me of the mages. 
+04|4E97|099C
+02|4E9C|0016|Tell me of the mages. 
+02|4EC0|0116|There are four of what I call 'schools' of magic on Pagan -- one for each of the Titans. The study of death and the ground is called Necromancy. It is the Necromancer who is responsible for carrying out the pact with Lithos by burying the dead and sending their spirits to him. 
+04|4FEF|015D
+02|4FF3|0144|The current Necromancer, Vividos, is fairly new to his position. This means that he has been away from the city for only a few years, and is, therefore, less reclusive. In time, however, he will have forgotten most of his social graces, and the people will find dealing with him as distasteful as they did his predecessors. 
+03|514C|00B8
+02|5150|00A2|The current Necromancer, Lothian, is very old. I expect she soon will be passing her role to her Apprentice. Vividos should handle the responsibility quite well. 
+02|5208|01B7|Tempestry's main focus is water, though its aspect does involve combining with Hydros' sister Titan, Stratos, making storms as much a part of Tempestry as is the sea. Unlike the other schools, Tempestry is not learned. It is passed on through the bloodline. The eldest living Tempest possesses the greatest amount of power. However, as long as a younger Tempest's spell does not contradict an elder's, the younger's magic will work fully. 
+04|53D8|00BF
+02|53DC|00A6|Since there seems to be little cap on the powers of Tempestry, I am glad for the Pagans that Devon now rules Tenebrae. You should be commended for your role in that. 
+03|5497|00CA
+02|549B|00B4|Since there seems to be little cap on the powers of Tempestry, it is a true tragedy that Mordea rules the city. I hope for the sake of the people that her reign is not a long one. 
+02|5565|00E1|Stellos was the first follower of Stratos. His Order of Enlightenment teaches Theurgy, the study of the winds. He is a good and learned man, if you will permit me a judgement of ethics, who freely uses his powers of healing. 
+02|565C|0119|The fourth school, Sorcery, involves the Titan of Fire. I have never spoken to Malchir in person, but I feel the Sorcerers' reputation for deceit is unchanged by his rise to power. Take care when dealing with those who consort with Pyros, for it seems they become as wicked as he. 
+02|578B|006B|Those are the mages of the four schools. Of course, they do not represent -all- aspects of magic on Pagan. 
+02|580B|0019|What other magic exists? 
+03|5833|0C82
+02|5838|0019|What other magic exists? 
+04|5856|0123
+02|585B|0019|What other magic exists? 
+02|5882|00AF|There is what I call Thaumaturgy. It is not tied to any of the Titans, but borrows bits and pieces from any form of magic you can imagine. I am a practitioner of Thaumaturgy. 
+02|5946|001E|Can you teach me Thaumaturgy? 
+03|5979|0B3C
+02|597E|001E|Can you teach me Thaumaturgy? 
+04|59A1|0110
+02|59A6|001E|Can you teach me Thaumaturgy? 
+04|59D5|0051
+02|59D9|0022|You wish to learn spells from me? 
+06|5A19|0421:64C5
+03|5A26|0088
+02|5A2A|0072|You are not ready yet, my friend. Perhaps, with a little more time to adjust to this world, you will be prepared. 
+03|5AB1|0A04
+02|5AB6|0012|You sell scrolls? 
+04|5ACD|0082
+02|5AD2|0012|You sell scrolls? 
+02|5AF2|002C|Indeed, I do. Do you wish to purchase some? 
+06|5B42|0421:64C5
+03|5B4F|0966
+02|5B54|000A|The city. 
+04|5B63|025F
+02|5B67|01E9|Ah, Tenebrae. The city was not settled until near the end of the war between the Pagans and Zealans. After the Titans defeated the Destroyer, most of the world lay in such ruin and disarray that the few people who were left on the island congregated into a single community. They called their city Tenebrae, meaning 'city of eternal twilight.' At first the Necromancers held rulership, but once Kalen became a Tempest as well, the people elected to have their leaders come from that line. 
+02|5D67|001B|Are they not all the same? 
+02|5D86|000A|The city. 
+04|5DA2|001D
+02|5DA5|000E|Who is Kalen? 
+03|5DC2|06F3
+02|5DC7|000C|The island. 
+04|5DD8|011E
+02|5DDC|00CB|The island is called Morgaelin, same as the mountain -- or volcano -- from which it sprang. As far as the people know, this is the only piece of land remaining after the Titans vanquished the Destroyer. 
+02|5EBE|001B|Are they not all the same? 
+02|5EDD|000C|The island. 
+03|5EF6|05BF
+02|5EFB|000E|All of Pagan. 
+04|5F0E|042E
+04|5F15|0063
+02|5F19|004D|Much of this I have already told you from our discussion of Pagan's history. 
+02|5F7C|036F|The lands of this world once spanned great distances. At that time, the people were prosperous and -- for the most part -- unified. However, when the words of warning came from a mysterious being called the Guardian, the population split into two factions: the Zealans, who believed in the ancient traditions, and Pagans, who felt that the Guardian's words meant the end of things that were.~The two factions fell to fighting against each other, while the very forces of the elements began to take form and grow. When a malevolent entity called the Destroyer attempted to conquer the world, the elements, who had amassed Titanic levels of power, rose to battle it. During the struggle, the lands were demolished, leaving only a few peoples scattered across a single island -- this island. Shortly thereafter the Zealans fell to their enemies, and the world became known as Pagan.
+02|6302|001B|Are they not all the same? 
+02|6321|000E|All of Pagan. 
+03|633C|0179
+02|6341|000E|Who is Kalen? 
+04|6354|011C
+02|6359|000E|Who is Kalen? 
+02|6375|00E6|He was the first Tempest. An early hero to the people, his life as a Necromancer was filled with some amount of tragedy. When we have time I will relate the history of this world to you, then you will have a better understanding. 
+03|6470|0045
+02|6475|0014|Enough about Pagan. 
+04|648E|0027
+02|6492|000B|Very well. 
+03|64B8|E6B3
+01|64C5|64C5
+02|64CF|0005|Yes. 
+02|64D8|0004|No. 
+02|64E9|0004|No. 
+04|64F3|00C5
+02|6511|0005|Yes. 
+06|6528|0421:01EF
+06|6542|0421:143C
+06|655C|0421:08A6
+03|656C|004C
+03|656F|0046
+02|6574|0004|No. 
+04|657D|0038
+02|6581|001C|Perhaps another time, then. 
+03|65B8|FF2C
+01|65C3|65C3
+04|65D1|0021
+02|65D6|0010|Hello, Mythran. 
+03|65F2|001B
+02|65F7|000D|Hello again. 
+02|6610|0009|Goodbye. 
+02|662A|0009|Goodbye. 
+04|6639|2160
+04|6647|002F
+02|664C|0009|Goodbye. 
+02|6664|0009|Goodbye. 
+04|667D|002F
+02|6680|001D|I wish to buy more reagents. 
+03|66AC|0036
+04|66B8|002A
+02|66BB|0018|I wish to buy reagents. 
+02|6700|0010|Hello, Mythran. 
+02|6717|000D|Hello again. 
+04|672A|025E
+02|672E|0045|Good to see you, my friend. Is there some assistance I can give you? 
+02|678A|0010|Hello, Mythran. 
+02|679E|000D|Hello again. 
+04|67BF|0023
+02|67C4|0015|Tell me about Pagan. 
+04|67EA|001E
+02|67EF|0010|What do you do? 
+04|6815|0025
+02|681A|0017|How can I leave Pagan? 
+04|6847|0028
+02|684C|001A|Is there a haunted grove? 
+04|6877|0028
+02|687C|001A|What about Pagan history? 
+04|68A6|0025
+02|68AB|0017|I want to learn magic. 
+04|68D2|0026
+02|68D5|0017|I wish to buy scrolls. 
+04|68FF|0027
+02|6902|0018|I wish to learn spells. 
+04|692D|0027
+02|6930|0018|I wish to buy reagents. 
+04|695B|002A
+02|695E|001B|May I have another potion? 
+03|6988|1E0E
+02|698D|0017|I wish to buy scrolls. 
+04|69A9|0058
+02|69AE|0017|I wish to buy scrolls. 
+02|69D3|0009|Ah, yes. 
+06|69F4|0421:01EF
+03|6A01|1D95
+02|6A06|001B|May I have another potion? 
+04|6A26|01AF
+02|6A2B|001B|May I have another potion? 
+04|6A57|00FB
+02|6A61|0034|Aye, my friend, I have had time to concoct another. 
+05|6ADC|0581:1EE2
+04|6AE4|001F
+02|6AE8|0006|Here. 
+03|6B03|004C
+05|6B12|0581:24A7
+04|6B1A|0035
+02|6B1E|001C|I will set it down for you. 
+03|6B52|0080
+02|6B56|006A|Nay, my friend, I have not had the time to concoct another. Perhaps it will be ready for your next visit. 
+03|6BD5|1BC1
+02|6BDA|0000|
+04|6BDF|00FA
+04|6BE7|005C
+02|6BEB|003F|I am sorry, was my response unclear? You did hear me, I trust. 
+03|6C43|0093
+02|6C46|006F|Very well. Your mind is filled with many thoughts other than what we are discussing. We can resume this later. 
+06|6CC9|057C:1090
+03|6CD6|1AC3
+03|6CD9|1ABD
+02|6CDE|0018|I wish to buy reagents. 
+02|6CFD|001D|I wish to buy more reagents. 
+04|6D20|0087
+02|6D25|0018|I wish to buy reagents. 
+02|6D4A|001D|I wish to buy more reagents. 
+02|6D77|000B|Very well. 
+06|6D9A|0421:08A6
+03|6DA7|19EF
+02|6DAC|0015|Tell me about Pagan. 
+04|6DC6|00B8
+02|6DCA|006B|Your question is quite broad in scope. Do you wish me to talk about the city, the island, or all of Pagan? 
+06|6E4D|0421:4A45
+02|6E5C|0015|Tell me about Pagan. 
+03|6E7E|1918
+02|6E83|001D|Do you know of The Guardian? 
+04|6EA5|00B2
+02|6EA9|0067|Ah, interesting question. Perhaps some other time I can better answer that. Ask of it no more, please. 
+02|6F2D|001D|Do you know of The Guardian? 
+03|6F57|183F
+02|6F5C|0010|What do you do? 
+04|6F71|0141
+02|6F75|00E1|That is an interesting question. I do many things. I suppose I spend most of my time studying and exploring the mind. I do not believe that thoughts should be confined within the skull, so I study a little bit of everything. 
+02|7073|0010|What do you do? 
+02|7090|0013|What do you study? 
+03|70B2|16E4
+02|70B7|0013|What do you study? 
+04|70CF|011D
+02|70D3|00CC|To tell you would take nearly as much time as I have spent collecting the information. Suffice it to say that I try to learn as much about everything as I can. Of course, my preference is to study magic. 
+02|71B6|0013|What do you study? 
+02|71D6|0007|Magic? 
+03|71EC|15AA
+02|71F1|0007|Magic? 
+02|71FF|0018|I wish to learn spells. 
+04|721D|00E1
+04|7224|0051
+02|7228|0022|You wish to learn spells from me? 
+06|7268|0421:64C5
+03|7275|004E
+02|7279|0038|Perhaps in the future I will have the time to show you. 
+02|72CE|0007|Magic? 
+02|72D9|0018|I wish to learn spells. 
+03|72FE|1498
+02|7303|0017|How can I leave Pagan? 
+04|731F|0294
+04|7326|010F
+02|7329|002D|I have never had anyone ask such a question, 
+02|7360|00CC|. Do you truly wish a means off this world? Or are you simply testing the limits of my knowledge? I ask this because finding the answer would be extremely tedious, and I do not plan to toil for no reason.
+03|7435|0100
+02|7438|00F8|I have never had anyone ask such a question. Do you truly wish a means off this world? Or are you simply testing the limits of my knowledge? I ask this because finding the answer would be extremely tedious, and I do not plan to toil for no reason. 
+02|754B|0017|How can I leave Pagan? 
+02|756F|0017|I plan to leave Pagan. 
+02|758A|0011|This was a test. 
+02|759F|0009|Goodbye. 
+03|75B3|11E3
+02|75B8|0017|I plan to leave Pagan. 
+04|75D4|02A3
+02|75D8|0254|That 'tis, indeed, a tremendous task you are planning to undertake. I, myself, have given considerable thought to finding ways to cross into what you would call `other worlds.' I have not yet uncovered a solution. However, I -have- come to the conclusion that it is the power of the Titans that makes such travel impossible even for one with my command of the arcane. Therefore, it is reasonable to assume that to depart from Pagan, one must master the powers of all four of the Titans. I suppose the best place to begin is with one of the schools of magic. Have you spoken with the Necromancers?
+02|784B|000D|Yes, I have. 
+02|785C|0010|No, I have not. 
+03|7877|0F1F
+02|787C|000D|Yes, I have. 
+04|788E|034B
+04|7895|015A
+02|7899|0141|Then I expect you still have much more to learn about the powers of Necromancy. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. 
+03|79EF|0196
+02|79F3|0180|Then I expect you will have more to learn more about the powers of Necromancy. In fact, you must attempt to acquire those powers for yourself. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. 
+04|7B8D|002B
+02|7B92|001D|Do you know of The Guardian? 
+02|7BBB|0009|Goodbye. 
+03|7BD9|0BBD
+02|7BDE|0010|No, I have not. 
+04|7BF3|02A4
+04|7BFA|0119
+02|7BFE|0100|Then I suggest you begin with them. Speak with Vividos about becoming his apprentice. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. 
+03|7D13|0143
+02|7D17|012D|Then I suggest you begin with them. Speak with Vividos about becoming his apprentice once Lothian has passed on her powers to him. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. 
+02|7E59|001C|Where are the Necromancers? 
+02|7E79|0009|Goodbye. 
+03|7E97|08FF
+02|7E9C|001C|Where are the Necromancers? 
+04|7EBD|00F5
+02|7EC1|00B1|They reside in the cemetery. I believe you will wish to take the East Road from the city. I suggest you go with care, for many of the walking dead also reside in the graveyard. 
+02|7F89|001C|Where are the Necromancers? 
+03|7FB2|07E4
+02|7FB7|0011|This was a test. 
+04|7FCD|0089
+02|7FD0|0062|I do not like to be tested. Perhaps you should give me time to renew my desire to speak with you. 
+06|8046|057C:1090
+03|8053|0746
+03|8056|0740
+02|805B|001A|Is there a haunted grove? 
+04|807A|00F1
+02|807E|00A9|A haunted grove of trees? Well, I have heard such rumors applied to a circle of dead trees here on the plateau, though I will not confirm the existence of undead there. 
+02|8144|001A|Is there a haunted grove? 
+03|816B|062B
+02|8170|001A|What about Pagan history? 
+04|818F|00BC
+02|8193|006A|The history of this land is quite long, and there is much I can tell you. Where would you prefer I start? 
+06|8215|0421:48FE
+02|8224|001A|What about Pagan history? 
+03|824B|054B
+02|8250|0017|I want to learn magic. 
+04|826C|0039
+06|8272|0421:143C
+02|8281|0017|I want to learn magic. 
+03|82A5|04F1
+02|82AA|0009|Goodbye. 
+04|82B8|04DE
+05|82BB|0581:28F9
+05|82C4|0581:28F9
+05|82CE|0581:28F9
+04|82D8|0032
+02|82DB|0027|Good evening, my friend, and farewell. 
+03|830A|0082
+05|830D|0581:28F9
+04|8316|0032
+02|8319|0027|Good morning, my friend, and farewell. 
+03|8348|0044
+05|834B|0581:28F9
+05|8354|0581:28F9
+04|835E|002E
+02|8361|0023|Good day, my friend, and farewell. 
+04|83A5|03DB
+02|83AF|029E|Wait. Before you go, my friend, I wish to give you two items that I believe will assist you in your travels. The first is an item of recall I acquire many years ago. When you find yourself in trouble, you may use this item to teleport to my front door. How powerful this item is, I cannot say, for I do not know whether other, stronger powers may prevent it from functioning at certain times.~Furthermore, I wish to give you this potion of healing, which will magically aid the recovery of your wounds. I will try to have others for you as you make return visits, but since the cost to me in time and energy is great, I will not have one for you every time you visit me.
+02|86B0|001A|Excellent. Use this well. 
+05|86EA|0581:1EE2
+04|86F2|001F
+02|86F6|0006|Here. 
+03|8711|004C
+05|8720|0581:24A7
+04|8728|0035
+02|872C|001C|I will set it down for you. 
+02|8760|0012|Again, fare well. 
+06|8786|057C:1090
+03|8799|DE8C
+01|87A8|87A8
+04|87B6|0022
+02|87B9|0010|Hello, Mythran. 
+03|87D8|001C
+02|87DB|000D|Hello again. 
+02|87F7|0009|Goodbye. 
+02|8811|0009|Goodbye. 
+04|8820|15D7
+04|882E|002F
+02|8833|0009|Goodbye. 
+02|884B|0009|Goodbye. 
+04|8864|002F
+02|8867|001D|I wish to buy more reagents. 
+03|8893|0036
+04|889F|002A
+02|88A2|0018|I wish to buy reagents. 
+02|88E7|0010|Hello, Mythran. 
+02|88FE|000D|Hello again. 
+04|8911|01C6
+02|8915|002A|Ah, greetings, traveler. How fare things? 
+02|8954|0011|Things are well. 
+04|897D|0032
+02|8980|0020|I want to recreate the obelisk. 
+03|89AF|003B
+04|89B7|0033
+02|89BA|0021|I found this with the Sorcerers. 
+02|89EF|0010|Hello, Mythran. 
+02|8A03|000D|Hello again. 
+04|8A21|002A
+02|8A24|001B|May I have another potion? 
+04|8A52|0026
+02|8A55|0017|I wish to buy scrolls. 
+04|8A7F|0027
+02|8A82|0018|I wish to learn spells. 
+04|8AAD|0027
+02|8AB0|0018|I wish to buy reagents. 
+03|8AD7|131D
+02|8ADC|0017|I wish to buy scrolls. 
+04|8AF8|0058
+02|8AFD|0017|I wish to buy scrolls. 
+02|8B22|0009|Ah, yes. 
+06|8B43|0421:01EF
+03|8B50|12A4
+02|8B55|0000|
+04|8B5A|00FA
+04|8B62|005C
+02|8B66|003F|I am sorry, was my response unclear? You did hear me, I trust. 
+03|8BBE|0093
+02|8BC1|006F|Very well. Your mind is filled with many thoughts other than what we are discussing. We can resume this later. 
+06|8C44|057C:1090
+03|8C51|11A6
+03|8C54|11A0
+02|8C59|001B|May I have another potion? 
+04|8C79|01AF
+02|8C7E|001B|May I have another potion? 
+04|8CAA|00FB
+02|8CB4|0034|Aye, my friend, I have had time to concoct another. 
+05|8D2F|0581:1EE2
+04|8D37|001F
+02|8D3B|0006|Here. 
+03|8D56|004C
+05|8D65|0581:24A7
+04|8D6D|0035
+02|8D71|001C|I will set it down for you. 
+03|8DA5|0080
+02|8DA9|006A|Nay, my friend, I have not had the time to concoct another. Perhaps it will be ready for your next visit. 
+03|8E28|0FCC
+02|8E2D|0018|I wish to buy reagents. 
+02|8E4C|001D|I wish to buy more reagents. 
+04|8E6F|0087
+02|8E74|0018|I wish to buy reagents. 
+02|8E99|001D|I wish to buy more reagents. 
+02|8EC6|000B|Very well. 
+06|8EE9|0421:08A6
+03|8EF6|0EFE
+02|8EFB|0018|I wish to learn spells. 
+04|8F18|00D6
+04|8F1F|0051
+02|8F23|0022|You wish to learn spells from me? 
+06|8F63|0421:64C5
+03|8F70|004E
+02|8F74|0038|Perhaps in the future I will have the time to show you. 
+02|8FC9|0018|I wish to learn spells. 
+03|8FEE|0E06
+02|8FF3|0020|I want to recreate the obelisk. 
+04|9018|025D
+02|901C|01F7|Recreate the obelisk? Do you mean that you wish reconstruct the Blackrock obelisk of the Great Temple? Of course! You are hoping to use the conduit as a way to leave Pagan! I know just the spell you will need. You must cast the Ethereal Travel spell. I do not know where the spell will send you on your first attempt, though I expect the Titans will intervene and direct your journey. Should you encounter and defeat them, know that you would have the worship and admiration of all Pagans. Good luck... 
+06|9239|0421:143C
+02|9248|0020|I want to recreate the obelisk. 
+03|9275|0B7F
+02|927A|0011|Things are well. 
+04|9290|0371
+02|9294|001D|I am very glad to hear that. 
+04|92CA|02A9
+04|9300|00AD
+02|9304|0094|By the way, considering the tumultuous effect you have had on Pagan, may I commend you on your ability to rouse, or should I say anger, the Titans. 
+03|93AD|01C3
+04|93B4|011A
+02|93B8|0101|By the way, I hope you realize the effect of taking the Breath of Wind. The citizens have little in the way of healing now. Please understand that I do not disagree with your choice of action, but I wanted to be sure you are cognizant of the ramifications. 
+03|94CE|00A2
+04|94D5|009B
+02|94D9|0082|By the way, I notice your presence carries with it a tremendous impact, so to speak. I assume the quakes are your responsibility. 
+03|9573|006B
+02|9577|0030|Is there perhaps something you wish to discuss? 
+02|95BC|0005|Yes. 
+02|95C5|0004|No. 
+02|95CD|0009|Goodbye. 
+02|95E3|0011|Things are well. 
+03|9601|07F3
+02|9606|0004|No. 
+04|960F|0059
+02|9613|002C|Very well, then, I shall return to my work. 
+02|9654|0009|Goodbye. 
+03|9668|078C
+02|966D|0005|Yes. 
+04|9677|007B
+02|967B|0029|Very well, then, and what would that be? 
+02|96B9|0021|I found this with the Sorcerers. 
+02|96DE|0009|Goodbye. 
+03|96F2|0702
+02|96F7|0021|I found this with the Sorcerers. 
+04|971D|0291
+02|9721|001B|That piece of black stone? 
+02|9758|00C6|It is not obsidian, that much is obvious. I wonder if it could be... You say it came from the Sorcerers, eh? It is possible you have found one of the Fragments of the obelisk in the Ancient Temple. 
+02|9834|00BD|Somewhere I have a book that might delve into greater detail. You're welcome to it if you can find it. I would strongly suggest that you study it closely before we continue our discussion. 
+02|9908|0021|I found this with the Sorcerers. 
+02|992D|0011|Things are well. 
+06|9970|0581:1C19
+03|99AE|0446
+02|99B3|0009|Goodbye. 
+04|99C1|0433
+02|99C5|0018|Farewell and good luck, 
+02|99E7|0001|.
+04|9A03|03DB
+02|9A0D|029E|Wait. Before you go, my friend, I wish to give you two items that I believe will assist you in your travels. The first is an item of recall I acquire many years ago. When you find yourself in trouble, you may use this item to teleport to my front door. How powerful this item is, I cannot say, for I do not know whether other, stronger powers may prevent it from functioning at certain times.~Furthermore, I wish to give you this potion of healing, which will magically aid the recovery of your wounds. I will try to have others for you as you make return visits, but since the cost to me in time and energy is great, I will not have one for you every time you visit me.
+02|9D0E|001A|Excellent. Use this well. 
+05|9D48|0581:1EE2
+04|9D50|001F
+02|9D54|0006|Here. 
+03|9D6F|004C
+05|9D7E|0581:24A7
+04|9D86|0035
+02|9D8A|001C|I will set it down for you. 
+02|9DBE|0012|Again, fare well. 
+06|9DE4|057C:1090
+03|9DF7|EA15
+01|9E04|9E04
+06|9E2B|0581:1C19
+06|9E80|057C:15E7
+06|9E9D|057C:15E7
+06|9EBA|057C:15E7
+06|9ECB|0421:9ED6
+01|9ED6|9ED6
+06|9F0F|057C:091C
+02|9F21|001A|I do not wish to do this. 
+02|9F53|0012|Kal Vas Grav Corp!
+06|9F83|0581:29D8
+06|9FF6|0581:1C19
+06|A018|0581:29D8
+06|A098|057C:15E7
+06|A0C1|0581:1C19
+06|A0EB|0581:29D8
+02|A104|000A|A pity... 

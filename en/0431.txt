@@ -1,0 +1,63 @@
+01|0080|0080
+04|0096|0028
+02|009A|000F|dead guardsman 
+03|00BE|0020
+02|00C2|000A|guardsman 
+01|00E3|00E3
+06|0126|057C:091C
+06|013C|057C:15E7
+01|014D|014D
+06|0172|057C:143A
+06|0196|057C:133F
+01|01A7|01A7
+02|01B4|000B|Guardsman! 
+06|01D3|057C:0BCF
+06|01E8|0581:1C19
+05|01FC|0581:2A56
+04|0236|005F
+02|023A|0033|Run for your very life! The Titans seek vengeance! 
+06|0285|057C:1090
+03|0292|044B
+03|0295|0098
+04|029C|0091
+02|02A0|0065|Find shelter before the quakes consume you! We must stop the walking dead from overrunning the city! 
+06|031D|057C:1090
+03|032A|03B3
+04|0334|0093
+04|033B|0029
+02|033F|000A|What now? 
+03|0364|0060
+04|0373|002B
+02|0377|0012|What do you want? 
+03|039E|0026
+02|03A2|0010|More questions? 
+03|03C7|0038
+02|03CB|001C|What do you want, stranger? 
+02|0402|000D|Who are you? 
+02|0413|0013|What is your duty? 
+02|042A|000C|Where am I? 
+02|043A|0004|Bye 
+02|044B|0004|Bye 
+04|0455|0288
+02|0473|000D|Who are you? 
+04|0485|004B
+02|048A|000D|Who are you? 
+02|04A5|0016|None of your concern! 
+03|04D0|020A
+02|04D5|0013|What is your duty? 
+04|04ED|0051
+02|04F2|0013|What is your duty? 
+02|0513|0016|Guarding the Tempest. 
+03|053E|019C
+02|0543|000C|Where am I? 
+04|0554|0078
+02|0559|000C|Where am I? 
+02|0573|0044|What! Are you blind? You are standing in the palace of the Tempest. 
+03|05CC|010E
+02|05D1|0004|Bye 
+04|05DA|0100
+02|05DE|002B|I really should be about my duties anyway. 
+04|062B|0099
+02|0635|007D|If the stories hold any truth, thanks for helping Devon gain the rule of Tenebrae. He is much more tolerant than Mordea was. 
+06|06CA|057C:1090
+03|06DD|FD69

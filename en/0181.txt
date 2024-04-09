@@ -1,0 +1,126 @@
+01|0080|0080
+04|008F|0030
+02|0093|0017|Stratos, the Air Titan 
+03|00BF|001B
+02|00C3|0005|Titan
+01|00DF|00DF
+06|0108|057C:091C
+06|0120|057C:15E7
+06|0142|0581:29D8
+06|0153|0181:1327
+06|01CA|057C:03CD
+06|01EE|0581:1C19
+06|0208|0581:29D8
+06|0231|057C:15E7
+06|02ED|0581:1C19
+06|0313|0581:1C19
+06|0339|0581:1C19
+06|0396|0581:29D8
+06|03AD|0581:1C19
+06|03E9|0581:1C6D
+06|03FA|0181:126B
+04|0407|01DD
+04|0442|006C
+02|044C|003E|Oh small one, you You have come to return the Breath of Wind. 
+02|049F|0004|bye 
+03|04AE|0133
+04|04B5|0069
+02|04B9|001D|Yes, my most precious child? 
+02|04EB|0020|I must have the Breath of Wind. 
+02|050F|0004|bye 
+03|051E|00C3
+02|0522|0023|My child, you have returned to me. 
+02|055A|0017|Who are your children? 
+02|0575|0004|bye 
+04|0589|001A
+02|058C|000B|Reward me? 
+04|05AA|0037
+02|05AD|0020|I must have the Breath of Wind. 
+02|05D1|0004|bye 
+03|05E4|006E
+02|05E8|0040|And yet another child is found. Please, small one, come closer. 
+02|063D|000D|Who are you? 
+02|0657|0004|bye 
+04|0661|0BFF
+02|067F|000D|Who are you? 
+04|0691|015C
+02|06A1|00CC|Who am I? Ah, such a dear child. So very young in his knowledge. Why, he is no more than a babe. I am Stratos, Titan of Air, Giver of Life. To reach me took a great deal of courage. I wish to reward you. 
+02|0784|000D|Who are you? 
+02|079E|000E|Titan of Air? 
+02|07B0|000B|Reward me? 
+02|07BF|0017|Who are your children? 
+02|07DA|0004|bye 
+03|07ED|0A70
+02|07F2|000E|Titan of Air? 
+04|0805|016F
+02|0809|0139|I am the breeze which cools your cheek on a warm day. I am the raging wind which drives the waves before it. I am the fuel which feeds the tongues of flame to heat your supper and the teeth that bite you in a winter storm. With my help, my children can be cured of their illnesses and pain; without me, they die. 
+02|0959|000E|Titan of Air? 
+03|0974|08E9
+02|0979|000B|Reward me? 
+04|0989|009E
+02|0993|0055|Take this Focus, Adept. With it you will be able to cast the Air Walk spell at will. 
+02|09FF|000B|Reward me? 
+06|0A1A|0181:13AA
+03|0A27|0836
+02|0A2C|0017|Who are your children? 
+04|0A48|0140
+02|0A4C|00DD|All who live are my children. Do they not all partake of my gift of sweet air? Some have forgotten their mother. But they will return to me, they always do. When they are hurt or ailing, they will come to me for healing. 
+02|0B40|0017|Who are your children? 
+02|0B64|0015|How are they healed? 
+03|0B88|06D5
+02|0B8D|0015|How are they healed? 
+04|0BA7|00AD
+02|0BAB|0042|Through the Breath of Wind my Chosen Children heal those in need. 
+02|0C04|0015|How are they healed? 
+02|0C26|001F|Tell me of the Breath of Wind. 
+03|0C54|0609
+02|0C59|001F|Tell me of the Breath of Wind. 
+04|0C7D|00EF
+02|0C87|0070|The Breath of Wind is that through which I touch my children. It's location is known only to Honorable Stellos. 
+02|0D0E|001F|Tell me of the Breath of Wind. 
+02|0D3A|001F|May I have the Breath of Wind? 
+02|0D5D|0004|bye 
+03|0D6C|04F1
+02|0D71|001F|May I have the Breath of Wind? 
+04|0D95|00EB
+02|0D99|006D|Oh, child, you know not what you ask. To take the Breath of Wind from me is to sever the link to my healers. 
+02|0E1D|001F|May I have the Breath of Wind? 
+02|0E49|0020|I must have the Breath of Wind. 
+02|0E6D|0004|bye 
+03|0E80|03DD
+02|0E85|0020|I must have the Breath of Wind. 
+04|0EAA|00A7
+02|0EAE|007F|Without the Breath of Wind, many would die. Many would pay the price for your quest for power. No, Child, I cannot allow this. 
+02|0F42|0004|bye 
+03|0F51|030C
+02|0F56|0004|bye 
+04|0F5F|02FE
+04|0F67|009B
+02|0F71|0055|Take this Focus, Adept. With it you will be able to cast the Air Walk spell at will. 
+02|0FDD|000B|Reward me? 
+06|0FF8|0181:13AA
+02|1006|0019|Farewell, my dear child. 
+06|103C|0581:1C8B
+06|108D|0581:1C19
+06|1109|0581:1C19
+06|112D|0581:29D8
+06|11A7|057C:15E7
+06|11BE|0581:1C19
+06|11EA|057C:15E7
+06|1201|0581:1C19
+06|121B|057C:091C
+03|1260|F3F2
+01|126B|126B
+06|1283|0581:1C19
+01|1327|1327
+06|1339|0581:1C19
+01|13AA|13AA
+06|13EE|0581:29D8
+06|1414|0581:1C19
+06|1473|057C:03CD
+06|148D|0581:29D8
+06|14C9|0581:1C19
+06|14FC|0581:1C19
+06|1536|057C:03CD
+06|154D|0581:1C19
+06|156D|0581:29D8

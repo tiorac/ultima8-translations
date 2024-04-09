@@ -1,0 +1,470 @@
+01|0080|0080
+04|008F|0021
+02|0093|0005|Devon
+03|00AD|004D
+03|00B0|004A
+04|00B7|0026
+02|00BB|000A|pescador 
+03|00DA|0020
+03|00DD|001D
+02|00E1|0004|homen 
+01|00FF|00FF
+05|0121|0581:28F9
+05|012A|0581:28F9
+05|014C|0581:28F9
+05|0155|0581:28F9
+05|01A8|0581:28F9
+05|01B1|0581:28F9
+05|01D0|0581:28F9
+05|01EE|0581:28F9
+05|020C|0581:28F9
+05|022A|0581:28F9
+06|0250|057C:133F
+01|0261|0261
+01|028F|028F
+05|02A1|0581:2A56
+01|02AA|02AA
+03|02C4|0092
+06|0304|057C:091C
+02|0314|001D|O que voce esta fazendo ai...? 
+06|0349|0402:0261
+01|035B|035B
+04|036B|010A
+06|0397|057C:091C
+06|03B4|057C:15E7
+06|03D1|057C:15E7
+06|03E2|0402:5079
+06|03F9|057C:15E7
+03|0408|006D
+04|0415|0060
+05|0427|0581:2A56
+05|0435|0581:2A56
+02|043D|0017|Beren! Estou sendo atacado! 
+06|046D|058B:0080
+01|047A|047A
+06|0488|057C:0BCF
+04|04B6|006B
+02|04BA|0009|Oh querido, 
+02|04CD|003E|. Parece que causou bastante agitacao. Espero que esteja bem.
+03|0521|011D
+04|0528|00AB
+02|052C|0009|Oh querido, 
+02|053F|007E|. Por um momento, pensei que voce fosse um dos mortos-vivos que parecem ter comecado a vagar pela cidade. Fico feliz em ver que voce esta vivo.
+03|05D3|006B
+04|05DA|0041
+02|05DD|000D|Ola, 
+02|0600|0001|.
+03|061B|0023
+02|061F|000D|Ola. 
+04|064B|0094
+04|0652|0053
+04|065F|0023
+02|0664|0012|O que esta acontecendo? 
+03|0682|0020
+02|0687|0012|Saudacoes, Devon. 
+03|06A5|0037
+04|06AC|0030
+02|06B1|001F|Preciso do fragmento de Blackrock. 
+03|06DF|0173
+04|06E6|00AB
+04|06F3|0053
+04|0700|0023
+02|0705|0012|O que esta acontecendo? 
+03|0723|0020
+02|0728|0012|Saudacoes, Devon. 
+03|0746|0048
+04|074D|001F
+02|0752|000E|Hello, Devon. 
+03|076C|0022
+02|0771|0014|O Lurker esta livre! 
+03|0791|00C1
+04|0798|001F
+02|079D|000E|Hello, Devon. 
+03|07B7|009B
+04|07BE|0053
+04|07CB|0023
+02|07D0|0012|O que esta acontecendo? 
+03|07EE|0020
+02|07F3|0012|Saudacoes, Devon. 
+03|0811|0041
+04|0818|001F
+02|081D|000E|Hello, Devon. 
+03|0837|001B
+02|083C|000D|Quem e voce? 
+02|0857|0009|Adeus. 
+02|086E|0009|Adeus. 
+04|087D|47E7
+04|088B|002F
+02|0890|0009|Adeus. 
+02|08A8|0009|Adeus. 
+02|08D8|000D|Quem e voce? 
+04|08EA|0120
+02|08ED|004C|Eu sou Devon, meu estranho amigo. E estou feliz em ver que voce esta se sentindo melhor, 
+02|0955|0001|.
+02|0972|000D|Quem e voce? 
+04|0993|0022
+02|0996|000C|Onde estou? 
+03|09B5|002A
+02|09B8|0017|Onde voce me encontrou? 
+02|09E2|0019|How do you know my name? 
+03|0A0A|4657
+02|0A0F|000C|Onde estou? 
+02|0A22|0017|Onde voce me encontrou? 
+04|0A3F|00D5
+02|0A43|003A|Por que, na costa, amigo, seguro agora e felizmente vivo. 
+04|0A94|001B
+02|0A99|000C|Onde estou? 
+04|0AB4|0026
+02|0AB9|0017|Onde voce me encontrou? 
+02|0ADD|0015|O que aconteceu comigo? 
+02|0AF6|000F|Costa de que? 
+03|0B14|454D
+02|0B19|000F|Costa de que? 
+04|0B2D|00AD
+02|0B31|0042|Costa de que? Bem, a costa de Tenebrae, no Mar das Chuvas. 
+02|0B8A|000F|Costa de que? 
+02|0BA6|000A|Tenebrae? 
+02|0BB4|000E|Mar das Chuvas? 
+02|0BC6|0009|Adeus. 
+03|0BDA|4487
+02|0BDF|0000|
+04|0BE4|00D6
+04|0BEC|0056
+02|0BF0|0039|Oh. Peco desculpas. Pensei que ainda estava falando comigo. 
+03|0C42|0075
+02|0C45|0051|Vejo que esta ocupado de outra forma. Nao vou mais desperdicar seu tempo. Adeus. 
+06|0CAA|057C:1090
+03|0CB7|43AD
+03|0CBA|43A7
+02|0CBF|000E|Mar das Chuvas? 
+04|0CD2|0247
+02|0CD7|000E|Mar das Chuvas? 
+02|0CF3|0211|Obviamente voce nao passa tempo fora da cidade para fazer uma pergunta dessas. Bem, nao e nada alem do nome do mar. A historia diz que as chuvas sao bastante fortes quanto mais longe voce vai da costa. Supostamente tem algo a ver com os poderes de Mordea. Parte de seu papel como Tempestade governante e controlar a chuva sobre a cidade, mas ela nao sente obrigacao de estender isso as aguas distantes. Claro, nunca tive uma nuvem indesejada enquanto estava no mar, entao suspeito que o nome seja mais rumor do que verdade. 
+03|0F19|4148
+02|0F1E|000A|Tenebrae? 
+04|0F2D|0204
+02|0F31|0168|Sim, Tenebrae, a Cidade do Crepusculo Eterno. Dizem que voce nunca encontrara um lugar mais encantador e nao discordo, exceto por um lugar. Mas direi isso, quanto mais longe estou da Dama, melhor me sinto. Posso perceber pelas suas perguntas que voce nao e deste lugar. Voce vem de outra ilha? Ou talvez de algum lugar que esteja ainda mais distante. 
+02|10B0|000A|Tenebrae? 
+02|10BE|000E|Mar das Chuvas? 
+02|10D9|001C|Qual e o lugar mais encantador? 
+02|10F9|0011|Quem e a Dama? 
+02|110E|0014|Sou de muito longe. 
+03|1131|3F30
+02|1136|0014|Sou de muito longe.
+04|114F|0209
+02|1153|01C7|Suspeitei disso, meu amigo, pois suas perguntas sao bastante incomuns. Devo informa-lo de que, como um simples pescador, sou uma fonte pobre de informacoes sobre nossos costumes locais e afins. Tenho certeza de que deve haver alguem que possa lhe contar mais. Ah, eu sei exatamente quem. Quando chegar a cidade, visite Bentic na biblioteca no leste de Tenebrae. Meu bom amigo sabe praticamente tudo sobre nossa terra e nosso povo. Sim, ele certamente podera ajuda-lo. 
+02|1337|0014|Sou de muito longe. 
+03|1358|3D09
+02|135D|001C|Qual e o lugar mais encantador? 
+04|137E|019B
+02|1382|0157|Bem, o mar aberto, e claro! Nao consigo pensar em nada mais reconfortante do que o cheiro do sal e a sensacao de uma rede esticada enquanto se enche de peixes. E o clima! Ouco outros reclamarem que e tao instavel quanto a Dama, mas eu nao conheco tal coisa. Nao consigo lembrar de um dia no mar em que o ceu nao estivesse claro e as ondas tao suaves quanto a mao de um bebe. 
+02|14F0|001C|Qual e o lugar mais encantador? 
+03|1519|3B48
+02|151E|0011|Quem e a Dama? 
+04|1534|012E
+02|1538|00B4|Voce quer dizer a Dama Mordea, meu amigo. Ela e a Tempestade e governante da cidade. Outros a chamam de tirana em cantos sussurrados, embora eu nao tenha opiniao sobre isso. Ate recentemente, pelo menos.
+02|1603|0011|Quem e a Dama?
+02|1621|0013|O que e uma Tempestade?
+02|1638|001B|O que mudou sua opiniao?
+03|1662|39FF
+02|1667|001B|O que mudou sua opiniao?
+04|1687|0155
+02|168B|0112|Ultimamente, a Dama tem se dedicado a eliminar a dissidencia eliminando os dissidentes. Ela os executa, decapitando-os nos cais. No inicio, ninguem era morto alem de verdadeiros criminosos, mas logo qualquer um que mostrasse desacordo era levado ao pelourinho. Eu temo pela liberdade do povo. 
+02|17B4|001B|O que mudou sua opiniao? 
+03|17DC|3885
+02|17E1|0013|O que e uma Tempestade? 
+04|17F9|0102
+02|17FD|0096|De fato, voce faz perguntas incomuns. No entanto, eu sei tao pouco sobre elas. Na cidade, voce pode encontrar outras pessoas que podem oferecer muito mais assistencia. 
+02|18AE|0013|O que e uma Tempestade? 
+02|18CE|0015|O que aconteceu comigo? 
+02|18E7|0009|Adeus. 
+03|18FB|3766
+02|1900|0015|O que aconteceu comigo? 
+02|191C|000A|Me encontrou? 
+04|192C|0159
+02|1930|00CD|Nao tenho certeza, meu amigo. Tudo o que sei e que encontrei seu corpo encharcado nas profundezas do dominio do Lurker. O que aconteceu antes permanece um misterio. Recolhi minhas redes e dentro de uma delas o descobri voce. 
+02|1A1A|0015|O que aconteceu comigo? 
+02|1A33|000A|Me encontrou? 
+02|1A41|000A|Tenebrae? 
+02|1A58|0015|O dominio do Lurker? 
+02|1A71|0009|Adeus. 
+03|1A85|35DC
+02|1A8A|0015|O dominio do Lurker? 
+04|1AA4|00EE
+02|1AA8|006E|Sim, e como as vezes chamamos o mar. Voce estava se afogando nele, meu amigo. Um destino realmente ruim! 
+04|1B2E|0023
+02|1B31|0014|What is the Lurker? 
+02|1B56|0015|O dominio do Lurker? 
+02|1B78|000B|Destino ruim? 
+03|1B92|34CF
+02|1B97|000B|Destino ruim? 
+04|1BA7|00F6
+02|1BAB|0096|Sim! Nao apenas teria significado a morte para voce, mas entao voce teria sido condenado a caminhar pelo fundo do oceano, incapaz de cumprir o pacto com Lithos. 
+02|1C58|000B|Destino ruim? 
+02|1C70|000B|Que pacto? 
+02|1C7F|000F|Quem e Lithos? 
+03|1C9D|33C4
+02|1CA2|000B|Que pacto? 
+04|1CB2|00EF
+02|1CB6|0098|Ha eras, nosso povo fez um pacto com Lithos. Se ele acalmaria a terra tremendo, nos o comendariamos com nossos mortos na hora da sua morte. 
+02|1D65|000B|Que pacto? 
+04|1D80|001E
+02|1D85|0010|Elogiar ele? 
+03|1DA1|32C0
+02|1DA6|0010|Elogiar ele? 
+02|1DBD|000D|Regras da morte? 
+04|1DD0|00D9
+02|1DD4|0063|Atraves de seus Necromantes, Lithos leva os mortos para servi-lo pelo resto de sua existencia. 
+02|1E52|0010|Elogiar ele? 
+02|1E66|000D|Regras da morte? 
+02|1E80|001A|Quem sao os Necromantes? 
+03|1EA9|31B8
+02|1EAE|001A|Quem sao os Necromantes? 
+04|1ECD|0112
+02|1ED1|00D0|Estou impressionado com o quanto voce sabe, amigo. Os Necromantes sao os guardioes do cemiterio. Eles tem a tarefa bastante desagradavel de enterrar os mortos, assim honrando o pacto e enviando os mortos para Lithos. 
+02|1FB8|001A|Quem sao os Necromantes? 
+03|1FDF|3082
+02|1FE4|000F|Quem e Lithos? 
+04|1FF8|00D0
+02|1FFC|0078|Nos o chamamos de Rei da Montanha. Ele governa a grama, as pedras, as colinas -- tudo sobre o qual caminhamos. Ele tambem governa a morte. 
+02|208B|000F|Quem e Lithos? 
+04|20AA|001B
+02|20AF|000D|Regras da morte? 
+03|20C8|2F99
+02|20CD|0014|O que e Lurker? 
+04|20E6|0114
+02|20EA|00D8|O Lurker? Esse e o nosso nome para Hydros, o Tita da agua. Ela e astuta e traicoeira, sempre pronta para arrastar vitimas relutantes para suas mortes nas profundezas do mar... muito parecido com o que quase aconteceu com voce. 
+02|21D9|0014|O que e Lurker? 
+03|21FA|2E67
+02|21FF|0019|How do you know my name? 
+04|221D|0100
+02|2221|00A7|Peco desculpas. Nao quis me intrometer, mas quando te encontrei, nao sabia quem voce era. Receio que tenha lido o seu livro de registro e descoberto o seu nome. Por favor, me perdoe. 
+02|22DF|0019|How do you know my name? 
+02|2307|000A|Found me? 
+03|231D|2D44
+02|2322|000E|Hello, Devon. 
+04|2335|0105
+04|2348|0023
+02|234C|000A|Bom dia. 
+03|236B|006B
+04|2373|0031
+02|2376|0015|Espero que esteja tudo bem agora. 
+03|23A4|0032
+04|23AC|002A
+02|23AF|000E|Salve, amigo. 
+04|23DD|001C
+02|23E0|000A|Alguma novidade? 
+03|23F9|0021
+02|23FC|0012|What should I do? 
+02|241F|000E|Hello, Devon. 
+03|243A|2C27
+02|243F|000A|Alguma novidade? 
+04|244E|04C3
+04|2460|00F8
+02|2464|007E|Eu estava prestes a te perguntar o mesmo, amigo. Nao, nao ha nada de novo para contar. E uma pena sobre Toran, nao e? 
+02|24FF|0012|O que aconteceu com Toran? 
+02|2515|000E|Quem e Toran? 
+04|2534|0021
+02|2537|0012|What should I do? 
+03|2558|039D
+04|255F|02D5
+04|2566|0264
+04|258E|0099
+02|2592|0080|Nao, nao ha nada de novo para contar. Pouco mais tem ocupado minha mente do que desfazer o que Mordea causou com sua tirania. 
+03|2627|01A0
+04|262F|008A
+02|2633|0071|Apenas que Mordea era mais corrupta do que eu jamais pensei ser possivel. Estou gastando todo o meu tempo desfazendo seus erros. 
+03|26B9|010E
+04|26C1|0106
+02|26C5|00E7|Como um simples pescador, nunca quis ter a vida de um governante. Sempre acreditei que seria uma posicao dificil e problematica. Agora que sou responsavel pelos cidadaos de Tenebrae, tenho certeza das dificuldades e dos problemas. 
+03|27CA|0067
+02|27CE|0051|Eu estava prestes a te perguntar o mesmo, amigo. Nao, nao ha nada de novo para contar. 
+03|2834|00C1
+02|2838|00A5|Eu estava prestes a te perguntar o mesmo, amigo. Nao, nao ha nada de novo para contar. Mas talvez os olhos e ouvidos de Bentic tenham observado alguma informacao importante. 
+02|28FA|000A|Alguma novidade? 
+03|2911|2750
+02|2916|000E|Quem e Toran? 
+04|2929|0184
+02|292E|000E|Quem e Toran? 
+04|2970|00D1
+02|2974|0093|Ele era um homem bom. Toran era o lapidario. Suas obras eram realmente boas. Posso dizer que sua esposa e filho estao muito abalados. Quem pode culpa-los? 
+02|2A1E|000A|Sua esposa? 
+02|2A2C|0009|Seu filho? 
+03|2A41|0069
+02|2A45|0053|Um homem bom, eu diria. Ele e o lapidario. Suas obras sao consideradas muito boas. 
+03|2AAD|25B4
+02|2AB2|000A|Sua esposa? 
+04|2AC1|00DB
+02|2AC5|00A9|Ah, pobre Rhian. Ela nao lidou bem com a execucao. Eles estavam casados ha mais de 20 anos. Dizem que agora tudo o que ela faz e sentar-se junto ao seu tear e chorar. Uma pena. 
+02|2B85|000A|Sua esposa? 
+03|2B9C|24C5
+02|2BA1|0009|Seu filho? 
+04|2BAF|02A5
+04|2BB6|0111
+02|2BBA|00F8|Seu filho nao lida com o luto como sua mae. Torwin decidiu tomar as coisas em suas proprias maos. Ouvi dizer que ele se juntou a Ordem da Iluminacao, embora sua natureza impulsiva possa lhe causar dificuldades. Talvez com muito esforco ele consiga perseverar. 
+03|2CC7|0172
+02|2CCB|015C|Seu filho nao lida com o luto como sua mae. Torwin decidiu agir por conta propria, embora apenas os Titas saibam o que ele fara. Suponho que a violencia nao esteja fora de questao. So posso esperar que nao seja o caso, pois mesmo que ele conseguisse passar pelos guardas, as habilidades de Mordea sao mais do que adequadas para repelir um ataque dele. 
+02|2E3E|0009|Seu filho? 
+03|2E54|220D
+02|2E59|0012|What about Toran? 
+04|2E70|020F
+04|2E9A|00E0
+02|2E9E|00C7|He was killed, he was. Executed at the Lady's command. I know the reasons they gave, but Toran was no blasphemer. There is tyranny in this city, that's for sure. Be careful what you speak to others. 
+03|2F7A|00E1
+02|2F7E|00CB|I hear he is to be killed. Executed at the Lady's command. I know the reasons they give, but Toran is no blasphemer.  There is tyranny in this city, that's for sure. Be careful what you speak to others. 
+02|3060|0012|What about Toran? 
+03|307F|1FE2
+02|3084|0012|What should I do? 
+04|309B|029E
+04|30A2|008C
+02|30A6|0073|All I am concerned about now is pacifying the Lurker, my friend. I am sorry, but I have no time for anything else. 
+03|312E|01F4
+02|3132|01D8|Well, I suppose now that you are better, you should consider visiting Tenebrae. Here there is nothing, unless you wish to join me in fishing. But in Tenebrae, there is a wealth of activities and information for a soul such as yourself. Why, I know just the person there who can help you. When you get to town, visit Bentic in the library in east Tenebrae. The good sage knows practically all there is to know about our land and its people. Yes, he can certainly help you. 
+02|3325|0009|Adeus. 
+03|3339|1D28
+02|333E|0009|Adeus. 
+04|334C|021C
+04|3353|0043
+02|3356|0011|Ate logo, amigo 
+02|3371|0010|, e boa sorte.
+03|3396|019E
+02|339A|0011|Ate logo, amigo 
+02|33B5|00DB|, e boa sorte. Voce esta convidado a ficar comigo o tempo que precisar. Minha comida e provisoes sao suas ate que voce queira ir para a cidade. E tenha cuidado em suas viagens, pois temo que voce encontrara muita violencia.
+06|34AF|057C:091C
+02|34BF|0037|Ja posso ver uma multidao reunida la nas docas.
+02|350B|001B|Isso so pode significar problemas.
+02|3539|0009|Adeus. 
+06|3558|057C:1090
+03|3565|1AFF
+03|3568|1AF9
+02|356D|0012|What is going on? 
+04|3584|0260
+02|3587|00AF|I am not sure, my friend, though I must admit I am pleased to see you.  My good friend, Bentic, has been... executed. And I, myself, jailed. Yet no one will tell me why. Why, 
+02|3640|0033|. Why are these needless deaths happening? Please, 
+02|367E|00F9|, you must find this out for me. I beg your assistance. What was Bentic doing that warranted death? Certainly Salkind has some explanation. He will not speak to me here, but perhaps you will find him in kind enough spirits to answer a few questions.
+02|379D|0012|What is going on? 
+02|37BC|000D|I will help. 
+02|37CD|000C|I am sorry. 
+03|37E4|187D
+02|37E9|000C|I am sorry. 
+04|37FA|00A9
+02|3808|0046|You are sorry? I understand. You are too busy with your own troubles. 
+02|3865|000C|I am sorry. 
+02|387E|000D|I will help. 
+02|388F|0009|Adeus. 
+03|38A3|17BE
+02|38A8|000D|I will help. 
+04|38BA|0110
+02|38BE|009E|At the moment, I can offer you only my eternal gratitude. But I hope one day to repay you for the kindness and courage you are sharing. Good luck, my friend. 
+02|3973|000D|I will help. 
+02|398F|000C|I am sorry. 
+02|39A8|0009|Adeus. 
+03|39CA|1697
+02|39CF|0012|Greetings, Devon. 
+04|39E6|0228
+04|39ED|0113
+02|39F1|00C5|Well met, friend. I hope your luck is holding out. I do not know how much longer they will keep me here, and I fear the chopping block is not out of the question. Please, continue with your quest. 
+02|3ACD|0012|Greetings, Devon. 
+02|3AEC|0009|Adeus. 
+03|3B00|010B
+04|3B07|0104
+02|3B0B|00BB|You will forgive me if I do not respond politely. The bitter taste left in my mouth from our last encounter is quite foul. Unless you are here to offer assistance, please be on your way. 
+02|3BDB|0013|I will assist you. 
+02|3BF2|000A|Ate logo. 
+03|3C0E|1453
+02|3C13|000A|Ate logo. 
+04|3C22|0037
+02|3C25|0010|Begone, coward. 
+06|3C49|057C:1090
+03|3C56|140E
+03|3C59|1408
+02|3C5E|0013|I will assist you. 
+04|3C76|016D
+02|3C80|0118|I cannot tell you how pleased I am to see your change of heart. I found it difficult to so often curse the name of one I knew to be kind and courageous. At the moment, I can but offer you my eternal gratitude. But I hope one day to repay you for your deeds. Good luck, my friend. 
+02|3DAF|0013|I will assist you. 
+02|3DCF|0009|Adeus. 
+03|3DE3|127E
+02|3DE8|001F|I need the Blackrock fragment. 
+04|3E0C|00F8
+02|3E10|006B|I am sorry, my friend, but for once it is me who does not understand you. What is this Blackrock fragment? 
+02|3E92|001F|I need the Blackrock fragment. 
+02|3EBE|0016|The Tear of the Seas. 
+02|3ED8|001D|Who would know its location? 
+03|3F04|115D
+02|3F09|001D|Who would know its location? 
+04|3F2B|0083
+02|3F2F|003E|To answer that, I must know what it is you are talking about. 
+02|3F84|001D|Who would know its location? 
+03|3FAE|10B3
+02|3FB3|0016|The Tear of the Seas. 
+04|3FCE|00AD
+02|3FD2|0045|I have not heard of this item.  What exactly is this Blackrock Tear? 
+02|402E|0016|The Tear of the Seas. 
+02|4051|001B|It is a large, dark stone. 
+03|407B|0FE6
+02|4080|001B|It is a large, dark stone. 
+04|40A0|02CD
+02|40A4|0242|Your description is rather vague. Considering the once-active state of the volcano, I do not think you will get far asking for a large black-colored rock. I would even be suprised if -- wait! Despite my words I might be able to assist you. Years ago, I found myself casting my nets in a new area. The catch was plentiful, I remember, and when I pulled in my nets one time, I found such a stone within. The rock was made of an unusually hard substance, even more resistant than obsidian. I thought it so peculiar at the time that I kept it. I still have it if you wish to see it.
+02|42FD|001B|It is a large, dark stone. 
+02|4325|000B|Sim eu faco. 
+02|4334|000E|Nao, eu nao. 
+02|4346|0012|May you farewell. 
+03|436D|0CF4
+02|4372|000B|Sim eu faco. 
+04|4382|0312
+02|4386|0205|I believe it is locked away in a chest in my study, in the southwest corner of the palace. Here is the key. You may take it for whatever purpose you need.~ Oh, yes, there is something else I wanted to mention to you. You have been here for sometime and yet I do not know where you have managed to find accomodations. The least I can do is have you stay at Salkind's house. There you should find food and lodging, and most likely even a little money. You have done so much for the city, I feel that we owe you no less.
+02|45A2|000B|Sim eu faco. 
+02|45B1|000E|Nao, eu nao. 
+05|45FD|0581:1EE2
+04|4605|0030
+02|4609|0017|Espero que esta chave ajude. 
+03|4635|005C
+02|4668|0017|Espero que esta chave ajude. 
+03|4694|09CD
+02|4699|000E|Nao, eu nao. 
+04|46AC|036B
+02|46B0|025E|Very well, though I find it odd that you mentioned it then. Should you change your mind, I believe it is locked away in a chest in my study, in the southwest corner of the palace. Here is the key. You may take it for whatever purpose you need.~ Oh, yes, there is something else I wanted to mention to you. You have been here for sometime and yet I do not know where you have managed to find accomodations. The least I can do is have you stay at Salkind's house. There you should find food and lodging, and most likely even a little money. You have done so much for the city, I feel that we owe you no less.
+02|4925|000B|Sim eu faco. 
+02|4934|000E|Nao, eu nao. 
+05|4980|0581:1EE2
+04|4988|0030
+02|498C|0017|Espero que esta chave ajude. 
+03|49B8|005C
+02|49EB|0017|Espero que esta chave ajude. 
+03|4A17|064A
+02|4A1C|0012|May you farewell. 
+04|4A33|004E
+02|4A36|0009|Adeus, 
+02|4A49|0010|, and good luck!
+06|4A71|057C:1090
+03|4A7E|05E6
+03|4A81|05E0
+02|4A86|0014|The Lurker is free! 
+04|4A9F|0262
+04|4AAC|00A6
+02|4AB0|008D|While terrible as that might be, I am more concerned with my current situation. Perhaps later, my friend, I will be more interested in that. 
+03|4B52|0183
+02|4B56|0136|I had feared as much. When the torrential rains began and the people came to me, I could not stop it. Then I knew something was wrong. At first, I had hopes that you simply found another Tempest, one who was older. Yet somehow	I knew, I felt, that was not the case. Tell me, friend, how did this come to pass? 
+02|4CA1|000F|A culpa foi minha. 
+02|4CB4|000C|Eu nao sei. 
+02|4CC4|0009|Adeus. 
+02|4CE0|0014|The Lurker is free! 
+03|4D01|0360
+02|4D06|000F|A culpa foi minha. 
+04|4D1A|023C
+02|4D1E|01F5|That does not surprise me. From the day I cut you free of my fishing nets, I knew of the luck that followed you. Whether it is good luck or bad I did not know. Nor, for that matter, am I sure now. Nevertheless, the rains must cease or the land will flood again, as in the days of Kalen and the wars with the Zealans. And, my friend, I believe it is up to you to end this cataclysm. Though I am loath to suggest this, perhaps the Sorcerers who dwell across the river of lava in the catacombs can help. 
+02|4F2A|000F|A culpa foi minha. 
+02|4F3D|000C|Eu nao sei. 
+03|4F56|010B
+02|4F5B|000C|Eu nao sei. 
+04|4F6C|00F5
+02|4F70|00AE|This is terrible. With Hydros free and the rain falling in torrents, the land will surely flood. We have not the time nor the ability to move to the safety of higher ground! 
+02|5035|000F|A culpa foi minha. 
+02|5048|000C|Eu nao sei. 
+03|5064|B805
+01|5079|5079
+06|509F|0581:29D8
+06|5112|0581:1C19
+06|5134|0581:29D8
+06|51C0|0581:1C19
+06|51EA|0581:29D8

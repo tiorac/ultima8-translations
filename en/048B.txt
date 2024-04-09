@@ -1,0 +1,88 @@
+01|0080|0080
+06|00D0|048B:0116
+06|00E7|0581:1C19
+01|00FB|00FB
+05|010D|0581:2A56
+01|0116|0116
+03|012E|11DC
+03|0131|11C1
+04|013B|0755
+06|01D9|057C:091C
+06|020D|0581:1C6D
+06|0256|048B:150A
+02|0262|005F|Greetings, Avatar. We are aware of you and from where you come. We also know of what you seek. 
+02|0315|0037|And we wish to help you. You must become your destiny. 
+02|036C|0014|What is my destiny? 
+06|03CF|048B:1732
+02|03DB|0070|That is not important now. Know that we wish to help you in your quest. Behind us lies the Tomb of Khumash-Gor. 
+02|046B|0014|Who is Khumash-Gor? 
+06|04CE|048B:13CE
+02|04DA|009D|Only the most fearsome warrior who ever lived. Eons ago he was a great chieftain to our worshippers, but now he lies forever entombed in honor of his valor! 
+02|05CB|00D4|With him rests an artifact that is the key to tremendous power. It is made of Blackrock, a substance with which you have considerable familiarity. The small object is shaped much like a pyramid. But be warned... 
+06|06F6|048B:130F
+02|0702|0097|...for even in death, Khumash-Gor has kept the fighting spirit to which he held so tenaciously in life. He will not part readily with his possessions. 
+06|07B2|048B:16A7
+06|07C5|0581:1C19
+06|07D8|048B:1848
+02|0822|0015|Good luck... Avatar. 
+06|085C|0581:1C8B
+06|086F|048B:146C
+03|0890|0A62
+04|089A|0A58
+03|0946|09C4
+06|0968|057C:091C
+06|0996|0581:1C6D
+04|09BA|084E
+02|09FA|0080|Well done, mortal.  The item of Blackrock which you now possess is the first key to unlocking tremendous power within yourself. 
+02|0A9A|000C|What power? 
+02|0AF2|0051|Beyond Earth, Water, Air, and Fire, there is another element -- a fifth element. 
+02|0B97|0031|You have heard of it before. It is called Ether. 
+06|0C1F|048B:13CE
+02|0C2B|004D|And like the others, this element will assume a form of titanic proportions. 
+06|0CCF|048B:1575
+02|0CDB|0056|You are to be that Titan -- the Titan of Ether. We know that the power is within you. 
+06|0D52|048B:130F
+02|0D94|00BB|But is up to -you- to have the courage to use this power. You must take the power from the other Titans. You must take their worshipers, just as our followers were ripped from	our grasp. 
+02|0EA3|0109|Continue your quest for the powers of the other Titans, for that is the way to gain their followers. The greater the abilities you can accrue, the better chance you will have of weakening the other four and eventually standing with them as more than just an equal. 
+02|1000|003D|Go now to find the Titans called Stratos, Hydros, and Pyros. 
+02|1091|0055|You shall find Hydros in her underground Temple. The other two dwell on the surface. 
+02|10FC|000C|Farewell... 
+02|115C|0016|... and good haste... 
+02|11C6|0016|... in your conquest! 
+06|11FD|048B:146C
+03|1208|00BA
+06|1245|048B:17BD
+02|1251|0051|There is nothing more we can tell you until you have found the ancient artifact. 
+06|12CD|0581:1C8B
+01|130F|130F
+06|1342|0581:1C19
+06|136A|0581:1C19
+06|1392|0581:1C19
+06|13B7|0581:1C19
+01|13CE|13CE
+06|13FD|0581:1C19
+06|1422|0581:1C19
+06|1447|0581:1C19
+01|146C|146C
+06|149B|0581:1C19
+06|14C0|0581:1C19
+06|14E5|0581:1C19
+01|150A|150A
+06|1539|0581:1C19
+06|155E|0581:1C19
+01|1575|1575
+06|15A4|0581:1C19
+06|15C9|0581:1C19
+06|15EE|0581:1C19
+06|1613|0581:1C19
+06|1638|0581:1C19
+06|165D|0581:1C19
+06|1682|0581:1C19
+01|16A7|16A7
+06|1714|0581:1C19
+01|1732|1732
+06|179F|0581:1C19
+01|17BD|17BD
+06|182A|0581:1C19
+01|1848|1848
+06|18B5|0581:1C19

@@ -1,0 +1,741 @@
+01|0080|0080
+05|00B1|0581:28F9
+05|00BA|0581:28F9
+05|00DD|0581:28F9
+05|00E6|0581:28F9
+05|0109|0581:28F9
+05|0112|0581:28F9
+06|013D|057C:143A
+06|015F|057C:133F
+01|0170|0170
+06|01EA|0405:6227
+06|0225|0405:02A8
+06|023D|0405:0897
+06|0255|0405:0897
+01|0263|0263
+05|0275|0581:2A56
+05|0283|0581:2A56
+05|0291|0581:2A56
+05|029F|0581:2A56
+01|02A8|02A8
+06|034F|0405:0E9D
+06|036A|0405:0411
+06|037F|0581:1C19
+06|039F|057C:15E7
+06|03B6|0581:1C19
+06|03D1|0581:1C19
+06|03F9|0581:1C19
+01|0411|0411
+05|041F|0581:1D62
+04|0441|01BC
+06|0461|057C:091C
+04|0475|0077
+04|047C|0048
+02|0480|0012|So, you are back. 
+06|04B5|057C:15E7
+03|04C4|0028
+02|04C8|0012|What do you want? 
+04|04F4|0090
+04|04FB|0051
+02|04FF|001B|Sword play is an art form. 
+06|053D|057C:15E7
+03|054C|0038
+02|0550|0022|You have interrupted my practice! 
+04|058C|0054
+02|0590|0021|Hmmm, my parries need some work. 
+06|05D4|057C:15E7
+06|05EB|0581:1C19
+03|05FA|0298
+03|05FD|0295
+06|061B|057C:091C
+04|062F|0064
+06|0640|057C:15E7
+06|065D|057C:15E7
+02|066D|0014|No one can best me! 
+04|069B|0082
+06|06AC|057C:15E7
+02|06BC|001B|My blade needs cleaning... 
+06|06FA|057C:15E7
+06|0711|0581:1C19
+04|0725|003A
+02|0729|0024|Perhaps more drilling on attacks... 
+04|0767|006A
+02|076B|0020|My practice armor needs repair. 
+06|07AE|057C:15E7
+06|07C5|0581:1C19
+04|07D9|004B
+02|07DD|0018|What to do about Jenna. 
+06|0818|057C:15E7
+04|082C|0066
+06|083D|057C:15E7
+02|084D|0016|I need a new sword... 
+06|0886|057C:15E7
+01|0897|0897
+06|092F|0405:09F5
+06|0944|0581:1C19
+06|0964|057C:15E7
+06|097B|0581:1C19
+06|099F|0581:1C19
+06|09BC|057C:15E7
+06|09E1|0581:1C19
+01|09F5|09F5
+05|0A03|0581:1D62
+04|0A25|01BA
+06|0A45|057C:091C
+04|0A59|007E
+04|0A60|0047
+02|0A64|0011|Good day to you. 
+06|0A98|057C:15E7
+03|0AA7|0030
+02|0AAB|001A|New around here, are you? 
+04|0ADF|0081
+04|0AE6|004C
+02|0AEA|0016|Need some assistance? 
+06|0B23|057C:15E7
+03|0B32|002E
+02|0B36|0018|Stranger, are you lost? 
+04|0B68|005A
+04|0B6F|0053
+02|0B73|0020|Nice day for a walk, is it not? 
+06|0BB6|057C:15E7
+06|0BCD|0581:1C19
+03|0BDC|02BC
+03|0BDF|02B9
+06|0BFD|057C:091C
+04|0C11|0041
+02|0C15|002B|Curses, I think it is going to rain again! 
+04|0C5A|0083
+06|0C6B|057C:15E7
+02|0C7B|001C|I could use a new weapon... 
+06|0CBA|057C:15E7
+06|0CD1|0581:1C19
+04|0CE5|0049
+06|0CF6|057C:15E7
+02|0D06|0016|It is getting late... 
+04|0D36|006C
+02|0D3A|0022|It seems too quiet around here... 
+06|0D7F|057C:15E7
+06|0D96|0581:1C19
+04|0DAA|006E
+02|0DAE|001A|What to do about Jenna... 
+06|0DEB|057C:15E7
+02|0DFB|000B|Oh well... 
+04|0E20|0078
+02|0E24|0028|Maybe I'll go to the tavern for an ale. 
+06|0E6F|057C:15E7
+06|0E8C|057C:15E7
+01|0E9D|0E9D
+04|0EBD|0217
+06|0ED2|057C:091C
+06|0EEF|057C:15E7
+06|0F0C|057C:15E7
+04|0F27|0023
+02|0F2B|000A|En guard! 
+03|0F4A|0022
+02|0F4E|000C|Watch this! 
+06|0F7D|057C:15E7
+06|0F94|0581:1C19
+06|0FBA|0581:1C19
+06|0FD7|057C:15E7
+05|0FED|0581:2A56
+06|1011|057C:15E7
+06|1035|057C:091C
+06|104C|0581:1C19
+06|106D|057C:091C
+06|108A|057C:15E7
+06|10A7|057C:15E7
+06|10C4|057C:15E7
+03|10D4|FDE6
+01|10DB|10DB
+02|10E5|00A2|Yes, I do. I have leather armor called cuir-bouilli, leather leggings and boots, leather gloves and bracers, and a helm. Would you be interested in any of these? 
+02|119C|000B|Cuirbolli. 
+02|11AB|001C|Leather leggings and boots. 
+02|11CB|001C|Leather gloves and bracers. 
+02|11EB|0008|Helmet. 
+02|11F7|0014|Nothing, thank you. 
+02|1231|000B|Cuirbolli. 
+04|1241|0062
+02|1245|003C|A fine choice. That'll cost you 6 blacks. Will you take it? 
+03|12A3|02B7
+02|12A8|001C|Leather gloves and bracers. 
+04|12C9|0085
+02|12CD|005F|Ah, you won't be disappointed in the quality. The price is 5 bright stones. Do we have a deal? 
+03|134E|020C
+02|1353|001C|Leather leggings and boots. 
+04|1374|0075
+02|1378|004F|Every warrior needs boots and leggings. A set of mine will cost you 10 stones. 
+03|13E9|0171
+02|13EE|0008|Helmet. 
+04|13FB|0072
+02|13FF|004C|Just the thing for those long journeys. For 2 black stones it can be yours. 
+03|146D|00ED
+02|1472|0014|Nothing, thank you. 
+04|148B|0088
+02|148F|006C|Well, you're turning down a good deal here, you know. Ah well, there is no accounting for taste, I suppose. 
+03|1510|02D9
+03|1513|0047
+02|1517|002E|If you didn't want anything, why did you ask? 
+03|155A|028F
+02|155D|0014|Here is the amount. 
+02|1575|0017|Never mind, thank you. 
+02|15B2|0014|Here is the amount. 
+04|15CB|0190
+05|15D9|0581:20B8
+04|15E1|00FB
+05|15EE|0581:1EE2
+04|15F6|0044
+02|15FA|002B|There you go. Thank you for your business. 
+03|163A|009F
+02|163E|0077|Ha ha, you may be strong, but you can't carry all that! Why don't I just keep this for you until you have room for it. 
+05|16D5|0581:1EE2
+03|16DC|007C
+02|16E0|0063|Hey, what are you trying to do here? Cheat me? Come back when you've got some real money to spend! 
+03|1758|0091
+03|175B|0032
+02|175F|0019|Oh well, 'Tis your loss! 
+03|178D|005C
+02|1792|0000|
+04|1797|0052
+02|179B|0039|Can't make your mind up? Well, just think on it a while. 
+01|17F2|17F2
+02|17FC|0016|You may strike first. 
+06|1837|057C:15E7
+06|1883|0581:1C19
+04|18C6|00F5
+02|1910|000C|Time is up! 
+06|194D|057C:15E7
+02|195F|0028|Come back when you need training again. 
+03|19BB|00CC
+05|19C2|0581:1D62
+04|19CE|00B6
+02|19D3|001A|I will not chase cowards! 
+06|1A56|057C:15E7
+03|1A87|FDF0
+01|1A8C|1A8C
+01|1A99|1A99
+01|1AA6|1AA6
+04|1ABA|0038
+02|1ABE|001F|The late Captain of the Guard. 
+03|1AF2|00B1
+04|1AFE|0033
+02|1B02|001D|Darion, Captain of the Guard 
+04|1B38|001C
+02|1B3C|0006|Darion
+04|1B5B|002E
+02|1B5F|0015|Captain of the Guard 
+03|1B89|001A
+02|1B8D|0004|man 
+01|1BA8|1BA8
+03|1BBB|4663
+04|1BCA|00A8
+04|1BD2|004D
+02|1BD6|0020|You are blocking the way! Move! 
+03|1C1C|4602
+03|1C1F|0053
+04|1C2E|0023
+02|1C32|000A|Oowwww... 
+03|1C51|001E
+02|1C55|0008|Argh... 
+03|1C72|45AC
+04|1C79|0025
+02|1C7E|000F|A moment, sir! 
+03|1C9E|0020
+02|1CA3|000D|Hello there. 
+06|1CC4|057C:0BCF
+05|1CD6|0581:2A56
+04|1CE1|0085
+02|1CE5|0049|What?! What do you want?! Can't you see this is an emergency situation?! 
+02|1D43|0018|An emergency situation? 
+03|1D66|036D
+04|1D6D|00B3
+02|1D71|004E|I see you've come back. You've reconsidered about my daughter then, have you? 
+02|1DD4|0019|I regret to tell you no. 
+02|1DF1|0024|Yes, I want to marry your daughter! 
+03|1E20|01D8
+04|1E27|0191
+04|1E2E|00FB
+04|1E35|0080
+02|1E39|002C|Miserable weather and all, we're having, eh 
+02|1E6F|0001|.
+02|1E86|0024|Yes, just terrible, Captain Darion. 
+03|1EB5|0071
+02|1EB9|002C|Miserable weather and all we're having, eh? 
+02|1EFA|0024|Yes, just terrible, Captian Darion. 
+03|1F29|008C
+04|1F30|0036
+02|1F34|0011|Good day to you, 
+02|1F4F|0001|.
+03|1F66|0027
+02|1F6A|0011|Good day to you. 
+02|1F90|001D|Good morrow, Captain Darion. 
+03|1FB8|0040
+02|1FBC|0006|Hail! 
+02|1FD9|0016|Good day to you, Sir. 
+04|2002|00D1
+02|2006|009B|And as you can see, I am a trainer. Since you appear to be in shape I could take you on as a student if you so desire. Only ask, and I will spar with you. 
+02|20B6|0011|I need training. 
+02|20D6|0004|bye 
+02|20EB|0004|bye 
+04|20F5|4119
+06|2108|057C:1090
+03|2115|4109
+02|2133|0016|Good day to you, Sir. 
+04|214E|0057
+02|2152|0015|And good day to you. 
+02|217C|0016|May I know your name? 
+02|2196|0004|bye 
+03|21A5|4066
+02|21AA|0016|May I know your name? 
+04|21C5|0183
+02|21C9|004F|I am Darion, the Arms Master and Captain of the Palace Guard here in Tenebrae. 
+02|223A|0009|And you? 
+02|2258|001A|Tell me about the palace. 
+02|2276|0018|Tell me about Tenebrae. 
+02|2292|001B|Who are the Palace Guards? 
+02|22BA|0005|I am 
+02|22C9|0001|.
+04|22DB|0029
+02|22E0|001B|I heard a tale from Orlok. 
+04|230E|0025
+02|2313|0017|Do you sell armaments? 
+02|2338|0004|bye 
+03|2348|3EC3
+02|234D|0005|I am 
+02|235C|0001|.
+04|2363|0055
+02|2367|000A|Well met, 
+02|237B|0001|.
+02|2394|0005|I am 
+02|23A3|0001|.
+03|23B8|3E53
+02|23BD|000A|Ich heiáe 
+02|23D1|0001|.
+04|23D8|005C
+02|23DC|000C|Freut mich, 
+02|23F2|0001|.
+02|240B|000A|Ich heiáe 
+02|241F|0001|.
+03|2434|3DD7
+02|2439|0008|Je suis 
+02|244B|0001|.
+04|2452|0058
+02|2456|000A|Enchant‚, 
+02|246A|0001|.
+02|2483|0008|Je suis 
+02|2495|0001|.
+03|24AA|3D61
+02|24AF|001D|Good morrow, Captain Darion. 
+02|24D3|0024|Yes, just terrible, Captain Darion. 
+04|24FD|0329
+04|2504|004B
+02|2508|0032|I don't know what we'll do if it gets much worse. 
+03|254F|006A
+04|2556|0039
+02|255A|0014|Good morrow to you, 
+02|2578|0001|.
+03|258F|002A
+02|2593|0014|Good morrow to you. 
+02|25BC|001A|Tell me about the palace. 
+02|25DA|0018|Tell me about Tenebrae. 
+02|2603|001D|Good morrow, Captain Darion. 
+02|2624|0024|Yes, just terrible, Captain Darion. 
+04|265F|0029
+02|2664|001B|I heard a tale from Orlok. 
+04|268F|002E
+02|2694|0020|What do you know about Salkind? 
+04|26C9|001C
+02|26CE|000E|I met Bentic. 
+04|26EC|001E
+02|26F1|0010|I met Kilandra. 
+04|2716|002A
+02|271B|001C|I met your daughter, Jenna. 
+04|2747|002C
+02|274C|001E|So Devon is now your Tempest. 
+04|277D|0081
+02|2780|0011|I need training. 
+04|27AA|002F
+02|27AF|001E|I'm interested in your wares. 
+03|27D9|0025
+02|27DE|0017|Do you sell armaments? 
+02|2803|0004|bye 
+02|2816|0004|bye 
+03|2826|39E5
+02|282B|0011|I need training. 
+04|2841|0331
+02|2845|002A|I would be glad to have you as a student! 
+02|2885|005B|I charge 50 black stones per session, and I guarantee that you will get your moneys worth. 
+02|28F6|0023|Do you still wish to spar with me? 
+06|2934|0581:1AD0
+04|2943|0186
+05|2951|0581:20B8
+04|2959|00A4
+02|295D|0029|Draw your weapon and prepare for combat. 
+06|299D|0405:17F2
+05|29AC|0581:1D62
+06|29C3|0581:1C8B
+06|29DD|0581:1C8B
+03|29FA|3824
+03|29FD|00C9
+02|2A01|0029|It looks like you do not have the money. 
+02|2A40|0054|I am sorry, but I do not give credit. Try me later when you can afford my services. 
+02|2AAB|0011|I need training. 
+03|2AC9|0061
+02|2ACD|004B|Do not worry, I will look upon you as a coward for not accepting my offer. 
+02|2B2F|0011|I need training. 
+02|2B4F|0004|bye 
+02|2B62|0004|bye 
+03|2B72|3699
+02|2B77|0017|Do you sell armaments? 
+02|2B95|001E|I'm interested in your wares. 
+04|2BB9|00B2
+02|2BBD|0054|My armaments are the finest available. Are you looking for something in particular? 
+02|2C26|000B|Yes, I am. 
+02|2C35|000D|No, I'm not. 
+02|2C46|0012|What do you have? 
+02|2C5C|0004|bye 
+03|2C6B|35A0
+02|2C70|000B|Yes, I am. 
+02|2C82|0012|What do you have? 
+04|2C9A|0054
+02|2C9F|000B|Yes, I am. 
+02|2CAE|000D|No, I'm not. 
+02|2CBF|0012|What do you have? 
+06|2CE1|0405:10DB
+03|2CEE|351D
+02|2CF3|000D|No, I'm not. 
+02|2D07|000B|No, sorry. 
+02|2D1A|0014|Nothing, thank you. 
+04|2D34|00F9
+02|2D38|0030|Ok, well, if you change your mind, let me know. 
+04|2D81|0096
+02|2D85|0029|Have you reconsidered about Jenna, then? 
+02|2DC3|0024|Yes, I want to marry your daughter! 
+02|2DEB|0019|I regret to tell you no. 
+02|2E08|0004|Bye 
+06|2E1D|057C:1090
+03|2E2A|33F4
+03|2E2D|33DE
+02|2E32|001E|So Devon is now your Tempest. 
+04|2E55|00A3
+02|2E59|005D|And make no mistake, I will serve him as I served Mordea. I am loyal to the Tempestry, I am. 
+02|2ECD|001E|So Devon is now your Tempest. 
+03|2EF8|3313
+02|2EFD|001B|I heard a tale from Orlok. 
+04|2F1D|00BA
+02|2F21|003C|That is not unusual from him. He's got quite a few of them. 
+02|2F74|001B|I heard a tale from Orlok. 
+02|2F93|0004|bye 
+02|2FA6|001D|This tale concerned a ghost. 
+02|2FC7|0004|bye 
+03|2FD7|3234
+02|2FDC|001D|This tale concerned a ghost. 
+04|2FFE|022F
+02|3002|01E4|Ghosts? In my town? Never!! Why If there were any ghosts seen here it would only be in the minds of those who had too much of Orlok's ale. I'll just bet he's been talking to those simple-minded herdsmen in the hills again. They are always spreading some crazy story around. Spend too much time with their torax, that's what I think. Ghosts? Pshaw! No such things ... and I'll mind you not to spread tales like that. Upsets the citizens of this town, it does. Now, if you'll excuse me.
+06|3204|057C:1090
+03|3211|300D
+06|321D|057C:1090
+03|322A|2FF4
+03|322D|2FDE
+02|3232|001A|Tell me about the palace. 
+04|3251|00FA
+04|3258|0047
+02|325C|002E|The palace is the home of our Tempest, Devon. 
+03|329F|004E
+02|32A3|0038|The palace is the home of our Tempest, the Lady Mordea. 
+02|32F2|001A|Tell me about the palace. 
+02|3310|0004|bye 
+02|3323|0014|Who is Lady Mordea? 
+02|333B|0004|bye 
+03|334B|2EC0
+02|3350|0018|Tell me about Tenebrae. 
+04|336D|01EF
+04|3374|00DA
+02|3378|00A3|Ah, Tenebrae, 'tis the finest gem in this fair land. I have served this city and her leaders since I was a mere lad, as an apprentice in the guard. I welcome you, 
+02|3425|0013|, to our fair city.
+03|344E|00CA
+02|3452|00B4|Ah, Tenebrae, 'tis the finest gem in this fair land. I have served this city and her leaders since I was a mere lad, as an apprentice in the guard. I welcome you to our fair city. 
+02|351D|0018|Tell me about Tenebrae. 
+02|3539|0004|bye 
+02|354C|0004|bye 
+03|355C|2CAF
+02|3561|0014|Who is Lady Mordea? 
+04|357A|0074
+02|357E|001E|The fair Tempest of our City. 
+02|35B3|0014|Who is Lady Mordea? 
+02|35CB|0004|bye 
+02|35DE|0004|bye 
+03|35EE|2C1D
+02|35F3|001B|Who are the Palace Guards? 
+04|3613|012C
+02|3617|00C6|The finest fighting regiment in the land. But there is not much call for defense anymore. We mostly spend our time in preserving the peace. That's not to say we wouldn't be ready if needed, though. 
+02|36F4|001B|Who are the Palace Guards? 
+02|371C|0010|Ready for what? 
+02|3730|0004|bye 
+03|373F|2ACC
+02|3744|0010|Ready for what? 
+04|3759|00F9
+02|375D|0068|Of course, you never know what those Necromancers are up to. And we do have our fine Tempest to defend. 
+02|37DC|0010|Ready for what? 
+02|37F9|0014|Who is the Tempest? 
+02|3811|001A|Who are the Necromancers? 
+02|382F|0010|You defend her? 
+02|3843|0004|bye 
+03|3852|29B9
+02|3857|0010|You defend her? 
+04|386C|00B8
+02|3870|0066|Of course, our Tempest is more than capable of defending herself. She has a portion of Hydros' power. 
+02|38ED|0010|You defend her? 
+02|3901|0004|bye 
+02|3914|0004|bye 
+03|3924|28E7
+02|3929|0014|Who is the Tempest? 
+04|3942|0175
+02|3946|0107|Why, she is the representative of that mightiest of Titans, Hydros. Hydros' visage is much too fearsome and powerful for the likes of you and I, so Lady Mordea serves as her representative. In exchange, Lady Mordea is able to wield some of the power from Hydros. 
+02|3A64|0014|Who is the Tempest? 
+02|3A85|000C|What power? 
+02|3A95|000F|Who is Hydros? 
+02|3AA8|0004|bye 
+03|3AB7|2754
+02|3ABC|000C|What power? 
+04|3ACD|00E6
+02|3AD1|0098|Why do you think we have fair weather all the day? With her share of Hydros' power, Lady Mordea is able to control the weather. 'Tis a blessing, it is. 
+02|3B80|000C|What power? 
+02|3B90|0004|bye 
+02|3BA3|0004|bye 
+03|3BB3|2658
+02|3BB8|000F|Who is Hydros? 
+04|3BCC|0195
+02|3BD0|0144|Keep a respectful tongue in your head when you speak that name, my friend. The Lurker is a force to be reckoned with. She is the power of all the waters. She can be as gentle as a spring rain or as powerful and terrible as a thundering waterfall. She is the mightiest of all the Titans. Well worth your respect and worship. 
+02|3D2B|000F|Who is Hydros? 
+02|3D3E|0004|bye 
+02|3D51|0004|bye 
+03|3D61|24AA
+02|3D66|001A|Who are the Necromancers? 
+04|3D85|01AE
+02|3D89|0114|Filthy things, they live in the cemetery and muck about with dead bodies. They serve the Titan Lithos. 'Tis no wonder there are so few Necromancers left. Only those who grub for a paltry living from the mud and dirt have anything to do with Lithos and the Necromancers. Phaw! 
+02|3EB4|001A|Who are the Necromancers? 
+02|3ED2|0004|bye 
+02|3EE3|001C|Tell me about the cemetery. 
+02|3F03|0019|Only a few Necromancers? 
+02|3F20|0004|bye 
+03|3F33|22D8
+02|3F38|0019|Only a few Necromancers? 
+04|3F56|00B1
+02|3F5A|0056|I do not know exactly how many there are, but even one is one too many for my liking. 
+02|3FC7|0019|Only a few Necromancers? 
+02|3FE4|0004|bye 
+02|3FF7|0004|bye 
+03|4007|2204
+02|400C|001C|Tell me about the cemetery. 
+04|402D|016F
+02|4031|0111|That's where those filthy creatures keep their home. They like to be as near the dead as they can. If you ask me, I think they wait until late in the night and then dig up the bodies so they can do all manner of grotesque things to them. It churns my belly to think of it. 
+02|4159|001C|Tell me about the cemetery. 
+02|4179|0004|bye 
+02|418C|0004|bye 
+03|419C|206F
+02|41A1|0018|An emergency situation? 
+04|41BE|00CD
+02|41C2|00A1|By Hydros' spume, man! Can't you see? The dead are walking the streets! I have a town to protect! A Tempest to find! People to calm! I haven't time for gawkers! 
+06|427B|057C:1090
+03|4288|1F96
+03|428B|1F80
+02|4290|0020|What do you know about Salkind? 
+04|42B5|00F2
+02|42B9|006F|Hmmmmm, I don't know much about him, except he is always at the side of Lady Mordea. I'm not sure I trust him. 
+02|433F|0020|What do you know about Salkind? 
+02|4363|0004|bye 
+02|4376|001D|Why don't you trust Salkind? 
+02|4397|0004|bye 
+03|43A7|1E64
+02|43AC|001D|Why don't you trust Salkind? 
+04|43CE|0126
+02|43D2|00E1|Well, the Tempest has always ruled alone. This seneschal bit seems to go against our fine line of tradition here in Tenebrae. I'm not sure I agree, but then, Lady Mordea seems to like him, so I'll protect him as well as her. 
+02|44CA|001D|Why don't you trust Salkind? 
+03|44F4|1D17
+02|44F9|001C|I met your daughter, Jenna. 
+04|451A|0109
+02|451E|007F|Ah, she is a beauty, isn't she? She is my pride and joy, you know. Why, she is the exact picture of her dear, departed mother. 
+02|45B4|001C|I met your daughter, Jenna. 
+02|45DD|001D|What happened to her mother? 
+02|45FE|0012|She is beautiful. 
+02|4614|0004|bye 
+03|4623|1BE8
+02|4628|001D|What happened to her mother? 
+04|464A|019F
+02|464E|0125|That is a sad tale. She was the love of my life. A beauty with long blonde hair and eyes as green as the Sea of Rains. She took with the fever shortly after dear Jenna was born. I did everything I could, but it was no use. She died in my arms and with her last breath whispered, 'I love you'. 
+02|478A|001D|What happened to her mother? 
+02|47AB|0004|bye 
+02|47BE|0017|That is a tragic tale. 
+02|47D9|0004|bye 
+03|47E9|1A22
+02|47EE|0017|That is a tragic tale. 
+04|480A|00CE
+02|480E|005A|I can only honor her with my memories, for there is no physical marker for her, no grave. 
+02|487F|0017|That is a tragic tale. 
+02|489A|0004|bye 
+02|48AD|0017|Why is there no grave? 
+02|48C8|0004|bye 
+03|48D8|1933
+02|48DD|0017|Why is there no grave? 
+04|48F9|0134
+02|48FD|00F5|There was a grave, there WAS one. But one day as I went to leave flowers on her stone, as was my want, I found the grave ripped open and the body missing. It could only be the work of those filthy Necromancers. It pains me still to think of it. 
+02|4A09|0017|Why is there no grave? 
+03|4A2D|17DE
+02|4A32|0012|She is beautiful. 
+04|4A49|019E
+02|4A4D|0155|That she is. Every man in town has asked for her hand, but I'm afraid there is too much of her father in her. I do wish she could find the right one, though. But it will take someone with a strength of character and a soundness of mind that you just don't find around here. Perhaps it will take someone... someone much like yourself, hmmmm? 
+02|4BB9|0012|She is beautiful. 
+02|4BD8|0004|Bye 
+03|4BE7|1624
+02|4BEC|0004|Bye 
+04|4BF5|02D3
+05|4C00|0581:1A85
+04|4C0F|009E
+02|4C13|0079|Did I tell you that she can wield a sword as well as any man? Taught her myself. Right dangerous she is with that thing. 
+02|4CA1|0004|Bye 
+04|4CB5|008C
+02|4CB9|0067|Did I mention she can cook? She makes a fine pie, Yessir, makes my mouth water just thinking about it. 
+02|4D35|0004|Bye 
+04|4D49|0075
+02|4D4D|0050|She keeps an immaculate house, she does. Why you could eat right off the floor. 
+02|4DB2|0004|Bye 
+04|4DC6|0074
+02|4DCA|004F|She's a beauty, all right. A man would be right proud to have her by his side. 
+02|4E2E|0004|Bye 
+04|4E42|0083
+02|4E46|0059|Oh, and did I mention how much she loves children? Wants a house full of them, she does. 
+02|4EB4|0009|GOODBYE! 
+03|4EC8|1343
+02|4ECD|0019|I regret to tell you no. 
+04|4EEB|0092
+02|4EEF|006A|You're sure then? Did I mention that she is educated and can discuss many matters of interest quite well? 
+02|4F6E|0004|Bye 
+03|4F7D|128E
+02|4F82|0024|Yes, I want to marry your daughter! 
+04|4FAB|0140
+02|4FAF|00BA|Oh that's wonderful! But, ummm...there is one little detail I forgot to mention, Oh but it's a little thing, it can wait till after the ceremony. Now, how soon do you want the ceremony? 
+02|5080|0024|Yes, I want to marry your daughter! 
+02|50B1|0014|What little detail? 
+02|50C9|000F|What ceremony? 
+02|50DC|0004|Bye 
+03|50EB|1120
+02|50F0|0014|What little detail? 
+04|5109|00FF
+02|510D|0079|Just a little something. Ummmm, well, it's really nothing. Ummm, has she mentioned whether or not she likes you, at all? 
+02|519D|0014|What little detail? 
+02|51B5|0004|Bye 
+02|51C8|0016|She is angry with me. 
+02|51E2|0012|Oh, she likes me. 
+02|51F8|0004|Bye 
+03|5208|1003
+02|520D|0012|Oh, she likes me. 
+04|5224|00CB
+02|5228|0040|Oh that is wonderful. Perhaps that will avoid the problem then. 
+02|527F|0012|Oh, she likes me. 
+02|5295|0016|She is angry with me. 
+02|52AF|0004|Bye 
+02|52C0|000E|What problem? 
+02|52DF|0004|Bye 
+03|52EF|0F1C
+02|52F4|0016|She is angry with me. 
+04|530F|009D
+02|5313|001D|Oh, that could be a problem. 
+02|5347|0016|She is angry with me. 
+02|5361|0012|Oh, she likes me. 
+02|5377|0004|Bye 
+02|538A|000E|What problem? 
+02|539C|0004|Bye 
+03|53AC|0E5F
+02|53B1|000E|What problem? 
+04|53C4|00E2
+02|53C8|009D|Well, it's just that she, ahhh, has...well it's a little embarrassing, it seems she has sworn to kill any man chosen for her to marry...see, nothing really. 
+02|547C|000E|What problem? 
+02|5497|0004|Bye 
+03|54A6|0D65
+02|54AB|000F|What ceremony? 
+04|54BF|007F
+02|54C3|0048|Why the wedding ceremony, of course. I could arrange it for quite soon. 
+02|5522|000F|What ceremony? 
+03|553E|0CCD
+02|5543|0009|GOODBYE! 
+04|5551|007C
+02|5555|0050|Then that's settled. You'll think about it and get back to me with your answer. 
+06|55BD|057C:1090
+03|55CA|0C54
+03|55CD|0C3E
+02|55D2|000E|I met Bentic. 
+04|55E5|023A
+04|55EC|012B
+02|55F0|009F|Ah yes, he was just executed...for conducting forbidden research, if I remember rightly. He was a good fellow, too bad he got involved in such shady dealings. 
+02|56A6|000E|I met Bentic. 
+02|56B8|0004|bye 
+02|56C9|0015|What shady dealings? 
+02|56E2|001E|Orlok told a story of Bentic. 
+02|5704|0004|bye 
+03|5717|0105
+02|571B|008B|Bentic, now there's a good fellow. Always in his library, he is. Stays out of trouble. Too bad more of our citizens aren't more like that. 
+02|57BD|000E|I met Bentic. 
+02|57CF|0004|bye 
+02|57E0|001E|Orlok told a story of Bentic. 
+02|580F|0004|bye 
+03|581F|09EC
+02|5824|0015|What shady dealings? 
+04|583E|010C
+02|5842|0093|Well, you know...just, shady ones. Ones that are forbidden by Lady Mordea. Ahem, I can't say anymore than that, you know, official policy and all. 
+02|58EC|0015|What shady dealings? 
+02|5905|0004|bye 
+02|5918|001E|Orlok told a story of Bentic. 
+02|593A|0004|bye 
+03|594A|08C1
+02|594F|001E|Orlok told a story of Bentic. 
+04|5972|01B3
+02|5976|012B|Of course he did, he's Orlok, after all and he does enjoy his story. Didn't tell you the one about the map on Bentic's chest, did he? Well, that's nothing but hogwash. I had cause to visit Bentic in his home one day. He was wearing a robe and showed his chest quite plainly. There was no map on it. 
+02|5AB8|001E|Orlok told a story of Bentic. 
+02|5ADA|0004|bye 
+02|5AED|0024|Do you know of Blowhard's treasure? 
+02|5B15|0004|bye 
+03|5B25|06E6
+02|5B2A|0024|Do you know of Blowhard's treasure? 
+04|5B53|0148
+02|5B57|00C8|So, come for treasure, have you? Well, you're not the first young man to come to me with that look in your eye. No sirree, in fact, were I a younger man, I might take it into my head to look, myself. 
+02|5C36|0024|Do you know of Blowhard's treasure? 
+02|5C5E|0004|bye 
+02|5C71|0016|Where would you look? 
+02|5C8B|0004|bye 
+03|5C9B|0570
+02|5CA0|0016|Where would you look? 
+04|5CBB|030F
+02|5CBF|02D1|Well, when I was just a tyke, my father told me a story Much like one of Orlok's stories about John Blowhard. Only my father's story went this way. A bunch of trolls had taken up residence on an island. They raided neighboring villages and stole the children away to eat them. One night, the trolls came again and tried to steal the last child in the village. The child's mother was so enraged, she grabbed one of her knitting needles and killed the troll. Stratos was so impressed by this mother's defense, she turned the knitting needle into a magical sword. It is said this sword is hidden somewhere in the mountains outside Tenebrae, perhaps in Herdsman's valley. Were I looking for treasure, that's where'd I'd look.
+02|5FA7|0016|Where would you look? 
+03|5FCA|0241
+02|5FCF|0010|I met Kilandra. 
+04|5FE4|008F
+02|5FE8|0025|She is a crazy old thing, isn't she? 
+02|6024|0010|I met Kilandra. 
+02|6038|0004|bye 
+02|604B|0014|Her tale is tragic. 
+02|6063|0004|bye 
+03|6073|0198
+02|6078|0014|Her tale is tragic. 
+04|6091|00F8
+02|6095|00BC|Oh, told you about her daughter, did she? Well, ever since that little girl died, she has not been the same. Never comes into town, never speaks to anyone. Rather pathetic, if you ask me. 
+02|6168|0014|Her tale is tragic. 
+03|6189|0082
+02|618E|0004|bye 
+04|6197|0036
+02|619B|000A|Farewell. 
+06|61BD|057C:1090
+03|61CA|0054
+03|61CD|003E
+02|61D1|0015|Stay out of trouble. 
+06|61FE|057C:1090
+03|620E|BED8
+06|6214|057C:1090
+01|6227|6227
+06|6245|0581:1C19
+06|6269|0581:1C19
+04|6284|0028
+02|6288|000F|uuuhhhhgggg... 
+03|62AC|0026
+02|62B0|0010|aahhhhrrrggg... 
+03|62D5|FF7C

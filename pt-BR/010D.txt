@@ -1,0 +1,67 @@
+01|0080|0080
+01|00C1|00C1
+04|00D5|0028
+02|00D9|000F|dead theurgist 
+03|00FD|0020
+02|0101|000A|theurgist 
+01|0122|0122
+06|0149|0581:1C19
+04|016E|0128
+04|017B|011B
+03|018F|0107
+02|0192|0021|Help me, Stratos! I am attacked! 
+06|01D2|057C:15E7
+06|01EF|057C:15E7
+05|0202|057C:0113
+06|0224|0581:29D8
+06|0239|0581:29D8
+06|0256|057C:15E7
+06|026E|0581:29D8
+01|029B|029B
+05|02AD|0581:2A56
+05|02BB|0581:2A56
+04|02CE|001F
+02|02D3|0009|Hello... 
+03|02ED|001D
+02|02F0|000C|Good day... 
+06|0310|057C:0BCF
+06|0325|0581:1C19
+05|0339|0581:2A56
+04|036F|0088
+02|0373|004B|Any stories you tell will make me homesick, so I'd best not chat with you. 
+06|03D6|057C:1090
+03|03F4|045E
+03|03F7|043A
+04|03FF|00B1
+02|0403|0034|Sorry, I would speak with you, but I am in a hurry. 
+02|044D|002A|Talk to me later when my duties are done. 
+06|048F|057C:1090
+03|04AD|03A5
+03|04B0|0381
+04|04B8|0088
+02|04BC|0015|No time to talk now. 
+02|04E7|0020|I have my studies to attend to. 
+06|051F|057C:1090
+03|053D|0315
+03|0540|02F1
+04|0548|00E7
+02|054C|001D|I'd best not speak with you. 
+02|057F|0044|Strangers are a distraction that we do not need here on Argentrock. 
+02|05D9|001D|I'd best be about my duties. 
+06|060E|057C:1090
+03|062C|0226
+03|062F|0202
+04|0637|0125
+02|063B|0021|I can not help you at this time. 
+02|0672|0030|If you need assistance, try talking to Stellos. 
+02|06B8|003B|He knows everything, for he has been around for 200 years. 
+02|0709|001A|I'm sure he can help you. 
+06|073B|057C:1090
+03|0759|00F9
+03|075C|00D5
+04|0764|00CD
+02|0768|0059|I can not talk to you for I have taken a vow of silence so that I may meditate better... 
+06|07DE|0581:1C19
+02|07EE|000A|Oooops... 
+06|0810|057C:1090
+06|0837|057C:1090

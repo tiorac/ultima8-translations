@@ -1,0 +1,6 @@
+01|0080|0080
+02|008C|000A|corpo morto 
+01|00AD|00AD
+03|00D4|004A
+04|00E3|0031
+02|00E7|0018|deixe meus ossos em paz... 

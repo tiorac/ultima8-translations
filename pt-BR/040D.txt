@@ -1,0 +1,546 @@
+01|0080|0080
+04|0094|002B
+02|0098|0012|corpse of Aramina 
+03|00BF|00AB
+04|00CB|002C
+02|00CF|0010|servant Aramina 
+03|00F4|0076
+03|00F7|0073
+04|00FE|0023
+02|0102|0007|Aramina
+03|011E|004C
+03|0121|0049
+04|0128|0024
+02|012C|0008|servant 
+03|0149|0021
+03|014C|001E
+02|0150|0005|girl 
+01|016F|016F
+06|01A3|057C:143A
+06|01C5|057C:133F
+01|01D6|01D6
+06|0221|040D:0460
+06|0239|040D:0BBB
+06|0251|040D:0CEC
+01|025F|025F
+05|0271|0581:2A56
+01|02CF|02CF
+03|02E4|00A5
+06|0331|057C:091C
+02|0341|0023|I would not do that if I were you! 
+06|037C|040D:01D6
+01|038E|038E
+06|03B5|0581:1C19
+04|03DE|007D
+06|03E5|058B:0080
+04|03FA|0061
+04|0409|0029
+02|040D|0010|Beren, help me! 
+03|0432|0029
+02|0436|0013|Help me, Sorcerer! 
+01|0460|0460
+06|04ED|040D:4CF1
+06|0508|040D:059D
+06|0526|057C:15E7
+06|053D|0581:1C19
+06|0558|0581:1C19
+06|0575|057C:15E7
+01|059D|059D
+05|05AB|0581:1D62
+04|05C9|032F
+06|05E9|057C:091C
+04|05FD|0099
+04|0604|0046
+02|0608|0010|May I help you? 
+06|063B|057C:15E7
+03|064A|004C
+02|064E|0019|Leave my home, stranger! 
+06|068A|057C:15E7
+04|069E|007E
+04|06A5|0046
+02|06A9|0010|Yes, my friend? 
+06|06DC|057C:15E7
+03|06EB|0031
+02|06EF|0018|Why are you in my home? 
+03|071C|049A
+04|0724|00F0
+04|072B|004E
+02|072F|0018|Can I get you anything? 
+06|076A|057C:15E7
+03|0779|009B
+02|077D|0024|I'm afraid I must ask you to leave. 
+06|07C4|057C:15E7
+02|07D4|0011|I'm warning you! 
+06|0808|057C:15E7
+04|081C|00BF
+04|0823|0032
+02|0827|0019|Are you lost, my friend? 
+03|0855|0086
+02|0859|0011|Out of my house! 
+06|0887|0581:1C19
+06|08A4|057C:15E7
+02|08B4|0015|You try my patience! 
+06|08E6|0581:1C19
+03|08F5|02C1
+03|08F8|02BE
+05|08FF|0581:1D62
+04|090B|02AB
+06|0929|057C:091C
+04|093D|003D
+02|0941|0024|I must remember to get some butter. 
+03|097A|023C
+04|0982|0053
+02|0986|0006|hmmmm 
+06|09AF|057C:15E7
+06|09C6|0581:1C19
+03|09D5|01E1
+04|09DD|0030
+02|09E1|0017|No rest for the weary. 
+03|0A0D|01A9
+04|0A15|006B
+02|0A19|001E|I must change the bed linens. 
+06|0A5A|057C:15E7
+06|0A71|0581:1C19
+03|0A80|0136
+04|0A88|0084
+02|0A8C|0012|Oh, my poor back. 
+06|0AC1|057C:15E7
+02|0AD1|0026|I just want to sit down for a moment. 
+03|0B0C|00AA
+04|0B14|0035
+02|0B18|001C|I sure could use a day off. 
+03|0B49|006D
+04|0B51|0062
+02|0B55|0015|Oh, my aching bones. 
+06|0B8D|057C:15E7
+06|0BA4|0581:1C19
+01|0BBB|0BBB
+06|0C3D|040D:0F6F
+06|0C55|040D:4CF1
+06|0C6D|040D:0E05
+06|0C8B|057C:15E7
+06|0CA2|0581:1C19
+06|0CC4|057C:091C
+01|0CEC|0CEC
+05|0D09|0581:2A56
+06|0D22|057C:091C
+06|0D55|057C:091C
+06|0D65|057C:15E7
+06|0D83|057C:091C
+06|0DA8|057C:15E7
+06|0DBF|057C:091C
+06|0DD4|057C:15E7
+06|0DF1|0581:1C19
+01|0E05|0E05
+06|0E3A|057C:091C
+06|0E57|057C:15E7
+06|0E74|057C:15E7
+06|0E9B|057C:15E7
+06|0EB2|0581:1C19
+06|0ED3|057C:091C
+06|0EF0|057C:15E7
+06|0F0D|057C:15E7
+06|0F47|057C:15E7
+06|0F5E|0581:1C19
+01|0F6F|0F6F
+06|0FA4|057C:091C
+06|0FC1|057C:15E7
+06|0FDE|057C:15E7
+06|0FF5|0581:1C19
+06|101A|057C:15E7
+06|1031|0581:1C19
+06|106B|057C:091C
+06|1088|057C:15E7
+06|10A5|057C:15E7
+06|10BC|0581:1C19
+06|10FD|057C:15E7
+06|1114|0581:1C19
+01|112B|112B
+06|1139|057C:0BCF
+02|1146|000A|Yes, I am 
+02|115A|0001|.
+04|1168|0059
+02|116C|0030|AAhhhhhh! 'Tis another dead one! AAAAHHHHHHHHH! 
+06|11B4|057C:1090
+03|11C1|3B25
+04|11D3|015D
+04|11DA|0082
+02|11DE|0069|I'd love to stay and talk, but Devon needs me right now, and...well, you know. Talk to you later, Ta-ta! 
+03|125C|00C1
+02|1260|004A|I am sorry, but I can not talk to you now. I must attend to her ladyship. 
+02|12C0|004B|Find me later at my house in east Tenebrae, I will be there at bloodwatch. 
+06|1323|057C:1090
+03|1330|39B6
+04|1338|0114
+04|1340|0067
+02|1344|001F|How may I serve you, stranger? 
+02|1378|0018|By what are you called? 
+02|1394|0004|bye 
+03|13A7|006E
+02|13AB|0014|Good morrow to you. 
+02|13D4|0014|Have you met Devon? 
+02|13EC|0015|What do you do here? 
+02|1405|0004|bye 
+04|141C|002D
+02|141F|001E|What do you know of treasure? 
+03|144C|0107
+04|1454|005A
+02|1458|001B|Good day to you, stranger. 
+02|1488|0013|What is your name? 
+02|149F|0004|bye 
+03|14AE|003B
+02|14B2|0019|'Tis a grand day, friend 
+02|14D5|0001|.
+04|14F0|002D
+02|14F3|001E|What do you know of treasure? 
+04|152A|0029
+02|152D|001A|I'm looking for a dagger. 
+04|155A|002F
+02|155D|0020|What miserable weather this is. 
+04|1596|0029
+02|1599|001A|I'm looking for a dagger. 
+02|15C4|0004|bye 
+04|15CE|3708
+02|15D3|0004|bye 
+02|15E6|0004|bye 
+02|1611|0018|By what are you called? 
+04|162E|00F8
+04|163B|005C
+02|163F|0043|Forgive me for not introducing myself earlier. My name is Aramina. 
+03|1697|0030
+02|169B|0014|My name is Aramina. 
+02|16CA|0015|What do you do here? 
+02|16E3|0004|bye 
+04|16F6|002D
+02|16F9|001E|What do you know of treasure? 
+03|1726|35AD
+02|172B|0015|What do you do here? 
+04|1745|0087
+02|174F|001C|I am merely a servant here. 
+02|1782|001A|Tell me about the palace. 
+02|17AA|0015|What do you do here? 
+03|17CC|3507
+02|17D1|001A|Tell me about the palace. 
+04|17F0|009A
+02|17F4|0032|This is the home of our Tempest, the Lady Mordea. 
+02|183D|0018|Tell me of Lady Mordea. 
+02|1863|001A|Tell me about the palace. 
+03|188A|3449
+02|188F|0018|Tell me of Lady Mordea. 
+04|18AC|00D8
+02|18B0|006E|Well, it is not good for me to speak of my employer behind her back, but I will tell you she is a hard woman. 
+02|1935|001C|Why do you say she is hard? 
+02|195F|0018|Tell me of Lady Mordea. 
+03|1984|334F
+02|1989|001C|Why do you say she is hard? 
+04|19AA|012A
+02|19AE|00BE|She will stop at nothing to preserve her power here. Nothing, not even murder. She hardly notices my existence. At least she does not take pleasure in tormenting me like her seneschal does. 
+02|1A81|001E|She wishes to preserve power? 
+02|1AA3|0008|Murder? 
+02|1AAF|001A|Tell me of the seneschal. 
+03|1AD4|31FF
+02|1AD9|0008|Murder? 
+04|1AE6|0160
+02|1AEA|0083|Murder? Did I say murder? Oh no, I meant nothing like that. I meant mother, that's it, mother. She is like a mother to her people. 
+04|1B86|00A6
+02|1B8A|0090|(I think she trumps up charges against people who question her authority and then uses the laws of execution to eliminate them...legal murder.) 
+02|1C31|0008|Murder? 
+03|1C46|308D
+02|1C4B|001A|Tell me of the seneschal. 
+04|1C6A|00F1
+04|1C71|006B
+02|1C75|0052|Salkind is her  seneschal. (Salkind, that evil, perverted man, is her seneschal.) 
+03|1CDC|0030
+02|1CE0|001A|Salkind is her seneschal. 
+02|1D11|001A|Tell me of the seneschal. 
+02|1D38|0014|Tell me of Salkind. 
+03|1D5B|2F78
+02|1D60|001E|She wishes to preserve power? 
+04|1D83|00D2
+02|1D87|0064|The power of the Tempestry, milord. The power to control the weather. This is, indeed, great power. 
+02|1E02|001E|She wishes to preserve power? 
+02|1E2F|001A|Tell me of the Tempestry. 
+03|1E55|2E7E
+02|1E5A|001A|Tell me of the Tempestry. 
+04|1E79|0108
+02|1E7D|007B|Tempestry, milord? Surely you have heard of it. It is the power that is transferred through the bloodline of the Tempests. 
+02|1F0F|001A|Tell me of the Tempestry. 
+02|1F36|0021|What do you mean by 'bloodline'? 
+02|1F5B|001B|What power is transferred? 
+03|1F81|2D52
+02|1F86|0021|What do you mean by 'bloodline'? 
+04|1FAC|007D
+02|1FB0|0034|It is inherited, father to son, mother to daughter. 
+02|1FFB|0021|What do you mean by 'bloodline'? 
+03|2029|2CAA
+02|202E|001B|What power is transferred? 
+04|204E|0107
+02|2052|0090|As I said, milord, the power to control the weather. While at times, a good thing, it can be a powerful weapon to hold over the people's heads. 
+02|20F9|0026|She holds it over her people's heads? 
+02|212D|001B|What power is transferred? 
+03|2155|2B7E
+02|215A|0026|She holds it over her people's heads? 
+04|2185|022C
+04|218C|011F
+02|2190|0106|I mean...I mean it is a powerful tool to help the people's herds... of torax, that is. (Yes, she threatens to make the weather bad, or worse yet, send them to the Lurker, if they don't do her bidding.) Please, ask me no more. I am afraid Salkind will punish me. 
+03|22AB|00AA
+02|22AF|0094|I mean...I mean it is a powerful tool to help the people's herds.... of torax, that is. Please, ask me no more. I am afraid Salkind will punish me. 
+02|235A|0016|Salkind punishes you? 
+02|237E|0026|She holds it over her people's heads? 
+03|23B1|2922
+02|23B6|0016|Salkind punishes you? 
+04|23D1|01B5
+04|23D8|00ED
+02|23DC|00D4|Punished? No, no, not punished...er, pampered, yes, that's it, pampered by... Salkind. (He is a horrid man who delights in tormenting me. He says lewd things and puts his hands on me. There is nothing I can do.) 
+03|24C5|0099
+02|24C9|0083|Punished? No, no, not punished... er,pampered, yes that's it, pampered by...Salkind. Please, friend, I do not wish to speak of it. 
+02|2563|0016|Salkind punishes you? 
+03|2586|274D
+02|258B|0014|Tell me of Salkind. 
+04|25A4|00CF
+02|25A8|0067|He sets me to difficult tasks, then delights in tormenting me until I am barely able to complete them. 
+02|2624|0027|What difficult tasks does he give you? 
+02|264F|0019|How does he torment you? 
+03|2673|2660
+02|2678|0027|What difficult tasks does he give you? 
+04|26A4|01E3
+02|26A8|0194|No, no, certainly not difficult, rather, challenging, That's it, he gives me challenging tasks. For instance, he will give me a very small brush and tell me to clean the floor of his room. Then he will arrive, his boots muddy from his walks along the shore, and track mud all over the floor I just cleaned. He then points the dirt out to me and chastises me for poor work, calling me a no good slackard. 
+02|2853|0027|What difficult tasks does he give you? 
+03|2887|244C
+02|288C|0019|How does he torment you? 
+04|28AA|0141
+02|28AE|00EA|Perhaps 'torment' is too strong a word. Actually, he is quite the joker. For instance, just today he was walking down the hall toward me when he suddenly cornered me and began to pinch and grab my body. Don't you think that is funny? 
+02|29AF|0019|How does he torment you? 
+02|29D5|0004|yes 
+02|29DD|0003|no 
+03|29EB|22E8
+02|29F0|0004|yes 
+04|29F9|0081
+02|29FD|0055|Oh,...well...I guess perhaps some find it humorous. I must be back to my chores now. 
+06|2A6A|057C:1090
+03|2A77|226F
+03|2A7A|2259
+02|2A7F|0003|no 
+04|2A87|00F1
+02|2A8B|00AC|No? Really? Truly, I didn't find it very humorous either. But he finds it hilarious. So, I smile and try my best to stay out of his way. There is precious little I can do. 
+02|2B4C|0013|Speak up about it! 
+02|2B63|000A|Slap him! 
+03|2B78|215B
+02|2B7D|0013|Speak up about it! 
+04|2B95|0154
+02|2B99|00F8|Oh, you are very nice, and I appreciate your concern, however, who would I speak to? Lady Mordea? No, she dotes on him. Darion? He simply would not believe me. No, my friend, I need this job. Speaking of keeping my job, I need to get back to work. 
+02|2CA8|0013|Speak up about it! 
+02|2CBF|000A|Slap him! 
+06|2CD9|057C:1090
+03|2CE6|2000
+03|2CE9|1FEA
+02|2CEE|000A|Slap him! 
+04|2CFD|0121
+02|2D01|00C5|No, my friend, I have no desire to lose my job nor my head, for to strike the seneschal would be considered treason. I would be beheaded before the next morning. Well, I must get back to work now. 
+02|2DDD|000A|Slap him! 
+02|2DEB|0013|Speak up about it! 
+06|2E0E|057C:1090
+03|2E1B|1ECB
+03|2E1E|1EB5
+02|2E23|0026|It is good to see you smile, Aramina. 
+04|2E4E|008E
+02|2E52|003C|I have you to thank for it. You did save Devon, didn't you? 
+02|2EA3|000C|Yes, I did. 
+02|2EB3|001E|Well, it was nothing, really. 
+03|2EDC|1DF7
+02|2EE1|0013|What is your name? 
+04|2EF9|00BF
+02|2EFD|0045|I am Aramina, my friend. I work here in the palace for Devon. You're 
+02|2F4C|0028|, aren't you? Devon speaks of you often.
+02|2F8C|0013|What is your name? 
+03|2FB8|1D1B
+04|2FC0|0092
+02|2FC4|0030|Yes, I knew it was you. Did you really save him?
+02|300B|000C|Yes, I did. 
+02|301B|001E|Well, it was nothing, really. 
+03|3052|1C81
+02|3057|000C|Yes, I did. 
+02|306A|001E|Well, it was nothing, really. 
+04|308E|0081
+02|3092|0043|Oh, I can't thank you enough. He is so... so... well, just dreamy. 
+02|30EA|001A|Did you say ... 'dreamy'? 
+03|310F|1BC4
+02|3114|001A|Did you say ... 'dreamy'? 
+04|3133|0198
+02|3137|0154|Uh huh. He is the nicest man. He never torments me like that nasty old Salkind did. Why he even asked me to eat supper with him the other night ... in the dining room no less. Then we went for a walk outside and he picked a flower for me...ME! a simple servant girl...did you ever hear of anything so romantic? I just can't get over it ... 
+02|32A0|0020|Uhm, ... I've got to leave now. 
+03|32CB|1A08
+02|32D0|0020|Uhm, ... I've got to leave now. 
+04|32F5|009F
+02|32F9|0073|...and those eyes. Did you ever see eyes like that? They're just so blue, I could get lost in them. I tell you ... 
+06|3384|057C:1090
+03|3391|1955
+03|3394|193F
+02|3399|0014|Have you met Devon? 
+04|33B2|00A3
+02|33B6|0052|Devon? Well, I know him but I've never actually met him. But I think I'd like to. 
+02|341D|0018|You'd like to meet him? 
+02|3439|0011|You know of him? 
+03|3455|187E
+02|345A|0018|You'd like to meet him? 
+04|3477|00BB
+02|347B|007B|Once, when I was sent to the store to purchase something for Lady Mordea, he was there. I thought he had the nicest smile. 
+02|350D|0018|You'd like to meet him? 
+03|3532|17A1
+02|3537|0011|You know of him? 
+04|354D|009D
+02|3551|0048|I've seen him and I know his name. I rarely get to meet anyone outside. 
+02|35B0|0011|You know of him? 
+02|35D0|000E|I know Devon. 
+03|35EA|16E9
+02|35EF|000E|I know Devon. 
+04|3602|011C
+02|3606|00CC|You do? Oh, is he as nice as he looks? He has such a nice smile. And his eyes, they're blue aren't they? I really think he's handsome. Do you think that you might mention me to him next time you see him? 
+02|36E7|0012|Of course I will. 
+02|36FD|0016|I'm sorry, I can not. 
+03|371E|15B5
+02|3723|0012|Of course I will. 
+04|373A|006A
+02|373E|003E|That is very thoughtful of you. Now, I must get back to work. 
+06|3794|057C:1090
+03|37A1|1545
+03|37A4|152F
+02|37A9|0016|I'm sorry, I can not. 
+04|37C4|012B
+02|37C8|00FF|Oh ... well, I guess I understand, me being a lowly servant and all. He probably wouldn't be interested in me anyway. I'm just a silly girl for even dreaming it. Now, if you'll excuse me, sir, I must get back to work. There are floors yet to be scrubbed. 
+06|38DF|057C:1090
+03|38EC|13FA
+03|38EF|13E4
+02|38F4|001A|I'm looking for a dagger. 
+04|3913|019A
+04|391A|00DB
+02|391E|006F|A dagger? Hmmm, I saw a dagger once. Mordea kept it in a chest in her room. I have the key. Would you like it? 
+02|39A4|001A|I'm looking for a dagger. 
+02|39CB|0005|Yes! 
+02|39D4|0016|No, thank you anyway. 
+03|39F5|00B5
+02|39F9|0046|A dagger? I know nothing of daggers. I am just a servant to the Lady. 
+02|3A56|000D|I need help. 
+02|3A67|0011|Are you certain? 
+02|3A86|001A|I'm looking for a dagger. 
+03|3AAD|1226
+02|3AB2|0005|Yes! 
+04|3ABC|013E
+02|3AC0|008C|My, it must be an important dagger for you to get that excited over it. Oh well, it always made me feel most uneasy. Well, here is the key. 
+05|3B92|0581:1EE2
+05|3BAB|0581:24A7
+02|3BBB|0005|Yes! 
+02|3BC4|0016|No, thank you anyway. 
+06|3BEA|057C:1090
+03|3BF7|10EF
+03|3BFA|10D9
+02|3BFF|0016|No, thank you anyway. 
+04|3C1A|0056
+02|3C1E|000F|Suit yourself. 
+02|3C44|0005|Yes! 
+02|3C4D|0016|No, thank you anyway. 
+03|3C70|1063
+02|3C75|000D|I need help. 
+04|3C87|00AF
+02|3C8B|0050|I am not surprised by that, m'lord. Many people are in need of help these days. 
+02|3CF2|001C|Others are in need of help? 
+02|3D1C|000D|I need help. 
+03|3D36|0F9D
+02|3D3B|001C|Others are in need of help? 
+04|3D5C|00D1
+02|3D60|008D|Not due to Lady Mordea, mind you. I-I'm certain that anyone out there who suffers or is hungry is in such a state due to their own laziness. 
+02|3E04|001C|Others are in need of help? 
+03|3E2D|0EA6
+02|3E32|0011|Are you certain? 
+04|3E48|0121
+02|3E4C|008D|Yes, mmm... Look, I do not want to get into any trouble, m'lord. Please, do not ask me to do anything that might cause me to anger the Lady. 
+02|3EEE|001C|You won't get into trouble. 
+02|3F0E|000C|Never mind. 
+02|3F2B|0011|Are you certain? 
+02|3F40|001C|Others are in need of help? 
+03|3F69|0D6A
+02|3F6E|000C|Never mind. 
+04|3F7F|004A
+02|3F83|0016|Very well, thank you. 
+02|3FB0|000C|Never mind. 
+03|3FC9|0D0A
+02|3FCE|001C|You won't get into trouble. 
+04|3FEF|0106
+02|3FF3|00A3|Ohh, I do not know why, but I am going to trust you. Mordea keeps a very special dagger in a locked chest. You will find the chest in a small closet near her bed. 
+02|40AD|0011|It's in a chest? 
+02|40CC|001C|You won't get into trouble. 
+03|40F5|0BDE
+02|40FA|0011|It's in a chest? 
+04|4110|00D9
+02|4114|006D|Yes and I have the key. I will give you the key, but you must promise not to tell -anyone- where you got it. 
+02|4198|000B|I promise. 
+02|41A7|0016|I can't promise that. 
+02|41CB|0011|It's in a chest? 
+03|41E9|0AEA
+02|41EE|000B|I promise. 
+04|41FE|011C
+02|4202|0017|Very well, here it is. 
+02|422F|004A|Do what you will with it, but remember: You did not get that key from me. 
+05|42BF|0581:1EE2
+05|42D8|0581:24A7
+02|42E8|000B|I promise. 
+02|42F7|0016|I can't promise that. 
+03|431A|09B9
+02|431F|0016|I can't promise that. 
+04|433A|0082
+02|433E|0031|Well, then I can not give you the key. Farewell. 
+02|4386|0016|I can't promise that. 
+06|43AC|057C:1090
+03|43B9|092D
+03|43BC|0917
+02|43C1|0020|What miserable weather this is. 
+04|43E6|00D6
+02|43EA|008E|Yes, it is terrible. We've had leaks in the roof and walls, and people tracking mud all through the palace. It makes it twice as hard for me. 
+02|448F|0020|What miserable weather this is. 
+03|44BC|0817
+02|44C1|001E|What do you know of treasure? 
+04|44E4|0139
+02|44E8|00B8|Only what I've heard from Orlok. And no one can believe what he says. Though, now that I think about it, I heard Salkind mention something about a magic hammer that he wanted to find. 
+02|45B7|001E|What do you know of treasure? 
+02|45E4|0016|What did Salkind say? 
+02|45FE|0013|What magic hammer? 
+03|461D|06B6
+02|4622|0016|What did Salkind say? 
+04|463D|0140
+02|4641|00E2|Oh, he said he was going to get a couple of strong men to dig for treasure they heard about from Orlok. I can't imagine why they would want to do that. Everyone knows you can't trust Orlok's stories. But, I guess Salkind did. 
+02|473A|0016|What did Salkind say? 
+02|475F|0012|Did he say where? 
+03|477D|0556
+02|4782|0012|Did he say where? 
+04|4799|010D
+02|479D|009D|I don't remember exactly, something about a stand of mushrooms to the south of town. Wait, don't tell me you are going chasing after one of Orlok's stories! 
+02|4851|0012|Did he say where? 
+02|4872|0028|Yes, I believe there is treasure there. 
+03|48A6|042D
+02|48AB|0028|Yes, I believe there is treasure there. 
+04|48D8|01B1
+02|48DC|0140|If there was treasure there to be found, Salkind would have found it, he is just that kind of a lucky weasel. But I know he didn't find anything for he came back with his robes ripped and in a foul temper which I felt the brunt of for several days. I think it had to do with the dangerous beasts that live in the wilds. 
+02|4A33|0028|Yes, I believe there is treasure there. 
+02|4A68|0012|Dangerous beasts? 
+03|4A89|024A
+02|4A8E|0012|Dangerous beasts? 
+04|4AA5|00C7
+02|4AA9|008D|Oh yes, I heard several of the men who went with Salkind talking about trolls and such they encountered. If you must go, please, be careful. 
+02|4B4D|0012|Dangerous beasts? 
+03|4B6C|0167
+02|4B71|0013|What magic hammer? 
+04|4B89|0100
+02|4B8D|00C5|You know, the one Orlok says his great-great-great-granpappy fought off the water Titan with. I think Orlok would give his great-great-great-granpappy credit with creating this world, if he could. 
+02|4C69|0013|What magic hammer? 
+03|4C89|004A
+02|4C8E|0004|bye 
+04|4C97|003C
+02|4C9B|0010|Thank you, sir. 
+06|4CC3|057C:1090
+03|4CD6|C8E9
+06|4CDC|057C:1090
+01|4CF1|4CF1
+04|4D22|005D
+06|4D37|057C:091C
+02|4D47|0012|Why is this open? 
+06|4D73|0044:08B4

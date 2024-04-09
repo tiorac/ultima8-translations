@@ -1,0 +1,31 @@
+01|0080|0080
+02|008C|000C|recall item 
+01|00AF|00AF
+03|013C|0283
+05|013F|0581:36E7
+04|0166|0259
+02|016A|001A|What is your destination? 
+04|019D|001F
+02|01A2|0011|Central Tenebrae 
+04|01C3|0016
+02|01C8|0008|Plateau 
+04|01E0|001E
+02|01E5|0010|Upper Catacombs 
+04|0205|0028
+02|020A|001A|Hall of the Mountain King 
+04|0234|001E
+02|0239|0010|Argentrock Isle 
+04|0259|001B
+02|025E|000D|Carthax Lake 
+04|027B|001C
+02|0280|000E|Daemon's Crag 
+02|029C|0008|Nowhere 
+02|02CF|0011|Central Tenebrae 
+02|02EE|0008|Plateau 
+02|0304|0010|Upper Catacombs 
+02|0322|001A|Hall of the Mountain King 
+02|034A|0010|Argentrock Isle 
+02|0368|000D|Carthax Lake 
+02|0391|000E|Daemon's Crag 
+06|03B7|0341:03C8
+01|03C8|03C8

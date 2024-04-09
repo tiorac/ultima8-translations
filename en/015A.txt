@@ -1,0 +1,14 @@
+01|0080|0080
+04|009B|0023
+02|009E|000F|magical sphere 
+03|00BE|004E
+04|00C6|0028
+02|00C9|0014|magical tetrahedron 
+03|00EE|001E
+02|00F1|000D|magical cube 
+01|0111|0111
+06|0127|057C:091C
+06|0148|057C:15E7
+02|015A|0040|I have not the strength, nor the wisdom to master such power... 
+06|01C1|057C:15E7
+02|01D3|0018|...but one day I shall! 

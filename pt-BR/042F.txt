@@ -1,0 +1,71 @@
+01|0080|0080
+04|0094|0028
+02|0098|000F|dead guardsman 
+03|00BC|0020
+02|00C0|000A|guardsman 
+01|00E1|00E1
+06|0124|057C:091C
+06|013A|057C:15E7
+01|014B|014B
+06|0170|057C:143A
+06|0194|057C:133F
+01|01A5|01A5
+02|01B2|000B|Guardsman! 
+06|01D1|057C:0BCF
+06|01E6|0581:1C19
+05|01FA|0581:2A56
+04|0234|005C
+02|0238|0030|Run for your life! The Titans have gone insane! 
+06|0280|057C:1090
+03|028D|052F
+03|0290|0068
+04|0297|0061
+02|029B|0035|We are doomed! The walking dead march upon the city! 
+06|02E8|057C:1090
+03|02F5|04C7
+04|02FF|00CA
+04|0306|0029
+02|030A|000A|What now? 
+03|032F|0097
+04|033E|0030
+02|0342|0017|What can I do for you? 
+03|036E|0058
+02|0372|0042|Do you have nothing better to do than think of questions all day? 
+03|03C9|0038
+02|03CD|001C|What do you want, stranger? 
+02|0404|000D|Who are you? 
+02|0415|0013|What is your duty? 
+02|042C|000C|Where am I? 
+02|043C|0004|Bye 
+02|044D|0004|Bye 
+04|0457|0365
+02|0475|000D|Who are you? 
+04|0487|0090
+02|048C|000D|Who are you? 
+02|04A7|001C|Who are you to ask me such? 
+02|04D9|0029|'Tis I who should demand your name, cur! 
+03|0517|02A2
+02|051C|0013|What is your duty? 
+04|0534|0074
+02|0539|0013|What is your duty? 
+02|055A|0039|My job is to guard to watch out for odds folks like you. 
+03|05A8|0211
+02|05AD|000C|Where am I? 
+04|05BE|0108
+02|05C3|000C|Where am I? 
+04|05E0|0030
+02|05E4|0017|You are in the palace. 
+03|0610|00B3
+02|0614|0038|What makes you think I have time for this kind of talk? 
+02|0662|0036|Continue on your way before I decide to put you away. 
+06|06B0|057C:1090
+03|06C3|00F9
+03|06C6|00F3
+02|06CB|0004|Bye 
+04|06D4|00E5
+02|06D8|000C|About time. 
+04|0706|009D
+02|0710|004D|By the way, rumor has it you had something to do with getting rid of Mordea. 
+02|0773|001E|Between you and me -- thanks! 
+06|07A9|057C:1090
+03|07BC|FC8C

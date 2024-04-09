@@ -1,0 +1,587 @@
+01|0080|0080
+04|0096|0029
+02|009A|0010|the late Cyrrus 
+03|00BF|00A2
+04|00CB|0031
+02|00CF|0018|Holy Cyrrus, the healer 
+03|00FC|0065
+04|0103|001F
+02|0107|0006|Cyrrus
+03|0122|003F
+04|0129|001E
+02|012D|0005|monk 
+03|0147|001A
+02|014B|0004|man 
+01|0166|0166
+05|0186|0581:28F9
+05|01A4|0581:28F9
+05|01AD|0581:28F9
+05|01CC|0581:28F9
+05|01D5|0581:28F9
+05|01DF|0581:28F9
+06|0206|057C:143A
+06|0228|057C:133F
+01|0239|0239
+06|02B5|0416:05B3
+06|02CD|0416:0D97
+06|02E5|0416:1357
+01|02F3|02F3
+01|033A|033A
+06|0361|0581:1C19
+04|038A|0127
+02|03C2|0011|Aid me, Stratos! 
+06|03F2|0581:29D8
+06|040B|057C:15E7
+06|0428|057C:15E7
+05|043B|057C:0113
+06|044B|0581:29D8
+06|0475|057C:15E7
+01|04B6|04B6
+03|04CF|00DF
+06|0545|057C:091C
+02|0555|001D|What are you doing there...? 
+06|058F|0581:1C19
+06|05A1|0416:0239
+01|05B3|05B3
+06|05DA|057C:15E7
+04|0627|01F8
+04|0654|01BF
+04|066C|016A
+04|0674|00C0
+06|0680|057C:091C
+02|0690|0011|I must meditate! 
+06|06C4|057C:15E7
+06|06DC|0581:1C19
+06|06F9|057C:15E7
+02|0709|0016|I feel refreshed now! 
+06|074E|057C:091C
+06|0760|0416:5366
+06|077B|0416:082B
+06|0790|0581:1C19
+06|07B0|057C:15E7
+06|07C7|0581:1C19
+06|07E2|0581:1C19
+06|0803|0581:1C19
+03|0813|FE3E
+03|081F|FE00
+03|0826|FDF4
+01|082B|082B
+05|0839|0581:1D62
+04|085B|0270
+04|086E|004F
+06|0883|057C:091C
+02|0893|0018|Why are you still here? 
+04|08C5|00A8
+06|08DA|057C:091C
+04|08EE|0035
+02|08F2|001C|Why are you here, stranger? 
+03|0923|0033
+02|0927|001D|Please, I'd like my privacy. 
+06|0961|0581:1C19
+04|0975|00A4
+06|098A|057C:091C
+04|099E|0032
+02|09A2|0019|Are you here to rob me?! 
+03|09D0|0032
+02|09D4|001C|Please, I need to be alone. 
+06|0A0D|0581:1C19
+04|0A21|00A7
+06|0A36|057C:091C
+04|0A4A|0032
+02|0A4E|0019|What are you doing here? 
+03|0A7C|0035
+02|0A80|001F|May I help you with something? 
+06|0ABC|0581:1C19
+03|0ACB|02C7
+06|0AE9|057C:091C
+04|0AFD|0070
+04|0B05|003E
+02|0B09|0025|I wonder if Torwin has supper plans? 
+03|0B43|002A
+02|0B47|0014|Gee, I miss Torwin. 
+04|0B75|0036
+02|0B79|0009|Hmmmm... 
+06|0B9F|0581:1C19
+04|0BB3|0036
+02|0BB7|0020|I need to return to my studies. 
+04|0BF1|00AC
+02|0BF5|002A|Perhaps I should travel home to Tenebrae. 
+06|0C3C|0581:1C19
+02|0C4C|0028|Then I could visit my true love, Jenna. 
+06|0C91|0581:1C19
+04|0CA5|0063
+06|0CB6|057C:15E7
+02|0CC6|0013|Curse these shoes. 
+06|0CFC|057C:15E7
+04|0D10|0033
+02|0D14|001D|I should tend to the garden. 
+04|0D4B|0047
+02|0D4F|001A|It is rather humid today. 
+06|0D86|0581:1C19
+01|0D97|0D97
+06|0DBE|057C:15E7
+06|0E6A|057C:091C
+06|0E7C|0416:5366
+06|0E97|0416:0F47
+06|0EAC|0581:1C19
+06|0ECC|057C:15E7
+06|0EE3|0581:1C19
+06|0EFE|0581:1C19
+06|0F1F|0581:1C19
+01|0F47|0F47
+05|0F55|0581:1D62
+04|0F77|01A3
+04|0F8A|0055
+06|0F9F|057C:091C
+02|0FAF|001E|Do you require my assistance? 
+04|0FE7|00A5
+06|0FFC|057C:091C
+04|1010|003A
+02|1014|0021|What do you need here, stranger? 
+03|104A|002B
+02|104E|0015|What do you require? 
+06|1080|0581:1C19
+04|1094|0083
+06|10A9|057C:091C
+04|10BD|0028
+02|10C1|000F|Yes, stranger? 
+03|10E5|001B
+02|10E9|0005|Yes? 
+06|110B|0581:1C19
+03|111A|0238
+06|1138|057C:091C
+04|114C|0070
+04|1153|0038
+02|1157|001F|I need to speak to the others. 
+03|118B|0031
+02|118F|001B|I need to speak to Torwin. 
+04|11C4|001C
+02|11C8|0006|Mmmmm 
+04|11E8|0031
+02|11EC|001B|I'm feeling a bit peckish. 
+04|1221|0038
+02|1225|0022|I should leave for Tenebrae soon. 
+04|1261|0042
+02|1265|0015|Blast these bunions. 
+06|1297|0581:1C19
+04|12AB|003B
+02|12AF|0025|I must remember to prune the garden. 
+04|12EE|0064
+02|12F2|000E|Let me see... 
+06|131D|0581:1C19
+02|132D|0013|No, that's not it. 
+01|1357|1357
+06|137E|057C:15E7
+06|142E|057C:091C
+06|144B|057C:15E7
+06|1463|0581:1C19
+06|1480|057C:15E7
+06|14AA|057C:091C
+06|14C7|057C:15E7
+06|14DF|0581:1C19
+06|14FC|057C:15E7
+06|1519|0416:15A8
+06|152E|0581:1C19
+06|154E|057C:15E7
+06|1565|0581:1C19
+06|1580|0581:1C19
+01|15A8|15A8
+05|15B6|0581:1D62
+04|15D8|0288
+04|15EB|0045
+06|1600|057C:091C
+02|1610|000E|Are you lost? 
+04|1638|00A8
+06|164D|057C:091C
+04|1661|0030
+02|1665|0017|Is it not lovely here? 
+03|1691|0038
+02|1695|0022|Do you want something, my friend? 
+06|16D4|0581:1C19
+04|16E8|00D5
+06|16FD|057C:091C
+04|1711|0057
+02|1715|0011|Hello, stranger! 
+02|173C|0017|Do you need something? 
+03|1768|003E
+02|176C|0028|This is lovely, but I do miss Tenebrae. 
+06|17B1|0581:1C19
+04|17C5|0098
+06|17DA|057C:091C
+04|17EE|002A
+02|17F2|0011|Are you in need? 
+03|1818|002E
+02|181C|0018|I wish Jenna were here. 
+06|1851|0581:1C19
+03|1860|01D9
+06|187E|057C:091C
+04|1892|0031
+02|1896|001B|I wish I were in Tenebrae. 
+04|18CB|005E
+02|18CF|0006|Ouch! 
+02|18EB|0015|Curse these insects! 
+06|191D|0581:1C19
+04|1931|0036
+02|1935|0020|I should have brought my cloak. 
+04|196F|0044
+02|1973|0017|Hummm, no birds today. 
+06|19A7|0581:1C19
+04|19BB|007E
+02|19BF|001F|The clouds are turning grey... 
+02|19F4|001C|I think it's going to rain. 
+06|1A2D|0581:1C19
+01|1A3E|1A3E
+02|1A4C|000B|Pardon me. 
+05|1A82|0581:2A56
+06|1A97|057C:15E7
+06|1AA9|057C:0BCF
+05|1ABB|0581:2A56
+04|1AC6|0534
+04|1ACD|001D
+02|1AD0|000F|Hello, Cyrrus. 
+03|1AEA|0012
+02|1AED|0007|Hello. 
+04|1B1E|001F
+02|1B21|0010|I need healing. 
+04|1B4A|0033
+02|1B4D|0024|Have you passed the Test of Wisdom? 
+04|1B8A|0069
+02|1B8D|0027|Is the Test of Centeredness difficult? 
+02|1BC5|0024|Have you passed the Test of Wisdom? 
+04|1C05|00A1
+02|1C08|0034|I have passed the Tests of Wisdom and Centeredness. 
+02|1C4D|0024|Have you passed the Test of Wisdom? 
+02|1C75|0027|Is the Test of Centeredness difficult? 
+04|1CB9|00BE
+02|1CBC|0019|I passed the Third Test. 
+02|1CE6|0034|I have passed the Tests of Wisdom and Centeredness. 
+02|1D1E|0024|Have you passed the Test of Wisdom? 
+02|1D46|0027|Is the Test of Centeredness difficult? 
+04|1D88|00F1
+02|1D8B|002F|I have passed the Third Test and have my Foci. 
+02|1DCB|0019|I passed the Third Test. 
+02|1DE8|0034|I have passed the Tests of Wisdom and Centeredness. 
+02|1E20|0024|Have you passed the Test of Wisdom? 
+02|1E48|0027|Is the Test of Centeredness difficult? 
+04|1E85|0025
+02|1E88|0016|Have you seen Torwin? 
+04|1EB7|002E
+02|1EBA|001F|I have heard the Mystic Voice. 
+04|1EF1|0022
+02|1EF4|0013|I found this ring. 
+04|1F1A|00DD
+02|1F1D|001B|I have the Breath of Wind. 
+02|1F49|0019|I passed the Third Test. 
+02|1F66|0034|I have passed the Tests of Wisdom and Centeredness. 
+02|1F9E|0024|Have you passed the Test of Wisdom? 
+02|1FC6|0027|Is the Test of Centeredness difficult? 
+03|1FFA|001C
+02|1FFD|0011|Good day to you. 
+02|201B|0004|bye 
+04|2025|3328
+02|202A|0004|bye 
+02|203D|0004|bye 
+02|2068|0011|Good day to you. 
+04|207E|008E
+02|2082|0017|Welcome to our island. 
+02|20B0|0011|Good day to you. 
+02|20D0|0018|By what are you called? 
+02|20EC|0014|What place is this? 
+03|210C|323E
+02|2111|000F|Hello, Cyrrus. 
+02|2127|0007|Hello. 
+04|2134|0093
+02|2138|002E|Ah, hello my friend. I am pleased to see you. 
+02|217D|000F|Hello, Cyrrus. 
+02|2190|0007|Hello. 
+02|21A4|0014|Where are you from? 
+03|21C7|3183
+02|21CC|0018|By what are you called? 
+04|21E9|00A1
+02|21F9|0039|I am called Holy Cyrrus but please, just call me Cyrrus. 
+02|2249|0018|By what are you called? 
+02|226E|000D|Holy Cyrrus? 
+03|228A|30C0
+02|228F|001F|I have heard the Mystic Voice. 
+04|22B3|00BC
+02|22B7|0075|That is marvelous! You must be very excited. It is too bad that Torwin could not be here to share in your triumph... 
+02|2343|001F|I have heard the Mystic Voice. 
+03|236F|2FDB
+02|2374|0010|I need healing. 
+04|2389|0149
+04|2390|00A3
+02|2394|006B|I am sorry, but I do not have the strength to perform such a service. Come back later after I have rested. 
+02|2414|0010|I need healing. 
+03|2433|009C
+02|2437|001E|That is certainly no problem. 
+06|246F|0596:0BEB
+02|2485|0025|Please leave me now, I need to rest. 
+06|24C2|057C:1090
+03|24CF|2E8E
+03|24D2|2E78
+02|24D7|0024|Have you passed the Test of Wisdom? 
+04|2500|00FD
+02|2504|0062|For certes. It is only the first step on the road to Enlightenment. It was not easy by any means. 
+02|257D|001E|Will you tell me the answers? 
+02|259F|001F|Where did you get the answers? 
+02|25CC|0024|Have you passed the Test of Wisdom? 
+03|25FD|2D4D
+02|2602|0028|The Test of Centeredness was difficult? 
+02|2631|0027|Is the Test of Centeredness difficult? 
+04|265E|014A
+02|2662|00CF|Difficult? It was nearly the death of me! I fell at least five times. Fortunately Stratos saw fit to keep me and not send me to my death over the steep side. But, you'll see for yourself when you get there! 
+02|2748|0028|The Test of Centeredness was difficult? 
+02|2774|0027|Is the Test of Centeredness difficult? 
+03|27A8|2BA2
+02|27AD|0034|I have passed the Tests of Wisdom and Centeredness. 
+04|27E6|0148
+02|27EA|00EC|You have? But you've just arrived on our island. I don't believe we've ever had anyone complete them this fast. Stratos will be so pleased with your accomplishments. Now you must find Stellos and begin on the next part of your journey. 
+02|28ED|0034|I have passed the Tests of Wisdom and Centeredness. 
+03|292E|2A1C
+02|2933|002F|I have passed the Third Test and have my Foci. 
+04|2967|013C
+04|296E|0047
+02|2972|002E|That is wonderful! You must be quite excited. 
+03|29B5|00AD
+02|29B9|0075|I am sorry I can not celebrate with you, but a terrible thing has happened. Brother Xavier has lost one of his Foci. 
+02|2A43|0013|How did it happen? 
+02|2A67|002F|I have passed the Third Test and have my Foci. 
+03|2AA3|28A7
+02|2AA8|0013|How did it happen? 
+04|2AC0|009D
+02|2AC4|0071|It seems it was taken while he slept. I am sorry but I must be going. I have to help look for the missing Focus. 
+06|2B4D|057C:1090
+03|2B5A|2803
+03|2B5D|27ED
+02|2B62|0016|Have you seen Torwin? 
+04|2B7D|012B
+04|2B84|004D
+02|2B88|0034|Why, no. And, may I add, what a cruel thing to ask! 
+03|2BD1|00AF
+04|2BD8|0072
+02|2BDC|001C|No I have not. (yes I have) 
+02|2C0D|0021|Why are you covering up for him? 
+02|2C32|000D|Where is he? 
+03|2C4A|0036
+02|2C4E|0020|No, I haven't seen him all day. 
+02|2C85|0016|Have you seen Torwin? 
+03|2CA8|26A2
+02|2CAD|000D|Where is he? 
+04|2CBF|00E0
+04|2CC6|0095
+02|2CCA|0062|I do not know. (He told me he was going to go to Windy Point today for something very important.) 
+03|2D5B|0025
+02|2D5F|000F|I do not know. 
+02|2D85|000D|Where is he? 
+03|2D9F|25AB
+02|2DA4|0021|Why are you covering up for him? 
+04|2DCA|015D
+04|2DD1|00B0
+02|2DD5|0097|I am not covering for him! (I think he is the one who took the Focus. I don't think he meant any harm by it, though. He is not a mean-spirited person) 
+03|2E81|0073
+02|2E85|005D|Pardon me? I am not covering up for him. That would go against all the teachings of Stratos. 
+02|2EF9|0021|Why are you covering up for him? 
+03|2F27|2423
+02|2F2C|000D|Holy Cyrrus? 
+04|2F3E|00B2
+02|2F42|004D|That is the name given to me by Stellos. Everyone thinks it is a grand name. 
+02|2FA6|000D|Holy Cyrrus? 
+02|2FC2|0014|It is a grand name. 
+02|2FDA|000A|Everyone? 
+03|2FF0|235A
+02|2FF5|0014|It is a grand name. 
+04|300E|00B0
+02|3012|004B|I am sure my father has bragged about it to everyone, including the torax! 
+02|3074|0014|It is a grand name. 
+02|3097|001B|Your father is a herdsman? 
+03|30BE|228C
+02|30C3|000A|Everyone? 
+04|30D2|006F
+02|30D6|003D|My mother and father, the others here... why, just everyone. 
+02|312A|000A|Everyone? 
+03|3141|2209
+02|3146|001B|Your father is a herdsman? 
+04|3166|014B
+02|316A|00E9|Yes, and so I would be. It's birthing time back home. My favorite time of the year. Watching the beginning of a new life, helping that new life to stand... aahhh, it is one of greatest joys in my life. But that is all behind me now. 
+02|326A|001B|Your father is a herdsman? 
+02|3292|0014|Where are you from? 
+03|32B1|2099
+02|32B6|0014|Where are you from? 
+04|32CF|012C
+02|32D3|00AB|My home is in the hills of Tenebrae. Even Argent Rock with all its finery is but a pale shadow of the beauty of Tenebrae. The ocean, the hills, the people...I miss it so. 
+02|3395|0014|Where are you from? 
+02|33B8|0021|You miss the people of Tenebrae? 
+02|33DD|0012|Why are you here? 
+03|33FB|1F4F
+02|3400|0012|Why are you here? 
+04|3417|01D3
+02|341B|0199|It was discovered when I was quite young that I had a talent for healing. My mother and father were so proud. They told everyone about their brilliant child who was going to heal the world. Then my sister was injured by a kith. No matter how I tried, my meager skills were no match for her injury. She died and I vowed it would never happen again. I left home and made my way here. I've been here ever since. 
+02|35CB|0012|Why are you here? 
+03|35EA|1D60
+02|35EF|0021|You miss the people of Tenebrae? 
+04|3615|01C3
+02|3619|00FA|It has been my home since birth. I miss the people. Darion with all his bluff and bluster, used to carry candy in his pocket for me. Bentic tutored both Jenna and I when we were young. Oh, my beloved Jenna. I try not to think of her, it pains me so. 
+02|372A|0021|You miss the people of Tenebrae? 
+02|375A|0012|Tell me of Jenna. 
+02|3770|0013|Tell me of Darion. 
+04|3793|0021
+02|3798|0010|Bentic is dead. 
+03|37B4|0021
+02|37B9|0013|Tell me of Bentic. 
+03|37D8|1B72
+02|37DD|0013|Tell me of Bentic. 
+04|37F5|00E9
+02|37F9|00AE|I miss him so. He is a kind and gentle man who's greatest loves in life are his books and his studies. He knows so much about so many things, he is fascinating to talk with. 
+02|38BE|0013|Tell me of Bentic. 
+03|38DE|1A6C
+02|38E3|0013|Tell me of Darion. 
+04|38FB|01C4
+02|38FF|016B|He talked of the day I would join the guard. I told him many times I would be a herdsman like my father. 'Nonsense,' he would say, 'you're cut out to be a guard, you have the spirit for it.' I don't know why, the guard never does anything but hang around the castle hoping Aramina will bring them a sweet from the Tempest's table! He is Jenna's father, you know. 
+02|3A81|0013|Tell me of Darion. 
+02|3AA3|0010|Jenna's father? 
+03|3ABF|188B
+02|3AC4|0010|Jenna's father? 
+04|3AD9|008C
+02|3ADD|0054|Yes, and in my fondest dreams, he was to be my father- in-law, for I love Jenna so. 
+02|3B48|0010|Jenna's father? 
+03|3B65|17E5
+02|3B6A|0010|Bentic is dead. 
+04|3B7F|00CA
+02|3B83|005F|Oh no! Say it is not so! Oh dear! You bring me sad news of my home! Pray, how did this happen? 
+02|3BF9|0010|Bentic is dead. 
+02|3C16|0019|Mordea had him executed. 
+02|3C33|000B|I know not 
+03|3C49|1701
+02|3C4E|000B|I know not 
+04|3C5E|0081
+02|3C62|0031|'Tis a sad day for me. Bentic was a dear friend. 
+02|3CAA|000B|I know not 
+02|3CB9|0019|Mordea had him executed. 
+03|3CDF|166B
+02|3CE4|0019|Mordea had him executed. 
+04|3D02|0133
+02|3D06|00A2|The Tempest? I knew she was a hard woman, but to execute someone as gentle and harmless as Bentic? What terrible thing did he do that would anger the Tempest so? 
+02|3DBF|0019|Mordea had him executed. 
+02|3DDC|000B|I know not 
+02|3DF6|0021|He conducted forbidden research. 
+02|3E1B|000E|I do not know 
+03|3E35|1515
+02|3E3A|000E|I do not know 
+04|3E4D|00A8
+02|3E51|0072|I cannot imagine what terrible wrong Bentic committed that would result in his death. He was a kind and good man. 
+02|3EDA|000E|I do not know 
+03|3EF5|1455
+02|3EFA|0021|He conducted forbidden research. 
+04|3F20|00EF
+02|3F24|0094|Research was what Bentic loved most. Ah, 'tis a sad day when good folks are executed for doing something which they love and brings harm to no one. 
+02|3FCF|0021|He conducted forbidden research. 
+02|3FF4|000E|I do not know 
+03|400F|133B
+02|4014|0012|Tell me of Jenna. 
+04|402B|0215
+04|4032|0116
+02|4036|00FD|Ah, you've met her, then. Isn't she a lovely creature? I have loved her from the moment I laid eyes on her. I always dreamed she would marry me and live with me in the hills, helping tend the torax. It is funny how things never work out like we expect. 
+03|4148|00B3
+02|414C|009D|She lives in Tenebrae. If you should travel there, stop in and see her. She is a lovely girl, so full of life. I would that I could marry her, but I cannot. 
+02|4200|0013|Why not marry her? 
+02|4221|0012|Tell me of Jenna. 
+03|4240|110A
+02|4245|0013|Why not marry her? 
+04|425D|01A4
+02|4261|0169|Look around you, my friend. There are few enough of us here on Argent Rock. Rare are those with the talent it takes to touch the power of Stratos and use it to heal. I am one of those few. To help the people of this land I must sacrifice that which I most dearly desire...to marry my beloved Jenna and live a simple herdsman's life in the hills above Tenebrae. 
+02|43E1|0013|Why not marry her? 
+03|4401|0F49
+02|4406|0014|What place is this? 
+04|441F|008F
+02|4423|002D|This is Argent Rock, home of the Theurgists. 
+02|4467|0014|What place is this? 
+02|448A|0018|Who are the Theurgists? 
+03|44AE|0E9C
+02|44B3|0018|Who are the Theurgists? 
+04|44D0|0093
+02|44DA|004D|Why we are the disciples of Stratos, the Great Titan of Air. We are healers. 
+02|453E|0018|Who are the Theurgists? 
+03|4563|0DE7
+02|4568|0019|I passed the Third Test. 
+04|4586|0120
+02|458A|00A2|I have heard. This is certainly a great occasion. Now you are ready to attempt the greatest feat of your life...to reach out and touch the power that is Stratos. 
+02|4643|001A|I passed the Third Tests. 
+02|466A|0016|Touch Stratos' power? 
+02|4684|0013|The greatest feat? 
+03|46A6|0CA4
+02|46AB|0016|Touch Stratos' power? 
+04|46C6|00D3
+02|46CA|0095|The power that gives us the ability to heal people. It is a thrilling moment when you first touch the Titan. Certainly nothing you will ever forget. 
+02|4776|0016|Touch Stratos' power? 
+03|4799|0BB1
+02|479E|0013|The greatest feat? 
+04|47B6|007A
+02|47BA|003F|You must go to Stellos. He will tell you how to reach Stratos. 
+02|4810|0013|The greatest feat? 
+03|4830|0B1A
+02|4835|001B|I have the Breath of Wind. 
+04|4855|00D2
+02|4859|0069|That explains it then. I felt a tremor in my link with Stratos, then it was broken. I am unable to heal. 
+02|48D9|001B|I have the Breath of Wind. 
+02|4903|0018|You are unable to heal? 
+03|4927|0A23
+02|492C|0018|You are unable to heal? 
+04|4949|00FE
+02|494D|009F|I hope that you use the Breath of Wind for a higher purpose, for it was taken at great sacrifice to the people of this land. It is a bitter sweet time for me. 
+02|4A03|0011|Why bittersweet? 
+02|4A22|0018|You are unable to heal? 
+03|4A47|0903
+02|4A4C|0011|Why bittersweet? 
+04|4A62|0198
+02|4A66|015F|For if my link with Stratos is permanently broken then I can never heal the sick and injured of this land again. This would be a tragic thing for the people, however, it also would release me of my vow to Stratos, leaving me free to return to Tenebrae and marry my beloved Jenna. So while I mourn for the people, I thank you for giving my love to me. 
+02|4BDC|0011|Why bittersweet? 
+03|4BFA|0750
+02|4BFF|001E|Will you tell me the answers? 
+04|4C22|00F2
+02|4C26|0089|Certainly not. That is an unthinkable thing. You must find the answers yourself as have all those seeking Enlightenment before you have. 
+02|4CC6|001E|Will you tell me the answers? 
+02|4CE8|001F|Where did you get the answers? 
+03|4D14|0636
+02|4D19|001F|Where did you get the answers? 
+04|4D3D|016F
+02|4D41|00D0|From the library. Oh, the hours I spent in there pouring over the old texts until the candle I was using was burned to a nub. Yes, those were difficult days. But not as difficult as the Test of Centeredness. 
+02|4E28|001F|Where did you get the answers? 
+02|4E4B|001E|Will you tell me the answers? 
+02|4E78|0028|The Test of Centeredness was difficult? 
+03|4EAC|049E
+02|4EB1|0013|I found this ring. 
+04|4EC9|0113
+02|4ECD|00A7|My goodness. That's Torwin's ring! Oh my, it belonged to his father. He showed it to everyone he met. Oh how terribly, terribly sad! You should take it to his mother. 
+02|4F8B|0013|I found this ring. 
+02|4FAD|0009|I shall. 
+02|4FBA|0016|I don't think I will. 
+03|4FDC|036E
+02|4FE1|0009|I shall. 
+04|4FEF|0085
+02|4FF3|0059|I know she will be very happy. It is a kind thing you do. Give her my regards, will you? 
+06|5064|057C:1090
+03|5071|02EC
+03|5074|02D6
+02|5079|0016|I don't think I will. 
+04|5094|00C8
+02|5098|007D|Perhaps you are right. The shock and sadness might be too much for her. Still, I think it would be best to return it to her. 
+02|512C|0009|I shall. 
+02|5139|0016|I don't think I will. 
+03|515C|01EE
+02|5161|0028|The Test of Centeredness was difficult? 
+02|5190|0027|Is the Test of Centeredness difficult? 
+04|51BD|014A
+02|51C1|00CF|Difficult? It was nearly the death of me! I fell at least five times. Fortunately Stratos saw fit to keep me and not send me to my death over the steep side. But, you'll see for yourself when you get there! 
+02|52A7|0028|The Test of Centeredness was difficult? 
+02|52D3|0027|Is the Test of Centeredness difficult? 
+03|5307|0043
+02|530C|0004|bye 
+04|5315|0035
+02|5319|0009|Adeus 
+06|533A|057C:1090
+03|534D|CCC9
+06|5353|057C:1090
+01|5366|5366
+04|53A2|0041
+02|53A6|0017|Why is this wide open? 
+06|53D7|0044:08B4

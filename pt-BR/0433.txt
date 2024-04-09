@@ -1,0 +1,74 @@
+01|0080|0080
+04|0096|0028
+02|009A|000F|dead guardsman 
+03|00BE|0020
+02|00C2|000A|guardsman 
+01|00E3|00E3
+06|0126|057C:091C
+06|013C|057C:15E7
+01|014D|014D
+06|0172|057C:143A
+06|0196|057C:133F
+01|01A7|01A7
+02|01B4|000B|Guardsman! 
+06|01D3|057C:0BCF
+06|01E8|0581:1C19
+05|01FC|0581:2A56
+04|0236|009C
+02|023A|0070|'Tis the wrath of the Titans that rains upon us. May they have mercy, for we are all to die! Run while you can. 
+06|02C2|057C:1090
+03|02CF|05C4
+03|02D2|00A2
+04|02D9|009B
+02|02DD|006F|Hold! You are not undead. I suggest you find a haven and hide, stranger. The walking dead march upon the city! 
+06|0364|057C:1090
+03|0371|0522
+04|037B|00AA
+04|0382|0035
+02|0386|0016|What is it this time? 
+03|03B7|006B
+04|03C6|0030
+02|03CA|0017|What can I do for you? 
+03|03F6|002C
+02|03FA|0016|What! More questions! 
+03|0425|0038
+02|0429|001C|What do you want, stranger? 
+02|0460|000D|Who are you? 
+02|0471|0013|What is your duty? 
+02|0488|000C|Where am I? 
+02|0498|0004|Bye 
+02|04A9|0004|Bye 
+04|04B3|03E0
+02|04D1|000D|Who are you? 
+04|04E3|00B2
+02|04E8|000D|Who are you? 
+02|0503|0019|Why do you want to know? 
+02|0532|004E|Only fools and meddlers go around asking every stranger they meet their name. 
+03|0595|02FB
+02|059A|0013|What is your duty? 
+04|05B2|00BD
+02|05B7|0013|What is your duty? 
+04|05DB|0048
+02|05DF|002F|My job is to guard the new Tempest, of course. 
+03|0623|0049
+02|0627|0033|My job is to guard her Ladyship Mordea, of course! 
+03|066F|0221
+02|0674|000C|Where am I? 
+04|0685|010C
+02|068A|000C|Where am I? 
+04|06A7|003F
+02|06AB|0026|You are in the palace of the Tempest. 
+03|06E6|00A8
+02|06EA|0037|Look, I do not have time for idle chat with strangers. 
+02|0737|002C|Push off, before Mordea has both our heads. 
+06|077B|057C:1090
+03|078E|0105
+03|0791|00FF
+02|0796|0004|Bye 
+04|079F|00F1
+02|07A3|0022|I must be about my duties anyway. 
+04|07E7|0093
+02|07F1|0034|Oh, I heard you had a part in ridding us of Mordea. 
+02|083B|002D|Do not tell anyone I said this, but, thanks. 
+06|0880|057C:1090
+03|0893|FC11

@@ -1,0 +1,72 @@
+01|0080|0080
+04|0094|0028
+02|0098|000F|dead guardsman 
+03|00BC|0020
+02|00C0|000A|guardsman 
+01|00E1|00E1
+06|0124|057C:091C
+06|013A|057C:15E7
+01|014B|014B
+06|0170|057C:143A
+06|0194|057C:133F
+01|01A5|01A5
+02|01B2|000B|Guardsman! 
+06|01D1|057C:0BCF
+06|01E6|0581:1C19
+05|01FA|0581:2A56
+04|0234|005B
+02|0238|002F|The Titans are seeking revenge! We are doomed! 
+06|027F|057C:1090
+03|028C|0551
+03|028F|0098
+04|0296|0091
+02|029A|0065|The very earth shakes and spits up the dead! We must repent for whatever misdeed we have commmitted. 
+06|0317|057C:1090
+03|0324|04B9
+04|032E|00C1
+04|0335|0041
+02|0339|0022|Why is it always -me- you bother? 
+03|0376|0076
+04|0385|0030
+02|0389|0017|What can I do for you? 
+03|03B5|0037
+02|03B9|0021|Stop with the questions already. 
+03|03EF|0038
+02|03F3|001C|What do you want, stranger? 
+02|042A|000D|Who are you? 
+02|043B|0013|What is your duty? 
+02|0452|000C|Where am I? 
+02|0462|0004|Bye 
+02|0473|0004|Bye 
+04|047D|0360
+02|049B|000D|Who are you? 
+04|04AD|00AE
+02|04B2|000D|Who are you? 
+02|04CD|0019|Why do you want to know? 
+02|04FC|004A|Only mindless twits go around asking every stranger they meet their name. 
+03|055B|027F
+02|0560|0013|What is your duty? 
+04|0578|00B8
+02|057D|0013|What is your duty? 
+04|05A1|0049
+02|05A5|0030|I watch over the new Tempest, Devon, of course. 
+03|05EA|0043
+02|05EE|002D|I watch over her Ladyship Mordea, of course! 
+03|0630|01AA
+02|0635|000C|Where am I? 
+04|0646|00C2
+02|064B|000C|Where am I? 
+04|0668|0048
+02|066C|002F|You are in the palace and home to the Tempest. 
+03|06B0|0055
+02|06B4|0026|Go ask someone who wants to help you. 
+06|06F2|057C:1090
+03|0705|00D8
+03|0708|00D2
+02|070D|0004|Bye 
+04|0716|00C4
+02|071A|000C|To you too. 
+04|0748|007C
+02|0752|0060|If it is true what I heard -- that you had a part in deposing Mordea -- let me offer my thanks. 
+06|07CA|057C:1090
+03|07DD|FC91

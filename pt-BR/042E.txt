@@ -1,0 +1,74 @@
+01|0080|0080
+04|0094|0028
+02|0098|000F|dead guardsman 
+03|00BC|0020
+02|00C0|000A|guardsman 
+01|00E1|00E1
+06|0124|057C:091C
+06|013A|057C:15E7
+01|014B|014B
+06|0170|057C:143A
+06|0194|057C:133F
+01|01A5|01A5
+02|01B2|000B|Guardsman! 
+06|01D1|057C:0BCF
+06|01E6|0581:1C19
+05|01FA|0581:2A56
+04|0234|0089
+02|0238|005D|Have you no sense? Run for cover! The Titans rain death from above and below. We are doomed! 
+06|02AD|057C:1090
+03|02BA|05D1
+03|02BD|0079
+04|02C4|0072
+02|02C8|0046|The walking dead overrun the city! Find shelter and protect yourself! 
+06|0326|057C:1090
+03|0333|0558
+04|033D|00BD
+04|0344|003F
+02|0348|0020|Why do you bother me this time? 
+03|0383|0074
+04|0392|002F
+02|0396|0016|How can I assist you? 
+03|03C1|0036
+02|03C5|0020|What? Again with the questions! 
+03|03FA|0038
+02|03FE|001C|What do you want, stranger? 
+02|0435|000D|Who are you? 
+02|0446|0013|What is your duty? 
+02|045D|000C|Where am I? 
+02|046D|0004|Bye 
+02|047E|0004|Bye 
+04|0488|0403
+02|04A6|000D|Who are you? 
+04|04B8|00CD
+02|04BD|000D|Who are you? 
+02|04D8|0038|How could my name possibly be of any importance to you? 
+02|0526|004A|Only mindless fools go around asking every stranger they meet their name. 
+03|0585|0303
+02|058A|0013|What is your duty? 
+04|05A2|00BD
+02|05A7|0013|What is your duty? 
+04|05CB|0048
+02|05CF|002F|My job is to guard the new Tempest, of course. 
+03|0613|0049
+02|0617|0033|My job is to guard her Ladyship Mordea, of course! 
+03|065F|0229
+02|0664|000C|Where am I? 
+04|0675|010F
+02|067A|000C|Where am I? 
+04|0697|003F
+02|069B|0026|You are in the palace of the Tempest. 
+03|06D6|00AB
+02|06DA|003A|Look, I do not have time for idle chatter with strangers. 
+02|072A|002C|Push off, before Mordea has both our heads. 
+06|076E|057C:1090
+03|0781|010A
+03|0784|0104
+02|0789|0004|Bye 
+04|0792|00F6
+02|0796|0022|I must be about my duties anyway. 
+04|07DA|0098
+02|07E4|0039|Oh, yes, I heard you had a part in ridding us of Mordea. 
+02|0833|002D|Do not tell anyone I said this, but, thanks. 
+06|0878|057C:1090
+03|088B|FBEE

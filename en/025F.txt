@@ -1,0 +1,87 @@
+01|0080|0080
+02|008C|0011|Bentic's journal 
+01|00B4|00B4
+02|00C9|0397|Bentic's Journal: ~~In my investigations of the royal bloodline I have uncovered many facts---facts have lead me to more questions. ~~Keldan the farmer, son of Treal. Forced to marry Lord Kean's daughter, Celidia. Why would royalty want such a simple man? ~~Keldan and Ariel... Did Celidia ever know? If so, when did she find out? And how? ~~Ariel had a child, a son. Did Keldan send her away to protect them from Celidia, or did Celidia order it?~~ ~Celidia demanded a child. Mordea is born with the powers of Tempestry. Yet Lord Kean was no Tempest, nor was his wife... ~~But where is Keldan and Ariel's son? Both mother and child sent to live with the fishermen... ~~Devon knows not his own father... Could Devon be a Tempest?!!? ~~If so, by his being the first birth, his powers would be stronger than Mordea's! ~~I must investigate this further, though if Mordea should uncover my quest, my life will be forfeit...
+03|0490|068E
+05|0493|0581:36E7
+06|04DC|025F:0D3C
+06|04F5|0581:1C6D
+06|050F|057C:091C
+06|057C|057C:15E7
+06|0592|057C:15E7
+06|05A8|057C:15E7
+06|05BB|025F:0B29
+06|05CA|025F:0BE5
+02|05D7|0009|Uh-oh... 
+06|05F6|025F:0C82
+05|060A|0581:2A56
+04|0616|00D2
+02|061A|0027|Swine! You have cheated to this point! 
+02|0657|0033|If I allow you to continue you will ruin the game! 
+02|06A0|0024|You must not be allowed to do so... 
+06|06DD|058B:0080
+03|06E8|0436
+02|06EC|002A|Thief! I knew you were not to be trusted! 
+02|072C|002C|Will you come quietly...? ~Or in pieces...? 
+02|076D|0011|I'll go quietly. 
+02|0782|0010|Try to take me! 
+04|07A0|02F7
+02|07BE|0011|I'll go quietly. 
+04|07D4|0078
+06|07DE|057C:15E7
+02|07EE|0023|We will escort you to Lady Mordea. 
+06|0832|0581:1C19
+03|084C|0248
+02|0851|0010|Try to take me! 
+06|087C|057C:15E7
+06|0892|057C:15E7
+06|08AA|057C:15E7
+06|08C1|0581:1C19
+06|08E2|0581:29D8
+06|08FB|0581:29D8
+06|0914|0581:29D8
+06|092D|0581:29D8
+06|0944|0581:1C19
+06|095D|0581:29D8
+06|0976|0581:29D8
+06|098F|0581:29D8
+06|09A6|0581:1C19
+06|09BF|0581:29D8
+06|09D8|0581:29D8
+06|09F1|0581:29D8
+06|0A0A|0581:29D8
+06|0A21|0581:1C19
+06|0A3A|0581:29D8
+06|0A53|0581:29D8
+06|0A6C|0581:29D8
+06|0A85|0581:29D8
+03|0A97|FD03
+06|0ABA|0581:1C8B
+06|0ADD|057C:15E7
+06|0B01|0580:0080
+06|0B12|0581:1C19
+01|0B29|0B29
+06|0B4B|0581:1C19
+06|0B71|057C:15E7
+06|0B88|0581:1C19
+06|0BA1|057C:15E7
+06|0BB8|0581:1C19
+06|0BCE|057C:15E7
+01|0BE5|0BE5
+06|0C15|057C:15E7
+06|0C3C|057C:15E7
+06|0C55|057C:15E7
+06|0C6B|057C:15E7
+01|0C82|0C82
+06|0CA3|0581:1C19
+06|0CC9|057C:15E7
+06|0CE2|057C:15E7
+06|0CF8|057C:15E7
+06|0D0F|0581:1C19
+06|0D25|057C:15E7
+01|0D3C|0D3C
+05|0D66|0581:24A7
+05|0DE7|0581:1A85
+05|0DF2|0581:1A85
+05|0EA4|0581:1A85
+05|0EAF|0581:1A85

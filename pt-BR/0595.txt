@@ -1,0 +1,229 @@
+01|0080|0080
+02|008A|0005|I am 
+02|0099|0001|.
+04|00A8|052F
+02|00AC|0070|Ah. A stranger comes to the Enclave. How rare.*You are also a stranger to the island of Morgaelin.*Are you not? 
+06|0139|0581:1B49
+04|0151|0022
+02|0154|0017|So I thought. And what 
+03|0173|0093
+04|017B|003E
+02|017E|0033|How odd, I've never seen one like you before.*What 
+03|01B9|004D
+02|01BC|0045|Your silence is understood, but fear not, I intend you no harm.*What 
+02|020B|0020|might you be called, my friend? 
+02|0247|0014|It is of no matter. 
+02|025F|001D|You are not my friend, lady. 
+04|02A5|0070
+02|02A8|005F|What an interesting name. I shall be sure to make note of it. However, you have need of a name 
+03|0315|00DE
+02|031A|001D|You are not my friend, lady. 
+04|033C|002E
+02|033F|0023|Ah, I shall be if only you wish it 
+03|036A|0023
+02|036D|001B|I see you are a humble one 
+02|0392|005B|, but there is no reason for you to reveal your name to me. I would prefer to give you one 
+02|03F8|007B| that has meaning in the Elder Tongue. I sense that your name should be Daemion. It means Fire of the Sky.*Do you like it? 
+06|0493|0581:1AD0
+04|04A2|0026
+02|04A5|001B|It gladdens me to hear it. 
+03|04C8|0059
+02|04CB|0051|Nonetheless, it is what I shall call you. You may respond or not as you see fit. 
+02|0526|0091| Perhaps later, when you have earned it, you will be given a Truename. Daemion seems right and will suffice for now. With what may I assist you? 
+03|05D7|041F
+04|05EA|0181
+04|05F2|00C9
+04|05F8|0044
+02|05FB|0039|To what do I owe the pleasure of your presence, Daemion? 
+03|063C|003B
+04|0644|0026
+02|0647|001B|How may I aid you, friend? 
+03|066A|000D
+02|066D|0005|Yes? 
+04|0684|0034
+02|0689|0029|*Have you decided to become my Disciple? 
+03|06BB|009C
+03|06D0|0326
+04|06D6|0044
+02|06D9|0039|To what do I owe the pleasure of your presence, Daemion? 
+03|071A|003D
+04|0722|0028
+02|0725|001D|How may I aid you, Disciple? 
+03|074A|000D
+02|074D|0005|Yes? 
+03|076B|028B
+04|0775|0112
+04|077B|006A
+02|077F|0051|Is there something we have to discuss? Because if not, I have much to attend to. 
+03|07E5|009F
+04|07ED|006F
+02|07F1|0056|Unless you've come to apologize for your rude behavior, I have nothing to say to you. 
+03|085C|0028
+02|0860|0012|What do you want? 
+03|0887|016F
+04|0891|011D
+04|0897|0045
+02|089B|002C|Leave me be! I grow weary of your presence. 
+03|08DC|00CF
+04|08E4|005A
+02|08E8|0041|How can I make you understand?!*I do not wish to speak with you! 
+03|093E|006D
+02|0942|0057|If you do not give me peace, I shall have no other alternative than to give it to you. 
+03|09AE|0048
+02|09B2|0028|I will feed your entrails to my Daemon! 
+01|0A03|0A03
+04|0A1F|00D8
+04|0A25|0047
+02|0A29|002E|Return only when you have found your manners. 
+03|0A6C|0088
+04|0A74|002C
+02|0A78|0013|Leave as you wish. 
+03|0AA0|0054
+02|0AA4|003E|I cannot say I am sorry to see you go. I hope you understand. 
+03|0AF7|025A
+04|0B01|00B0
+04|0B07|002D
+02|0B0B|0014|Do not return here. 
+03|0B34|007A
+04|0B3C|0040
+02|0B40|0027|Leave as you wish, for I wish it also. 
+03|0B7C|0032
+02|0B80|001C|Farewell, but not too well. 
+03|0BB1|01A0
+04|0BB8|00A3
+04|0BBE|002D
+02|0BC2|0014|Farewell, Disciple. 
+03|0BEB|006D
+04|0BF3|003D
+02|0BF7|0024|Return when you seek more training. 
+03|0C30|0028
+02|0C34|0012|Adeus, Daemion. 
+03|0C5B|00F6
+04|0C61|002F
+02|0C65|0016|Farewell, my Daemion. 
+03|0C90|0074
+04|0C98|004D
+02|0C9C|0034|Going so soon? Well, do return when it pleases you. 
+03|0CE5|001F
+02|0CE9|0009|Adeus 
+04|0D11|0040
+02|0D15|002A|Remember, my offer still stands, Daemion. 
+01|0D58|0D58
+04|0D72|0174
+04|0D78|0081
+02|0D7C|0068|I do have things to tend to, Daemion. When you have your thoughts collected, feel free to call upon me. 
+03|0DF9|00EA
+04|0E01|0066
+02|0E05|004D|If you do not seek my attention, I shall not keep yours.* Farewell, Daemion. 
+03|0E67|007C
+02|0E6B|0066|Do you hear me? Apparently not. If so, surely you would answer. Please return when you wish to speak. 
+03|0EE6|0275
+04|0EF0|0129
+04|0EF6|003F
+02|0EFA|0026|I do not have time for this, Daemion. 
+03|0F35|00E1
+04|0F3D|0052
+02|0F41|0039|If you do not seek my attention, I shall not keep yours. 
+03|0F8F|0087
+02|0F93|0071|Do you hear me? Apparently not. If so, surely you would answer. Return when you have something important to say. 
+03|1019|0142
+04|1023|0138
+04|1029|0088
+02|102D|006F|You are a most infuriating person. It would not be wise for you to remain. Some here are not as friendly as I. 
+03|10B1|00A7
+04|10B9|005D
+02|10BD|0044|Should you decide to seek my advice later, I will not be available. 
+03|1116|0042
+02|111A|002C|I am surrounded by half-wits and imbeciles! 
+01|1162|1162
+03|1176|058B
+02|1179|0012|Please forgive me 
+04|1198|001B
+02|119D|000D|, kind lady. 
+03|11B3|0013
+02|11B8|0008|, Bane. 
+04|11D0|0026
+02|11D3|001B|I need information, woman! 
+03|11F6|002C
+02|11F9|0024|Tell me what I need to know, wench! 
+02|1227|0020|I did not mean to give offense. 
+02|124D|000B|Nevermind. 
+02|1263|0000|
+02|126D|000B|Nevermind. 
+04|127E|0483
+04|129F|0134
+02|12A3|00BC|I'm not so sure I should...*Your manners were atrocious. But you seem sincere now. Very well. I suppose I do forgive you. Just don't let it happen again. Now then, what do you seek of me? 
+06|1385|041D:0782
+06|13A0|0595:170E
+06|13B3|058A:19C9
+02|13C0|000B|Nevermind. 
+03|13D3|032B
+02|13D8|0020|I did not mean to give offense. 
+04|13FD|00E9
+02|1401|0071|Well you did! But you are a foreigner. Let us not dwell on your past mistakes. Now then, what do you seek of me? 
+06|1498|041D:0782
+06|14B3|0595:170E
+06|14C6|058A:19C9
+02|14D3|000B|Nevermind. 
+03|14E6|0218
+04|14EE|0107
+04|14F8|0090
+02|14FC|0077|By Pyros' flaming eyes! Take that tone with me again, and I'll incinerate your heart where it beats within your chest. 
+03|1588|004C
+02|158C|002C|Your pain will be legendary, even in Pagan! 
+02|15E2|000B|Nevermind. 
+03|15F5|0109
+02|15FA|000B|Nevermind. 
+06|1610|0595:0A03
+03|161D|00E1
+02|1622|0000|
+04|1627|0026
+06|162D|0595:0D58
+02|163A|000B|Nevermind. 
+03|164D|00B1
+02|1651|009B|I believe something you said was incorrectly spelled. I don't know why I know this. It was as if giant, blue letters had appeared, blazing across the sky. 
+03|1701|FB67
+01|170E|170E
+02|1719|002A|Do you perchance have Vardion's Truename? 
+06|175E|0581:1AD0
+04|1774|0085
+02|1778|006C|Wonderful! Give it to me and I will perform the ritual necessary to end Vardion's designs upon the Mastery. 
+03|17F9|0088
+02|17FD|006F|I see. You must be swift about this. If he kills the Master before I know his intentions, it will be too late. 
+03|1881|054E
+02|1884|0015|I don't know it yet. 
+04|18A8|0018
+02|18AB|0009| Morduin.
+04|18C8|0018
+02|18CB|0009| Vardion.
+04|18E8|0018
+02|18EB|0009| Daemion.
+04|1908|0019
+02|190B|000A| Sabriane.
+02|193F|0009| Vardion.
+04|194D|00C8
+02|1951|006A|You poor stupid fool. If you truly believe that Vardion is his Truename, you are of no use as a Sorcerer. 
+02|19D1|0029|Try again. And this time do not fail me. 
+03|1A15|03BA
+02|1A1A|0009| Daemion.
+04|1A28|0090
+02|1A2C|0071|No, you little idiot. That is the name I gave you. Perhaps I should have called you Daemient. Fire of the Brain. 
+03|1AB8|0317
+02|1ABD|000A| Sabriane.
+04|1ACC|00C8
+02|1AD0|00A9|That is my name. Have I entrusted my Truename, and the future of the Cabal to a simpering moron? Please run along now and get Vardion's Truename for me, won't you dear? 
+03|1B94|023B
+02|1B99|0015|I don't know it yet. 
+04|1BB3|012F
+04|1BBB|00AA
+02|1BBF|0085|Do you toy with me?! I am not accustomed to having my Disciples lie to me. Get his Truename or I'll personally feed you to the Fire. 
+03|1C65|007A
+02|1C69|0051|I gave fair warning. Your life has come to a close, my irritating little friend. 
+03|1CDF|00F0
+03|1CE2|00ED
+02|1CE7|0009| Morduin.
+04|1CF5|00CA
+02|1CF9|0088|Ah, yes! I should have guessed it. Dark Flame. It could have been no other. Thank you, my disciple. Now prepare to witness his undoing. 
+06|1D9F|058A:014B
+06|1DAF|058A:0B96
+06|1DC5|0595:0D58

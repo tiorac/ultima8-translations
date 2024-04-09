@@ -1,0 +1,6 @@
+01|0080|0080
+02|008C|000A|cadaver 
+01|00AD|00AD
+03|00D4|004B
+04|00E3|0032
+02|00E7|0019|Uma maldicao sobre voce, ladrao! 

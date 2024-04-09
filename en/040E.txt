@@ -1,0 +1,613 @@
+01|0080|0080
+04|008F|0020
+02|0093|0007|Gwillim
+03|00AF|001F
+02|00B3|0009|Herdsman 
+01|00D3|00D3
+06|010A|057C:15E7
+04|0148|00B2
+04|015E|0052
+02|0168|0023|I would not do that if I were you! 
+06|01A3|040E:02BC
+03|01B0|004A
+02|01B4|000D|Stop! Thief! 
+06|01DF|0581:1C19
+06|01F2|058B:0080
+01|01FF|01FF
+05|0231|0581:28F9
+05|023A|0581:28F9
+05|0259|0581:28F9
+05|0262|0581:28F9
+06|0289|057C:143A
+06|02AB|057C:133F
+01|02BC|02BC
+06|030B|040E:0398
+06|033D|040E:0A50
+06|036F|040E:10D3
+01|037D|037D
+05|038F|0581:2A56
+01|0398|0398
+06|042F|057C:091C
+06|044C|057C:15E7
+06|045E|040E:0510
+06|047C|057C:15E7
+06|0493|0581:1C19
+06|04B0|057C:15E7
+06|04CB|0581:1C19
+06|04E8|057C:15E7
+01|0510|0510
+05|056E|0581:1CE3
+04|057E|01CD
+04|0591|0075
+06|05A6|057C:091C
+02|05B6|000A|Good day. 
+06|05E3|057C:15E7
+06|05FA|0581:1C19
+04|060E|006B
+02|0612|0021|Ahh, what a fine bunch of torax! 
+06|0656|057C:15E7
+06|066D|0581:1C19
+04|0681|0047
+02|0685|001A|Shelby! Leave Pono alone! 
+06|06BC|0581:1C19
+04|06D0|0078
+06|06E5|057C:091C
+06|0702|057C:15E7
+02|0712|0024|Have you ever seen such fine torax? 
+03|074B|0300
+06|0769|057C:091C
+04|077D|002E
+02|0781|0015|How I love my flock. 
+03|07AB|02A0
+04|07B3|0068
+02|07B7|001E|I wonder how Cyrrus is doing? 
+06|07F8|057C:15E7
+06|080F|0581:1C19
+04|0823|0049
+02|0827|0033|This life does get a bit boring from time to time. 
+04|0874|0066
+02|0878|001C|I hope that Cyrrus is well. 
+06|08B7|057C:15E7
+06|08CE|0581:1C19
+04|08E2|0095
+02|08E6|001D|I enjoy caring for my flock. 
+06|0926|057C:15E7
+02|0936|002F|Yet, I would enjoy some company now and again. 
+04|097F|0053
+06|0992|057C:091C
+02|09A2|001E|I can see my house from here! 
+04|09DA|0071
+02|09DE|0027|The torax certainly are playful today. 
+06|0A28|057C:15E7
+06|0A3F|0581:1C19
+01|0A50|0A50
+06|0AE1|040E:0B93
+06|0AFF|057C:15E7
+06|0B16|0581:1C19
+06|0B33|057C:15E7
+06|0B4E|0581:1C19
+06|0B6B|057C:15E7
+01|0B93|0B93
+05|0BF1|0581:1CE3
+04|0C01|01CD
+04|0C14|0075
+06|0C29|057C:091C
+02|0C39|000A|Good day. 
+06|0C66|057C:15E7
+06|0C7D|0581:1C19
+04|0C91|006B
+02|0C95|0021|Ahh, what a fine bunch of torax! 
+06|0CD9|057C:15E7
+06|0CF0|0581:1C19
+04|0D04|0047
+02|0D08|001A|Shelby! Leave Pono alone! 
+06|0D3F|0581:1C19
+04|0D53|0078
+06|0D68|057C:091C
+06|0D85|057C:15E7
+02|0D95|0024|Have you ever seen such fine torax? 
+03|0DCE|0300
+06|0DEC|057C:091C
+04|0E00|002E
+02|0E04|0015|How I love my flock. 
+03|0E2E|02A0
+04|0E36|0068
+02|0E3A|001E|I wonder how Cyrrus is doing? 
+06|0E7B|057C:15E7
+06|0E92|0581:1C19
+04|0EA6|0049
+02|0EAA|0033|This life does get a bit boring from time to time. 
+04|0EF7|0066
+02|0EFB|001C|I hope that Cyrrus is well. 
+06|0F3A|057C:15E7
+06|0F51|0581:1C19
+04|0F65|0095
+02|0F69|001D|I enjoy caring for my flock. 
+06|0FA9|057C:15E7
+02|0FB9|002F|Yet, I would enjoy some company now and again. 
+04|1002|0053
+06|1015|057C:091C
+02|1025|001E|I can see my house from here! 
+04|105D|0071
+02|1061|0027|The torax certainly are playful today. 
+06|10AB|057C:15E7
+06|10C2|0581:1C19
+01|10D3|10D3
+06|1164|040E:1216
+06|1182|057C:15E7
+06|1199|0581:1C19
+06|11B6|057C:15E7
+06|11D1|0581:1C19
+06|11EE|057C:15E7
+01|1216|1216
+05|1274|0581:1CE3
+04|1284|01DA
+04|1297|0084
+06|12AC|057C:091C
+02|12BC|0019|What are you doing here? 
+06|12F8|057C:15E7
+06|130F|0581:1C19
+04|1323|0061
+02|1327|0017|Not Kith filets again! 
+06|1361|057C:15E7
+06|1378|0581:1C19
+04|138C|0048
+02|1390|001B|What a lovely wife I have! 
+06|13C8|0581:1C19
+04|13DC|007F
+06|13F1|057C:091C
+06|140E|057C:15E7
+02|141E|002B|Have you ever seen such a beautiful woman? 
+03|145E|02AF
+06|147C|057C:091C
+04|1490|0045
+02|1494|002C|I need to build a new room onto this house. 
+03|14D5|0238
+04|14DD|0068
+02|14E1|001E|I wonder how Cyrrus is doing? 
+06|1522|057C:15E7
+06|1539|0581:1C19
+04|154D|002F
+02|1551|0019|This house is too small. 
+04|1584|0066
+02|1588|001C|I hope that Cyrrus is well. 
+06|15C7|057C:15E7
+06|15DE|0581:1C19
+04|15F2|0089
+02|15F6|0011|I need some ale. 
+06|162A|057C:15E7
+02|163A|002F|Yet, I would enjoy some company now and again. 
+04|1683|0028
+02|1687|0012|I had a long day. 
+04|16B3|005A
+02|16B7|0010|I am exhausted. 
+06|16EA|057C:15E7
+06|1701|0581:1C19
+01|1712|1712
+06|1720|057C:0BCF
+04|1731|0020
+02|1734|0012|Hello, my friend. 
+03|1751|0015
+02|1754|000A|Greetings 
+04|176D|002F
+02|1772|001E|Corinth told me of the ghost. 
+03|179C|0038
+04|17A3|0031
+02|17A8|0020|Is there a ghost in the valley? 
+02|17D9|000A|Farewell. 
+04|17E9|4481
+02|17EE|000A|Farewell. 
+02|1807|000A|Farewell. 
+02|1838|000A|Greetings 
+04|1847|0087
+02|184B|002F|Greetings, friend, I am Gwillim. How fare you? 
+02|1891|0012|I'm fine, thanks. 
+02|18B1|000A|Greetings 
+03|18CE|4399
+02|18D3|0012|Hello, my friend. 
+04|18EA|007A
+02|18EE|0040|Well, it is quite good to see you. All is well for you, I hope. 
+02|1945|0012|Hello, my friend. 
+03|1964|4303
+02|1969|0012|I'm fine, thanks. 
+04|1980|00D4
+02|1984|0051|Good and welcome! It is rare that Corinth and I get visitors here in the valley. 
+02|19EC|0010|Who is Corinth? 
+02|1A00|000B|The valley 
+02|1A0F|0018|You don't get visitors? 
+02|1A35|0012|I'm fine, thanks. 
+03|1A54|4213
+02|1A59|0010|Who is Corinth? 
+04|1A6E|0147
+02|1A72|0088|Corinth is my wife. She is a fine lady, too. Corinth works hard every day, never complains, and has been a good mother to our son, too. 
+04|1B13|0041
+02|1B16|001C|Oh yes, I've met your wife. 
+02|1B36|0013|Where is your son? 
+03|1B54|003F
+02|1B57|001D|She sounds like a fine lady. 
+02|1B78|0013|Where is your son? 
+02|1B98|0010|Who is Corinth? 
+03|1BB5|40B2
+02|1BBA|0013|Where is your son? 
+04|1BD2|02F2
+04|1BD9|0164
+02|1BDD|0104|I am surprised that my wife did not talk your ear off about our son. Corinth is so proud of Cyrrus that sometimes I think that she can speak of nothing else. But make no mistake, we are law abiding folk here. We also honor Hydros as Her Ladyship does command. 
+02|1CF8|0011|Talk my ear off? 
+02|1D0D|0012|Law abiding folk? 
+02|1D23|000E|Her Ladyship? 
+03|1D3D|0162
+02|1D41|00FE|Cyrrus, that's our boy's name, joined the Theurgists not long ago. My wife was very proud of him. She has always said that Cyrrus was a natural healer. But make no mistake, we are law abiding folk here. We also honor Hydros as Her Ladyship does command. 
+02|1E56|0018|Who are the Theurgists? 
+02|1E72|0012|Law abiding folk? 
+02|1E88|000E|Her Ladyship? 
+02|1EA4|0013|Where is your son? 
+03|1EC4|3DA3
+02|1EC9|0011|Talk my ear off? 
+04|1EDF|0163
+02|1EE3|00A8|I love Corinth, but if you give that woman a chance, she'll talk the legs off a Kith when it comes to that boy. Surely she told you that Cyrrus has become a Theurgist. 
+04|1FA4|0046
+02|1FA9|0035|Yes, Corinth did mention that Cyrrus is a Theurgist. 
+03|1FEA|0035
+02|1FEF|0027|No, Corinth didn't mention Theurgists. 
+02|2024|0011|Talk my ear off? 
+03|2042|3C25
+02|2047|0027|No, Corinth didn't mention Theurgists. 
+04|2073|01BF
+04|207A|00BB
+02|207E|00A2|Well I am greatly surprised. My wife is very proud of our son. He left here to become one of the Theurgists that I told you about. My son is quite a good healer. 
+03|2135|00C4
+02|2139|00A8|Well, I am greatly surprised. You see, my wife is very proud of the fact that our son has become a Theurgist. They are the healers who serve Stratos, the Titan of Air. 
+02|21FE|0027|No, Corinth didn't mention Theurgists. 
+03|2232|3A35
+02|2237|001C|Oh yes, I've met your wife. 
+04|2258|0060
+02|225C|001C|Quite a lady, that Corinth. 
+02|228F|001C|Oh yes, I've met your wife. 
+03|22B8|39AF
+02|22BD|001D|She sounds like a fine lady. 
+04|22DF|0062
+02|22E3|001D|Oh she is. She certainly is. 
+02|2317|001D|She sounds like a fine lady. 
+03|2341|3926
+02|2346|0018|Who are the Theurgists? 
+04|2363|010C
+02|2367|00C6|What? Have you never heard of the Theurgists? For Lithos' sake, man, did you just fall out of the sky? The Theurgists are the disciples of Stratos, the Air Titan. I thought that everyone knew that. 
+02|2444|0018|Who are the Theurgists? 
+03|246F|37F8
+02|2474|0035|Yes, Corinth did mention that Cyrrus is a Theurgist. 
+04|24AE|0089
+02|24B2|002C|Well, that is where he is; Argentrock Isle. 
+02|24F5|0035|Yes, Corinth did mention that Cyrrus is a Theurgist. 
+03|2537|3730
+02|253C|000B|The valley 
+04|254C|018B
+02|2550|0132|It is beautiful here, is it not?  Many people say that this valley is the only truly beautiful place in the world. The beauty of the valley has made my life as a herdsman somewhat easier. Whenever I find myself feeling remorse, I contemplate the beauty of this place and it sometimes makes me feel better. 
+02|2697|0013|You're a herdsman? 
+02|26AE|001E|How long have you lived here? 
+03|26D7|3590
+02|26DC|001E|How long have you lived here? 
+04|26FF|0121
+02|2703|009F|Oh, all of my life. I have strolled up to the plateau a time or two. I must go into town but twice a year. But other than that, I stay put here in the valley. 
+02|27B9|000D|The plateau? 
+02|27CA|001D|Why go to town twice a year? 
+02|27F5|001E|How long have you lived here? 
+03|2820|3447
+02|2825|000D|The plateau? 
+04|2837|00AA
+02|283B|0075|Just take the trail that runs past our place here, and it will take you up to the plateau. Its very lovely up there. 
+02|28C7|000D|The plateau? 
+03|28E1|3386
+02|28E6|001D|Why go to town twice a year? 
+04|2908|0106
+02|290C|00BE|I must sell my surplus crops and the torax which are ready for slaughter. And you be assured that while I am there, I obey all of Her Ladyship's laws. We are good, law abiding folk up here. 
+02|29DF|0012|Law abiding folk? 
+02|29F5|000E|Her Ladyship? 
+03|2A0E|3259
+02|2A13|0015|Can I buy something? 
+04|2A2D|00DC
+02|2A31|009F|I afraid that there is nothing to sell. The time has not yet come for harvest. Do return at harvest time and I will sell you as many mushrooms as you can buy. 
+02|2AE7|0015|Can I buy something? 
+03|2B09|315E
+02|2B0E|0013|You're a herdsman? 
+04|2B26|0084
+02|2B2A|001F|Just like my father before me. 
+02|2B60|001C|Your father was a herdsman? 
+02|2B8A|0013|You're a herdsman? 
+03|2BAA|30BD
+02|2BAF|0018|You don't get visitors? 
+04|2BCC|00E6
+02|2BD0|0088|Not very often. No one really has much cause to come up here, other than Shaana and Mythran. That is why I was so surprised to see you. 
+02|2C6F|0010|Who is Mythran? 
+02|2C8D|0018|You don't get visitors? 
+03|2CB2|2FB5
+02|2CB7|0010|Who is Mythran? 
+04|2CCC|016B
+02|2CD0|012D|Mythran is an old hermit who lives up on the plateau. Many people think that he sells magical scrolls. I do not know if that is true or not. Personally I doubt that there is anyone who does such a thing. The Titans are the only magic in the world. I believe that Mythran is just an eccentric old man. 
+02|2E14|0010|Who is Mythran? 
+03|2E37|2E30
+02|2E3C|0008|Gwillim 
+04|2E49|0043
+02|2E4D|0013|Yes, I am Gwillim. 
+02|2E77|0008|Gwillim 
+03|2E8C|2DDB
+02|2E91|0012|Law abiding folk? 
+04|2EA8|0096
+02|2EAC|005C|That is correct, sir. Her Ladyship's administration has never had reason to worry about us. 
+02|2F1F|0012|Law abiding folk? 
+03|2F3E|2D29
+02|2F43|000E|Her Ladyship? 
+04|2F56|014D
+02|2F5A|00C7|Our ruler, Lady Mordea. You need not pretend that you do not know The Lady. But be assured that I have always lived well by her mandates. You can tell Her Ladyship that all is well in this district. 
+04|303A|0029
+02|303F|0018|Gwillim, Mordea's dead. 
+03|3063|0020
+02|3068|0012|Tell Mordea what? 
+02|3088|000E|Her Ladyship? 
+03|30A3|2BC4
+02|30A8|0012|Tell Mordea what? 
+04|30BF|00F7
+02|30C3|006D|Tell her that all is well here. She has no need to worry about her subjects in the valley breaking her laws. 
+02|3147|0025|Do you think that I work for Mordea? 
+02|3170|0019|You're her subjects too? 
+02|3197|0012|Tell Mordea what? 
+03|31B6|2AB1
+02|31BB|0019|You're her subjects too? 
+04|31D9|0064
+02|31DD|0023|But of course, and happy to be so. 
+02|3217|0019|You're her subjects too? 
+03|323D|2A2A
+02|3242|0025|Do you think that I work for Mordea? 
+04|326C|0166
+02|3270|00C2|What else would a man so equipped and well armoured do but protect our ruler? But do not think that that is the reason why I have taken the time to talk to you. I welcome the company of others. 
+04|334B|0029
+02|3350|0018|Gwillim, Mordea's dead. 
+03|3374|0027
+02|3379|0019|I don't work for Mordea. 
+02|33A0|0025|Do you think that I work for Mordea? 
+03|33D2|2895
+02|33D7|0018|Gwillim, Mordea's dead. 
+04|33F4|00CF
+02|33F8|0087|Really? I have not heard this. I must tell Corinth! She will be so excited, er, I mean saddened to hear of our ruler's untimely death. 
+02|3494|000D|The plateau? 
+02|34A5|0013|You're a herdsman? 
+03|34C3|27A4
+02|34C8|0019|I don't work for Mordea. 
+04|34E6|008E
+02|34EA|004D|Well, that is your business, friend. It is not for me to pry into your life. 
+02|354E|0019|I don't work for Mordea. 
+03|3574|26F3
+02|3579|001C|Your father was a herdsman? 
+04|359A|00C8
+02|359E|005A|My family have always been herdmen. We have lived on this land for countless generations. 
+02|360F|001C|Countless generations, huh? 
+02|3639|001C|Your father was a herdsman? 
+03|3662|2605
+02|3667|001C|Countless generations, huh? 
+04|3688|00B4
+02|368C|004C|Yes, for as far back as anyone can remember. But I fear that I am the last. 
+02|36EF|0016|Why are you the last? 
+02|3713|001C|Countless generations, huh? 
+03|373C|252B
+02|3741|0016|Why are you the last? 
+04|375C|00E7
+02|3760|004B|Because my son has become a Theurgist and I don't have any other children. 
+04|37C4|0035
+02|37C9|0024|Yes, you told me of the Theurgists. 
+03|37F9|0022
+02|37FE|0014|What's a Theurgist? 
+02|3820|0016|Why are you the last? 
+03|3843|2424
+02|3848|0024|Yes, you told me of the Theurgists. 
+04|3871|0086
+02|3875|003A|Then you understand that Cyrrus will never be a herdsman. 
+02|38C6|0024|Yes, you told me of the Theurgists. 
+03|38F7|2370
+02|38FC|0014|What's a Theurgist? 
+04|3915|00D0
+02|3919|0094|You have not heard of the Theurgists? They are the disciples of Stratos, the Air elemental. My son, Cyrrus, now lives with them on Argentrock Isle. 
+02|39C4|0014|What's a Theurgist? 
+03|39E5|2282
+02|39EA|000A|Farewell. 
+04|39F9|004E
+02|39FD|0009|Farewell 
+02|3A1D|000A|Farewell. 
+06|3A37|057C:1090
+03|3A44|2226
+03|3A47|2220
+02|3A4C|0020|Is there a ghost in the valley? 
+04|3A71|00A8
+02|3A75|0029|What? Where did you hear of such things? 
+02|3AB5|0019|I heard stories in town. 
+02|3AD2|000C|Is it true? 
+02|3AEC|0020|Is there a ghost in the valley? 
+03|3B19|214E
+02|3B1E|0019|I heard stories in town. 
+04|3B3C|0180
+04|3B43|0076
+02|3B47|002D|Well don't believe everything that you hear. 
+02|3B8B|0022|But Darion told me of the legend. 
+03|3BB9|00D8
+02|3BBD|0098|I do not know why you are here or who you may be, my friend, but if you have come here looking for a ghost you may as well go back where you came from. 
+02|3C6C|001C|I didn't mean to upset you. 
+02|3C96|0019|I heard stories in town. 
+03|3CBC|1FAB
+02|3CC1|000C|Is it true? 
+04|3CD2|00D3
+04|3CD9|005C
+02|3CDD|0043|No, it is not. Now please, I have no wish to discuss this further. 
+03|3D35|0052
+02|3D39|003C|No. And I really do not have time to discuss silly stories. 
+02|3D8C|000C|Is it true? 
+03|3DA5|1EC2
+02|3DAA|0022|But Darion told me of the legend. 
+04|3DD1|0114
+02|3DD5|00A1|Then Darion told you a lie, my friend. This story has gone on for far too long. People need to let this story go. I can not be bothered by such trivial	matters. 
+02|3E8D|001B|Can you tell me the story? 
+02|3EB6|0022|But Darion told me of the legend. 
+03|3EE5|1D82
+02|3EEA|001B|Can you tell me the story? 
+04|3F0A|010C
+02|3F0E|007B|No. Look, I do not mean to be rude, but I have no wish to discuss this further. Please, do not ask me any more about this. 
+02|3FA0|0020|Please tell me about the ghost. 
+02|3FC4|001C|I didn't mean to upset you. 
+02|3FEE|001B|Can you tell me the story? 
+03|4016|1C51
+02|401B|0020|Please tell me about the ghost. 
+04|4040|00CC
+02|4044|0071|No! Are you deaf? I asked you to forget this subject! I am too busy to be bothered by this! Now, leave me alone! 
+02|40CC|0020|Please tell me about the ghost. 
+06|40FC|057C:1090
+03|4109|1B61
+03|410C|1B5B
+02|4111|001C|I didn't mean to upset you. 
+04|4132|0098
+02|4136|0054|Do not worry, friend. This ghost thing is just not a topic which I wish to discuss. 
+02|41A1|001C|I didn't mean to upset you. 
+03|41CA|1A9D
+02|41CF|001E|Corinth told me of the ghost. 
+04|41F2|008A
+02|41F6|000B|She what?! 
+02|4216|0012|You've -seen- it? 
+02|422C|0018|Please don't get angry. 
+02|4251|001E|Corinth told me of the ghost. 
+03|427C|19EB
+02|4281|0018|Please don't get angry. 
+04|429E|012F
+02|42A2|00EF|Do not get angry? Just because my wife told of my darkest secret? I hardly know you and yet Corinth tells you everything that I would wish to keep hidden! No, I am not angry with you. But Corinth and I shall have words when you have gone. 
+02|43A8|0018|Please don't get angry. 
+03|43CD|189A
+02|43D2|0012|You've -seen- it? 
+04|43E9|00D2
+02|43ED|0082|Did she tell you that?! I do not believe it! She knows that I do not wish for anyone to know about that damned, malignant spirit! 
+02|4484|000E|So it's true? 
+02|4496|001A|Don't get mad at Corinth. 
+03|44BB|17AC
+02|44C0|000E|So it's true? 
+04|44D3|00B1
+02|44D7|007B|Yes, it is true that this valley is cursed with a malign spirit. It is also true that only a fool would pursue this thing. 
+02|4569|000E|So it's true? 
+03|4584|16E3
+02|4589|001A|Don't get mad at Corinth. 
+04|45A8|0163
+02|45AC|00E6|Why shouldn't I? That woman knows well that I do not want to even think about what happened with that ghost. She knows this and yet she tells the first stranger that comes through the valley something that is very personal to me. 
+02|46A9|0018|She was trying to help. 
+02|46C5|0011|It was my fault. 
+02|46E4|001A|Don't get mad at Corinth. 
+03|470B|155C
+02|4710|0011|It was my fault. 
+04|4726|00FC
+02|472A|00C3|I can not accept that. Corinth is a grown woman and she is fully responsible for her actions. No, if Corinth told you of this thing then she did it herself. She and I must talk later about this. 
+02|4804|0011|It was my fault. 
+03|4822|1445
+02|4827|0018|She was trying to help. 
+04|4844|00B5
+02|4848|0036|What do you mean by that? Who was she trying to help? 
+02|4895|001F|Me. My task is very important. 
+02|48B8|000E|You, Gwillim. 
+02|48D4|0018|She was trying to help. 
+03|48F9|136E
+02|48FE|001F|Me. My task is very important. 
+04|4922|0188
+02|4926|0128|I doubt very seriously that whatever you have to do here is all that important. You certainly have no right to come here and stir up such trouble, my friend. Corinth and I have been through very great ordeals and we will certainly make our way through you and your scheming! Now, be on your way! 
+02|4A65|001F|Me. My task is very important. 
+06|4A9A|057C:1090
+03|4AA7|11C3
+03|4AAA|11BD
+02|4AAF|000E|You, Gwillim. 
+04|4AC2|00D1
+02|4AC6|0041|Me? What was she trying to help -me- with? That is preposterous. 
+02|4B1E|0017|She wants you to talk. 
+02|4B39|000E|I don't know. 
+02|4B55|001F|Me. My task is very important. 
+02|4B78|000E|You, Gwillim. 
+03|4B93|10D4
+02|4B98|000E|I don't know. 
+04|4BAB|00F2
+02|4BAF|00A0|Well I have a feeling that -I- know. Corinth has been laboring under the impression that I just talk about my brother, then somehow everything will be alright. 
+02|4C66|000E|What's wrong? 
+02|4C82|000E|I don't know. 
+03|4C9D|0FCA
+02|4CA2|000E|What's wrong? 
+04|4CB5|00A5
+02|4CB9|006F|Nothing that concerns you. This is a family matter and I do not need for you to come here and stir up trouble. 
+02|4D3F|000E|What's wrong? 
+03|4D5A|0F0D
+02|4D5F|0017|She wants you to talk. 
+04|4D7B|011A
+02|4D7F|0095|Why? Does she think that talking about my brother's death is going to somehow bring him back? That is in the past. Nothing can be done about it now. 
+02|4E2B|0015|Maybe talking helps. 
+02|4E44|001F|The ghost killed your brother? 
+02|4E71|0017|She wants you to talk. 
+03|4E95|0DD2
+02|4E9A|0015|Maybe talking helps. 
+04|4EB4|00C2
+02|4EB8|0085|I have my solitude while tending the torax to think things through. I have dealt with this matter and I did it a very long time ago. 
+02|4F54|0015|Maybe talking helps. 
+03|4F76|0CF1
+02|4F7B|001F|The ghost killed your brother? 
+04|4F9F|00A8
+02|4FA3|002B|Yes. There, I told you. Now are you happy? 
+02|4FE5|0014|Where is the ghost? 
+02|4FFD|0010|How did he die? 
+02|501B|001F|The ghost killed your brother? 
+03|5047|0C20
+02|504C|0014|Where is the ghost? 
+04|5065|011D
+02|5069|00E1|Why should I tell you? So you can go there and get yourself killed like all of the others? Perhaps I should tell you. If the ghost were to kill you then you could no longer come here and create trouble between my wife and I. 
+02|5161|0014|Where is the ghost? 
+03|5182|0AE5
+02|5187|0010|How did he die? 
+04|519C|00FF
+02|51A0|0089|He died trying to find that damned ghost! Others have died doing the same, damn fool thing, so do not get any ideas about ghost hunting. 
+02|5240|0012|Others have died? 
+02|5256|001A|I want to find the ghost. 
+02|527E|0010|How did he die? 
+03|529B|09CC
+02|52A0|0012|Others have died? 
+04|52B7|00D3
+02|52BB|0067|Yes, many others. There is only one person to go after that spirit that lived and -she- lost her mind. 
+02|5339|0014|How many have died? 
+02|5351|000C|Who is she? 
+02|536B|0012|Others have died? 
+03|538A|08DD
+02|538F|0014|How many have died? 
+04|53A8|0074
+02|53AC|0038|Too many for you to go off and make one more dead fool. 
+02|53FB|0014|How many have died? 
+03|541C|084B
+02|5421|000C|Who is she? 
+04|5432|01CC
+02|5436|0171|Who? The mad woman? Her name is Kilandra and she is as mad as a keplock. Some have heard her claim to possess a key that will get you to the ghost. The woman also talks to fish, so I would not believe a word she says, but apparently the ghost and the key are not subjects she likes to brag about. She had to be pestered several times before she would even speak of it. 
+02|55BE|0013|She talks to fish? 
+02|55DF|000C|Who is she? 
+03|55FE|0669
+02|5603|0013|She talks to fish? 
+04|561B|00D4
+02|561F|0099|Yes, she talks to fish. And unless you want to wind up dead or talking to fish for the rest of your life, you'd better give up these ridiculous notions. 
+02|56CF|0013|She talks to fish? 
+03|56EF|0578
+02|56F4|001A|I want to find the ghost. 
+04|5713|0135
+02|5717|0081|Look, if you are in a hurry to die, then go and insult Lady Mordea. But I will have no hand in assisting you. Do you understand? 
+02|57AF|0016|Don't worry about me. 
+02|57C9|001D|I need help only to find it. 
+04|57F6|0026
+02|57FB|0018|Mordea's dead, Gwillim. 
+02|5821|001A|I want to find the ghost. 
+03|5848|041F
+02|584D|0018|Mordea's dead, Gwillim. 
+04|586A|00C8
+02|586E|0088|Oh yes, I keep forgetting that. Mordead was Tempest for so long that it is difficult for me to think of anyone else as ruling Tenebrae. 
+02|590D|0018|Mordea's dead, Gwillim. 
+03|5932|0335
+02|5937|0016|Don't worry about me. 
+04|5952|0112
+02|5956|00D4|Oh, you are so great and powerful that you need not fear the supernatural? I suppose that you are the type of person who goes around saving worlds. Perhaps after defeating the ghost, you'll overthrow the Titans. 
+02|5A41|0016|Don't worry about me. 
+03|5A64|0203
+02|5A69|001D|I need help only to find it. 
+04|5A8B|01DC
+02|5A8F|0184|You really are something, aren't you? Fine, go quickly unto your death then. Follow the path that runs past my house. As the path makes its final bend before going into the cave, continue to travel forward. You will find a large pile of brush and brambles against the mountain face. This hides the entrance to the ghost's lair. Now, be gone with you. You bothered my wife and I enough... 
+02|5C2A|001D|I need help only to find it. 
+06|5C57|057C:1090
+03|5C6A|BB6A

@@ -1,0 +1,86 @@
+01|0080|0080
+06|00C4|041B:034B
+06|00E2|0574:084D
+01|00F3|00F3
+04|0107|0071
+04|0113|0035
+02|0116|0021|Malchir the late Master Sorcerer 
+03|0148|002D
+02|014B|001C|Malchir the Master Sorcerer 
+03|0178|00F7
+04|017F|0050
+04|018B|0029
+02|018E|0015|Malchir the deceased 
+03|01B4|0018
+02|01B7|0007|Malchir
+03|01CF|00A0
+04|01D6|0059
+04|01E2|0029
+02|01E5|0015|dead Master Sorcerer 
+03|020B|0021
+02|020E|0010|Master Sorcerer 
+03|022F|0040
+04|023B|001E
+02|023E|000A|dead mage 
+03|0259|0016
+02|025C|0005|mage 
+01|0274|0274
+06|02AF|057C:143A
+06|02CB|057C:133F
+01|02DF|02DF
+06|031F|057C:15E7
+01|0330|0330
+05|0342|0581:2A56
+01|034B|034B
+06|038D|057C:0BCF
+06|039D|041B:03F2
+06|03C8|041B:090D
+06|03E3|057C:1090
+01|03F2|03F2
+04|0401|02F4
+02|040D|00C9|Ah, I see you have endured the trials of the Obsidian Fortress, which means that you must have nearly completed your training. I will test you now, Disciple, to see if you are worthy to be an Acolyte. 
+02|04EC|00CB|In order to become one, you must first cast three spells. You may use my pentacle, one of my staves, and my reagents to prepare them. I will be the target of each. Fear not, for they will do me no harm. 
+02|05CD|00C5|First, cast the Flame Bolt spell, then the Explosion spell, and finally, summon a Daemon to assault me. Do this in order. Failure at this point will cost your life... and there is no turning back. 
+02|06A8|0017|The test begins now... 
+06|06DD|0583:1CEB
+06|06EC|041B:0BE7
+03|06F5|0213
+04|06FF|0209
+04|0707|013F
+04|0711|003A
+02|0715|0021|Cast the Flame Bolt spell at me. 
+03|074B|00ED
+04|0755|0039
+02|0759|0020|Cast the Explosion spell at me. 
+03|078E|00AA
+04|0798|0037
+02|079C|001E|Summon a daemon to attack me. 
+03|07CF|0069
+04|07D9|002C
+02|07DD|0013|Banish the daemon. 
+03|0805|0033
+04|080F|0029
+02|0813|0010|Drop the staff. 
+03|0846|00BF
+04|0850|002F
+02|0854|000B|Do it now. 
+03|087F|0086
+04|0889|0072
+02|088D|004E|This is your last chance. You are about to fail... and that means your death. 
+01|090D|090D
+02|094A|0071|I did not send for you, insolent child. This fortress is my refuge, and for breaking its sanctity, you must die. 
+06|09D3|057C:1090
+01|09F2|09F2
+05|0A01|0581:36E7
+02|0A0F|002B|Come, Acolyte. We must begin the ceremony. 
+06|0A63|057C:15E7
+06|0AA4|0583:1F65
+06|0AE7|0583:1F65
+06|0B00|057C:15E7
+05|0B13|057C:0113
+05|0B20|057C:0113
+06|0B6F|0581:1C19
+06|0BD2|006D:247C
+01|0BE7|0BE7
+06|0C1A|057C:091C
+06|0C39|041B:09F2
