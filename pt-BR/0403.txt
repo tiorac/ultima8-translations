@@ -1,26 +1,26 @@
 01|0080|0080
 04|0094|006F
 04|00A0|0034
-02|00A4|001B|Salkind the late Seneschal 
+02|00A4|001B|Salkind, o falecido senescal 
 03|00D4|002C
-02|00D8|0016|Salkind the Seneschal 
+02|00D8|0016|Salkind, o Senescal 
 03|0103|0106
 04|010A|005B
 04|0116|002F
-02|011A|0016|the very late Salkind 
+02|011A|0016|o falecido Salkind 
 03|0145|001D
 02|0149|0007|Salkind
 03|0165|00A4
 04|016C|0057
 04|0178|0028
-02|017C|000F|dead Seneschal 
+02|017C|000F|senescal morto 
 03|01A0|0020
-02|01A4|000A|Seneschal 
+02|01A4|000A|Senescal 
 03|01C3|0046
 04|01CF|0020
-02|01D3|0007|corpse 
+02|01D3|0007|cadáver 
 03|01EF|001A
-02|01F3|0004|man 
+02|01F3|0004|homem 
 01|020E|020E
 01|021B|021B
 06|0288|0403:05F7
@@ -29,7 +29,7 @@
 01|02EF|02EF
 03|0311|00A9
 06|0364|057C:091C
-02|0374|0021|What do you think you are doing? 
+02|0374|0021|O que você acha que está fazendo? 
 06|03AD|0403:021B
 01|03BF|03BF
 06|03E6|0581:1C19
@@ -38,9 +38,9 @@
 06|0433|058B:0080
 04|0448|0069
 04|0457|0028
-02|045B|000F|Don't hurt me! 
+02|045B|000F|Não me machuque! 
 03|047F|0032
-02|0483|001C|Please! I'll do anything... 
+02|0483|001C|Por favor! Eu farei qualquer coisa... 
 01|04B6|04B6
 06|0543|057C:091C
 06|0555|0403:0DA5
@@ -64,307 +64,307 @@
 04|075A|02D1
 04|076D|0061
 06|0782|057C:091C
-02|0792|000D|Leave me be! 
+02|0792|000D|Deixe-me em paz! 
 06|07C2|057C:15E7
 04|07D6|00B1
 06|07EB|057C:091C
 04|07FF|0045
-02|0803|002C|Out of my house or I shall call the guards! 
+02|0803|002C|Saia da minha casa ou chamarei os guardas! 
 03|0844|002C
-02|0848|0016|Are we lost, perhaps? 
+02|0848|0016|Estamos perdidos, talvez? 
 06|087B|0581:1C19
 04|088F|00EA
 06|08A4|057C:091C
 04|08B8|005B
 06|08C9|057C:15E7
-02|08D9|0025|Leave, or I shall summon the guards! 
+02|08D9|0025|Saia ou chamarei os guardas! 
 03|0913|004F
 06|0924|057C:15E7
-02|0934|001C|Please, I wish to be alone. 
+02|0934|001C|Por favor, desejo ficar sozinho. 
 06|096D|0581:1C19
 04|0981|00A7
 06|0996|057C:091C
 04|09AA|0035
-02|09AE|001C|Can a man have his privacy? 
+02|09AE|001C|Um homem pode ter privacidade? 
 03|09DF|0032
-02|09E3|001C|Do you wish to speak to me? 
+02|09E3|001C|Você deseja falar comigo? 
 06|0A1C|0581:1C19
 03|0A2B|0375
 05|0A32|0581:1D62
 04|0A3E|0362
 06|0A5C|057C:091C
 04|0A70|004A
-02|0A74|0014|Where is that girl? 
+02|0A74|0014|Onde está aquela garota? 
 06|0AAB|057C:15E7
 03|0ABA|02E3
 04|0AC2|0055
-02|0AC6|0008|Aramina?
+02|0AC6|0008|Arameu?
 06|0AEB|0581:1C19
 06|0B08|057C:15E7
 03|0B17|0286
 04|0B1F|0033
-02|0B23|001A|Where is that logbook...? 
+02|0B23|001A|Onde está aquele diário de bordo...? 
 03|0B52|024B
 04|0B5A|005E
 06|0B6B|057C:15E7
-02|0B7B|000E|dum de dum... 
+02|0B7B|000E|estúpidos, eles estúpidos... 
 03|0B9E|0202
 06|0BA9|0581:1C19
 03|0BB8|01E5
 04|0BC0|008A
 06|0BD1|057C:15E7
-02|0BE1|0016|Where did I put that? 
+02|0BE1|0016|Onde eu coloquei isso? 
 06|0C1A|057C:15E7
-02|0C2A|000B|Oh, yes... 
+02|0C2A|000B|Oh sim... 
 03|0C4A|0153
 04|0C52|0048
-02|0C56|0018|Where are my documents? 
+02|0C56|0018|Onde estão meus documentos? 
 06|0C8B|0581:1C19
 03|0C9A|0103
 04|0CA2|006A
 06|0CB3|057C:15E7
-02|0CC3|001D|He will pay dearly for that. 
+02|0CC3|001D|Ele vai pagar caro por isso. 
 06|0CFD|0581:1C19
 03|0D0C|0091
 04|0D14|0089
 06|0D25|057C:15E7
-02|0D35|001F|Where is my jeweled dagger...? 
+02|0D35|001F|Onde está minha adaga de joias...? 
 06|0D77|057C:15E7
 06|0D8E|0581:1C19
 01|0DA5|0DA5
 04|0DD6|0064
 06|0DEB|057C:091C
-02|0DFB|0019|Who keeps opening these? 
+02|0DFB|0019|Quem continua abrindo isso? 
 06|0E2E|0044:08B4
 01|0E3F|0E3F
 03|0E52|22D1
 04|0E61|005F
 04|0E69|0057
-02|0E6D|002E|Out of my way! I must attend to her Ladyship! 
+02|0E6D|002E|Fora do meu caminho! Devo atender Sua Senhoria! 
 06|0EB3|057C:1090
 03|0EC0|2263
 04|0EC8|002F
-02|0ECE|0014|Greetings stranger. 
+02|0ECE|0014|Saudações estranho. 
 03|0EF7|002F
-02|0EFD|0017|One moment, Salkind... 
+02|0EFD|0017|Um momento, Salkind... 
 06|0F2C|057C:0BCF
 05|0F3E|0581:2A56
 04|0F4A|002B
-02|0F4D|0015|May I ask your name? 
-02|0F66|0004|bye 
+02|0F4D|0015|Posso perguntar seu nome? 
+02|0F66|0004|tchau 
 03|0F75|0293
 04|0F7F|018B
 05|0F84|0581:1A85
 04|0F93|0081
-02|0F97|0039|Oh, returned, have we? Don't we have some nerve, hmmmmm? 
-02|0FE5|0020|I would like to speak with you. 
+02|0F97|0039|Ah, voltamos, não é? Não temos coragem, hmmmm? 
+02|0FE5|0020|Eu gostaria de falar com você. 
 03|1014|00F3
 04|101C|0079
-02|1020|0031|We certainly were never taught manners, were we? 
-02|1066|0020|I would like to speak with you. 
+02|1020|0031|Certamente nunca aprendemos boas maneiras, não é? 
+02|1066|0020|Eu gostaria de falar com você. 
 03|1095|0072
 04|109D|006A
-02|10A1|0022|I have no time for your nonsense. 
-02|10D8|0020|I would like to speak with you. 
+02|10A1|0022|Não tenho tempo para suas bobagens. 
+02|10D8|0020|Eu gostaria de falar com você. 
 03|110A|00FE
-02|110D|0014|Who is Lady Mordea? 
-02|1125|0013|What is a Tempest? 
-02|113C|0004|bye 
+02|110D|0014|Quem é Lady Mordea? 
+02|1125|0013|O que é uma tempestade? 
+02|113C|0004|tchau 
 04|1153|0050
-02|1156|001F|What do you know about Bentic? 
-02|1179|001E|What do you know about Devon? 
+02|1156|001F|O que você sabe sobre Bentic? 
+02|1179|001E|O que você sabe sobre Devon? 
 04|11B2|0035
-02|11B6|001C|How may I be of assistance? 
+02|11B6|001C|Como posso ajudar? 
 03|11E7|0021
-02|11EB|000B|Greetings. 
-02|120D|0004|bye 
+02|11EB|000B|Saudações. 
+02|120D|0004|tchau 
 04|1217|1EFC
-02|121C|0004|bye 
-02|122F|0004|bye 
-02|125A|0015|May I ask your name? 
+02|121C|0004|tchau 
+02|122F|0004|tchau 
+02|125A|0015|Posso perguntar seu nome? 
 04|1274|0110
-02|1284|002E|Certainly, I am Salkind. And who might we be? 
-02|12C9|0005|I am 
+02|1284|002E|Certamente, eu sou Salkind. E quem poderíamos ser? 
+02|12C9|0005|Eu sou 
 02|12D8|0001|.
-02|12E8|0016|None of your concern. 
-02|130C|0015|May I ask your name? 
+02|12E8|0016|Não é da sua conta. 
+02|130C|0015|Posso perguntar seu nome? 
 04|1332|004F
-02|1337|001E|What do you know about Devon? 
-02|1359|001F|What do you know about Bentic? 
+02|1337|001E|O que você sabe sobre Devon? 
+02|1359|001F|O que você sabe sobre Bentic? 
 03|1384|1D8C
-02|1389|0005|I am 
+02|1389|0005|Eu sou 
 02|1398|0001|.
 04|139F|009B
-02|13A3|002A|And what can I help you with today, hmmmm?
-02|13E4|0005|I am 
+02|13A3|002A|E no que posso te ajudar hoje, hmmmm?
+02|13E4|0005|Eu sou 
 02|13F3|0001|.
-02|13F9|0016|None of your concern. 
-02|141E|0010|What do you do? 
+02|13F9|0016|Não é da sua conta. 
+02|141E|0010|O que você faz? 
 03|143A|1CD6
-02|143F|0008|Je suis 
+02|143F|0008|Eu sou 
 02|1451|0001|.
 04|1458|00A8
-02|145C|0034|Et en quoi puis-je t'estre utile aujourd'hui, hmmmm?
-02|14A7|0008|Je suis 
+02|145C|0034|E como posso ser útil para você hoje, hmmmm?
+02|14A7|0008|Eu sou 
 02|14B9|0001|.
-02|14BF|0016|None of your concern. 
-02|14E4|0010|What do you do? 
+02|14BF|0016|Não é da sua conta. 
+02|14E4|0010|O que você faz? 
 03|1500|1C10
-02|1505|000A|Ich hei�e 
+02|1505|000A|Meu nome é 
 02|1519|0001|.
 04|1520|00C7
-02|1524|0051|Ah, wirklich ein sch�ner Name, den wir da haben. Und? Was gibt es noch zu fragen?
-02|158C|000A|Ich hei�e 
+02|1524|0051|Ah, realmente é um nome bonito que temos lá. E? O que mais há para perguntar?
+02|158C|000A|Meu nome é 
 02|15A0|0001|.
-02|15A6|0016|None of your concern. 
-02|15CB|0010|What do you do? 
+02|15A6|0016|Não é da sua conta. 
+02|15CB|0010|O que você faz? 
 03|15E7|1B29
-02|15EC|0010|What do you do? 
+02|15EC|0010|O que você faz? 
 04|1601|00E7
-02|1605|0074|What do I do? My, we are a nosy little thing, aren't we? Well, if you must know, I am the Seneschal to Lady Mordea. 
-02|1690|0010|What do you do? 
-02|16AF|0015|What is a seneschal? 
-02|16C8|0014|Who is Lady Mordea? 
+02|1605|0074|O que eu faço? Nossa, somos uma coisinha intrometida, não é? Bem, se quer saber, sou o senescal de Lady Mordea. 
+02|1690|0010|O que você faz? 
+02|16AF|0015|O que é um senescal? 
+02|16C8|0014|Quem é Lady Mordea? 
 03|16E8|1A28
-02|16ED|0014|Who is Lady Mordea? 
+02|16ED|0014|Quem é Lady Mordea? 
 04|1706|00E7
-02|170A|00AB|Lady Mordea?! Why, out of what torax field did we crawl? She is only our Tempest. Perhaps we should go lie down and have a little rest. It seems our mind is a bit addled. 
-02|17CC|0014|Who is Lady Mordea? 
+02|170A|00AB|Senhora Mordeia?! Por que, de que campo do tórax rastejamos? Ela é apenas nossa Tempestade. Talvez devêssemos ir deitar e descansar um pouco. Parece que nossa mente está um pouco confusa. 
+02|17CC|0014|Quem é Lady Mordea? 
 03|17ED|1923
-02|17F2|0016|None of your concern. 
+02|17F2|0016|Não é da sua conta. 
 04|180D|0095
-02|1811|0063|Apparently we were not taught our manners well at all. I shall not tolerate such rudeness. Begone! 
+02|1811|0063|Aparentemente, não aprendemos bem nossas boas maneiras. Não tolerarei tal grosseria. Vá embora! 
 06|1892|057C:1090
 03|189F|1884
 03|18A2|186E
-02|18A7|0015|What is a seneschal? 
+02|18A7|0015|O que é um senescal? 
 04|18C1|0158
-02|18CB|00DC|Oh my, we aren't too up on titles are we? Yes, I am the seneschal. It is my duty to take care of running the day to day affairs of the city so that our Tempest, the Lady Mordea, can concentrate on more important things. 
-02|19BC|0013|What is a Tempest? 
-02|19D3|001B|Tell me about Lady Mordea. 
-02|19F2|001C|What more important things? 
+02|18CB|00DC|Nossa, não estamos muito interessados em títulos, estamos? Sim, sou o senescal. É meu dever cuidar da administração dos assuntos do dia a dia da cidade para que nossa Tempestade, a Senhora Mordea, possa se concentrar em coisas mais importantes. 
+02|19BC|0013|O que é uma tempestade? 
+02|19D3|001B|Conte-me sobre Lady Mordea. 
+02|19F2|001C|Que coisas mais importantes? 
 03|1A19|16F7
-02|1A1E|0013|What is a Tempest? 
+02|1A1E|0013|O que é uma tempestade? 
 04|1A36|011A
-02|1A3A|00A1|Surely you have heard of the Tempest? Oh, I see, we are just a visitor to this city, eh? Well, the Tempest is the handmaiden to the Great Titan of Water Hydros. 
-02|1AF2|0013|What is a Tempest? 
-02|1B14|001D|What are the Tempest duties? 
-02|1B35|000F|Who is Hydros? 
+02|1A3A|00A1|Certamente você já ouviu falar da Tempestade? Ah, entendo, somos apenas visitantes desta cidade, hein? Bem, a Tempestade é a serva do Grande Titã da Água Hydros. 
+02|1AF2|0013|O que é uma tempestade? 
+02|1B14|001D|Quais são os deveres do Tempest? 
+02|1B35|000F|Quem é Hidros? 
 03|1B50|15C0
-02|1B55|001D|What are the Tempest duties? 
+02|1B55|001D|Quais são os deveres do Tempest? 
 04|1B77|0105
-02|1B7B|00C0|How is it we don't know about the Tempest? Are we a very busy person or perhaps a little simple-minded? Well, no matter. The Tempest has the ability to touch a portion of the power of Hydros. 
-02|1C52|001D|What are the Tempest duties? 
+02|1B7B|00C0|Como é que não sabemos sobre a Tempestade? Somos uma pessoa muito ocupada ou talvez um pouco simplória? Bem, não importa. A Tempestade tem a capacidade de tocar uma parte do poder dos Hydros. 
+02|1C52|001D|Quais são os deveres do Tempest? 
 03|1C7C|1494
-02|1C81|000F|Who is Hydros? 
+02|1C81|000F|Quem é Hidros? 
 04|1C95|0102
-02|1C99|00CB|Ah, the great Water Titan, the Lurker. What ever title she goes by, she is the most powerful of the Titans. The Lady Mordea can use a bit of Hydro's power to control the weather and all things of water. 
-02|1D7B|000F|Who is Hydros? 
+02|1C99|00CB|Ah, o grande Titã da Água, o Luker. Qualquer que seja o título que ela use, ela é a mais poderosa dos Titãs. Lady Mordea pode usar um pouco do poder de Hydro para controlar o clima e todas as coisas relacionadas à água. 
+02|1D7B|000F|Quem é Hidros? 
 03|1D97|1379
-02|1D9C|001B|Tell me about Lady Mordea. 
+02|1D9C|001B|Conte-me sobre Lady Mordea. 
 04|1DBC|0175
-02|1DC0|0101|She is a wise ruler and a fierce leader, most worthy of the title, 'Tempest'. So many times people say 'This thing or that thing cannot be done.' and yet she does it. Do we not now have much lower crime than under the previous Tempest? There is your proof! 
-02|1ED8|001B|Tell me about Lady Mordea. 
-02|1F02|0023|Tell me about the title 'Tempest'. 
+02|1DC0|0101|Ela é uma governante sábia e uma líder feroz, muito digna do título de 'Tempestade'. Muitas vezes as pessoas dizem: 'Isto ou aquilo não pode ser feito.' e ainda assim ela faz isso. Não temos agora uma criminalidade muito menor do que durante a Tempestade anterior? Aí está a sua prova! 
+02|1ED8|001B|Conte-me sobre Lady Mordea. 
+02|1F02|0023|Conte-me sobre o título 'Tempestade'. 
 03|1F31|11DF
-02|1F36|0023|Tell me about the title 'Tempest'. 
+02|1F36|0023|Conte-me sobre o título 'Tempestade'. 
 04|1F5E|01E4
-02|1F62|016A|My, my, my. We really are a bit simple, aren't we? Perhaps we've been drinking a bit too much of Orlok's ale, hmmmm? Well, just to humor you, I'll refresh your memory. The title of Tempest is given to the leader of the city of Tenebrae. To become the Tempest, one must have been born of the royal family. It is only through heredity one may sit upon the throne. 
-02|20E3|0023|Tell me about the title 'Tempest'. 
-02|2115|0021|Why is the Tempestry hereditary? 
+02|1F62|016A|Meu meu meu. Realmente somos um pouco simples, não é? Talvez tenhamos bebido um pouco demais da cerveja de Orlok, hmmmm? Bem, só para agradar você, vou refrescar sua memória. O título de Tempestade é dado ao líder da cidade de Tenebrae. Para se tornar a Tempestade, é preciso ter nascido na família real. É somente através da hereditariedade que alguém pode sentar-se no trono. 
+02|20E3|0023|Conte-me sobre o título 'Tempestade'. 
+02|2115|0021|Por que o Tempestry é hereditário? 
 03|2142|0FCE
-02|2147|0021|Why is the Tempestry hereditary? 
+02|2147|0021|Por que o Tempestry é hereditário? 
 04|216D|0138
-02|2171|00C3|Because the powers that are necessary to bear the title are only transferred from parent to child. Lady Mordea received the power from her father. Does that make things a little clearer for you? 
-02|224B|0021|Why is the Tempestry hereditary? 
-02|227B|001E|Who was Lady Mordea's father? 
+02|2171|00C3|Porque os poderes necessários para ostentar o título só são transferidos de pai para filho. Lady Mordea recebeu o poder de seu pai. Isso torna as coisas um pouco mais claras para você? 
+02|224B|0021|Por que o Tempestry é hereditário? 
+02|227B|001E|Quem era o pai de Lady Mordea? 
 03|22A5|0E6B
-02|22AA|001E|Who was Lady Mordea's father? 
+02|22AA|001E|Quem era o pai de Lady Mordea? 
 04|22CD|0175
-02|22D1|012F|Didn't you learn anything as a child? Lord Keldan was Lady Mordea's father! And might I add that Lady Mordea is twice the Tempest Lord Keldan ever was. Why, if it weren't for his wife's encouragement, he would never have admitted his powers and assumed the title of Tempest, and then where would we be? 
-02|2417|001E|Who was Lady Mordea's father? 
+02|22D1|012F|Você não aprendeu nada quando criança? Lorde Keldan era o pai de Lady Mordea! E devo acrescentar que Lady Mordea é duas vezes o Lorde da Tempestade que Keldan já foi. Por que, se não fosse pelo incentivo de sua esposa, ele nunca teria admitido seus poderes e assumido o título de Tempestade, e então onde estaríamos? 
+02|2417|001E|Quem era o pai de Lady Mordea? 
 03|2442|0CCE
-02|2447|001C|What more important things? 
+02|2447|001C|Que coisas mais importantes? 
 04|2468|00C0
-02|246C|007C|Well, if it were to be common knowledge what the Tempest does, then there would be no mystery...no majestic mystique, hmmm? 
-02|24FF|001C|What more important things? 
+02|246C|007C|Bem, se fosse de conhecimento geral o que a Tempestade faz, então não haveria mistério... nenhuma mística majestosa, hmmm? 
+02|24FF|001C|Que coisas mais importantes? 
 03|2528|0BE8
-02|252D|001F|What do you know about Bentic? 
+02|252D|001F|O que você sabe sobre Bentic? 
 04|2551|011E
-02|2555|0092|That knave! He was conducting forbidden research. Why I am pleased we took care of him when we did. Nipped that problem right in the bud, we did. 
-02|25FE|001F|What do you know about Bentic? 
-02|262A|0018|You 'took care of him?' 
-02|2646|001E|What is 'forbidden research'? 
+02|2555|0092|Esse patife! Ele estava conduzindo pesquisas proibidas. Estou satisfeito por termos cuidado dele naquele momento. Eliminamos esse problema pela raiz, nós o fizemos. 
+02|25FE|001F|O que você sabe sobre Bentic? 
+02|262A|0018|Você 'cuidou dele?' 
+02|2646|001E|O que é “pesquisa proibida”? 
 03|266F|0AA1
-02|2674|0018|You 'took care of him?' 
+02|2674|0018|Você 'cuidou dele?' 
 04|2691|0072
-02|2695|001C|He was executed, of course. 
-02|26C8|0018|You 'took care of him?' 
-02|26ED|000B|Executed?! 
+02|2695|001C|Ele foi executado, é claro. 
+02|26C8|0018|Você 'cuidou dele?' 
+02|26ED|000B|Executado?! 
 03|2703|0A0D
-02|2708|000B|Executed?! 
+02|2708|000B|Executado?! 
 04|2718|014E
-02|271C|00D9|Yes, on the docks. Oh, it is the best way. And we do it on the docks so that the site is easily washed down. No mess, no fuss. It is my job to schedule the executions. I keep records of all executions in my log book. 
-02|280C|000B|Executed?! 
-02|2826|0021|What do you mean the 'best way'? 
-02|284B|000F|What log book? 
+02|271C|00D9|Sim, nas docas. Ah, é o melhor caminho. E fazemos isso nas docas para que o local seja facilmente lavado. Sem bagunça, sem confusão. É meu trabalho agendar as execuções. Mantenho registros de todas as execuções em meu diário de bordo. 
+02|280C|000B|Executado?! 
+02|2826|0021|O que você quer dizer com 'melhor maneira'? 
+02|284B|000F|Qual livro de registro? 
 03|2866|08AA
-02|286B|000F|What log book? 
+02|286B|000F|Qual livro de registro? 
 04|287F|0196
-02|2883|015F|Why, my log book. I have to keep records of these sorts of things, you know. Why, how else would we keep track of expenses and such? Lady Mordea requires a full accounting of these things. It's all part of the thankless job of the seneschal. But that's all right, just knowing that I've done my job to the best of my ability is all the reward I need. 
-02|29F9|000F|What log book? 
+02|2883|015F|Ora, meu diário de bordo. Eu tenho que manter registros desse tipo de coisa, você sabe. Por que, de que outra forma poderíamos controlar as despesas e coisas assim? Lady Mordea exige uma contabilidade completa dessas coisas. Tudo faz parte do trabalho ingrato do senescal. Mas tudo bem, apenas saber que fiz meu trabalho da melhor maneira possível é toda a recompensa de que preciso. 
+02|29F9|000F|Qual livro de registro? 
 03|2A15|06FB
-02|2A1A|0021|What do you mean the 'best way'? 
+02|2A1A|0021|O que você quer dizer com 'melhor maneira'? 
 04|2A40|0119
-02|2A44|00D0|The quicker the better. Can't have prisoners cluttering up the jails, costing the taxpayers' money. This way we keep costs down and add a serious deterrent to those who might be thinking of breaking the law. 
-02|2B2B|0021|What do you mean the 'best way'? 
+02|2A44|00D0|Quanto mais rápido melhor. Não podemos ter prisioneiros atravancando as cadeias, custando o dinheiro dos contribuintes. Desta forma, mantemos os custos baixos e acrescentamos um sério impedimento para aqueles que possam estar a pensar em infringir a lei. 
+02|2B2B|0021|O que você quer dizer com 'melhor maneira'? 
 03|2B59|05B7
-02|2B5E|001E|What is 'forbidden research'? 
+02|2B5E|001E|O que é “pesquisa proibida”? 
 04|2B81|00A6
-02|2B85|0060|If I told you what research was forbidden, then I'd just be encouraging you, wouldn't I, hmmmm? 
-02|2BFC|001E|What is 'forbidden research'? 
+02|2B85|0060|Se eu lhe dissesse quais pesquisas são proibidas, estaria apenas encorajando você, não estaria, hmmmm? 
+02|2BFC|001E|O que é “pesquisa proibida”? 
 03|2C27|04E9
-02|2C2C|001E|What do you know about Devon? 
+02|2C2C|001E|O que você sabe sobre Devon? 
 04|2C4F|00B7
-02|2C53|004D|That trouble maker. Well, he will be taken care of, and well he deserves it. 
-02|2CB7|001E|What do you know about Devon? 
-02|2CE4|0016|What are the charges? 
+02|2C53|004D|Aquele criador de problemas. Bem, ele será cuidado e bem, ele merece. 
+02|2CB7|001E|O que você sabe sobre Devon? 
+02|2CE4|0016|Quais são as acusações? 
 03|2D06|040A
-02|2D0B|0016|What are the charges? 
+02|2D0B|0016|Quais são as acusações? 
 04|2D26|014B
-02|2D2A|011F|That is privileged information. It will be revealed at the execution. Good heavens, it's almost time. Oh, and there is -so- much to do before an execution. Arrange for the clean up crew, make sure Shaana's axe is sharpened...I've enjoyed our little talk, but I must leave now. Good day. 
+02|2D2A|011F|Isso é informação privilegiada. Será revelado na execução. Meu Deus, está quase na hora. Ah, e há muito o que fazer antes de uma execução. Providencie a equipe de limpeza, certifique-se de que o machado de Shaana esteja afiado... Gostei da nossa conversa, mas preciso ir embora agora. Bom dia. 
 06|2E61|057C:1090
 03|2E6E|02B5
 03|2E71|029F
-02|2E76|0020|I would like to speak with you. 
+02|2E76|0020|Eu gostaria de falar com você. 
 04|2E9B|0057
-02|2E9F|0023|Well, have we learned our manners? 
-02|2ED7|0009|yes, sir 
-02|2EE4|0003|no 
+02|2E9F|0023|Bem, aprendemos nossas boas maneiras? 
+02|2ED7|0009|sim senhor 
+02|2EE4|0003|não 
 03|2EF2|021E
-02|2EF7|0009|yes, sir 
+02|2EF7|0009|sim senhor 
 04|2F05|00D0
-02|2F09|0074|Well, that's a little more like it. Perhaps there is some hope for us after all, hmmmm? Now, what can I do for you? 
-02|2F9A|0009|yes, sir 
-02|2FA7|0003|no 
-02|2FB9|0010|What do you do? 
+02|2F09|0074|Bem, isso é um pouco mais parecido. Talvez haja alguma esperança para nós, afinal, hmmmm? Agora, o que posso fazer por você? 
+02|2F9A|0009|sim senhor 
+02|2FA7|0003|não 
+02|2FB9|0010|O que você faz? 
 03|2FD5|013B
-02|2FDA|0003|no 
+02|2FDA|0003|não 
 04|2FE2|0072
-02|2FE6|0029|Don't toy with me! I won't stand for it! 
+02|2FE6|0029|Não brinque comigo! Eu não vou tolerar isso! 
 06|3027|057C:1090
-02|3035|0007|Swine! 
+02|3035|0007|Suínos! 
 03|3051|00D2
 03|3054|00BC
 05|3059|0581:1A85
 04|3068|0023
-02|306C|000A|Farewell. 
+02|306C|000A|Até a próxima. 
 03|308B|0072
 04|3093|0034
-02|3097|001B|Good day to you, stranger. 
+02|3097|001B|Bom dia para você, estranho. 
 03|30C7|0036
 04|30CF|002E
-02|30D3|0015|Until we meet again. 
+02|30D3|0015|Até nos encontrarmos novamente. 
 06|3103|057C:1090
 03|3113|E0F5
 06|3119|057C:1090

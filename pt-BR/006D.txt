@@ -1,5 +1,5 @@
 01|0080|0080
-02|008C|0015|Pyros, Lord of Flame 
+02|008C|0015|Pyros, Senhor da Chama 
 01|00B8|00B8
 06|00C7|006D:16FD
 06|00E4|006D:178F
@@ -16,13 +16,13 @@
 06|0225|057C:15E7
 04|0291|0023
 05|0299|0581:2A56
-02|02A2|0004|No! 
+02|02A2|0004|Não! 
 04|02BC|0035
 05|02C4|0581:2A56
-02|02CD|0013|This is all wrong! 
+02|02CD|0013|Isso está tudo errado! 
 03|02F1|0031
 05|02F9|0581:2A56
-02|0302|0012|What have I done? 
+02|0302|0012|O que eu fiz? 
 06|0338|057C:15E7
 05|034D|0581:1A85
 05|035E|0581:1A96
@@ -36,41 +36,41 @@
 01|0413|0413
 03|042F|12C9
 06|0442|0581:1C19
-02|0452|0037|For what pathetic reason have you summoned me, mortal? 
+02|0452|0037|Por que motivo patético você me convocou, mortal? 
 06|048F|006D:00B8
-02|04A3|0026|I have need of your knowledge, Pyros. 
+02|04A3|0026|Preciso do seu conhecimento, Pyros. 
 06|04E1|006D:17FE
 06|04F6|0581:1C19
-02|0506|004C|Your simple mind cannot possibly hold an inkling of the depth of my wisdom. 
+02|0506|004C|Sua mente simples não pode ter a menor ideia da profundidade de minha sabedoria. 
 06|0558|006D:00B8
-02|056C|0020|I command you to do my bidding! 
+02|056C|0020|Eu ordeno que você cumpra minha ordem! 
 06|05A4|006D:1914
 06|05B4|006D:1883
-02|05C2|0030|I will feast upon your entrails first, manling! 
+02|05C2|0030|Vou me banquetear com suas entranhas primeiro, homem! 
 06|05F8|006D:00B8
-02|060C|0042|I think not yet, my Lord. Now, about the information I require... 
-02|0664|0013|Ask your question. 
+02|060C|0042|Acho que ainda não, meu Senhor. Agora, sobre as informações que preciso... 
+02|0664|0013|Faça sua pergunta. 
 06|067D|006D:00B8
 06|0691|006D:1914
-02|069F|0028|I grow weary of your incessant whining. 
+02|069F|0028|Estou cansado de sua choradeira incessante. 
 06|06CD|006D:00B8
-02|06E1|003F|I have read legends of a great fire that once hung in the sky. 
+02|06E1|003F|Eu li lendas sobre um grande incêndio que uma vez pairou no céu. 
 06|0738|006D:17FE
-02|0746|0012|Foolish mortal... 
+02|0746|0012|Mortal tolo... 
 06|075E|006D:00B8
 06|0772|006D:1914
-02|0780|0022|I am the only fire of this world. 
+02|0780|0022|Eu sou o único fogo deste mundo. 
 06|07A8|006D:00B8
-02|07BC|008B|So. You have no knowledge of the sun. Very well. If your knowledge is limited, I will have some of your power, Daemon Lord. Give it to me! 
+02|07BC|008B|Então. Você não tem conhecimento do sol. Muito bem. Se o seu conhecimento for limitado, terei um pouco do seu poder, Daemon Lord. Me dê isto! 
 06|0860|0583:1CEB
 06|086C|006D:1EFA
-02|087B|0026|Your power is almost too much for me! 
+02|087B|0026|Seu poder é quase demais para mim! 
 06|08B5|006D:1883
-02|08C3|0024|Your flesh will burn in my volcano! 
+02|08C3|0024|Sua carne queimará no meu vulcão! 
 06|08ED|006D:00B8
 06|0906|0581:1C19
 06|0918|006D:1914
-02|0928|0045|Strengthen your defense, Acolytes! He seeks to break our restraints! 
+02|0928|0045|Fortaleçam sua defesa, Acólitos! Ele procura quebrar nossas restrições! 
 07|0997|006D:0413|05A5
 06|09A7|0581:1C19
 01|09B8|09B8
@@ -97,7 +97,7 @@
 06|0BAC|0581:1C19
 06|0BBF|006D:1FC4
 04|0BD3|0210
-02|0BD7|003A|Ah... I have found a weakness in your defenses, sorcerer. 
+02|0BD7|003A|Ah... encontrei uma fraqueza em suas defesas, feiticeiro. 
 06|0C17|006D:00B8
 06|0C2B|006D:17FE
 06|0C40|0581:1C19
@@ -106,7 +106,7 @@
 05|0C74|057C:0113
 06|0C84|006D:1A03
 06|0C99|0581:1C19
-02|0CAB|0036|Guardian help us! Pyros is free! Flee for your lives! 
+02|0CAB|0036|Guardião nos ajude! Pyros é grátis! Fujam para salvar suas vidas! 
 06|0CF9|006D:1914
 07|0D06|006D:0413|0914
 06|0D16|0581:1C19
@@ -123,7 +123,7 @@
 06|0DD6|006D:1883
 03|0DE3|0915
 04|0DED|0274
-02|0DF1|003A|Ah... I have found a weakness in your defenses, sorcerer. 
+02|0DF1|003A|Ah... encontrei uma fraqueza em suas defesas, feiticeiro. 
 06|0E31|006D:00B8
 06|0E45|006D:17FE
 06|0E5A|0581:1C19
@@ -132,7 +132,7 @@
 05|0E8E|057C:0113
 06|0E9E|006D:1A03
 06|0EB3|0581:1C19
-02|0EC5|0061|Guardian help us! Pyros is almost free! Channel your energy to me and we will try send him back! 
+02|0EC5|0061|Guardião nos ajude! Pyros é quase grátis! Canalize sua energia para mim e tentaremos mandá-lo de volta! 
 06|0F42|006D:00F3
 05|0F52|0581:1A96
 06|0F5F|0581:1C19
@@ -140,20 +140,20 @@
 05|0F85|0581:1A96
 06|0F92|0581:1C19
 06|0FA4|006D:1914
-02|0FB2|0010|Prepare to die! 
+02|0FB2|0010|Prepare-se para morrer! 
 06|0FC8|006D:00B8
-02|0FE2|006D|I have the Tongue of Flame! Yes! That's it! By its power, I banish you! Return to the Fire that spawned you! 
+02|0FE2|006D|Eu tenho a Língua de Chama! Sim! É isso! Pelo seu poder, eu te bano! Volte para o Fogo que te gerou! 
 04|106B|02BC
 06|107B|057C:15E7
 06|1096|057C:091C
 06|10AC|0581:1C19
-02|10BC|003A|Ah... I have found a weakness in your defenses, sorcerer. 
+02|10BC|003A|Ah... encontrei uma fraqueza em suas defesas, feiticeiro. 
 06|10FC|006D:00B8
 06|1110|006D:17FE
 06|1125|0581:1C19
 06|1137|006D:1A03
 06|114C|0581:1C19
-02|115E|0060|We have barely managed to contain him. Channel your energy to me and we will try send him back. 
+02|115E|0060|Mal conseguimos contê-lo. Canalize sua energia para mim e tentaremos mandá-lo de volta. 
 06|11DA|006D:00F3
 05|11EA|0581:1A96
 06|11F7|0581:1C19
@@ -164,9 +164,9 @@
 05|1250|0581:1A96
 06|125D|0581:1C19
 06|126F|006D:1914
-02|127D|0010|Prepare to die! 
+02|127D|0010|Prepare-se para morrer! 
 06|1293|006D:00B8
-02|12AD|0068|No, Pyros! I have the Tongue of Flame! By its power, I banish you! Return to the Fire that spawned you! 
+02|12AD|0068|Não, Pyros! Eu tenho a Língua de Chama! Pelo seu poder, eu te bano! Volte para o Fogo que te gerou! 
 04|132F|02AC
 06|133F|057C:15E7
 06|135A|057C:091C
@@ -174,7 +174,7 @@
 06|1390|057C:15E7
 06|13AF|057C:091C
 06|13C5|0581:1C19
-02|13D7|006A|Well done, Acolytes. We have managed to contain him. Channel your energy to me and we will send him back. 
+02|13D7|006A|Muito bem, Acólitos. Conseguimos contê-lo. Canalize sua energia para mim e nós o enviaremos de volta. 
 06|145D|006D:00F3
 05|146D|0581:1A96
 06|147A|0581:1C19
@@ -187,9 +187,9 @@
 06|14F6|006D:00F3
 05|1506|0581:1A96
 06|1513|0581:1C19
-02|1523|0010|Prepare to die! 
+02|1523|0010|Prepare-se para morrer! 
 06|1539|006D:00B8
-02|1553|0076|No, Pyros. You forget... I have the Tongue of Flame. By its power, I banish you. Return to the Fire that spawned you! 
+02|1553|0076|Não, Pyros. Você esquece... que eu tenho a Língua de Chama. Pelo seu poder, eu te bano. Volte para o Fogo que te gerou! 
 02|15E0|0014|Vas An Flam Bal Xen!
 06|1616|057C:15E7
 06|1649|006D:20A1
@@ -252,7 +252,7 @@
 06|1E18|057C:15E7
 06|1E35|0581:1C19
 06|1E4F|057C:091C
-02|1E61|0005|Bane!
+02|1E61|0005|Banido!
 06|1E6F|057C:087D
 06|1E8B|057C:091C
 06|1EAA|0581:1C19
@@ -283,10 +283,10 @@
 06|22FF|0581:1C19
 01|231E|231E
 06|233B|057C:091C
-02|234D|0036|Insolent fool! You will die for your insubordination! 
+02|234D|0036|Tolo insolente! Você morrerá por sua insubordinação! 
 06|23A0|0581:1C8B
 01|23D9|23D9
-02|23E3|000C|No, wait... 
+02|23E3|000C|Não, espere... 
 06|240C|0581:1C19
 06|2424|057C:15E7
 06|243B|0581:1C19
@@ -325,71 +325,71 @@
 06|28AB|0581:1C19
 06|28C3|057C:15E7
 06|28DC|0581:1C19
-02|28EE|0058|I am glad that you all were waiting for us. I hope I haven't inconvenienced any of you. 
+02|28EE|0058|Estou feliz que todos vocês estavam esperando por nós. Espero não ter incomodado nenhum de vocês. 
 04|2962|0038
-02|2966|001A|No, of course not Master. 
+02|2966|001A|Não, claro que não, Mestre. 
 06|2989|057C:087D
 03|299A|0030
-02|299E|0015|Well, just a little. 
+02|299E|0015|Bem, só um pouco. 
 06|29BC|057C:087D
-02|29D0|0018|Hmmm? What do you mean? 
+02|29D0|0018|Hmmm? O que você quer dizer? 
 06|29F1|057C:087D
-02|2A05|0021|Nothing Gorgrond. Just be quiet. 
+02|2A05|0021|Nada Gorgrond. Apenas fique quieto. 
 06|2A2F|057C:087D
 06|2A48|0581:1C19
-02|2A5A|003F|If I did, it is of no consequence. This is far more important. 
-02|2AB1|002D|Place your candles about the Great Pentacle. 
+02|2A5A|003F|Se eu fizesse isso, não teria nenhuma consequência. Isto é muito mais importante. 
+02|2AB1|002D|Coloque suas velas ao redor do Grande Pentáculo. 
 06|2B09|057C:15E7
 06|2B30|057C:15E7
 05|2B40|0581:1A96
 06|2B4D|0581:1C19
 06|2B64|0581:1C19
-02|2B73|000D|Yes, Master. 
+02|2B73|000D|Sim mestre. 
 06|2B89|057C:087D
 06|2BAA|057C:15E7
 06|2BCF|057C:15E7
 05|2BDF|0581:1A96
 06|2BEC|0581:1C19
-02|2BFD|000D|Yes, Master. 
+02|2BFD|000D|Sim mestre. 
 06|2C13|057C:087D
 06|2C36|057C:15E7
 06|2C5D|057C:15E7
 05|2C6D|0581:1A96
 06|2C7A|0581:1C19
-02|2C8B|000D|Yes, Master. 
+02|2C8B|000D|Sim mestre. 
 06|2CA1|057C:087D
 06|2CC4|057C:15E7
 06|2CEB|057C:15E7
 05|2CFB|0581:1A96
 06|2D08|0581:1C19
-02|2D17|000C|I will not. 
+02|2D17|000C|Eu não vou. 
 04|2D72|002C
-02|2D75|0013|I do not have one. 
+02|2D75|0013|Eu não tenho um. 
 05|2D8E|0581:3695
 03|2D9E|0023
-02|2DA1|000D|Yes, Master. 
+02|2DA1|000D|Sim mestre. 
 05|2DB4|0581:3650
-02|2DDF|000D|Yes, Master. 
+02|2DDF|000D|Sim mestre. 
 04|2DF2|03BB
 06|2E0B|057C:091C
-02|2E1C|0013|I do not have one. 
+02|2E1C|0013|Eu não tenho um. 
 04|2E34|0360
 04|2E49|002A
 02|2E4F|000A|Vardion...
 06|2E62|057C:087D
 03|2E73|0024
-02|2E79|0007|Bane...
+02|2E79|0007|Banimento...
 06|2E89|057C:087D
 06|2EAC|057C:091C
-02|2EBE|0025|Provide the -Acolyte- with a candle. 
+02|2EBE|0025|Forneça ao -Acólito- uma vela. 
 06|2EEC|057C:087D
-02|2EFD|000E|I told him... 
+02|2EFD|000E|Eu disse a ele... 
 06|2F14|057C:087D
 06|2F29|0581:1C19
 06|2F4E|057C:091C
-02|2F60|0007|Do it. 
+02|2F60|0007|Faça isso. 
 06|2F70|057C:087D
-02|2F82|000D|Yes, Master. 
+02|2F82|000D|Sim mestre. 
 06|2F98|057C:087D
 06|2FB4|057C:091C
 06|2FD5|057C:091C
@@ -398,11 +398,11 @@
 06|3055|0581:1C19
 06|3097|057C:15E7
 06|30B4|057C:15E7
-02|30C6|001A|Thank you, First Acolyte. 
+02|30C6|001A|Obrigado, Primeiro Acólito. 
 06|30E9|057C:087D
-02|30FB|001F|You are most gracious, Master. 
+02|30FB|001F|Você é muito gentil, Mestre. 
 06|3123|057C:087D
-02|3137|0016|Resume your position. 
+02|3137|0016|Retome sua posição. 
 06|3156|057C:087D
 06|3170|057C:091C
 06|3189|057C:091C
@@ -412,36 +412,36 @@
 06|31E9|057C:15E7
 06|3201|057C:15E7
 06|3218|0581:1C19
-02|322A|001E|Good. Now Ignite the candles. 
+02|322A|001E|Bom. Agora acenda as velas. 
 06|327C|0583:059A
 06|328F|0581:1C19
-02|32A6|000D|Yes, Master. 
+02|32A6|000D|Sim mestre. 
 06|32BC|057C:087D
 06|32E8|0583:059A
 06|32FB|0581:1C19
-02|3310|000D|Yes, Master. 
+02|3310|000D|Sim mestre. 
 06|3326|057C:087D
 06|3350|0583:059A
 06|3363|0581:1C19
-02|337A|000D|Yes, Master. 
+02|337A|000D|Sim mestre. 
 06|3390|057C:087D
 06|33BC|0583:059A
 06|33CF|0581:1C19
-02|342B|0010|Do it yourself. 
+02|342B|0010|Faça Você Mesmo. 
 04|3448|0026
-02|344B|000D|Yes, Master. 
+02|344B|000D|Sim mestre. 
 05|345E|0581:3650
 03|346E|0037
-02|3471|0021|I don't have the spell prepared. 
+02|3471|0021|Não tenho o feitiço preparado. 
 05|3498|0581:3695
-02|34C3|000D|Yes, Master. 
+02|34C3|000D|Sim mestre. 
 04|34D6|00FA
 06|34EF|057C:091C
-02|3500|0010|Do it yourself. 
+02|3500|0010|Faça Você Mesmo. 
 06|351E|006D:231E
 03|352B|094E
 03|352E|009F
-02|353E|001B|Fool! I will do it myself. 
+02|353E|001B|Enganar! Eu vou fazer isso sozinho. 
 06|3562|057C:087D
 06|3577|0581:1C19
 06|35A6|0583:059A
@@ -449,34 +449,34 @@
 06|35F3|0583:059A
 05|36FE|0581:2A56
 06|3713|0581:1C19
-02|3725|002A|Kneel before the Lord of Flame, Acolytes. 
-02|3766|000D|Yes, Master. 
+02|3725|002A|Ajoelhem-se diante do Senhor da Chama, Acólitos. 
+02|3766|000D|Sim mestre. 
 06|377C|057C:087D
 06|379B|057C:15E7
-02|37AA|000D|Yes, Master. 
+02|37AA|000D|Sim mestre. 
 06|37C0|057C:087D
 06|37D4|057C:15E7
-02|37E5|000D|Yes, Master. 
+02|37E5|000D|Sim mestre. 
 06|37FB|057C:087D
 06|381A|057C:15E7
-02|3829|000D|Yes, Master. 
-02|383A|0008|Must I? 
-02|3868|000D|Yes, Master. 
+02|3829|000D|Sim mestre. 
+02|383A|0008|Eu devo? 
+02|3868|000D|Sim mestre. 
 04|387B|0228
 06|3894|057C:091C
-02|38A6|0017|I said kneel, Acolyte! 
+02|38A6|0017|Eu disse para se ajoelhar, Acólito! 
 06|38C6|057C:087D
 06|38ED|057C:091C
-02|38FC|000D|Yes, Master. 
-02|390D|0010|No, I will not. 
-02|3943|000D|Yes, Master. 
+02|38FC|000D|Sim mestre. 
+02|390D|0010|Não eu não vou. 
+02|3943|000D|Sim mestre. 
 04|3956|0103
-02|395C|0034|You will kneel, or you will die! Do you understand? 
-02|39A5|000D|Yes, Master. 
-02|39B6|000E|Nao, eu nao. 
-02|39EA|000D|Yes, Master. 
+02|395C|0034|Você vai se ajoelhar ou vai morrer! Você entende? 
+02|39A5|000D|Sim mestre. 
+02|39B6|000E|Não, eu não. 
+02|39EA|000D|Sim mestre. 
 04|39FD|005C
-02|3A03|0010|Then die, fool. 
+02|3A03|0010|Então morra, idiota. 
 06|3A30|0581:1C8B
 03|3A59|0420
 06|3A67|057C:091C
@@ -484,24 +484,24 @@
 06|3A98|057C:15E7
 06|3AAF|057C:15E7
 06|3ACE|0581:1C19
-02|3AE0|0059|Now... speak the words of the chant. You must concentrate on them throughout the ritual. 
+02|3AE0|0059|Agora... fale as palavras do canto. Você deve se concentrar neles durante todo o ritual. 
 06|3B56|0581:1C19
-02|3B67|000F|In Sanct An Por
+02|3B67|000F|Em Sanct An Por
 06|3B8F|0581:1C19
-02|3BA0|000F|In Sanct An Por
+02|3BA0|000F|Em Sanct An Por
 06|3BC8|0581:1C19
-02|3BD7|000F|In Sanct An Por
+02|3BD7|000F|Em Sanct An Por
 06|3BFF|0581:1C19
-02|3C0E|000F|In Sanct An Por
-02|3C21|0016|The chant is useless. 
-02|3C5D|000F|In Sanct An Por
+02|3C0E|000F|Em Sanct An Por
+02|3C21|0016|O canto é inútil. 
+02|3C5D|000F|Em Sanct An Por
 06|3C8B|057C:091C
 06|3CA0|006D:231E
 03|3CAD|01CC
 03|3CB0|0022
-02|3CB5|000F|In Sanct An Por
+02|3CB5|000F|Em Sanct An Por
 06|3CDD|0581:1C19
-02|3CEF|0059|I believe all is ready, my Acolytes. Prepare for the coming of Pyros, the Lord of Flame! 
+02|3CEF|0059|Acredito que tudo está pronto, meus Acólitos. Prepare-se para a vinda de Pyros, o Senhor das Chamas! 
 02|3D5F|0015|Kal Vas Flam Bal Xen!
 06|3D8D|0581:1C19
 06|3DB6|057C:15E7
@@ -516,56 +516,56 @@
 06|3E94|0581:1C19
 05|3EAA|0581:2A56
 06|3ED9|0581:1C19
-02|3F0D|001F|Acolytes... you are dismissed. 
+02|3F0D|001F|Acólitos... vocês estão dispensados. 
 06|3F35|057C:087D
 06|3F5C|057C:091C
-02|3F6E|0010|Except for you. 
+02|3F6E|0010|Exceto para você. 
 06|3F87|057C:087D
 06|3FAE|057C:091C
-02|3FC0|0004|Me? 
-02|3FDC|000A|Yes, you. 
+02|3FC0|0004|Meu? 
+02|3FDC|000A|Sim você. 
 06|3FEF|057C:087D
 10|4045|0252
 06|405C|057C:091C
 04|4070|00C9
 06|4097|057C:091C
-02|40A7|0013|Wait, I'm going... 
+02|40A7|0013|Espere, eu vou... 
 06|40C3|057C:087D
-02|40D6|000E|Yes, you are. 
+02|40D6|000E|Sim você é. 
 06|40ED|057C:087D
 06|4102|057C:15E7
 06|4114|057C:15E7
 06|412B|057C:091C
 03|4139|0140
 04|4141|0094
-02|4153|0017|If I could just ask... 
+02|4153|0017|Se eu pudesse perguntar... 
 06|4173|057C:087D
 06|419A|057C:091C
-02|41AC|000F|I said begone! 
+02|41AC|000F|Eu disse vá embora! 
 06|41C4|057C:087D
 03|41D5|00A4
-02|41E7|0021|Master, I must speak with you... 
+02|41E7|0021|Mestre, preciso falar com você... 
 06|4211|057C:087D
 06|4238|057C:091C
-02|424A|0018|No, you musn't. Begone! 
+02|424A|0018|Não, você não deve. Vá embora! 
 06|426B|057C:087D
 06|428A|0581:3768
 03|4299|FDA9
 06|42B2|057C:091C
 04|42C8|0166
-02|42CE|0106|Due to your gross insubordination, we nearly lost control of the Titan of Fire. My First Acolyte lies dead on the ground. Had we done so, all life on this isle would surely have died. Take that as a warning. *And take this as a reminder never to cross me again. 
+02|42CE|0106|Devido à sua grosseira insubordinação, quase perdemos o controle do Titã do Fogo. Meu Primeiro Acólito está morto no chão. Se tivéssemos feito isso, toda a vida nesta ilha certamente teria morrido. Tome isso como um aviso. *E tome isso como um lembrete para nunca mais me contrariar. 
 06|43EE|006D:23D9
 06|43FE|0583:1AFE
 03|442E|01F0
 04|4438|00FD
-02|443E|00B0|Due to your poor performance, I was not able to absorb as much power from Pyros as I would have liked. That irritates me.*Accept this as a reminder never to irritate me again. 
+02|443E|00B0|Devido ao seu fraco desempenho, não fui capaz de absorver tanto poder de Pyros quanto gostaria. Isso me irrita.* Aceite isso como um lembrete para nunca mais me irritar. 
 06|4508|006D:23D9
 06|4518|0583:110F
 03|4535|00E9
-02|453B|00D1|I thank you for your assistance in this matter. Know that I felt your power sustaining my Sorcery, and that I was truly greatful for its presence. Perhaps in time, you will aspire to the position of my First. 
+02|453B|00D1|Agradeço sua ajuda neste assunto. Saiba que senti seu poder sustentando minha Feitiçaria e que fiquei verdadeiramente grato por sua presença. Talvez com o tempo você aspire à posição de meu Primeiro. 
 06|463F|0581:1C19
 06|466E|057C:091C
-02|467C|0013|Farewell, Acolyte. 
+02|467C|0013|Adeus, Acólito. 
 06|4698|057C:087D
 06|46BB|057C:15E7
 06|46DC|057C:15E7

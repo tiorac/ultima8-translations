@@ -1,34 +1,34 @@
 01|0080|0080
 06|009F|057C:15E7
 04|00B5|0175
-02|00B9|014F|Foolish one. You have journeyed far to come to your death in this place. I can only assume that you were the idiot who sent torrents of water flowing through this cavern. And I suppose you were unaware that this chamber is our first deterrent against possible incursions from the outside world. You will die for your ignorance, knave! 
+02|00B9|014F|Um tolo. Você viajou muito para morrer neste lugar. Só posso presumir que você foi o idiota que enviou torrentes de água por esta caverna. E suponho que você não sabia que esta câmara é o nosso primeiro impedimento contra possíveis incursões do mundo exterior. Você morrerá por sua ignorância, patife! 
 03|0227|0ACE
 03|022A|06FE
 04|0231|020B
-02|0235|0087|I can only assume that by your presence here that you were the fool who caused torrents of water to come flowing through this chamber. 
-02|02D1|0015|I did no such thing. 
-02|02EA|0026|You are the fool for your assumption. 
-02|0314|0021|I am no fool, but I was the one. 
-02|0339|0016|I would be that fool. 
-02|0374|00B3|It does not matter, know that you are not welcome beyond this place. It is called the Mouth of the Daemon, and it rejects those it finds unworthy. No doubt you are without worth. 
+02|0235|0087|Só posso presumir que, pela sua presença aqui, você foi o tolo que fez com que torrentes de água fluíssem por esta câmara. 
+02|02D1|0015|Eu não fiz tal coisa. 
+02|02EA|0026|Você é o tolo por sua suposição. 
+02|0314|0021|Não sou bobo, mas fui eu. 
+02|0339|0016|Eu seria aquele idiota. 
+02|0374|00B3|Não importa, saiba que você não é bem-vindo fora deste lugar. É chamada de Boca do Demônio e rejeita aqueles que considera indignos. Sem dúvida você não tem valor. 
 03|043C|04EC
 04|0444|04E4
-02|0448|0151|I know not who you are, but you are quite resourceful to have come to this place. Welcome to the Mouth of the Daemon. This cavern was once the first test for those wishing to join the Sorcerer's Cabal. Someone... has rendered it mostly useless by directing an underground river this way. Quite a remarkable thing to do, don't you agree? 
-02|05AE|000C|Yes, quite. 
-02|05BE|0021|I wonder who could have done it. 
-02|05E3|0023|Are you insinuating that I did it? 
-02|060A|001A|Thank you, I was the one. 
-02|064A|0023|Are you insinuating that I did it? 
+02|0448|0151|Não sei quem você é, mas você tem muitos recursos para ter vindo a este lugar. Bem-vindo à Boca do Daemon. Esta caverna já foi o primeiro teste para aqueles que desejavam se juntar à Cabala dos Feiticeiros. Alguém... tornou-o praticamente inútil ao direcionar um rio subterrâneo nesta direção. Uma coisa notável de se fazer, não concorda? 
+02|05AE|000C|Sim, bastante. 
+02|05BE|0021|Eu me pergunto quem poderia ter feito isso. 
+02|05E3|0023|Você está insinuando que fui eu? 
+02|060A|001A|Obrigado, fui eu. 
+02|064A|0023|Você está insinuando que fui eu? 
 04|0672|005D
-02|0675|0052|Of course not. Twould take more power than I believe you are capable of wielding. 
+02|0675|0052|Claro que não. Seria necessário mais poder do que acredito que você seja capaz de exercer. 
 03|06CF|0117
-02|06D4|001A|Thank you, I was the one. 
+02|06D4|001A|Obrigado, fui eu. 
 04|06F3|00E0
-02|06F6|00D5|An interesting solution to the first test of Sorcery. Perhaps, if you seek to enter into the Cabal, the Master will deem it proper that your next test be to restore this cavern to its prior functionality. Hmmmm?* 
+02|06F6|00D5|Uma solução interessante para o primeiro teste de Feitiçaria. Talvez, se você pretende entrar na Cabala, o Mestre considerará apropriado que o seu próximo teste seja restaurar esta caverna à sua funcionalidade anterior. Hummm?* 
 03|07D3|0013
-02|07D6|000B|No matter. 
-02|07EB|0103| Should you somehow find a way to fly to the point upon which I stand, you will soon find yourself in the home of the Sorcerers. I suggest that you seek out the Sorcerer known as Bane. She is quite knowledgable in our ways and might be persuaded to help you. 
-02|0909|000A|Farewell. 
+02|07D6|000B|Não importa. 
+02|07EB|0103| Se você de alguma forma encontrar uma maneira de voar até o ponto em que estou, logo se encontrará na casa dos Feiticeiros. Sugiro que você procure o Feiticeiro conhecido como Bane. Ela tem bastante conhecimento de nossos costumes e pode ser persuadida a ajudá-lo. 
+02|0909|000A|Até a próxima. 
 06|0934|057C:091C
 06|09A6|057C:15E7
 06|09BD|0583:1F65
@@ -44,7 +44,7 @@
 06|0AEC|057C:15E7
 06|0B03|0581:1C19
 06|0B1B|057C:091C
-02|0B2B|00ED|Oh... I almost forgot to mention. Do be careful beyond this cavern. The Sorcerers there do not take kindly to insults, attitudes, or sometimes even posturing. Remember, you live at our pleasure when you are in our enclave. Fair warning. 
+02|0B2B|00ED|Ah... quase esqueci de mencionar. Tenha cuidado além desta caverna. Os Feiticeiros de lá não aceitam insultos, atitudes ou, às vezes, até mesmo posturas. Lembre-se, você vive à nossa vontade quando está em nosso enclave. Aviso justo. 
 06|0C36|057C:091C
 06|0C53|057C:15E7
 06|0C6A|0583:1F65

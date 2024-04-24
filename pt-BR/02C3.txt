@@ -1,9 +1,9 @@
 01|0080|0080
 01|00C1|00C1
 04|00D5|0026
-02|00D9|000D|dead peasant 
+02|00D9|000D|camponês morto 
 03|00FB|001E
-02|00FF|0008|peasant 
+02|00FF|0008|camponês 
 01|011E|011E
 06|0145|0581:1C19
 04|016A|0084
@@ -11,15 +11,15 @@
 06|0183|0581:1C19
 04|019B|0053
 04|01AA|0024
-02|01AD|0010|Help me, Beren! 
+02|01AD|0010|Ajude-me, Ursos! 
 03|01CE|0020
-02|01D1|000F|Town Sorcerer! 
+02|01D1|000F|Feiticeiro da Cidade! 
 01|01F3|01F3
 03|0209|00FF
 04|0222|006E
 04|0231|005B
 06|0242|0581:1C19
-02|0252|001F|I can not talk with you now... 
+02|0252|001F|Não posso falar com você agora... 
 03|0290|FF8F
 06|02A7|02C3:0656
 06|02C9|02C3:030D
@@ -29,82 +29,82 @@
 05|031E|0581:2A56
 05|032C|0581:2A56
 04|033F|001F
-02|0344|0009|Hello... 
+02|0344|0009|Olá... 
 03|035E|0020
-02|0363|000D|Greetings... 
+02|0363|000D|Saudações... 
 06|0384|057C:0BCF
 06|0399|0581:1C19
 05|03AD|0581:2A56
-02|03B4|0013|What is your name? 
-02|03CB|0004|bye 
-02|03E0|0004|bye 
+02|03B4|0013|Qual o seu nome? 
+02|03CB|0004|tchau 
+02|03E0|0004|tchau 
 04|03EA|023F
-02|03EF|0004|bye 
-02|0402|0004|bye 
-02|042D|0013|What is your name? 
+02|03EF|0004|tchau 
+02|0402|0004|tchau 
+02|042D|0013|Qual o seu nome? 
 04|0445|0190
 04|0454|00B6
-02|0458|002E|I am sorry, but I never speak with strangers. 
-02|049C|0035|It is a quick way to loose your money and your life. 
+02|0458|002E|Sinto muito, mas nunca falo com estranhos. 
+02|049C|0035|É uma maneira rápida de perder seu dinheiro e sua vida. 
 06|04E9|057C:1090
 03|0507|0146
 03|050A|00C8
-02|050E|0031|Who are you? Has Mordea sent you to question me? 
-02|0555|0047|Ha! If you do not know who I am then you do not know what I have done! 
+02|050E|0031|Quem é você? Mordea enviou você para me interrogar? 
+02|0555|0047|Ha! Se você não sabe quem eu sou, então você não sabe o que eu fiz! 
 06|05B4|057C:1090
 03|05D2|007B
 03|05D5|0051
-02|05DA|0004|bye 
+02|05DA|0004|tchau 
 04|05E3|0043
-02|05E6|000B|Adeus.. 
+02|05E6|000B|Adeus... 
 06|0605|057C:1090
 03|0629|FDB2
 06|062F|057C:1090
 01|0656|0656
-02|066B|000A|Why, I am 
+02|066B|000A|Porque sou eu 
 02|067F|0001|!
 05|0690|0581:2A56
 05|069E|0581:2A56
 04|06B1|0023
-02|06B6|000D|Excuse me... 
+02|06B6|000D|Com licença... 
 03|06D4|0020
-02|06D9|000D|Pardon me... 
+02|06D9|000D|Perdoe-me... 
 06|06FA|057C:0BCF
 06|070F|0581:1C19
 05|0723|0581:2A56
 04|072F|0379
-02|0732|0022|May I have a moment of your time? 
-02|0758|0005|bye. 
-02|076E|0005|bye. 
+02|0732|0022|Posso ter um momento do seu tempo? 
+02|0758|0005|tchau. 
+02|076E|0005|tchau. 
 04|0779|032C
-02|077E|0005|bye. 
-02|0792|0005|bye. 
-02|07BE|0022|May I have a moment of your time? 
+02|077E|0005|tchau. 
+02|0792|0005|tchau. 
+02|07BE|0022|Posso ter um momento do seu tempo? 
 04|07E5|00EA
 04|07F4|008C
-02|07F8|001E|No! Who do you think you are? 
-02|082D|0022|May I have a moment of your time? 
-02|085E|0016|Why, I am the Avatar! 
+02|07F8|001E|Não! Quem você pensa que é? 
+02|082D|0022|Posso ter um momento do seu tempo? 
+02|085E|0016|Ora, eu sou o Avatar! 
 03|0880|004C
-02|0884|0012|Get away from me! 
+02|0884|0012|Saia de perto de mim! 
 06|08AE|057C:1090
 03|08CC|022B
 03|08CF|01D3
-02|08D4|0016|Why, I am the Avatar! 
+02|08D4|0016|Ora, eu sou o Avatar! 
 04|08EF|00FB
-02|08F4|0016|Why, I am the Avatar! 
-02|0918|0004|So. 
-02|0932|0052|You wear such a repulsive costum and wish for me to give you a moment of MY time? 
-02|099A|0017|Hmph! Go away, Avatar! 
+02|08F4|0016|Ora, eu sou o Avatar! 
+02|0918|0004|Então. 
+02|0932|0052|Você usa uma fantasia tão repulsiva e deseja que eu lhe dê um momento do MEU tempo? 
+02|099A|0017|Hmph! Vá embora, Avatar! 
 06|09C9|057C:1090
 03|09E7|0110
 03|09EA|00B8
 04|09F2|0063
-02|09F6|0026|I don't think I enjoy talking to you. 
+02|09F6|0026|Acho que não gosto de conversar com você. 
 06|0A34|057C:1090
 03|0A52|00A5
 03|0A55|004D
-02|0A5A|0005|bye. 
+02|0A5A|0005|tchau. 
 04|0A64|003E
 02|0A67|0006|Hmph! 
 06|0A81|057C:1090
@@ -112,7 +112,7 @@
 03|0AA5|FCC4
 03|0AA8|002B
 04|0AB0|0023
-02|0AB3|000F|Ahhh! Go away! 
+02|0AB3|000F|Ahhh! Vá embora! 
 06|0AD9|057C:1090
 01|0B02|0B02
 06|0B0E|02C3:0656

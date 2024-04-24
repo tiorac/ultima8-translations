@@ -1,5 +1,5 @@
 01|0080|0080
-02|008C|000D|spiky sphere 
+02|008C|000D|esfera pontiaguda 
 01|00B0|00B0
 05|00DC|057C:0080
 01|014D|014D

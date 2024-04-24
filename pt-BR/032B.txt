@@ -1,15 +1,15 @@
 01|0080|0080
 04|0097|001E
-02|009B|0005|doll 
+02|009B|0005|boneca 
 03|00B5|00C9
 04|00C4|001E
-02|00C8|0005|doll 
+02|00C8|0005|boneca 
 03|00E2|009C
 04|00F1|0026
-02|00F5|000D|wooden torax 
+02|00F5|000D|tórax de madeira 
 03|0117|0067
 04|0126|0022
-02|012A|0009|toy kith 
+02|012A|0009|kith de brinquedo 
 03|0148|0036
 04|0157|0027
-02|015B|000E|stuffed torax 
+02|015B|000E|tórax recheado 

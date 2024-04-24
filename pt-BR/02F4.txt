@@ -1,4 +1,4 @@
 01|0080|0080
 04|009F|005E
 06|00BB|0583:233D
-02|00CA|0025|Ouch! -That- must have hurt, Avatar! 
+02|00CA|0025|Ai! -Isso- deve ter doído, Avatar! 

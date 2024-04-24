@@ -1,9 +1,9 @@
 01|0080|0080
 05|009D|0581:2A56
 04|00A9|002A
-02|00AD|0011|lit flask of oil 
+02|00AD|0011|frasco aceso de óleo 
 03|00D3|0023
-02|00D7|000D|flask of oil 
+02|00D7|000D|frasco de óleo 
 01|00FB|00FB
 06|0169|0581:1C19
 06|017F|057C:0676

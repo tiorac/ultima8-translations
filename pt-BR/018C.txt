@@ -1,40 +1,40 @@
 01|0080|0080
 04|0097|0024
-02|009B|000E|sextant focus 
+02|009B|000E|foco sextante 
 04|00CA|002A
-02|00CE|0014|pointing hand focus 
+02|00CE|0014|apontando o foco da mão 
 04|0103|0023
-02|0107|000D|bracer focus 
+02|0107|000D|braçadeira de foco 
 04|0135|0026
-02|0139|0010|open hand focus 
+02|0139|0010|foco de mão aberta 
 04|016A|0027
-02|016E|0011|closed eye focus 
+02|016E|0011|foco de olhos fechados 
 04|01A0|0022
-02|01A4|000C|wings focus 
+02|01A4|000C|foco de asas 
 04|01D1|0022
-02|01D5|000C|chain focus 
+02|01D5|000C|foco em cadeia 
 04|0202|0021
-02|0206|000B|fist focus 
+02|0206|000B|foco de punho 
 04|0232|0027
-02|0236|0011|Divination focus 
+02|0236|0011|Foco em adivinhação 
 04|0268|002A
-02|026C|0014|Healing Touch focus 
+02|026C|0014|Foco no toque de cura 
 04|02A1|002B
-02|02A5|0015|Aerial Servant focus 
+02|02A5|0015|Foco do Servo Aéreo 
 04|02DB|0028
-02|02DF|0012|Restoration focus 
+02|02DF|0012|Foco de restauração 
 04|0312|002C
-02|0316|0016|Fade From Sight focus 
+02|0316|0016|Foco Desaparecer da Vista 
 04|034D|0025
-02|0351|000F|Air Walk focus 
+02|0351|000F|Foco na caminhada aérea 
 04|0381|0027
-02|0385|0011|Hear Truth focus 
+02|0385|0011|Ouça o foco da verdade 
 04|03B7|0029
-02|03BB|0013|Intervention focus 
+02|03BB|0013|Foco da intervenção 
 04|03EF|0025
-02|03F3|000F|open eye focus 
+02|03F3|000F|foco de olho aberto 
 04|0423|0023
-02|0427|000D|Reveal focus 
+02|0427|000D|Revelar foco 
 01|044B|044B
 06|046E|0596:00CF
 06|0491|0596:0BEB

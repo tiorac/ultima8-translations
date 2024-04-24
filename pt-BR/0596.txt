@@ -13,175 +13,175 @@
 06|01E4|057C:15E7
 06|01FD|0581:29D8
 06|0215|057C:15E7
-02|0221|0006|In Wis
+02|0221|0006|Em Sab
 06|0230|057C:087D
 06|0257|057C:15E7
 06|026F|0581:29D8
-02|027A|001A|The focus reads that I am 
+02|027A|001A|O foco diz que eu sou 
 04|02A1|0028
-02|02A6|001A|at Programmer's Playland! 
+02|02A6|001A|no Playland do Programador! 
 03|02C9|055D
 04|02D1|0028
-02|02D6|001A|by the docks of Tenebrae. 
+02|02D6|001A|pelas docas de Tenebrae. 
 03|02F9|052D
 04|0301|0024
-02|0306|0016|near Fishermans Reef. 
+02|0306|0016|perto do Recife dos Pescadores. 
 03|0325|0501
 04|032D|0032
-02|0332|0024|at north of Tenebrae in the Valley. 
+02|0332|0024|ao norte de Tenebrae no Vale. 
 03|035F|04C7
 04|0367|0034
-02|036C|0026|on the East Road outside of Tenebrae. 
+02|036C|0026|na East Road, fora de Tenebrae. 
 03|039B|048B
 04|03A3|001E
-02|03A8|0010|on the Plateau. 
+02|03A8|0010|no Planalto. 
 03|03C1|0465
 04|03C9|0024
-02|03CE|0016|at the Daemon's Crag. 
+02|03CE|0016|no Penhasco do Daemon. 
 03|03ED|0439
 04|03F5|0027
-02|03FA|0019|at the Brimstone Cliffs. 
+02|03FA|0019|nos penhascos de Brimstone. 
 03|041C|040A
 04|0424|0021
-02|0429|0013|at the Lava River. 
+02|0429|0013|no Rio Lava. 
 03|0445|03E1
 04|044D|0021
-02|0452|0013|at the Lava River. 
+02|0452|0013|no Rio Lava. 
 03|046E|03B8
 04|0476|001F
-02|047B|0011|at Carthax Lake. 
+02|047B|0011|no Lago Cartax. 
 03|0495|0391
 04|049D|0020
-02|04A2|0012|at Treasure Cove. 
+02|04A2|0012|em Treasure Cove. 
 03|04BD|0369
 04|04C5|001D
-02|04CA|000F|at Stone Cove. 
+02|04CA|000F|em Stone Cove. 
 03|04E2|0344
 04|04EA|0028
-02|04EF|001A|in the Obsidian Fortress. 
+02|04EF|001A|na Fortaleza Obsidiana. 
 03|0512|0314
 04|051A|001F
-02|051F|0011|at Carthax Lake. 
+02|051F|0011|no Lago Cartax. 
 03|0539|02ED
 04|0541|001F
-02|0546|0011|at Carthax Lake. 
+02|0546|0011|no Lago Cartax. 
 03|0560|02C6
 04|0568|0030
-02|056D|0022|in the Hall of the Mountain King. 
+02|056D|0022|no Salão do Rei da Montanha. 
 03|0598|028E
 04|05A0|0022
-02|05A5|0014|on Argentrock Isle. 
+02|05A5|0014|na Ilha Argentrock. 
 03|05C2|0264
 04|05CA|0020
-02|05CF|0012|in West Tenebrae. 
+02|05CF|0012|no oeste das trevas. 
 03|05EA|023C
 04|05F2|0023
-02|05F7|0015|in central Tenebrae. 
+02|05F7|0015|na escuridão central. 
 03|0615|0211
 04|061D|0020
-02|0622|0012|in east Tenebrae. 
+02|0622|0012|no leste das Trevas. 
 03|063D|01E9
 04|0645|0024
-02|064A|0016|on the Plain of Fire. 
+02|064A|0016|na Planície do Fogo. 
 03|0669|01BD
 04|0671|0025
-02|0676|0017|on the Plain of Water. 
+02|0676|0017|na Planície das Águas. 
 03|0696|0190
 04|069E|0023
-02|06A3|0015|on the Plain of Air. 
+02|06A3|0015|na Planície do Ar. 
 03|06C1|0165
 04|06C9|0025
-02|06CE|0017|on the Plain of Earth. 
+02|06CE|0017|na Planície da Terra. 
 03|06EE|0138
 04|06F6|0026
-02|06FB|0018|in the Upper Catacombs. 
+02|06FB|0018|nas Catacumbas Superiores. 
 03|071C|010A
 04|0724|0026
-02|0729|0018|in the Upper Catacombs. 
+02|0729|0018|nas Catacumbas Superiores. 
 03|074A|00DC
 04|0752|0026
-02|0757|0018|in the Upper Catacombs. 
+02|0757|0018|nas Catacumbas Superiores. 
 03|0778|00AE
 04|0780|0026
-02|0785|0018|in the Lower Catacombs. 
+02|0785|0018|nas Catacumbas Inferiores. 
 03|07A6|0080
 04|07AE|0026
-02|07B3|0018|in the Pit of the Dead. 
+02|07B3|0018|no Poço dos Mortos. 
 03|07D4|0052
 04|07DC|0031
-02|07E1|0023|in the Shrine of the Ancient Ones. 
+02|07E1|0023|no Santuário dos Antigos. 
 03|080D|0019
-02|0812|000E|totally lost! 
-02|083A|0029|Also it reads that the hour is currently 
+02|0812|000E|totalmente perdido! 
+02|083A|0029|Também lê que a hora é atualmente 
 05|086B|0581:28F9
 04|0874|001B
-02|0879|000D| Bloodwatch, 
+02|0879|000D| Vigilância de Sangue, 
 03|088F|00D0
 05|0892|0581:28F9
 04|089B|0019
-02|08A0|000B| Firstebb, 
+02|08A0|000B| Primeiro, 
 03|08B4|00AB
 05|08B7|0581:28F9
 04|08C0|0018
-02|08C5|000A| Daytide, 
+02|08C5|000A| Maré diurna, 
 03|08D8|0087
 05|08DB|0581:28F9
 04|08E4|001B
-02|08E9|000D| Threemoons, 
+02|08E9|000D| Três luas, 
 03|08FF|0060
 05|0902|0581:28F9
 04|090B|0018
-02|0910|000A| Lastebb, 
+02|0910|000A| doca de carregamento, 
 03|0923|003C
 05|0926|0581:28F9
 04|092F|0019
-02|0934|000B| Eventide, 
+02|0934|000B| entardecer, 
 03|0948|0017
-02|094D|000C| very late, 
-02|0975|000C| the day is 
+02|094D|000C| muito tarde, 
+02|0975|000C| O dia é 
 04|098F|0018
 02|0994|000A| Guarday, 
 03|09A7|00B8
 04|09AF|0019
-02|09B4|000B| Earthday, 
+02|09B4|000B| Dia da Terra, 
 03|09C8|0097
 04|09D0|0019
-02|09D5|000B| Waterday, 
+02|09D5|000B| Dia da água, 
 03|09E9|0076
 04|09F1|0017
-02|09F6|0009| Airday, 
+02|09F6|0009| Dia de aviação, 
 03|0A08|0057
 04|0A10|0018
-02|0A15|000A| Fireday, 
+02|0A15|000A| Dia de fogo, 
 03|0A28|0037
 04|0A30|0019
-02|0A35|000B| Blackday, 
+02|0A35|000B| Dia Preto, 
 03|0A49|0016
-02|0A4E|000B| GuardDay, 
-02|0A6E|0004|the 
-02|0A80|0015| day of the month of 
+02|0A4E|000B| Dia da Guarda, 
+02|0A6E|0004|o 
+02|0A80|0015| dia do mês de 
 04|0AAE|0019
-02|0AB3|000B|Stonemark. 
+02|0AB3|000B|Marca de pedra. 
 03|0AC7|00B8
 04|0ACF|0017
 02|0AD4|0009|Skyrock. 
 03|0AE6|0099
 04|0AEE|0019
-02|0AF3|000B|Windbreak. 
+02|0AF3|000B|Quebra-vento. 
 03|0B07|0078
 04|0B0F|0019
-02|0B14|000B|Stormpeak. 
+02|0B14|000B|Pico da Tempestade. 
 03|0B28|0057
 04|0B30|0018
-02|0B35|000A|Firefall. 
+02|0B35|000A|Queda de fogo. 
 03|0B48|0037
 04|0B50|0019
-02|0B55|000B|DarkFlame. 
+02|0B55|000B|Chama Negra. 
 03|0B69|0016
 02|0B6E|000B|StoneMark. 
 04|0B98|004C
-02|0B9C|0021|I have been in Pagan for roughly 
-02|0BCB|0006| days.
+02|0B9C|0021|Estou em Pagan há aproximadamente 
+02|0BCB|0006| dias.
 01|0BEB|0BEB
 03|0BFB|05AA
 05|0BFE|0581:36E7
@@ -202,12 +202,12 @@
 06|0DAA|057C:15E7
 06|0DC3|0581:29D8
 06|0DDB|057C:15E7
-02|0DE7|0007|In Mani
+02|0DE7|0007|Nas mãos
 06|0DF7|057C:087D
 04|0E2A|0214
 05|0E31|0581:1D62
 04|0E3D|0053
-02|0E43|001B|The animal must be closer! 
+02|0E43|001B|O animal deve estar mais perto! 
 06|0E81|057C:15E7
 06|0EF5|0581:29D8
 06|0F0C|0581:1C19
@@ -239,7 +239,7 @@
 06|1359|057C:15E7
 06|1372|0581:29D8
 06|138A|057C:15E7
-02|1396|000B|Kal Ort Xen
+02|1396|000B|Kal lugar Xen
 06|13AA|057C:087D
 05|13D8|0581:2A56
 06|1465|057C:15E7
@@ -280,11 +280,11 @@
 06|1A31|0581:29D8
 06|1A64|057C:15E7
 06|1A7D|0581:29D8
-02|1A8F|0018|I am carrying too much! 
+02|1A8F|0018|Estou carregando muito! 
 03|1ABC|038A
 03|1ABF|0045
 06|1ACC|0581:29D8
-02|1ADE|0014|I have no backpack! 
+02|1ADE|0014|Não tenho mochila! 
 06|1B72|0581:29D8
 06|1B91|057C:15E7
 06|1BC4|057C:091C
@@ -325,13 +325,13 @@
 06|2007|057C:15E7
 06|2020|0581:29D8
 06|2038|057C:15E7
-02|2044|000B|Vas In Mani
+02|2044|000B|Vaso nas mãos
 06|2058|057C:087D
 04|208B|024A
 06|209C|057C:15E7
 05|20AF|0581:1D62
 04|20BB|006C
-02|20C1|001B|The animal must be closer! 
+02|20C1|001B|O animal deve estar mais perto! 
 06|20FF|057C:15E7
 06|2118|0581:29D8
 06|218C|0581:29D8
@@ -367,7 +367,7 @@
 06|260E|057C:15E7
 06|2627|0581:29D8
 06|263F|057C:15E7
-02|264B|000B|Quas An Lor
+02|264B|000B|Qual Lor
 06|265F|057C:087D
 06|2686|057C:15E7
 06|26A3|057C:15E7
@@ -397,7 +397,7 @@
 06|299C|057C:15E7
 06|29B5|0581:29D8
 06|29CD|057C:15E7
-02|29D9|000B|Vas Hur Por
+02|29D9|000B|Você vai embora
 06|29ED|057C:087D
 06|2A5F|057C:15E7
 06|2A7F|0581:29D8
@@ -418,7 +418,7 @@
 06|2DDC|057C:15E7
 06|2DF5|0581:29D8
 06|2E0D|057C:15E7
-02|2E19|000B|An Quas Lor
+02|2E19|000B|Um Quas Lor
 06|2E2D|057C:087D
 06|2E54|057C:15E7
 06|2E6D|0581:29D8
@@ -439,7 +439,7 @@
 06|3008|057C:15E7
 06|3021|0581:29D8
 06|3039|057C:15E7
-02|3045|000F|In Sanct An Jux
+02|3045|000F|Em Sanct An Jux
 06|305D|057C:087D
 06|3084|057C:15E7
 06|30A1|057C:15E7

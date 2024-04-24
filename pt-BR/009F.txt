@@ -1,37 +1,37 @@
 01|0080|0080
 04|009B|0023
-02|009F|0007|Scroll 
+02|009F|0007|Rolagem 
 03|00BB|01CD
 03|00BE|01CA
 04|00C6|003F
-02|00CA|0023|scroll of dispelling magic portals 
+02|00CA|0023|pergaminho de dissipação de portais mágicos 
 03|0102|0186
 03|0105|0183
 04|010D|0035
-02|0111|0019|scroll of trap detection 
+02|0111|0019|rolagem de detecção de armadilha 
 03|013F|0149
 03|0142|0146
 04|014A|0037
-02|014E|001B|scroll of trap destruction 
+02|014E|001B|pergaminho de destruição de armadilha 
 03|017E|010A
 03|0181|0107
 04|0189|002E
-02|018D|0012|scroll of healing 
+02|018D|0012|pergaminho de cura 
 03|01B4|00D4
 03|01B7|00D1
 04|01BF|0032
-02|01C3|0016|scroll of restoration 
+02|01C3|0016|pergaminho de restauração 
 03|01EE|009A
 03|01F1|0097
 04|01F9|0033
-02|01FD|0017|scroll of invisibility 
+02|01FD|0017|pergaminho da invisibilidade 
 03|0229|005F
 03|022C|005C
 04|0234|0034
-02|0238|0018|Restore to sight scroll 
+02|0238|0018|Restaurar a rolagem de visualização 
 03|0265|0023
 03|0268|0020
-02|026C|0007|scroll 
+02|026C|0007|rolagem 
 01|028D|028D
 06|02B4|057A:0080
 06|02CF|0579:0080

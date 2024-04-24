@@ -1,18 +1,18 @@
 01|0080|0080
 04|0094|0033
-02|0098|001A|Bentic the dead librarian 
+02|0098|001A|Bentic, o bibliotecário morto 
 03|00C7|00A7
 04|00D3|0031
-02|00D7|0015|Bentic the Librarian 
+02|00D7|0015|Bentic, o Bibliotecário 
 03|0101|006D
 03|0104|006A
 04|010B|001F
-02|010F|0006|Bentic
+02|010F|0006|Bentico
 03|012A|0044
 04|0131|0023
-02|0135|000A|librarian 
+02|0135|000A|bibliotecário 
 03|0154|001A
-02|0158|0004|man 
+02|0158|0004|homem 
 01|0173|0173
 05|0191|0581:28F9
 05|019A|0581:28F9
@@ -29,285 +29,285 @@
 01|0292|0292
 06|02AE|057C:15E7
 04|02D4|0068
-02|02F2|0025|Please return that within two weeks! 
+02|02F2|0025|Por favor, devolva-o dentro de duas semanas! 
 06|032F|040C:0216
 01|0341|0341
 06|0368|0581:1C19
 04|0391|0072
 06|0398|058B:0080
 04|03AF|002E
-02|03B3|0015|I am attacked! Help! 
+02|03B3|0015|Eu sou atacado! Ajuda! 
 03|03DD|0026
-02|03E1|0010|Help! Sorcerer! 
+02|03E1|0010|Ajuda! Feiticeiro! 
 01|0408|0408
 04|041E|0026
-02|0424|000B|Greetings! 
+02|0424|000B|Saudações! 
 03|0444|002B
-02|044A|0013|Greetings, Bentic! 
+02|044A|0013|Saudações, Bentico! 
 06|0475|057C:0E4F
-02|0482|000B|My name is 
+02|0482|000B|Meu nome é 
 02|0497|0001|.
 04|04A5|00A9
 04|04AC|0033
-02|04B0|000E|Hello, hello, 
+02|04B0|000E|Olá Olá, 
 02|04C8|0001|.
 03|04DF|0038
-02|04E3|0022|Hello! I am glad to see you again.
-02|051A|000D|How are you? 
-02|052B|0010|What do you do? 
-02|053F|0004|bye 
+02|04E3|0022|Olá! Estou feliz em revê-lo.
+02|051A|000D|Como vai você? 
+02|052B|0010|O que você faz? 
+02|053F|0004|tchau 
 03|054E|0069
-02|0552|0015|Greetings, stranger. 
-02|057C|0013|What is your name? 
-02|0593|0010|What do you do? 
-02|05A7|0004|bye 
-02|05BC|0004|bye 
+02|0552|0015|Saudações, estranho. 
+02|057C|0013|Qual o seu nome? 
+02|0593|0010|O que você faz? 
+02|05A7|0004|tchau 
+02|05BC|0004|tchau 
 04|05C6|3442
-02|05CB|0004|bye 
-02|05DE|0004|bye 
-02|0609|0010|What do you do? 
+02|05CB|0004|tchau 
+02|05DE|0004|tchau 
+02|0609|0010|O que você faz? 
 04|061E|01DD
-02|0628|0127|By trade, I am the librarian of this city, however, I prefer to think of myself as a student of life. One who spends his time observing all facets of life. I am a great studier of people. You would be amazed at the things you may learn by simply observing your neighbors in their everyday life. 
-02|0764|0018|Tell me of the library. 
-02|0780|0017|Tell me of the people. 
-02|079B|001B|Tell me of your neighbors. 
+02|0628|0127|Por profissão, sou o bibliotecário desta cidade, porém prefiro me considerar um estudante da vida. Aquele que passa o tempo observando todas as facetas da vida. Sou um grande estudioso de pessoas. Você ficaria surpreso com as coisas que poderá aprender simplesmente observando seus vizinhos na vida cotidiana. 
+02|0764|0018|Conte-me sobre a biblioteca. 
+02|0780|0017|Conte-me sobre as pessoas. 
+02|079B|001B|Conte-me sobre seus vizinhos. 
 04|07C5|0033
-02|07C8|0024|Orlok says you have a treasure map. 
+02|07C8|0024|Orlok diz que você tem um mapa do tesouro. 
 03|07FB|320A
-02|0800|0013|What is your name? 
+02|0800|0013|Qual o seu nome? 
 04|0818|01C8
-02|0828|0122|My name is Bentic. It is a word of Pagan derivation. I think it originally meant 'he who toils hard', but that is not for certain. I have found a number of references to 'Ventac' in several older texts and feel that this may be the root of the name 'Bentic.' And what is your name, friend? 
-02|0961|0013|What is your name? 
-02|0978|000D|How are you? 
-02|0992|0011|What is 'Pagan'? 
+02|0828|0122|Meu nome é Bentic. É uma palavra de derivação pagã. Acho que originalmente significava “aquele que trabalha arduamente”, mas isso não é certo. Encontrei várias referências a 'Ventac' em vários textos mais antigos e sinto que esta pode ser a raiz do nome 'Bentic'. E qual é o seu nome, amigo? 
+02|0961|0013|Qual o seu nome? 
+02|0978|000D|Como vai você? 
+02|0992|0011|O que é 'pagão'? 
 04|09B9|0024
-02|09BE|0016|What are you reading? 
+02|09BE|0016|O que você está lendo? 
 03|09E0|3025
-02|09E5|000D|How are you? 
+02|09E5|000D|Como vai você? 
 04|09F7|0407
 04|09FE|0227
-02|0A02|0102|I am quite well. You know, since I saw you last I have done a little more reading into the meaning of various names. I am more certain now that my name does stem from the ancient 'Ventac' as I also found one very old reference where it was spelled 'Bentac'. 
-02|0B1A|00C3|Now, the interesting point is that I did some research on your name and found that, in one case, it actually comes from the very old Pagan word for 'champion' or, a better translation, 'avatar'. 
-02|0BF4|0013|What is your name? 
-02|0C0B|000D|How are you? 
+02|0A02|0102|Estou muito bem. Você sabe, desde a última vez que te vi, li um pouco mais sobre o significado de vários nomes. Tenho mais certeza agora de que meu nome deriva do antigo 'Ventac', pois também encontrei uma referência muito antiga onde estava escrito 'Bentac'. 
+02|0B1A|00C3|Agora, o ponto interessante é que fiz algumas pesquisas sobre o seu nome e descobri que, em um caso, ele na verdade vem da antiga palavra pagã para “campeão” ou, numa tradução melhor, “avatar”. 
+02|0BF4|0013|Qual o seu nome? 
+02|0C0B|000D|Como vai você? 
 03|0C25|01AA
-02|0C29|013F|I'm so glad you asked. I'm actually doing quite well. Since I last spoke to you, I've done a little more research into names. I did, indeed, find a very old reference to 'Ventac' and I intend to do a little more research in the origin of names. I would love to do some research on your name. What is your name, friend? 
-02|0D7F|0013|What is your name? 
-02|0D96|000D|How are you? 
-02|0DB0|0011|What is 'Pagan'? 
+02|0C29|013F|Estou tão feliz que você perguntou. Na verdade, estou indo muito bem. Desde a última vez que falei com você, pesquisei um pouco mais sobre nomes. De facto, encontrei uma referência muito antiga a 'Ventac' e pretendo pesquisar um pouco mais sobre a origem dos nomes. Eu adoraria fazer uma pesquisa sobre o seu nome. Qual é o seu nome, amigo? 
+02|0D7F|0013|Qual o seu nome? 
+02|0D96|000D|Como vai você? 
+02|0DB0|0011|O que é 'pagão'? 
 04|0DD7|0024
-02|0DDC|0016|What are you reading? 
+02|0DDC|0016|O que você está lendo? 
 03|0DFE|2C07
 04|0E06|005C
-02|0E10|000A|Well met, 
-02|0E24|001B|. I am pleased to meet you.
+02|0E10|000A|Oi, 
+02|0E24|001B|. É um prazer conhecê-lo.
 03|0E62|2BA3
-02|0E67|0016|What are you reading? 
+02|0E67|0016|O que você está lendo? 
 04|0E82|01FE
-02|0E86|0177|Ah, I am so glad you asked. This is a treatise on the world of Pagan. It covers the idiosyncrasies of the various lands and people of our world. From the first chapter it takes an in depth look at what motivates the people of this world, and challenges the reader to make up his own mind about the condition of this world in which we live. Perhaps you would like to read it. 
-02|1014|0016|What are you reading? 
-02|1037|0010|Yes, thank you. 
-02|104B|000F|No, thank you. 
-02|105E|0013|Who is the author? 
+02|0E86|0177|Ah, estou tão feliz que você perguntou. Este é um tratado sobre o mundo pagão. Abrange as idiossincrasias das várias terras e pessoas do nosso mundo. Desde o primeiro capítulo, analisa em profundidade o que motiva as pessoas deste mundo e desafia o leitor a tomar uma decisão sobre a condição deste mundo em que vivemos. Talvez você queira lê-lo. 
+02|1014|0016|O que você está lendo? 
+02|1037|0010|Sim, obrigado. 
+02|104B|000F|Não, obrigado. 
+02|105E|0013|Quem é o autor? 
 03|1080|2985
-02|1085|0010|Yes, thank you. 
+02|1085|0010|Sim, obrigado. 
 04|109A|019F
-02|109E|009E|Ah, I knew you were a well read person who appreciates fine literature. Perhaps after you have read it, we could get together and discuss your opinion of it. 
-02|1153|0010|Yes, thank you. 
-02|1167|000F|No, thank you. 
+02|109E|009E|Ah, eu sabia que você era uma pessoa bem lida e que aprecia boa literatura. Talvez depois de você ler, possamos nos reunir e discutir sua opinião sobre ele. 
+02|1153|0010|Sim, obrigado. 
+02|1167|000F|Não, obrigado. 
 05|118E|0581:1EE2
 04|1196|0034
-02|119A|0015|I hope you enjoy it! 
+02|119A|0015|Espero que você goste! 
 03|11CA|006C
-02|11CE|0056|Oh my, you are carrying a lot of things. I'll just keep this 'til you have more room. 
+02|11CE|0056|Nossa, você está carregando muitas coisas. Vou guardar isso até você ter mais espaço. 
 03|1239|27CC
-02|123E|000F|No, thank you. 
+02|123E|000F|Não, obrigado. 
 04|1252|0089
-02|1256|0027|Well, perhaps when you have more time. 
-02|1294|0010|Yes, thank you. 
-02|12A8|000F|No, thank you. 
-02|12BB|0013|Who is the author? 
+02|1256|0027|Bem, talvez quando você tiver mais tempo. 
+02|1294|0010|Sim, obrigado. 
+02|12A8|000F|Não, obrigado. 
+02|12BB|0013|Quem é o autor? 
 03|12DB|272A
-02|12E0|0013|Who is the author? 
+02|12E0|0013|Quem é o autor? 
 04|12F8|0062
-02|12FC|0027|Well ... ummm, you see ... well, I am. 
-02|133A|0013|Who is the author? 
+02|12FC|0027|Bem... ummm, você vê... bem, eu estou. 
+02|133A|0013|Quem é o autor? 
 03|135A|26AB
-02|135F|0018|Tell me of the library. 
+02|135F|0018|Conte-me sobre a biblioteca. 
 04|137C|01B2
-02|1380|014E|The library is my joy. It is where I spend all my time, studying the words left by our predecessors. You can not believe what is in these books. They contain the wisdom of many ages in them. Too many people overlook the knowledge of our past generations, because of this, we are doomed to repeat the same mistakes over and over again.
-02|14E5|0018|Tell me of the library. 
-02|150C|0016|Tell me of the books. 
+02|1380|014E|A biblioteca é minha alegria. É onde passo todo o meu tempo, estudando as palavras deixadas pelos nossos antecessores. Você não pode acreditar no que está nesses livros. Eles contêm a sabedoria de muitas épocas. Muitas pessoas ignoram o conhecimento das nossas gerações passadas e, por isso, estamos condenados a repetir os mesmos erros continuamente.
+02|14E5|0018|Conte-me sobre a biblioteca. 
+02|150C|0016|Conte-me sobre os livros. 
 03|152E|24D7
-02|1533|0017|Tell me of the people. 
+02|1533|0017|Conte-me sobre as pessoas. 
 04|154F|01AF
-02|1553|0148|Ah, are you a student of life as well? I do so enjoy finding someone who shares the same passions as I do. The people here in Tenebrae are a varied and fascinating lot. They go about their daily toils, laboring under the yoke of a somewhat ... restrictive government and yet still find the time to enjoy themselves occasionally.
-02|16B2|0017|Tell me of the people. 
-02|16D8|001A|A restrictive government? 
+02|1553|0148|Ah, você também é um estudante da vida? Gosto muito de encontrar alguém que compartilhe as mesmas paixões que eu. As pessoas aqui em Tenebrae são variadas e fascinantes. Eles realizam suas tarefas diárias, trabalhando sob o jugo de um governo um tanto... restritivo e ainda assim encontram tempo para se divertir ocasionalmente.
+02|16B2|0017|Conte-me sobre as pessoas. 
+02|16D8|001A|Um governo restritivo? 
 03|16FE|2307
-02|1703|001B|Tell me of your neighbors. 
+02|1703|001B|Conte-me sobre seus vizinhos. 
 04|1723|011D
-02|1727|0091|I think the one I like to spend the most time with is Devon. He is such a sharp fellow. I think he has far more potential than even he realizes. 
-02|17CF|001B|Tell me of your neighbors. 
-02|17F9|0015|Devon has potential? 
+02|1727|0091|Acho que quem gosto de passar mais tempo é Devon. Ele é um sujeito tão esperto. Acho que ele tem muito mais potencial do que imagina. 
+02|17CF|001B|Conte-me sobre seus vizinhos. 
+02|17F9|0015|Devon tem potencial? 
 04|181E|001F
-02|1821|0010|I've met Devon. 
+02|1821|0010|Eu conheci Devon. 
 03|1840|21C5
-02|1845|0010|I've met Devon. 
+02|1845|0010|Eu conheci Devon. 
 04|185A|0130
-02|185E|00BD|Have you? Oh, he is such a nice fellow. We've spent hours in conversation here. He is really quite sharp. Loves books almost as much as I do. In some ways he knows more about Pagan than I. 
-02|1932|0010|I've met Devon. 
+02|185E|00BD|Você já? Ah, ele é um sujeito tão legal. Passamos horas conversando aqui. Ele é realmente muito esperto. Adora livros quase tanto quanto eu. De certa forma, ele sabe mais sobre Pagan do que eu. 
+02|1932|0010|Eu conheci Devon. 
 04|1954|0033
-02|1957|0024|Does he know how I may leave Pagan? 
+02|1957|0024|Ele sabe como posso deixar Pagan? 
 03|198A|207B
-02|198F|0015|Devon has potential? 
+02|198F|0015|Devon tem potencial? 
 04|19A9|016A
-02|19AD|00F2|Yes, I can't put my finger on it, but there is something there. Call it a hunch, if you will. I just seem to feel that there is something about him that suggests great things. He does love to read. Maybe he is destined to be a great scholar. 
+02|19AD|00F2|Sim, não consigo definir o que é, mas há algo aí. Chame isso de palpite, se quiser. Parece que sinto que há algo nele que sugere grandes coisas. Ele adora ler. Talvez ele esteja destinado a ser um grande estudioso. 
 04|1AB9|0033
-02|1ABC|0024|Does he know how I may leave Pagan? 
-02|1AF1|0015|Devon has potential? 
+02|1ABC|0024|Ele sabe como posso deixar Pagan? 
+02|1AF1|0015|Devon tem potencial? 
 03|1B13|1EF2
-02|1B18|0016|Tell me of the books. 
+02|1B18|0016|Conte-me sobre os livros. 
 04|1B33|010B
-02|1B37|00CD|My library is full of many books. Are you a scholar as well? Oh, I am so happy to have met you. Please feel free to make use of my library and books. We shall have many interesting discussions, I am sure. 
-02|1C1B|0016|Tell me of the books. 
+02|1B37|00CD|Minha biblioteca está cheia de muitos livros. Você também é um estudioso? Ah, estou tão feliz por ter conhecido você. Fique à vontade para usar minha biblioteca e livros. Teremos muitas discussões interessantes, tenho certeza. 
+02|1C1B|0016|Conte-me sobre os livros. 
 03|1C3E|1DC7
-02|1C43|001A|A restrictive government? 
+02|1C43|001A|Um governo restritivo? 
 04|1C62|0153
-02|1C66|0111|Hmmm, it is not quite the safe thing to discuss here. Even my interest in knowledge and books can not protect me from Lady Mordea. You might say she has a rather...short temper. Why, just recently her guards confiscated my personal diary, though I don't have any idea why. 
-02|1D8E|001A|A restrictive government? 
+02|1C66|0111|Hmmm, não é algo seguro discutir aqui. Mesmo meu interesse por conhecimento e livros não pode me proteger de Lady Mordea. Você pode dizer que ela tem um temperamento bastante... explosivo. Ora, recentemente os guardas dela confiscaram meu diário pessoal, embora eu não tenha ideia do motivo. 
+02|1D8E|001A|Um governo restritivo? 
 03|1DB5|1C50
-02|1DBA|0017|I wish to leave Pagan. 
-02|1DD8|0024|Does he know how I may leave Pagan? 
+02|1DBA|0017|Desejo deixar Pagan. 
+02|1DD8|0024|Ele sabe como posso deixar Pagan? 
 04|1E02|01F3
-02|1E0C|0151|Leave Pagan? My goodness, I don't think I've ever had anyone ask for that, but then again, you don't act, talk or dress like anyone I've ever seen before. Let's see, I can only suggest you speak to someone with more magic abilities than I. Mythran could help you or, though I dread to suggest it, perhaps the Necromancer could help you. 
-02|1F74|0017|I wish to leave Pagan. 
-02|1F8F|0024|Does he know how I may leave Pagan? 
-02|1FC2|0010|Who is Mythran? 
-02|1FD6|000D|Necromancer? 
+02|1E0C|0151|Sair de Pagão? Meu Deus, acho que ninguém nunca pediu isso, mas, novamente, você não age, fala ou se veste como ninguém que eu já vi antes. Vejamos, só posso sugerir que você fale com alguém com mais habilidades mágicas do que eu. Mythran poderia ajudá-lo ou, embora eu tenha medo de sugerir isso, talvez o Necromante pudesse ajudá-lo. 
+02|1F74|0017|Desejo deixar Pagan. 
+02|1F8F|0024|Ele sabe como posso deixar Pagan? 
+02|1FC2|0010|Quem é Mythran? 
+02|1FD6|000D|Necromante? 
 03|1FF5|1A10
-02|1FFA|000D|Necromancer? 
+02|1FFA|000D|Necromante? 
 04|200C|012C
-02|2010|00C2|Oh, they're not as bad as many of the people in this city make out. Their magic is a little macabre, I suppose, but they do have quite a bit of magic at their call. They serve Lithos, you know. 
-02|20E9|000D|Necromancer? 
-02|2105|000F|Who is Lithos? 
-02|2118|0014|How many are there? 
+02|2010|00C2|Ah, eles não são tão ruins quanto muitas pessoas nesta cidade dizem. A magia deles é um pouco macabra, suponho, mas eles têm um pouco de magia à sua disposição. Eles servem Lithos, você sabe. 
+02|20E9|000D|Necromante? 
+02|2105|000F|Quem é Litos? 
+02|2118|0014|Quantos são? 
 03|2138|18CD
-02|213D|0014|How many are there? 
+02|213D|0014|Quantos são? 
 04|2156|0150
-02|215A|00EA|There used to be many, but, the sentiment here in Tenebrae is against them so they have very few new recruits. I believe there are only one or two of them left. It's too bad, really. Their magic is so very different from the Tempest. 
-02|225B|0014|How many are there? 
-02|227E|001C|How is the magic different? 
+02|215A|00EA|Costumavam ser muitos, mas o sentimento aqui em Tenebrae é contra eles, então eles têm poucos novos recrutas. Acredito que restam apenas um ou dois deles. É uma pena, realmente. A magia deles é muito diferente da Tempestade. 
+02|225B|0014|Quantos são? 
+02|227E|001C|Como a magia é diferente? 
 03|22A6|175F
-02|22AB|001C|How is the magic different? 
+02|22AB|001C|Como a magia é diferente? 
 04|22CC|011B
-02|22D0|00D7|The magic of the Tempest is hereditary, while the magic of the Necromancers may be learned and gained through tests and trials. Not that everyone can be a Necromancer, mind you. Not everyone has the stomach for it. 
-02|23BE|001C|How is the magic different? 
+02|22D0|00D7|A magia da Tempestade é hereditária, enquanto a magia dos Necromantes pode ser aprendida e adquirida através de testes e provações. Não que todos possam ser Necromantes, veja bem. Nem todo mundo tem estômago para isso. 
+02|23BE|001C|Como a magia é diferente? 
 03|23E7|161E
-02|23EC|0010|Who is Mythran? 
+02|23EC|0010|Quem é Mythran? 
 04|2401|0150
-02|2405|00B3|Mythran lives in a small house on the Plateau. He has been known to dabble in the various magical arts and is a scholar. He often makes magical scrolls and things and sells them. 
-02|24CF|0010|Who is Mythran? 
-02|24EC|0020|Mythran practices magical arts? 
-02|2510|0016|Mythran is a scholar? 
-02|252A|0016|Where is the Plateau? 
+02|2405|00B3|Mythran mora em uma pequena casa no Planalto. Ele é conhecido por se envolver em várias artes mágicas e é um estudioso. Ele frequentemente faz pergaminhos e coisas mágicas e os vende. 
+02|24CF|0010|Quem é Mythran? 
+02|24EC|0020|Mythran pratica artes mágicas? 
+02|2510|0016|Mythran é um estudioso? 
+02|252A|0016|Onde fica o Planalto? 
 03|2551|14B4
-02|2556|0016|Where is the Plateau? 
+02|2556|0016|Onde fica o Planalto? 
 04|2571|010C
-02|2575|00CE|From the palace in the center of Tenebrae, head north out of the city. Follow the path through the Valley to a cave entrance. Go through the cave. It opens on the other side of the mountain on the Plateau. 
-02|265A|0016|Where is the Plateau? 
+02|2575|00CE|Do palácio no centro de Tenebrae, siga para o norte, saindo da cidade. Siga o caminho pelo Vale até a entrada de uma caverna. Atravesse a caverna. Abre do outro lado da montanha no Planalto. 
+02|265A|0016|Onde fica o Planalto? 
 03|267D|1388
-02|2682|0020|Mythran practices magical arts? 
+02|2682|0020|Mythran pratica artes mágicas? 
 04|26A7|0095
-02|26AB|0031|Yes, though I'm not sure what school he follows. 
-02|26F3|0020|Mythran practices magical arts? 
-02|2722|000E|What schools? 
+02|26AB|0031|Sim, embora eu não tenha certeza de qual escola ele frequenta. 
+02|26F3|0020|Mythran pratica artes mágicas? 
+02|2722|000E|Quais escolas? 
 03|273C|12C9
-02|2741|000E|What schools? 
+02|2741|000E|Quais escolas? 
 04|2754|025C
-02|2758|0226|Why the four elemental schools, of course. There are those who follow Lithos and practice his magic. These spells are mostly earth-based spells. They require long hours of study and practice to cast correctly, or so I've read. The Tempestual magics of Hydros are only available through heredity and so are unavailable to the majority. Now the magics of Pyros, the fire elemental are quite spectacular to watch, but very dangerous to the caster. Stratos, on the other hand provides healing magics, although she requires strict obedience to her tenets.
-02|2995|000E|What schools? 
+02|2758|0226|Por que as quatro escolas primárias, é claro. Há quem siga Lithos e pratique sua magia. Esses feitiços são principalmente feitiços baseados na terra. Eles exigem longas horas de estudo e prática para serem lançados corretamente, ou pelo menos foi o que li. As magias Tempestuais de Hydros só estão disponíveis através da hereditariedade e, portanto, não estão disponíveis para a maioria. Agora as magias de Pyros, o elemental do fogo, são espetaculares de assistir, mas muito perigosas para o lançador. Stratos, por outro lado, fornece magias de cura, embora exija obediência estrita aos seus princípios.
+02|2995|000E|Quais escolas? 
 03|29B0|1055
-02|29B5|0016|Mythran is a scholar? 
+02|29B5|0016|Mythran é um estudioso? 
 04|29D0|0151
-02|29D4|0113|Well, of sorts. He enjoys studying and reading books as I do, but he will form an opinion and tout it as perfect. He will even cite his own writings as examples of perfect creative thinking. This makes talking to him a bit ... tedious. But he is a good source of information.
-02|2AFE|0016|Mythran is a scholar? 
+02|29D4|0113|Bem, de certa forma. Ele gosta de estudar e ler livros como eu, mas formará uma opinião e a considerará perfeita. Ele até citará seus próprios escritos como exemplos de pensamento criativo perfeito. Isso torna a conversa com ele um pouco... tediosa. Mas ele é uma boa fonte de informação.
+02|2AFE|0016|Mythran é um estudioso? 
 03|2B21|0EE4
-02|2B26|000F|Who is Lithos? 
+02|2B26|000F|Quem é Lithos? 
 04|2B3A|0134
-02|2B3E|00FD|The Earth Titan, or Mountain King as he is sometimes called. He is a very powerful Titan, has the ability to make the very ground shake. The Necromancers still serve him, though I understand they have very few applicants to be an apprentice these days. 
-02|2C52|000F|Who is Lithos? 
+02|2B3E|00FD|O Titã da Terra, ou Rei da Montanha, como às vezes é chamado. Ele é um Titã muito poderoso, tem a capacidade de fazer tremer o chão. Os Necromantes ainda o servem, embora eu saiba que eles têm poucos candidatos para se tornarem aprendizes atualmente. 
+02|2C52|000F|Quem é Lithos? 
 03|2C6E|0D97
-02|2C73|0011|What is 'Pagan'? 
+02|2C73|0011|O que é 'pagão'? 
 04|2C89|0098
-02|2C8D|002C|Pagan? Why, that is the name of this place. 
-02|2CD0|0011|What is 'Pagan'? 
-02|2CF0|0025|I thought this place was 'Tenebrae'. 
+02|2C8D|002C|Pagão? Ora, esse é o nome deste lugar. 
+02|2CD0|0011|O que é 'pagão'? 
+02|2CF0|0025|Achei que esse lugar fosse 'Tenebrae'. 
 03|2D21|0CE4
-02|2D26|0025|I thought this place was 'Tenebrae'. 
+02|2D26|0025|Achei que esse lugar fosse 'Tenebrae'. 
 04|2D50|011B
-02|2D54|0092|No, no. That is the name of this city. 'Pagan' is the name of this land, this all encompassing world upon which we all live out our meager lives. 
-02|2DFD|0025|I thought this place was 'Tenebrae'. 
-02|2E31|0017|I wish to leave Pagan. 
-02|2E4C|0013|Your meager lives? 
+02|2D54|0092|Não não. Esse é o nome desta cidade. 'Pagão' é o nome desta terra, deste mundo abrangente onde todos vivemos as nossas parcas vidas. 
+02|2DFD|0025|Achei que esse lugar fosse 'Tenebrae'. 
+02|2E31|0017|Desejo deixar Pagan. 
+02|2E4C|0013|Suas vidas escassas? 
 03|2E6B|0B9A
-02|2E70|0013|Your meager lives? 
+02|2E70|0013|Suas vidas escassas? 
 04|2E88|0107
-02|2E8C|00CC|When you take into consideration the scope of this world and its history, anything we do or accomplish becomes virtually meaningless. We are but a fraction of the blink of an eye in the history of Pagan. 
-02|2F6F|0013|Your meager lives? 
+02|2E8C|00CC|Quando levamos em consideração o alcance deste mundo e a sua história, tudo o que fazemos ou realizamos torna-se virtualmente sem sentido. Somos apenas uma fração de um piscar de olhos na história de Pagan. 
+02|2F6F|0013|Suas vidas escassas? 
 03|2F8F|0A76
-02|2F94|0024|Orlok says you have a treasure map. 
+02|2F94|0024|Orlok diz que você tem um mapa do tesouro. 
 04|2FBD|0087
-02|2FC1|0010|A treasure map? 
-02|2FE8|0024|Orlok says you have a treasure map. 
-02|301B|001D|Yes, tattooed on your chest. 
+02|2FC1|0010|Um mapa do tesouro? 
+02|2FE8|0024|Orlok diz que você tem um mapa do tesouro. 
+02|301B|001D|Sim, tatuado em seu peito. 
 03|3044|09C1
-02|3049|001D|Yes, tattooed on your chest. 
+02|3049|001D|Sim, tatuado em seu peito. 
 04|306B|019A
-02|306F|010D|What?! Oh, that is so silly. Of course I don't have a map tattooed on my chest! I don't know why he'd even say such a thing. Oh well, I will have to go straightened that out. No, no I don't have a map tattooed on my chest. Now, tattoos are another interesting subject. 
-02|3193|001D|Yes, tattooed on your chest. 
-02|31BF|0014|Tell me of tattoos. 
-02|31D7|0022|Do you know of any treasure maps? 
+02|306F|010D|O que?! Ah, isso é tão bobo. Claro que não tenho um mapa tatuado no peito! Não sei por que ele diria tal coisa. Bem, terei que consertar isso. Não, não, não tenho um mapa tatuado no peito. Agora, as tatuagens são outro assunto interessante. 
+02|3193|001D|Sim, tatuado em seu peito. 
+02|31BF|0014|Conte-me sobre tatuagens. 
+02|31D7|0022|Você conhece algum mapa do tesouro? 
 03|3205|0800
-02|320A|0014|Tell me of tattoos. 
+02|320A|0014|Conte-me sobre tatuagens. 
 04|3223|0254
-02|3227|01F3|Well, you know where they come from, don't you? They were sailors' method of identifying themselves. If a sailor was washed overboard, it might be days or weeks before anyone found his body. When they did find it, it would be very likely any nonpermanent form of identification would be gone. So tattoos became popular as a permanent method of identificaion. While tattoos have never been my style, a great number of people find them very attractive and adorn themselves with all sorts of pictures. 
-02|3431|0014|Tell me of tattoos. 
-02|3454|0017|What sort of pictures? 
+02|3227|01F3|Bem, você sabe de onde eles vêm, não é? Eles eram o método dos marinheiros para se identificarem. Se um marinheiro fosse levado ao mar, poderia levar dias ou semanas até que alguém encontrasse seu corpo. Quando o encontrassem, seria muito provável que qualquer forma não permanente de identificação tivesse desaparecido. Assim, as tatuagens tornaram-se populares como método permanente de identificação. Embora tatuagens nunca tenham sido meu estilo, muitas pessoas as acham muito atraentes e se enfeitam com todo tipo de fotos. 
+02|3431|0014|Conte-me sobre tatuagens. 
+02|3454|0017|Que tipo de fotos? 
 03|3477|058E
-02|347C|0017|What sort of pictures? 
+02|347C|0017|Que tipo de fotos? 
 04|3498|00FE
-02|349C|0092|While many choose the traditional anchor or skull and dagger, there are others who prefer more unusual things such as bats or intricate knotwork. 
-02|3545|0017|What sort of pictures? 
-02|3569|0006|Bats? 
-02|3573|0014|Intricate knotwork? 
+02|349C|0092|Enquanto muitos escolhem a âncora tradicional ou a caveira e adaga, há outros que preferem coisas mais incomuns, como morcegos ou nós intrincados. 
+02|3545|0017|Que tipo de fotos? 
+02|3569|0006|Morcegos? 
+02|3573|0014|Nós intrincados? 
 03|3596|046F
-02|359B|0005|Bats 
+02|359B|0005|Morcegos 
 04|35A5|00E1
-02|35A9|00B3|In some cultures, the bat tattoo is a symbol of royalty. However, it is normally worn in a place that is covered by clothing, so that the monarch may go in disguise if necessary. 
-02|3673|0006|Bats? 
+02|35A9|00B3|Em algumas culturas, a tatuagem de morcego é um símbolo da realeza. Porém, normalmente é usado em local coberto por roupas, para que o monarca possa ir disfarçado se necessário. 
+02|3673|0006|Morcegos? 
 03|3686|037F
-02|368B|0014|Intricate knotwork? 
+02|368B|0014|Nós intrincados? 
 04|36A4|00D2
-02|36A8|0096|This sort of tattoo can usually be found around the top of the bicep or around the ankle. The ankle is the area preferred by women, the bicep by men. 
-02|3755|0014|Intricate knotwork? 
+02|36A8|0096|Esse tipo de tatuagem geralmente pode ser encontrado na parte superior do bíceps ou no tornozelo. O tornozelo é a área preferida pelas mulheres e o bíceps pelos homens. 
+02|3755|0014|Nós intrincados? 
 03|3776|028F
-02|377B|0022|Do you know of any treasure maps? 
+02|377B|0022|Você conhece algum mapa do tesouro? 
 04|37A2|0137
-02|37A6|00ED|No, no maps. Wait a minute, now I do recall a story about a magical hammer named 'Bone Crusher.' Had something to do with the undead skeletons. Hmmmm, perhaps you might find it if you looked through some of the books here in my library. 
-02|38AA|0022|Do you know of any treasure maps? 
+02|37A6|00ED|Não, sem mapas. Espere um minuto, agora me lembro de uma história sobre um martelo mágico chamado 'Bone Crusher'. Tinha algo a ver com os esqueletos mortos-vivos. Hmmmm, talvez você possa encontrá-lo se olhar alguns dos livros aqui na minha biblioteca. 
+02|38AA|0022|Você conhece algum mapa do tesouro? 
 03|38D9|012C
-02|38DE|0004|bye 
+02|38DE|0004|tchau 
 04|38E7|00C0
 04|38EE|0057
-02|38F2|0013|Come back anytime, 
-02|390F|0020|. I so love a good conversation!
+02|38F2|0013|Volte a qualquer hora, 
+02|390F|0020|. Adoro uma boa conversa!
 03|3945|004C
-02|3949|0036|Thank you for dropping by, and come visit me any time.
+02|3949|0036|Obrigado por passar por aqui e venha me visitar a qualquer hora.
 06|3997|057C:1090
 03|39A4|0074
 03|39A7|005E
-02|39AB|0035|Yes, well, I guess I'll get back to my research now. 
+02|39AB|0035|Sim, bem, acho que voltarei à minha pesquisa agora. 
 06|39F8|057C:1090
 03|3A08|CBAF
 06|3A0E|057C:1090
@@ -319,34 +319,34 @@
 01|3AA1|3AA1
 04|3ABB|0042
 06|3AC5|057C:15E7
-02|3AD5|0013|I never knew that! 
+02|3AD5|0013|Eu nunca soube disso! 
 03|3AFD|0229
 04|3B05|003A
-02|3B09|000B|Ah, yes... 
+02|3B09|000B|Ah sim... 
 06|3B30|057C:15E7
 03|3B3F|01E7
 04|3B47|0026
-02|3B4B|000D|Fascinating! 
+02|3B4B|000D|Fascinante! 
 03|3B6D|01B9
 04|3B75|0041
-02|3B79|0012|Very interesting. 
+02|3B79|0012|Muito interessante. 
 06|3BA7|057C:15E7
 03|3BB6|0170
 04|3BBE|002B
-02|3BC2|0012|Such a good book. 
+02|3BC2|0012|Um livro tão bom. 
 03|3BE9|013D
 04|3BF1|0038
 02|3BF5|0009|hummm... 
 06|3C1A|057C:15E7
 03|3C29|00FD
 04|3C31|004B
-02|3C35|001C|I must make a note of this. 
+02|3C35|001C|Devo anotar isso. 
 06|3C6D|057C:15E7
 03|3C7C|00AA
 04|3C84|0051
-02|3C88|001E|I wonder if Devon knows this? 
+02|3C88|001E|Eu me pergunto se Devon sabe disso? 
 06|3CC3|0581:1C19
 03|3CD2|0054
 03|3CD5|0051
 06|3CDF|057C:15E7
-02|3CEF|0022|I will have to read more on this. 
+02|3CEF|0022|Terei que ler mais sobre isso. 

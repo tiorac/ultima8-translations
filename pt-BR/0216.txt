@@ -1,11 +1,11 @@
 01|0080|0080
-02|008C|0008|bedroll 
+02|008C|0008|saco de dormir 
 01|00AB|00AB
 04|00CD|002D
-02|00D0|0019|This is no time to rest! 
+02|00D0|0019|Não é hora de descansar! 
 03|00FA|0167
 05|00FD|0581:36E7
-02|0103|0023|Rest for how many periods of time? 
+02|0103|0023|Descansar por quantos períodos de tempo? 
 02|013B|0001|0
 02|0140|0001|1
 02|0145|0001|2

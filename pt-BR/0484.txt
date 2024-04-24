@@ -13,6 +13,6 @@
 06|0265|0581:1C19
 04|028C|012E
 06|02AB|0581:1C19
-02|02BB|00CA|Oh, dear Child, you must not do this. I have given so much and asked only for the devotion of my children. Now you will rob me of even that. Ah, thoughtless child, you break my heart with your actions. 
+02|02BB|00CA|Oh, querida criança, você não deve fazer isso. Dei muito e pedi apenas a devoção dos meus filhos. Agora você vai me roubar até isso. Ah, criança impensada, você parte meu coração com suas ações. 
 06|03A2|0581:1C19
 03|03BA|FECF

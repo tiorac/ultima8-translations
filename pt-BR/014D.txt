@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|000E|sack of flour 
+02|008C|000E|saco de farinha 

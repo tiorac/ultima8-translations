@@ -1,11 +1,11 @@
 01|0080|0080
-02|00AC|001C|Devon is the rightful heir! 
-02|00CC|0025|The tyrant Mordea has no birthright! 
+02|00AC|001C|Devon é o herdeiro legítimo! 
+02|00CC|0025|O tirano Mordea não tem direito de primogenitura! 
 04|00FF|1487
-02|011D|001C|Devon is the rightful heir! 
+02|011D|001C|Devon é o herdeiro legítimo! 
 04|013E|0417
-02|0141|0008|Pardon? 
-02|015A|0006|What? 
+02|0141|0008|Perdão? 
+02|015A|0006|O que? 
 02|0171|0005|Huh? 
 02|0187|0006|Ahhh? 
 06|01A6|057C:091C
@@ -22,15 +22,15 @@
 05|027F|0581:2A56
 06|028E|0581:1C19
 06|02A5|057C:15E7
-02|02B3|002D|I should slay you right now for such heresy! 
-02|02F8|0034|Stay your hand, Darion. He'll soon feed the Lurker. 
+02|02B3|002D|Eu deveria matá-lo agora mesmo por tal heresia! 
+02|02F8|0034|Fique na sua mão, Darion. Ele logo alimentará o Lurker. 
 06|0349|057C:15E7
-02|0357|000E|Yes, my lady. 
-02|037D|0012|Me? A Tempest...? 
-02|03A7|0029|Avatar, this is not the time for levity. 
+02|0357|000E|Sim minha senhora. 
+02|037D|0012|Meu? Uma Tempestade...? 
+02|03A7|0029|Avatar, este não é o momento para leviandades. 
 06|03EF|057C:091C
-02|03FD|0010|Get on with it! 
-02|0422|0016|As you wish, my lady. 
+02|03FD|0010|Vá em frente! 
+02|0422|0016|Como desejar, minha senhora. 
 06|0462|057C:091C
 06|0477|057C:091C
 06|048A|057C:091C
@@ -40,10 +40,10 @@
 06|04DE|0581:1C19
 05|04F2|0581:2A56
 06|0504|057C:091C
-02|0513|000E|I have proof! 
-02|0525|0025|The tyrant Mordea has no birthright! 
+02|0513|000E|Eu tenho provas! 
+02|0525|0025|O tirano Mordea não tem direito de primogenitura! 
 03|0555|102E
-02|055A|0025|The tyrant Mordea has no birthright! 
+02|055A|0025|O tirano Mordea não tem direito de primogenitura! 
 04|0584|020D
 06|05A1|057C:091C
 06|05BA|057C:091C
@@ -51,10 +51,10 @@
 06|05E2|057C:091C
 06|05F8|057C:091C
 06|060F|057C:15E7
-02|061D|0025|You shall not blaspheme the Tempest! 
-02|065A|001C|Sheath your weapon, Darion! 
+02|061D|0025|Você não deve blasfemar contra a Tempestade! 
+02|065A|001C|Embainhe sua arma, Darion! 
 06|0694|057C:15E7
-02|06A6|002A|I will rid us of this ill-mannered brute! 
+02|06A6|002A|Vou nos livrar desse bruto mal-educado! 
 06|06EE|057C:15E7
 06|0706|0581:29D8
 06|0726|0581:29D8
@@ -62,7 +62,7 @@
 06|0767|057C:15E7
 03|078E|0DF8
 03|0791|0DF2
-02|0796|000E|I have proof! 
+02|0796|000E|Eu tenho provas! 
 04|07A9|0DDA
 06|07C5|057C:091C
 06|07DA|057C:091C
@@ -72,15 +72,15 @@
 06|082A|057C:091C
 06|083C|057C:15E7
 06|0853|057C:091C
-02|0861|0042|I have a book that not only proves Devon is the rightful Tempest, 
-02|08BB|003E|but also that his powers are stronger than those of Mordea's! 
-02|0911|0046|Mordea and Devon have the same father, but Devon was the first birth! 
-02|096F|001C|He is the rightful Tempest! 
+02|0861|0042|Tenho um livro que não só prova que Devon é a Tempestade legítima, 
+02|08BB|003E|mas também que seus poderes são mais fortes que os de Mordea! 
+02|0911|0046|Mordea e Devon têm o mesmo pai, mas Devon foi o primeiro filho! 
+02|096F|001C|Ele é a Tempestade legítima! 
 04|09AC|027C
 06|09BA|057C:091C
-02|09CC|0009|You lie! 
+02|09CC|0009|Você mente! 
 06|09F5|057C:091C
-02|0A07|0028|Mordea, I locked that book safely away! 
+02|0A07|0028|Mordea, tranquei aquele livro em segurança! 
 06|0A4C|0581:1C19
 06|0A65|057C:091C
 06|0A78|0581:1C19
@@ -89,18 +89,18 @@
 06|0AB7|057C:091C
 06|0ACA|057C:091C
 06|0AE0|057C:091C
-02|0AF2|0007|Ooops! 
+02|0AF2|0007|Ops! 
 06|0B16|057C:15E7
-02|0B24|002C|Fool! Now the whole world knows the secret! 
+02|0B24|002C|Enganar! Agora o mundo inteiro conhece o segredo! 
 06|0B6D|057C:15E7
-02|0B7B|0019|Forgive me, Lady Mordea! 
-02|0BAC|000F|I forgive you. 
+02|0B7B|0019|Perdoe-me, Senhora Mordea! 
+02|0BAC|000F|Eu perdôo você. 
 06|0BD9|057C:15E7
 06|0BFB|0581:1C19
 06|0C1D|057C:15E7
 03|0C28|00C2
-02|0C2E|0048|That must be the book Salkind kept hidden away in the evidence chamber! 
-02|0C8E|004A|That explains why he kept it locked in his secret study under the palace! 
+02|0C2E|0048|Esse deve ser o livro que Salkind manteve escondido na câmara de provas! 
+02|0C8E|004A|Isso explica por que ele o manteve trancado em seu escritório secreto sob o palácio! 
 06|0CF5|0581:1C19
 06|0D0D|057C:15E7
 06|0D24|0581:1C19
@@ -116,15 +116,15 @@
 06|0E06|057C:15E7
 06|0E1D|057C:091C
 06|0E30|057C:091C
-02|0E3E|0031|Yes! Devon -is- the rightful heir to the throne! 
-02|0E87|0022|But the truth will serve him not! 
-02|0EC1|0035|His head will still rest in the belly of the Lurker! 
+02|0E3E|0031|Sim! Devon -é- o legítimo herdeiro do trono! 
+02|0E87|0022|Mas a verdade não lhe servirá! 
+02|0EC1|0035|Sua cabeça ainda estará na barriga do Luker! 
 06|0F15|057C:091C
-02|0F23|001C|Proceed with the execution! 
+02|0F23|001C|Prossiga com a execução! 
 06|0F5C|0581:1C19
-02|0F6C|0004|No! 
-02|0F88|001C|No? Do you dare to defy me? 
-02|0FBA|0025|I will not execute the true Tempest! 
+02|0F6C|0004|Não! 
+02|0F88|001C|Não? Você se atreve a me desafiar? 
+02|0FBA|0025|Não executarei a verdadeira Tempestade! 
 06|0FFD|057C:15E7
 06|1015|0581:29D8
 06|1035|0581:29D8
@@ -132,8 +132,8 @@
 06|106F|057C:15E7
 06|1087|057C:15E7
 06|10A0|057C:091C
-02|10AE|001C|Darion, do you defy me too? 
-02|10E2|0031|I cannot kill him, my Lady. He is -the- Tempest. 
+02|10AE|001C|Darion, você também me desafia? 
+02|10E2|0031|Não posso matá-lo, minha senhora. Ele é a Tempestade. 
 06|1131|057C:15E7
 06|1149|0581:29D8
 06|1169|0581:29D8
@@ -143,9 +143,9 @@
 06|11D9|057C:15E7
 06|11EF|057C:15E7
 06|1208|057C:091C
-02|1216|0039|If that is how it must be, you will all suffer my wrath! 
-02|1267|003E|Foolish brother! You think your powers are greater than mine! 
-02|12BD|0035|Use them if you dare... To save your miserable life! 
+02|1216|0039|Se é assim que deve ser, todos vocês sofrerão minha ira! 
+02|1267|003E|Irmão tolo! Você acha que seus poderes são maiores que os meus! 
+02|12BD|0035|Use-os se tiver coragem... Para salvar sua vida miserável! 
 06|1310|057C:15E7
 06|1328|057C:15E7
 06|1340|057C:15E7

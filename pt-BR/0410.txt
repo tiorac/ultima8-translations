@@ -1,24 +1,24 @@
 01|0080|0080
 04|0094|005C
 04|009B|0031
-02|009F|0015|the body of Kilandra 
+02|009F|0015|o corpo de Kilandra 
 03|00C9|00DF
 03|00CC|0024
-02|00D0|000B|dead woman 
+02|00D0|000B|mulher morta 
 03|00F0|00B8
 04|00FC|0035
-02|0100|0019|Kilandra the fisherwoman 
+02|0100|0019|Kilandra, a pescadora 
 03|012E|007A
 03|0131|0077
 04|0138|0025
-02|013C|0009|Kilandra 
+02|013C|0009|Calendário 
 03|015A|004E
 03|015D|004B
 04|0164|0028
-02|0168|000C|Fisherwoman 
+02|0168|000C|Pescadora 
 03|0189|001F
 03|018C|001C
-02|0190|0006|woman 
+02|0190|0006|mulher 
 01|01AD|01AD
 05|01BC|0581:28F9
 05|01C5|0581:28F9
@@ -42,11 +42,11 @@
 05|0371|0581:2A56
 05|037F|0581:2A56
 05|038D|0581:2A56
-02|0395|0017|Beren! I am assaulted! 
+02|0395|0017|Berén! Sou agredido! 
 01|03C3|03C3
 03|03DA|00B6
 06|0427|057C:091C
-02|0437|001D|What are you doing there...? 
+02|0437|001D|O que você está fazendo aí...? 
 06|0471|0581:1C19
 06|0483|0410:0231
 01|0495|0495
@@ -60,34 +60,34 @@
 04|05D8|0320
 04|05EB|0086
 06|0600|057C:091C
-02|0610|001B|How 'bout some fish, mate? 
+02|0610|001B|Que tal um pouco de peixe, companheiro? 
 06|064E|057C:15E7
 06|0665|0581:1C19
 04|0679|00BC
 06|068E|057C:091C
 04|06A2|0045
-02|06A6|0029|Well, what can I do fer ye' stranger...? 
+02|06A6|0029|Bem, o que posso fazer por você, estranho...? 
 03|06E4|0550
 03|06E7|0031
-02|06EB|0018|Need something, friend? 
+02|06EB|0018|Precisa de algo, amigo? 
 03|0718|051C
 06|0729|057C:15E7
 04|073D|00E5
 06|0752|057C:091C
 04|0766|0045
-02|076A|0029|Well, what can I do fer ye' stranger...? 
+02|076A|0029|Bem, o que posso fazer por você, estranho...? 
 03|07A8|048C
 03|07AB|0043
-02|07AF|001E|Well, what are ye lookin' at, 
+02|07AF|001E|Bem, o que você está olhando, 
 02|07D7|0001|.
 03|07EE|0446
 06|07FF|057C:15E7
 06|0816|0581:1C19
 04|082A|00CB
 06|083F|057C:091C
-02|084F|0028|Ye know, the fish have stories to tell. 
+02|084F|0028|Você sabe, os peixes têm histórias para contar. 
 06|089A|057C:15E7
-02|08AA|0022|Ye should listen to 'em sometime. 
+02|08AA|0022|Você deveria ouvi-los algum dia. 
 06|08E9|0581:1C19
 03|08F8|033C
 05|08FF|0581:1D62
@@ -96,379 +96,379 @@
 06|0940|057C:091C
 04|0954|007C
 06|0965|057C:15E7
-02|0975|0029|I wonder how the fish are running today. 
+02|0975|0029|Eu me pergunto como os peixes estão correndo hoje. 
 03|09B3|0281
 06|09C4|057C:15E7
 04|09D8|0056
-02|09DC|0009|Hmmmm... 
+02|09DC|0009|Hummm... 
 03|09FA|023A
 06|0A0B|057C:15E7
 06|0A22|0581:1C19
 04|0A36|003D
-02|0A3A|0024|Looks to be a fine day for sailin'. 
+02|0A3A|0024|Parece ser um belo dia para velejar. 
 03|0A73|01C1
 04|0A7B|004C
-02|0A7F|001F|About time to head out to sea. 
+02|0A7F|001F|Já era hora de ir para o mar. 
 06|0ABB|0581:1C19
 04|0ACF|0080
-02|0AD3|0019|I sure could use a rest. 
+02|0AD3|0019|Eu certamente precisaria de um descanso. 
 06|0B0F|057C:15E7
-02|0B1F|001E|Maybe I'll take a little nap. 
+02|0B1F|001E|Talvez eu tire uma soneca. 
 04|0B57|0060
 06|0B68|057C:15E7
-02|0B78|002A|A nice bit o' fish would sure taste good. 
+02|0B78|002A|Um bom pedaço de peixe certamente teria um gosto bom. 
 03|0BB7|007D
 04|0BBF|0072
-02|0BC3|0028|Me bones say there's a storm a brewin'. 
+02|0BC3|0028|Meus ossos dizem que há uma tempestade se formando. 
 06|0C0E|057C:15E7
 06|0C25|0581:1C19
 01|0C39|0C39
-02|0C44|0005|I am 
+02|0C44|0005|Eu sou 
 02|0C53|0001|.
 04|0C62|0021
-02|0C67|000B|Excuse me. 
+02|0C67|000B|Com licença. 
 03|0C83|0020
-02|0C88|000D|Ola. 
+02|0C88|000D|Olá. 
 06|0CA9|057C:0BCF
 05|0CBB|0581:2A56
 04|0CC6|00C7
 04|0CCD|009D
 04|0CDB|0025
-02|0CDE|0016|Tell me about ghosts. 
+02|0CDE|0016|Conte-me sobre fantasmas. 
 04|0D0D|0025
-02|0D10|0016|Do you know of a key? 
+02|0D10|0016|Você conhece uma chave? 
 04|0D3E|0029
-02|0D41|001A|Tell me where the key is! 
+02|0D41|001A|Diga-me onde está a chave! 
 03|0D6A|0020
-02|0D6D|0011|Hello, Kilandra. 
+02|0D6D|0011|Olá, Kilandra. 
 03|0D8D|0015
-02|0D90|0006|Hello 
+02|0D90|0006|Olá 
 04|0DA9|0015
-02|0DAC|000A|Kilandra? 
+02|0DAC|000A|Calendário? 
 04|0DC5|0016
-02|0DC8|000B|Pardon me. 
-02|0DE0|0004|bye 
+02|0DC8|000B|Perdoe-me. 
+02|0DE0|0004|tchau 
 04|0DEA|321A
-02|0DEF|0004|bye 
-02|0E02|0004|bye 
-02|0E2D|0006|Hello 
+02|0DEF|0004|tchau 
+02|0E02|0004|tchau 
+02|0E2D|0006|Olá 
 04|0E38|004E
-02|0E3C|002C|Well, what can I do for ye today, stranger? 
+02|0E3C|002C|Bem, o que posso fazer por você hoje, estranho? 
 03|0E86|317B
 04|0E8E|0093
-02|0E9E|0058|Pleased to meet ye, I am Kilandra. I haven't seen ye' here before. Are ye' new in town? 
-02|0F0B|0004|Yes 
-02|0F13|0003|No 
+02|0E9E|0058|Prazer em conhecê-lo, sou Kilandra. Eu não vi você aqui antes. Você é novo na cidade? 
+02|0F0B|0004|Sim 
+02|0F13|0003|Não 
 03|0F21|30E0
-02|0F26|0004|Yes 
+02|0F26|0004|Sim 
 04|0F2F|01E2
-02|0F33|00C7|Well then, welcome. I don't get into town much, so I'm afraid I would be a poor guide there. But I can tell ye about the Sea of Rains. Been fishin' it for years. I knows it like the back of me hand. 
-02|1011|0004|Yes 
-02|1019|0003|No 
-02|1029|001D|Tell me of the Sea of Rains. 
-02|104A|0015|Tell me of Tenebrae. 
+02|0F33|00C7|Pois bem, seja bem-vindo. Não vou muito à cidade, então tenho medo de ser um péssimo guia lá. Mas posso lhe contar sobre o Mar das Chuvas. Estou pescando há anos. Eu sei disso como a palma da minha mão. 
+02|1011|0004|Sim 
+02|1019|0003|Não 
+02|1029|001D|Conte-me sobre o Mar das Chuvas. 
+02|104A|0015|Conte-me sobre a escuridão. 
 04|1074|009A
 04|1082|0025
-02|1085|0016|Tell me about ghosts. 
+02|1085|0016|Conte-me sobre fantasmas. 
 04|10B4|0025
-02|10B7|0016|Do you know of a key? 
+02|10B7|0016|Você conhece uma chave? 
 04|10E5|0029
-02|10E8|001A|Tell me where the key is! 
+02|10E8|001A|Diga-me onde está a chave! 
 03|1111|2EF0
-02|1116|0016|Tell me about ghosts. 
+02|1116|0016|Conte-me sobre fantasmas. 
 04|1131|00CA
-02|1135|004C|Ghosts? Ghosts, ye say? Well, why would ye be wanting to know about ghosts? 
-02|1196|0019|I'm looking for a ghost. 
-02|11B3|001D|I heard Orlok's ghost story. 
-02|11D4|0016|No particular reason. 
+02|1135|004C|Fantasmas? Fantasmas, você diz? Bem, por que você estaria querendo saber sobre fantasmas? 
+02|1196|0019|Estou procurando um fantasma. 
+02|11B3|001D|Ouvi a história de fantasmas de Orlok. 
+02|11D4|0016|Nenhuma razão particular. 
 03|11FB|2E06
-02|1200|0019|I'm looking for a ghost. 
+02|1200|0019|Estou procurando um fantasma. 
 04|121E|015C
-02|1222|00E0|Looking for a ghost, eh? That's a strange thing for a nice young man like yerself to be doing! There is one ghost I'd like to find, that of my daughter. If I could find her ghost, maybe I could find a way to bring her back. 
-02|1319|0019|I'm looking for a ghost. 
-02|1336|001D|I heard Orlok's ghost story. 
-02|1357|0016|No particular reason. 
+02|1222|00E0|Procurando por um fantasma, hein? Isso é uma coisa estranha para um jovem simpático como você estar fazendo! Há um fantasma que gostaria de encontrar, o da minha filha. Se eu conseguisse encontrar o fantasma dela, talvez pudesse encontrar uma maneira de trazê-la de volta. 
+02|1319|0019|Estou procurando um fantasma. 
+02|1336|001D|Ouvi a história de fantasmas de Orlok. 
+02|1357|0016|Nenhuma razão particular. 
 03|137A|2C87
-02|137F|001D|I heard Orlok's ghost story. 
+02|137F|001D|Ouvi a história de fantasmas de Orlok. 
 04|13A1|0210
-02|13A5|016B|Of course, and ye would be one of those young men thinking to find riches and adventure by disturbing the dead. It's bad business, bad business I say. Why, no one should go about mucking in the affairs of the dead. They don't like it, no sirree. Why I talk to my daughter all the time and she tells me all about being dead, and how much they dislikes the living. 
-02|1527|0019|I'm looking for a ghost. 
-02|1544|001D|I heard Orlok's ghost story. 
-02|1565|0016|No particular reason. 
-02|158A|001B|You talk to your daughter? 
+02|13A5|016B|Claro, e você seria um daqueles jovens que pensam em encontrar riquezas e aventuras perturbando os mortos. É um mau negócio, um mau negócio, eu digo. Ora, ninguém deveria mexer nos assuntos dos mortos. Eles não gostam disso, não senhor. Por que converso com minha filha o tempo todo e ela me conta tudo sobre estar morto e o quanto eles não gostam dos vivos. 
+02|1527|0019|Estou procurando um fantasma. 
+02|1544|001D|Ouvi a história de fantasmas de Orlok. 
+02|1565|0016|Nenhuma razão particular. 
+02|158A|001B|Você fala com sua filha? 
 03|15B1|2A50
-02|15B6|0016|No particular reason. 
+02|15B6|0016|Nenhuma razão particular. 
 04|15D1|00A0
-02|15D5|0024|Hmmm, ye're a peculiar one, ye are. 
-02|1610|0019|I'm looking for a ghost. 
-02|162D|001D|I heard Orlok's ghost story. 
-02|164E|0016|No particular reason. 
+02|15D5|0024|Hmmm, você é peculiar, você é. 
+02|1610|0019|Estou procurando um fantasma. 
+02|162D|001D|Ouvi a história de fantasmas de Orlok. 
+02|164E|0016|Nenhuma razão particular. 
 03|1671|2990
-02|1676|0016|Do you know of a key? 
+02|1676|0016|Você conhece uma chave? 
 04|1691|00EC
-02|1695|005F|A key? Well, of course. I have several keys. Was there one in particular you were looking for? 
-02|170B|0016|Do you know of a key? 
-02|1730|0021|A key to the door in the cavern. 
-02|1755|0016|No key in particular. 
+02|1695|005F|Uma chave? Bem, claro. Eu tenho várias chaves. Havia algum em particular que você estava procurando? 
+02|170B|0016|Você conhece uma chave? 
+02|1730|0021|Uma chave para a porta da caverna. 
+02|1755|0016|Nenhuma chave em particular. 
 03|177D|2884
-02|1782|0016|No key in particular. 
+02|1782|0016|Nenhuma chave em particular. 
 04|179D|00D4
-02|17A1|0071|What a strange question. I have only two keys. One to my door and one to my sea chest. My, ye are a strange 'en. 
-02|1829|0021|A key to the door in the cavern. 
-02|184E|0016|No key in particular. 
+02|17A1|0071|Que pergunta estranha. Eu tenho apenas duas chaves. Um na minha porta e outro no meu baú. Que coisa, você é um estranho. 
+02|1829|0021|Uma chave para a porta da caverna. 
+02|184E|0016|Nenhuma chave em particular. 
 03|1871|2790
-02|1876|0021|A key to the door in the cavern. 
+02|1876|0021|Uma chave para a porta da caverna. 
 04|189C|010E
-02|18A0|003B|A door in a cavern? Why would there be a door in a cavern? 
-02|18F2|0021|A key to the door in the cavern. 
-02|1917|0016|No key in particular. 
-02|193A|0018|It was built by trolls. 
-02|1956|001E|It leads to the Pit of Death. 
-02|1978|0023|John Blowhard's treasure is there. 
+02|18A0|003B|Uma porta em uma caverna? Por que haveria uma porta em uma caverna? 
+02|18F2|0021|Uma chave para a porta da caverna. 
+02|1917|0016|Nenhuma chave em particular. 
+02|193A|0018|Foi construído por trolls. 
+02|1956|001E|Isso leva ao Poço da Morte. 
+02|1978|0023|O tesouro de John Blowhard está lá. 
 03|19AA|2657
-02|19AF|0018|It was built by trolls. 
+02|19AF|0018|Foi construído por trolls. 
 04|19CC|016C
-02|19D0|00C5|Built by trolls? That is the silliest story I've ever heard. Built by trolls, ha! Trolls don't know how to build anything. I think ye've been taking a nip of ol' Orlok's private stock there, mate. 
-02|1AAC|0018|It was built by trolls. 
-02|1AC8|001E|It leads to the Pit of Death. 
-02|1AEA|0023|John Blowhard's treasure is there. 
-02|1B1C|0010|You know Orlok? 
+02|19D0|00C5|Construído por trolls? Essa é a história mais boba que já ouvi. Construído por trolls, ha! Trolls não sabem construir nada. Acho que você está comendo um pouco das ações privadas do velho Orlok, cara. 
+02|1AAC|0018|Foi construído por trolls. 
+02|1AC8|001E|Isso leva ao Poço da Morte. 
+02|1AEA|0023|O tesouro de John Blowhard está lá. 
+02|1B1C|0010|Você conhece Orlok? 
 03|1B38|24C9
-02|1B3D|0010|You know Orlok? 
+02|1B3D|0010|Você conhece Orlok? 
 04|1B52|0080
-02|1B56|0048|'Course I know him. That old windbag. His story's are nothing but bunk. 
-02|1BB5|0010|You know Orlok? 
+02|1B56|0048|Claro que eu o conheço. Aquele velho fanfarrão. Suas histórias não passam de bobagens. 
+02|1BB5|0010|Você conhece Orlok? 
 03|1BD2|242F
-02|1BD7|001E|It leads to the Pit of Death. 
+02|1BD7|001E|Isso leva ao Poço da Morte. 
 04|1BFA|0043
-02|1BFE|000A|Does not. 
-02|1C1D|0011|How do you know? 
+02|1BFE|000A|Não. 
+02|1C1D|0011|Como você sabe? 
 03|1C3D|23C4
-02|1C42|0011|How do you know? 
+02|1C42|0011|Como você sabe? 
 04|1C58|00ED
-02|1C5C|008A|I know because...because my daughter told me. She says there is only one way to the Pit of Death and that is through the Realm of Lithos. 
-02|1CFD|0011|How do you know? 
-02|1D1B|001B|You talk to your daughter? 
+02|1C5C|008A|Eu sei porque... porque minha filha me contou. Ela diz que só há um caminho para o Poço da Morte: através do Reino de Lithos. 
+02|1CFD|0011|Como você sabe? 
+02|1D1B|001B|Você fala com sua filha? 
 03|1D45|22BC
-02|1D4A|0023|John Blowhard's treasure is there. 
+02|1D4A|0023|O tesouro de John Blowhard está lá. 
 04|1D72|0083
-02|1D76|000D|No it isn't. 
-02|1D9A|0023|John Blowhard's treasure is there. 
-02|1DCC|001D|Where is the treasure, then? 
+02|1D76|000D|Não, não é. 
+02|1D9A|0023|O tesouro de John Blowhard está lá. 
+02|1DCC|001D|Onde está o tesouro, então? 
 03|1DF5|220C
-02|1DFA|001D|Where is the treasure, then? 
+02|1DFA|001D|Onde está o tesouro, então? 
 04|1E1C|0104
-02|1E20|0095|There is no treasure. Orlok's full of hot wind, he is. Tells that tale to everyone, expecting them to believe them. Why my daughter even knows that. 
-02|1ECC|001D|Where is the treasure, then? 
-02|1EF6|001B|You talk to your daughter? 
+02|1E20|0095|Não há tesouro. Orlok está cheio de vento quente, ele está. Conta essa história para todos, esperando que acreditem nela. Por que minha filha sabe disso. 
+02|1ECC|001D|Onde está o tesouro, então? 
+02|1EF6|001B|Você fala com sua filha? 
 03|1F20|20E1
-02|1F25|001B|You talk to your daughter? 
+02|1F25|001B|Você fala com sua filha? 
 04|1F45|00F7
-02|1F49|0098|Of course. I sit on her grave and talk with her by the hour. She's a good listener, she is. Why nearly as good as the fish. She gives good advice, too. 
-02|1FF8|001B|You talk to your daughter? 
-02|2020|000D|Good advice? 
+02|1F49|0098|Claro. Sento-me em seu túmulo e converso com ela a cada hora. Ela é uma boa ouvinte, ela é. Por que quase tão bom quanto o peixe. Ela também dá bons conselhos. 
+02|1FF8|001B|Você fala com sua filha? 
+02|2020|000D|Bom conselho? 
 03|203C|1FC5
-02|2041|000D|Good advice? 
+02|2041|000D|Bom conselho? 
 04|2053|0105
-02|2057|00D0|Certainly. She tells me when the fish will be running and when there will be a storm. She even offered to guard my house for me. 'Course I told her no. Didn't want no daughter of mine doing lowly guard work! 
-02|213E|000D|Good advice? 
+02|2057|00D0|Certamente. Ela me diz quando os peixes estarão correndo e quando haverá tempestade. Ela até se ofereceu para guardar minha casa para mim. Claro que eu disse não a ela. Não queria que nenhuma filha minha fizesse trabalho humilde de guarda! 
+02|213E|000D|Bom conselho? 
 03|2158|1EA9
-02|215D|001A|Tell me where the key is! 
+02|215D|001A|Diga-me onde está a chave! 
 04|217C|0090
-02|2180|002F|The key? Oh, that key! Why my daughter has it. 
-02|21C6|001A|Tell me where the key is! 
-02|21ED|0010|Your daughter?! 
+02|2180|002F|A chave? Ah, essa chave! Por que minha filha tem isso. 
+02|21C6|001A|Diga-me onde está a chave! 
+02|21ED|0010|Sua filha?! 
 03|220C|1DF5
-02|2211|0010|Your daughter?! 
+02|2211|0010|Sua filha?! 
 04|2226|00B0
-02|222A|0072|Yes, she said she would keep it safe for me. I figure she keeps it with her. Can't get much safer than the grave! 
-02|22B3|0010|Your daughter?! 
+02|222A|0072|Sim, ela disse que iria mantê-lo seguro para mim. Acho que ela guarda isso com ela. Não posso ficar muito mais seguro do que o túmulo! 
+02|22B3|0010|Sua filha?! 
 03|22D6|1D2B
-02|22DB|0003|No 
+02|22DB|0003|Não 
 04|22E3|017B
-02|22E7|0060|Hmmm, I guess I need to get into town more. I'm a'feared I don't recognize ye. Who's your mama? 
-02|235E|0003|No 
-02|2365|0004|Yes 
-02|2376|000C|Lady Mordea 
-02|2386|0011|No one important 
-02|239B|0017|I'm not from Tenebrae. 
+02|22E7|0060|Hmmm, acho que preciso ir mais à cidade. Temo não reconhecê-lo. Quem é sua mãe? 
+02|235E|0003|Não 
+02|2365|0004|Sim 
+02|2376|000C|Senhora Mordeia 
+02|2386|0011|Ninguém importante 
+02|239B|0017|Eu não sou das Trevas. 
 04|23C1|009A
 04|23CF|0025
-02|23D2|0016|Tell me about ghosts. 
+02|23D2|0016|Conte-me sobre fantasmas. 
 04|2401|0025
-02|2404|0016|Do you know of a key? 
+02|2404|0016|Você conhece uma chave? 
 04|2432|0029
-02|2435|001A|Tell me where the key is! 
+02|2435|001A|Diga-me onde está a chave! 
 03|245E|1BA3
-02|2463|001D|Tell me of the Sea of Rains. 
+02|2463|001D|Conte-me sobre o Mar das Chuvas. 
 04|2485|010A
-02|2489|00BF|Ah, the Sea of Rains. She is a temperamental lady, she is. One day she will give ye enough of her bounty to feed the entire city...then she'll forsake ye for weeks and laugh while ye starve. 
-02|255F|001D|Tell me of the Sea of Rains. 
+02|2489|00BF|Ah, o Mar das Chuvas. Ela é uma senhora temperamental, ela é. Um dia ela lhe dará o suficiente de sua recompensa para alimentar a cidade inteira... então ela o abandonará por semanas e rirá enquanto você morre de fome. 
+02|255F|001D|Conte-me sobre o Mar das Chuvas. 
 03|258F|1A72
-02|2594|0015|Tell me of Tenebrae. 
+02|2594|0015|Conte-me sobre a escuridão. 
 04|25AE|00AF
-02|25B2|004B|I don't get into town much...and I likes it that way. The city is no good. 
-02|2614|0015|Tell me of Tenebrae. 
-02|2638|0019|Why is the city no good? 
+02|25B2|004B|Não vou muito à cidade... e gosto que seja assim. A cidade não é boa. 
+02|2614|0015|Conte-me sobre a escuridão. 
+02|2638|0019|Por que a cidade não é boa? 
 03|265D|19A4
-02|2662|000C|Lady Mordea 
+02|2662|000C|Senhora Mordeia 
 04|2673|0075
-02|2677|0043|Lady Mordea?! Ack, then I'll have none of ye! Get out of my sight! 
+02|2677|0043|Senhora Mordeia?! Ack, então não aceitarei nenhum de vocês! Saia da minha frente! 
 06|26D8|057C:1090
 03|26E5|192F
 03|26E8|1919
-02|26ED|0011|No one important 
+02|26ED|0011|Ninguém importante 
 04|2703|00DC
-02|2707|00AA|What does ye mean, no one important? Does ye'r mother mean nothing to ye? Oh, ungrateful child! There is nothing that tears my poor heart worse than an ungrateful child! 
+02|2707|00AA|O que você quer dizer com ninguém importante? Sua mãe não significa nada para você? Oh, criança ingrata! Não há nada que dilacere mais meu pobre coração do que uma criança ingrata! 
 06|27CF|057C:1090
 03|27DC|1838
 03|27DF|1822
-02|27E4|0017|I'm not from Tenebrae. 
+02|27E4|0017|Eu não sou das Trevas. 
 04|2800|00F6
-02|2804|006F|What's that? Ye'r not from Tenebrae? Well, then ye are more blessed than ye knows. 'Tis a bad place, Tenebrae. 
-02|288A|0015|Why is Tenebrae bad? 
-02|28AD|0017|I'm not from Tenebrae. 
-02|28C8|000C|Lady Mordea 
-02|28D8|0011|No one important 
+02|2804|006F|O que é isso? Você não é de Tenebrae? Bem, então você é mais abençoado do que imagina. 'Este é um lugar ruim, Tenebrae. 
+02|288A|0015|Por que a escuridão é ruim? 
+02|28AD|0017|Eu não sou das Trevas. 
+02|28C8|000C|Senhora Mordeia 
+02|28D8|0011|Ninguém importante 
 03|28F6|170B
-02|28FB|0015|Why is Tenebrae bad? 
-02|2917|0019|Why is the city no good? 
+02|28FB|0015|Por que a escuridão é ruim? 
+02|2917|0019|Por que a cidade não é boa? 
 04|2936|0121
-02|293A|00A0|The Tempest, that's why! Lady Mordea is a selfish, black-hearted woman. Why, taking a bath was more important to her than saving the life of an innocent child! 
-02|29F1|0015|Why is Tenebrae bad? 
-02|2A0A|0019|Why is the city no good? 
-02|2A30|001C|A bath was more important?! 
+02|293A|00A0|A Tempestade, é por isso! Lady Mordea é uma mulher egoísta e de coração negro. Ora, tomar banho era mais importante para ela do que salvar a vida de uma criança inocente! 
+02|29F1|0015|Por que a escuridão é ruim? 
+02|2A0A|0019|Por que a cidade não é boa? 
+02|2A30|001C|Um banho era mais importante?! 
 03|2A57|15AA
-02|2A5C|001C|A bath was more important?! 
+02|2A5C|001C|Um banho era mais importante?! 
 04|2A7D|00FD
-02|2A81|008F|The child was a little girl with hair of honey gold and eyes the color of the Sea of Rains. She was a beautiful child, but had taken very ill. 
-02|2B27|001C|A bath was more important?! 
-02|2B52|001C|What happened to the child? 
+02|2A81|008F|A criança era uma menininha com cabelos dourados como mel e olhos da cor do Mar das Chuvas. Ela era uma criança linda, mas estava muito doente. 
+02|2B27|001C|Um banho era mais importante?! 
+02|2B52|001C|O que aconteceu com a criança? 
 03|2B7A|1487
-02|2B7F|001C|What happened to the child? 
+02|2B7F|001C|O que aconteceu com a criança? 
 04|2BA0|01D1
-02|2BA4|0151|Her mother carried her to the steps of the palace where she begged to see the Tempest. The Tempest has great powers and if anyone could heal the girl, the Tempest could. But that water rat named Salkind came out and told the mother that Lady Mordea was taking a bath and could not be disturbed, especially to help a filthy gutter snipe. 
-02|2D0C|001C|What happened to the child? 
-02|2D35|0017|Did the child recover? 
-02|2D50|0016|filthy gutter snipe!? 
+02|2BA4|0151|Sua mãe a carregou até a escadaria do palácio, onde ela implorou para ver a Tempestade. A Tempestade tem grandes poderes e se alguém pudesse curar a garota, seria a Tempestade. Mas aquele rato d'água chamado Salkind apareceu e disse à mãe que Lady Mordea estava tomando banho e não poderia ser incomodada, especialmente para ajudar um imundo atirador de sarjeta. 
+02|2D0C|001C|O que aconteceu com a criança? 
+02|2D35|0017|A criança se recuperou? 
+02|2D50|0016|narceja de sarjeta imunda!? 
 03|2D71|1290
-02|2D76|0016|filthy gutter snipe!? 
+02|2D76|0016|narceja de sarjeta imunda!? 
 04|2D91|007D
-02|2D95|003F|That's what he said. Can you believe that cold hearted weasel? 
-02|2DEB|0016|filthy gutter snipe!? 
+02|2D95|003F|Isso foi o que ele disse. Você acredita naquela doninha de coração frio? 
+02|2DEB|0016|narceja de sarjeta imunda!? 
 03|2E0E|11F3
-02|2E13|0017|Did the child recover? 
+02|2E13|0017|A criança se recuperou? 
 04|2E2F|010B
-02|2E33|00A7|Her mother carried her back to the little shack they shared and tried to doctor her as best she could...but it was no use. The girl passed to Pit of Death that night. 
-02|2EF1|0017|Did the child recover? 
-02|2F15|0016|How do you know this? 
+02|2E33|00A7|Sua mãe a carregou de volta para a pequena cabana que compartilhavam e tentou curá-la da melhor maneira que pôde... mas não adiantou. A garota passou para o Poço da Morte naquela noite. 
+02|2EF1|0017|A criança se recuperou? 
+02|2F15|0016|Como você sabe disso? 
 03|2F3A|10C7
-02|2F3F|0016|How do you know this? 
+02|2F3F|0016|Como você sabe disso? 
 04|2F5A|00C4
-02|2F5E|003F|I know this because that little girl was Elaina...my daughter. 
-02|2FB4|0016|How do you know this? 
-02|2FD9|000F|I am so sorry. 
+02|2F5E|003F|Eu sei disso porque aquela garotinha era Elaina... minha filha. 
+02|2FB4|0016|Como você sabe disso? 
+02|2FD9|000F|Sinto muito. 
 04|2FF8|0023
-02|2FFD|0015|Lady Mordea is dead! 
+02|2FFD|0015|Senhora Mordea está morta! 
 03|301E|0FE3
-02|3023|000F|I am so sorry. 
+02|3023|000F|Sinto muito. 
 04|3037|00DA
-02|303B|008F|Well, I appreciate yer thoughts, but ye needn't apologize for sumthin' that ain't yer fault. So, how long are ye plannin' to stay around here? 
-02|30DF|0009|Not long 
-02|30EC|001A|Several months, at least. 
+02|303B|008F|Bem, agradeço sua opinião, mas não precisa se desculpar por algo que não é culpa sua. Então, quanto tempo você planeja ficar por aqui? 
+02|30DF|0009|Não muito 
+02|30EC|001A|Vários meses, pelo menos. 
 03|3111|0EF0
-02|3116|0009|Not long 
+02|3116|0009|Não muito 
 04|3124|017C
-02|3128|0107|Well, it's smart that ye are. I would leave too, if it weren't for the Sea. Ah, since my little Elaina left me, the Sea is my only love, the sea and all its little critters. Fine companions, those critters are. They mayen't say much, but they are good listeners. 
-02|3246|0009|Not long 
-02|3253|001A|Several months, at least. 
-02|327C|0018|Who are good listeners? 
+02|3128|0107|Bem, é inteligente que você seja. Eu também iria embora, se não fosse o Mar. Ah, desde que minha pequena Elaina me deixou, o Mar é meu único amor, o mar e todas as suas criaturinhas. Ótimos companheiros, essas criaturas são. Eles podem não falar muito, mas são bons ouvintes. 
+02|3246|0009|Não muito 
+02|3253|001A|Vários meses, pelo menos. 
+02|327C|0018|Quem são bons ouvintes? 
 03|32A0|0D61
-02|32A5|0018|Who are good listeners? 
+02|32A5|0018|Quem são bons ouvintes? 
 04|32C2|00AF
-02|32C6|006F|Why the fish, 'course. They're wise, they are. Would do ye good to listen to them one day, seek their council. 
-02|334C|0018|Who are good listeners? 
+02|32C6|006F|Por que o peixe, claro. Eles são sábios, eles são. Faria bem se um dia os ouvisses e procurasses o seu conselho. 
+02|334C|0018|Quem são bons ouvintes? 
 03|3371|0C90
-02|3376|001A|Several months, at least. 
+02|3376|001A|Vários meses, pelo menos. 
 04|3395|0095
-02|3399|0053|Oh, might want to rethink that, ye might. I told ye, Tenebrae is not a good place. 
-02|3403|001A|Several months, at least. 
+02|3399|0053|Oh, talvez você queira repensar isso, sim. Eu te disse, Tenebrae não é um bom lugar. 
+02|3403|001A|Vários meses, pelo menos. 
 03|342A|0BD7
-02|342F|0015|Lady Mordea is dead! 
+02|342F|0015|Senhora Mordea está morta! 
 04|3449|0083
-02|344D|0026|She is dead? Then who is the Tempest? 
-02|348A|0015|Lady Mordea is dead! 
-02|34AE|0012|Devon is Tempest. 
+02|344D|0026|Ela está morta? Então quem é a Tempestade? 
+02|348A|0015|Senhora Mordea está morta! 
+02|34AE|0012|Devon é Tempestade. 
 03|34CC|0B35
-02|34D1|0012|Devon is Tempest. 
+02|34D1|0012|Devon é Tempestade. 
 04|34E8|00B1
-02|34EC|0077|Devon? What great news is this? Devon is a kind and fair man. He'll have no more of those bloody executions, I'm sure! 
-02|357A|0012|Devon is Tempest. 
+02|34EC|0077|Devon? Que grande notícia é essa? Devon é um homem gentil e justo. Ele não aceitará mais aquelas malditas execuções, tenho certeza! 
+02|357A|0012|Devon é Tempestade. 
 03|3599|0A68
-02|359E|0011|Hello, Kilandra. 
+02|359E|0011|Olá, Kilandra. 
 04|35B4|0180
 04|35BB|0097
-02|35BF|006B|YE! I thought I told ye to leave! Now I advise ye do it, and do it quick. A'fore I cuts ye into fish bait. 
+02|35BF|006B|VÓS! Pensei ter dito para você ir embora! Agora eu aconselho você a fazer isso, e rápido. Antes de te cortar em isca de peixe. 
 06|3642|057C:1090
 03|364F|09C5
 03|3652|00DF
-02|3656|002D|Ah, so ye's returned. What can I do for you? 
-02|369A|0011|Hello, Kilandra. 
-02|36B8|001D|Tell me about your daughter. 
-02|36D9|001D|Tell me of the Sea of Rains. 
+02|3656|002D|Ah, então você voltou. O que posso fazer para você? 
+02|369A|0011|Olá, Kilandra. 
+02|36B8|001D|Conte-me sobre sua filha. 
+02|36D9|001D|Conte-me sobre o Mar das Chuvas. 
 04|3705|002C
-02|370A|001E|The weather is certainly bad. 
+02|370A|001E|O tempo certamente está ruim. 
 03|3734|08CD
-02|3739|001E|The weather is certainly bad. 
+02|3739|001E|O tempo certamente está ruim. 
 04|375C|01CA
-02|3760|0112|Ye'r telling me! Why I haven't seen rain like this in all my days. I haven't been able to put out to sea since it started. Why, even the fish didn't expect this, or I'm sure they'd have said something to me about it. That Tempest is certainly got a lot of explainin' to do! 
-02|3889|001E|The weather is certainly bad. 
-02|38B4|001E|The fish tell you of weather? 
-02|38D6|0017|I caused this weather. 
+02|3760|0112|Você está me contando! Por que não vi chuva assim em todos os meus dias. Não consegui sair para o mar desde que começou. Ora, nem mesmo os peixes esperavam isso, ou tenho certeza de que teriam me dito algo sobre isso. Essa Tempest certamente tem muito o que explicar! 
+02|3889|001E|O tempo certamente está ruim. 
+02|38B4|001E|Os peixes falam sobre o tempo? 
+02|38D6|0017|Eu causei esse clima. 
 04|38FC|0027
-02|3901|0019|It is not Devon's fault. 
+02|3901|0019|Não é culpa de Devon. 
 03|3926|06DB
-02|392B|0017|I caused this weather. 
+02|392B|0017|Eu causei esse clima. 
 04|3947|00D8
-02|394B|0078|Ye? Hmmm. No, I don't think I believe ye. Only the Tempest can effect the weather. I don't believe you are the Tempest. 
-02|39DA|0013|I released Hydros. 
-02|39FB|0017|I caused this weather. 
+02|394B|0078|Vós? Hmmm. Não, acho que não acredito em você. Somente a Tempestade pode afetar o clima. Não acredito que você seja a Tempestade. 
+02|39DA|0013|Eu liberei Hydros. 
+02|39FB|0017|Eu causei esse clima. 
 03|3A1F|05E2
-02|3A24|0013|I released Hydros. 
+02|3A24|0013|Eu liberei Hydros. 
 04|3A3C|01A2
-02|3A40|0167|Ye say ye released Hydros, do ye? Well, sure ye did, now lad, sure ye did. And this caused the rains, then? Well, what else have ye done? Been to the Pit of Death? Seen the Shrine of the Ancients? Har, har, har. Oh lad, Ye need to get away, some place calm and quiet, maybe take up fishing. This traveling life has really been a little hard on ye, hasn't it? 
-02|3BBE|0013|I released Hydros. 
+02|3A40|0167|Você diz que liberou Hydros, não é? Bem, claro que sim, rapaz, claro que sim. E isso causou as chuvas, então? Bem, o que mais você fez? Já esteve no Poço da Morte? Viu o Santuário dos Antigos? Ha, ha, ha. Oh rapaz, você precisa ir embora, algum lugar calmo e tranquilo, talvez começar a pescar. Essa vida de viajante realmente tem sido um pouco difícil para você, não é? 
+02|3BBE|0013|Eu liberei Hydros. 
 03|3BDE|0423
-02|3BE3|0019|It is not Devon's fault. 
+02|3BE3|0019|Não é culpa de Devon. 
 04|3C01|00D0
-02|3C05|008F|Devon? Is that lad the Tempest then? Oh my. He is a good lad. The fish knew there was something about him. Whispered his name often, they did. 
-02|3CAB|0019|It is not Devon's fault. 
+02|3C05|008F|Devon? Esse rapaz é a Tempestade então? Oh meu Deus. Ele é um bom rapaz. O peixe sabia que havia algo nele. Sussurraram seu nome com frequência, eles fizeram. 
+02|3CAB|0019|Não é culpa de Devon. 
 03|3CD1|0330
-02|3CD6|001E|The fish tell you of weather? 
+02|3CD6|001E|Os peixes falam sobre o tempo? 
 04|3CF9|00AF
-02|3CFD|0069|Of course. They tell me lots of things. In fact, ye ought to take the time out to talk to them yer'self! 
-02|3D7D|001E|The fish tell you of weather? 
+02|3CFD|0069|Claro. Eles me contam muitas coisas. Na verdade, você mesmo deveria reservar um tempo para conversar com eles! 
+02|3D7D|001E|Os peixes falam sobre o tempo? 
 03|3DA8|0259
-02|3DAD|001D|Tell me about your daughter. 
+02|3DAD|001D|Conte-me sobre sua filha. 
 04|3DCF|0088
-02|3DD3|0043|That's something I'ds rather not speak of. The pain is very fresh. 
-02|3E2D|001D|Tell me about your daughter. 
+02|3DD3|0043|Isso é algo que prefiro não falar. A dor é muito recente. 
+02|3E2D|001D|Conte-me sobre sua filha. 
 03|3E57|01AA
-02|3E5C|000A|Kilandra? 
+02|3E5C|000A|Calendário? 
 04|3E6B|006A
-02|3E6F|003E|What? Are ye deaf? I want no part of ye! Get out of my sight! 
+02|3E6F|003E|O que? Você é surdo? Não quero fazer parte de você! Saia da minha frente! 
 06|3EC5|057C:1090
 03|3ED2|0142
 03|3ED5|012C
-02|3EDA|000B|Pardon me. 
+02|3EDA|000B|Perdoe-me. 
 04|3EEA|00D3
-02|3EEE|00A7|I saw her. Oh by the Titans, I saw her! She was wet and covered with slime, and the fish had eaten half of her beautiful face. Oh, how can I bear it? I ask you, how?! 
+02|3EEE|00A7|Eu vi ela. Oh, pelos Titãs, eu a vi! Ela estava molhada e coberta de lodo, e o peixe havia comido metade de seu lindo rosto. Ah, como posso suportar isso? Eu te pergunto, como?! 
 06|3FAD|057C:1090
 03|3FBA|005A
 03|3FBD|0044
-02|3FC2|0004|bye 
+02|3FC2|0004|tchau 
 04|3FCB|0036
-02|3FCF|000A|Farewell. 
+02|3FCF|000A|Até a próxima. 
 06|3FF1|057C:1090
 03|4004|CDD7
 06|400A|057C:1090

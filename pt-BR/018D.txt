@@ -1,74 +1,74 @@
 01|0080|0080
 01|00C0|00C0
 04|011B|0010
-02|011E|0005|wand 
+02|011E|0005|varinha 
 03|012B|00F7
 04|0154|000F
-02|0157|0004|rod 
+02|0157|0004|haste 
 03|0163|00BF
 04|018C|0011
-02|018F|0006|staff 
+02|018F|0006|funcionários 
 03|019D|0085
 04|01C6|0014
-02|01C9|0009|talisman 
+02|01C9|0009|talismã 
 03|01DA|0048
 04|0210|0012
-02|0213|0007|symbol 
+02|0213|0007|símbolo 
 04|022A|0230
 04|0236|0224
-02|023B|0003|of 
+02|023B|0003|de 
 04|024C|0015
-02|0251|0007|ignite 
+02|0251|0007|acender 
 03|0261|0176
 04|0269|0019
-02|026E|000B|extinguish 
+02|026E|000B|extinguir 
 03|0282|0155
 04|028A|0014
-02|028F|0006|flash 
+02|028F|0006|clarão 
 03|029E|0139
 04|02A6|0019
-02|02AB|000B|flame bolt 
+02|02AB|000B|parafuso de chama 
 03|02BF|0118
 04|02C7|001A
-02|02CC|000C|endure heat 
+02|02CC|000C|suportar o calor 
 03|02E1|00F6
 04|02E9|001A
-02|02EE|000C|fire shield 
+02|02EE|000C|escudo de fogo 
 03|0303|00D4
 04|030B|001E
-02|0310|0010|armor of flames 
+02|0310|0010|armadura de chamas 
 03|0329|00AE
 04|0331|001A
-02|0336|000C|create fire 
+02|0336|000C|criar fogo 
 03|034B|008C
 04|0353|0018
-02|0358|000A|explosion 
+02|0358|000A|explosão 
 03|036B|006C
 04|0373|001C
-02|0378|000E|summon daemon 
+02|0378|000E|convocar daemon 
 03|038F|0048
 04|0397|001C
-02|039C|000E|banish daemon 
+02|039C|000E|banir daemon 
 03|03B3|0024
 04|03BB|001C
-02|03C0|000E|conflagration 
+02|03C0|000E|conflagração 
 04|03EE|006C
-02|0406|0005|with 
+02|0406|0005|com 
 04|0423|0012
-02|0428|0004| use
+02|0428|0004| usar
 03|0435|0010
-02|043A|0005| uses
-02|044A|000A| remaining
+02|043A|0005| usa
+02|044A|000A| restante
 01|0472|0472
 03|04A3|036F
 04|04B5|004F
 05|04BA|0581:1A85
 04|04C3|003E
-02|04C9|0026|I wonder what this is supposed to do. 
+02|04C9|0026|Eu me pergunto o que isso deveria fazer. 
 03|0504|030E
 05|050B|018D:0080
 04|0516|004A
-02|051C|002C|The focus must be held to invoke its power. 
+02|051C|002C|O foco deve ser mantido para invocar seu poder. 
 05|0563|0581:36E7
 05|0579|0581:1A85
 05|05D5|0581:1A96

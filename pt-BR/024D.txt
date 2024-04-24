@@ -1,8 +1,8 @@
 01|0080|0080
-02|008C|000D|fishing pole 
+02|008C|000D|Vara de pescar 
 01|00B0|00B0
 03|00D2|00D8
 04|00EF|009A
-02|0164|0014|I caught something! 
+02|0164|0014|Eu peguei alguma coisa! 
 03|0189|0021
-02|018E|000E|No fish here. 
+02|018E|000E|Não há peixe aqui. 

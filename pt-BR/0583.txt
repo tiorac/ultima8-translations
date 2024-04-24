@@ -192,15 +192,15 @@
 04|24CE|01C0
 04|24D8|00C0
 04|24DD|0068
-02|24E2|003A|You have failed the first test, Disciple. Prepare to die. 
+02|24E2|003A|Você falhou no primeiro teste, discípulo. Prepare-se para morrer. 
 03|2545|0050
-02|254A|002C|Nicely done, Disciple. Now the Explosion... 
+02|254A|002C|Muito bem, discípulo. Agora a explosão... 
 03|2598|00F3
 04|25A2|00E9
 04|25A8|0069
-02|25AD|003B|You have failed the second test, Disciple. Prepare to die. 
+02|25AD|003B|Você falhou no segundo teste, discípulo. Prepare-se para morrer. 
 03|2611|0077
-02|2616|0053|Good technique, you could stand a little refinement though. Now summon a daemon... 
+02|2616|0053|Boa técnica, mas você poderia suportar um pouco de refinamento. Agora convoque um daemon... 
 03|26B4|FD7B
 01|26EF|26EF
 06|2745|0581:1C19

@@ -1,16 +1,16 @@
 01|0080|0080
 04|008F|0021
-02|0093|0008|Corinth 
+02|0093|0008|Corinto 
 03|00B0|001C
-02|00B4|0006|Woman 
+02|00B4|0006|Mulher 
 01|00D1|00D1
 06|0108|057C:15E7
 04|0146|00B2
 04|015C|0052
-02|0166|0023|I would not do that if I were you! 
+02|0166|0023|Eu não faria isso se fosse você! 
 06|01A1|040F:02BA
 03|01AE|004A
-02|01B2|000D|Stop! Thief! 
+02|01B2|000D|Parar! Ladrão! 
 06|01DD|0581:1C19
 06|01F0|058B:0080
 01|01FD|01FD
@@ -39,43 +39,43 @@
 04|054A|0204
 04|055D|0072
 06|0572|057C:091C
-02|0582|0007|Hello. 
+02|0582|0007|Olá. 
 06|05AC|057C:15E7
 06|05C3|0581:1C19
 04|05D7|0072
-02|05DB|0028|I -do- wish that we had a larger house. 
+02|05DB|0028|Eu gostaria que tivéssemos uma casa maior. 
 06|0626|057C:15E7
 06|063D|0581:1C19
 04|0651|0048
-02|0655|001B|Oh how I miss my baby boy. 
+02|0655|001B|Ah, como sinto falta do meu filho. 
 06|068D|0581:1C19
 04|06A1|00AA
 06|06B6|057C:091C
 06|06D3|057C:15E7
-02|06E3|0017|Do you need something? 
+02|06E3|0017|Você precisa de algo? 
 06|0717|0581:1C19
-02|0727|0012|Very well then... 
+02|0727|0012|Muito bem então... 
 03|074E|0262
 06|076C|057C:091C
 04|0780|0036
-02|0784|001D|We must clean up this house. 
+02|0784|001D|Devemos limpar esta casa. 
 03|07B6|01FA
 04|07BE|0073
-02|07C2|0029|I wonder what Cyrrus is doing right now? 
+02|07C2|0029|Eu me pergunto o que Cyrrus está fazendo agora? 
 06|080E|057C:15E7
 06|0825|0581:1C19
 04|0839|001F
-02|083D|0009|No rats! 
+02|083D|0009|Sem ratos! 
 04|0860|005E
-02|0864|0014|Mmmm, kith fillets! 
+02|0864|0014|Mmmm, filés de kith! 
 06|089B|057C:15E7
 06|08B2|0581:1C19
 04|08C6|002C
-02|08CA|0016|I truly despise rats! 
+02|08CA|0016|Eu realmente desprezo ratos! 
 04|08FA|002D
-02|08FE|0017|I need some kith milk. 
+02|08FE|0017|Preciso de um pouco de leite Kith. 
 04|092F|0081
-02|0933|0037|I certainly am glad that a kith did not devour Cyrrus. 
+02|0933|0037|Certamente estou feliz que um kith não tenha devorado Cyrrus. 
 06|098D|057C:15E7
 06|09A4|0581:1C19
 01|09B5|09B5
@@ -92,561 +92,561 @@
 04|0B9B|01FF
 04|0BAE|0072
 06|0BC3|057C:091C
-02|0BD3|0007|Hello. 
+02|0BD3|0007|Olá. 
 06|0BFD|057C:15E7
 06|0C14|0581:1C19
 04|0C28|006D
-02|0C2C|0023|All day long, all I see are torax. 
+02|0C2C|0023|O dia todo, tudo que vejo é tórax. 
 06|0C72|057C:15E7
 06|0C89|0581:1C19
 04|0C9D|0048
-02|0CA1|001B|Oh how I miss my baby boy. 
+02|0CA1|001B|Ah, como sinto falta do meu filho. 
 06|0CD9|0581:1C19
 04|0CED|00AA
 06|0D02|057C:091C
 06|0D1F|057C:15E7
-02|0D2F|0017|Do you need something? 
+02|0D2F|0017|Você precisa de algo? 
 06|0D63|0581:1C19
-02|0D73|0012|Very well then... 
+02|0D73|0012|Muito bem então... 
 03|0D9A|0294
 06|0DB8|057C:091C
 04|0DCC|0049
-02|0DD0|0030|I wonder what the people in Tenebrae are doing? 
+02|0DD0|0030|Eu me pergunto o que as pessoas em Tenebrae estão fazendo? 
 03|0E15|0219
 04|0E1D|0073
-02|0E21|0029|I wonder what Cyrrus is doing right now? 
+02|0E21|0029|Eu me pergunto o que Cyrrus está fazendo agora? 
 06|0E6D|057C:15E7
 06|0E84|0581:1C19
 04|0E98|0029
-02|0E9C|0013|No rats! NO RATS!! 
+02|0E9C|0013|Sem ratos! SEM RATOS!! 
 04|0EC9|006C
-02|0ECD|0022|I hope that no kiths come around. 
+02|0ECD|0022|Espero que nenhum kith apareça. 
 06|0F12|057C:15E7
 06|0F29|0581:1C19
 04|0F3D|002C
-02|0F41|0016|I truly despise rats! 
+02|0F41|0016|Eu realmente desprezo ratos! 
 04|0F71|0036
-02|0F75|0020|I need some variety in my life. 
+02|0F75|0020|Preciso de alguma variedade na minha vida. 
 04|0FAF|007F
-02|0FB3|0035|I wish that Gwillim were more sensitive to my needs. 
+02|0FB3|0035|Gostaria que Gwillim fosse mais sensível às minhas necessidades. 
 06|100B|057C:15E7
 06|1022|0581:1C19
 01|1033|1033
 06|1041|057C:0BCF
-02|104F|000A|Greetings 
-02|106E|000B|I'm called 
+02|104F|000A|Saudações 
+02|106E|000B|me chamo 
 02|1083|0001|.
 04|1091|007C
 04|1098|004A
-02|109B|001B|I -do- apologize, my lady. 
-02|10BA|0020|Don't turn away from me, woman! 
+02|109B|001B|Eu peço desculpas, minha senhora. 
+02|10BA|0020|Não se afaste de mim, mulher! 
 03|10EC|4FA4
 03|10EF|001B
-02|10F2|0010|Hello, Corinth. 
+02|10F2|0010|Olá, Corinto. 
 03|110D|009B
 04|1114|004D
-02|1117|001B|I -do- apologize, my lady. 
-02|1136|0020|Don't turn away from me, woman! 
+02|1117|001B|Eu peço desculpas, minha senhora. 
+02|1136|0020|Não se afaste de mim, mulher! 
 03|1161|0047
-02|1164|0011|Hello, stranger. 
-02|1179|001A|I hope I'm not intruding. 
-02|1197|0009|Adeus 
-02|11AD|0009|Adeus 
+02|1164|0011|Olá estranho. 
+02|1179|001A|Espero não estar me intrometendo. 
+02|1197|0009|Adeus. 
+02|11AD|0009|Adeus. 
 04|11BC|4ED4
-02|11C1|0009|Adeus 
-02|11D9|0009|Adeus 
-02|1209|0011|Hello, stranger. 
+02|11C1|0009|Adeus. 
+02|11D9|0009|Adeus. 
+02|1209|0011|Olá estranho. 
 04|121F|00A6
-02|1223|005B|Pardon me, sir, but I ask that you treat me with a bit more respect here upon my own land. 
-02|1293|0015|I apologize, m'lady. 
-02|12AC|000E|Quiet, woman! 
+02|1223|005B|Perdoe-me, senhor, mas peço que me trate com um pouco mais de respeito aqui em minha própria terra. 
+02|1293|0015|Peço desculpas, senhora. 
+02|12AC|000E|Calma, mulher! 
 03|12C5|4DC8
-02|12CA|0015|I apologize, m'lady. 
+02|12CA|0015|Peço desculpas, senhora. 
 04|12E4|0100
-02|12E8|00BC|Apology accepted, sir. I hope that I was not too terse in my response. We certainly do not get many strangers up here. Allow me to introduce my self; I am Corinth. By what are you called? 
-02|13BB|0018|I would rather not say. 
+02|12E8|00BC|Desculpas aceitas, senhor. Espero não ter sido muito conciso na minha resposta. Certamente não recebemos muitos estranhos aqui. Permita-me apresentar-me; Eu sou Corinto. Como você é chamado? 
+02|13BB|0018|Eu prefiro não falar. 
 03|13E4|4CA9
-02|13E9|0020|Don't turn away from me, woman! 
+02|13E9|0020|Não se afaste de mim, mulher! 
 04|140E|00B6
-02|1412|0055|What? I cannot believe how rude you are! Go away before I call the Tenebrae guards!! 
-02|1484|0020|Don't turn away from me, woman! 
+02|1412|0055|O que? Eu não posso acreditar o quão rude você é! Vá embora antes que eu chame os guardas Tenebrae!! 
+02|1484|0020|Não se afaste de mim, mulher! 
 06|14B4|057C:1090
 03|14C1|4BCF
 03|14C4|4BC9
 04|14CC|00A9
-02|14D0|0020|Well, I am pleased to meet you, 
-02|14FA|0017|. You are welcome here.
-02|1527|0022|So, you don't see many strangers? 
-02|154D|0009|Corinth? 
-02|155A|0010|What do you do? 
+02|14D0|0020|Bem, tenho o prazer de conhecê-lo, 
+02|14FA|0017|. Você é bem vindo aqui.
+02|1527|0022|Então, você não vê muitos estranhos? 
+02|154D|0009|Corinto? 
+02|155A|0010|O que você faz? 
 03|1575|4B18
-02|157A|0018|I would rather not say. 
+02|157A|0018|Eu prefiro não falar. 
 04|1597|006F
-02|159B|001C|Very well, I shall not pry. 
-02|15CC|0022|So, you don't see many strangers? 
-02|15F2|0009|Corinth? 
+02|159B|001C|Muito bem, não vou me intrometer. 
+02|15CC|0022|Então, você não vê muitos estranhos? 
+02|15F2|0009|Corinto? 
 03|1606|4A87
-02|160B|000E|Quiet, woman! 
+02|160B|000E|Calma, mulher! 
 04|161E|008B
-02|1622|003C|I will not tolerate such rudeness. Get off of my land, now! 
-02|1675|000E|Quiet, woman! 
+02|1622|003C|Não vou tolerar tal grosseria. Saia da minha terra, agora! 
+02|1675|000E|Calma, mulher! 
 06|1699|057C:1090
 03|16A6|49EA
 03|16A9|49E4
-02|16AE|0009|Corinth? 
+02|16AE|0009|Corinto? 
 04|16BC|00C6
-02|16C0|0075|I was named for my mother who did not survive my birth. Father wished to preserve her memory by naming me after her. 
-02|174C|0007|Father 
-02|1757|0007|Mother 
-02|176C|0009|Corinth? 
+02|16C0|0075|Recebi o nome de minha mãe que não sobreviveu ao meu nascimento. Meu pai desejava preservar a memória dela dando-me o nome dela. 
+02|174C|0007|Pai 
+02|1757|0007|Mãe 
+02|176C|0009|Corinto? 
 03|1782|490B
-02|1787|0007|Mother 
+02|1787|0007|Mãe 
 04|1793|0063
-02|1797|0034|Did you not hear me? I said that my mother is dead. 
-02|17E2|0007|Mother 
+02|1797|0034|Você não me ouviu? Eu disse que minha mãe está morta. 
+02|17E2|0007|Mãe 
 03|17F6|4897
-02|17FB|0007|Father 
+02|17FB|0007|Pai 
 04|1807|00D5
-02|180B|006E|Lleu was my father but he is dead now. Lleu was a fine herdsman but his devotion to his herd cost him dearly. 
-02|1890|0013|He was a herdsman? 
-02|18A7|000A|Cost him? 
-02|18B5|0005|Lleu 
-02|18C8|0007|Father 
+02|180B|006E|Lleu era meu pai, mas agora está morto. Lleu era um excelente pastor, mas sua devoção ao rebanho lhe custou caro. 
+02|1890|0013|Ele era um pastor? 
+02|18A7|000A|Custou a ele? 
+02|18B5|0005|Pouco 
+02|18C8|0007|Pai 
 03|18DC|47B1
-02|18E1|0005|Lleu 
+02|18E1|0005|Pouco 
 04|18EB|00B9
-02|18EF|0065|Yes, Lleu, it's an old name. It is rarely used today. In many ways my father's name suited him well. 
-02|196B|000C|Suited him? 
-02|197B|0009|old name 
-02|1992|0005|Lleu 
+02|18EF|0065|Sim, Lleu, é um nome antigo. Raramente é usado hoje. Em muitos aspectos, o nome do meu pai combinava bem com ele. 
+02|196B|000C|Combinava com ele? 
+02|197B|0009|Antigo nome 
+02|1992|0005|Pouco 
 03|19A4|46E9
-02|19A9|000C|Suited him? 
+02|19A9|000C|Combinava com ele? 
 04|19BA|0091
-02|19BE|003E|My father was an old fashioned man with old fashioned values. 
-02|1A13|0011|Old values, huh? 
-02|1A32|000C|Suited him? 
+02|19BE|003E|Meu pai era um homem antiquado com valores antiquados. 
+02|1A13|0011|Valores antigos, né? 
+02|1A32|000C|Combinava com ele? 
 03|1A4B|4642
-02|1A50|0011|Old values, huh? 
+02|1A50|0011|Valores antigos, né? 
 04|1A66|00F3
-02|1A6A|0098|Well I don't mean to say that we don't have values today. I certainly don't want you to get the impression that I'm not happy with our people's values. 
-02|1B19|0014|our people's values 
-02|1B3B|0011|Old values, huh? 
+02|1A6A|0098|Bem, não quero dizer que não tenhamos valores hoje. Certamente não quero que vocês tenham a impressão de que não estou satisfeito com os valores do nosso povo. 
+02|1B19|0014|os valores do nosso povo 
+02|1B3B|0011|Valores antigos, né? 
 03|1B59|4534
-02|1B5E|001B|I -do- apologize, my lady. 
+02|1B5E|001B|Eu peço desculpas, minha senhora. 
 04|1B7E|0098
-02|1B82|0054|Very well, sir, I accept your apology. I am called Corinth. By what are you called? 
-02|1BED|0018|I would rather not say. 
+02|1B82|0054|Muito bem, senhor, aceito suas desculpas. Meu nome é Corinto. Como você é chamado? 
+02|1BED|0018|Eu prefiro não falar. 
 03|1C16|4477
-02|1C1B|0010|Hello, Corinth. 
+02|1C1B|0010|Olá, Corinto. 
 04|1C30|0090
-02|1C34|003A|Well, hello, my friend. I hope that all is well with you. 
-02|1C85|0010|What do you do? 
-02|1CA3|0010|Hello, Corinth. 
+02|1C34|003A|Bem, olá, meu amigo. Espero que esteja tudo bem com você. 
+02|1C85|0010|O que você faz? 
+02|1CA3|0010|Olá, Corinto. 
 03|1CC0|43CD
-02|1CC5|0009|old name 
+02|1CC5|0009|Antigo nome 
 04|1CD3|007F
-02|1CD7|0033|It is a very old name. But it's not a Zealan name. 
-02|1D21|000D|Zealan name? 
-02|1D3C|0009|old name 
+02|1CD7|0033|É um nome muito antigo. Mas não é um nome Zelano. 
+02|1D21|000D|Nome Zelano? 
+02|1D3C|0009|Antigo nome 
 03|1D52|433B
-02|1D57|000D|Zealan name? 
+02|1D57|000D|Nome Zelano? 
 04|1D69|009D
-02|1D6D|0045|That is what I was told. Actually, I know nothing about the Zealans. 
-02|1DC9|0015|Who are the Zealans? 
-02|1DEC|000D|Zealan name? 
+02|1D6D|0045|Isso é o que me disseram. Na verdade, não sei nada sobre os zelanos. 
+02|1DC9|0015|Quem são os Zelanos? 
+02|1DEC|000D|Nome Zelano? 
 03|1E06|4287
-02|1E0B|0015|Who are the Zealans? 
+02|1E0B|0015|Quem são os Zelanos? 
 04|1E25|016F
-02|1E29|0132|All I know of them are but dim memories of stories that I was told as a child. Supposedly there were a race of people that once lived here on Pagan who were quite savage. My father used to tell me that if I did not behave, the Zealans would come and get me. Anyway, that is all that I know of the Zealans. 
-02|1F72|0015|Who are the Zealans? 
+02|1E29|0132|Tudo o que sei sobre eles são apenas vagas lembranças de histórias que me contaram quando criança. Supostamente houve uma raça de pessoas que viveu aqui em Pagan e que eram bastante selvagens. O meu pai costumava dizer-me que se eu não me comportasse, os zelanos viriam buscar-me. De qualquer forma, isso é tudo o que sei sobre os zelanos. 
+02|1F72|0015|Quem são os Zelanos? 
 03|1F94|40F9
-02|1F99|0014|our people's values 
+02|1F99|0014|os valores do nosso povo 
 04|1FB2|00B7
-02|1FB6|0064|Lady Mordea has given us a culture to be proud of. Life is certainly better today than in the past. 
-02|2031|0009|the past 
-02|2048|0014|our people's values 
+02|1FB6|0064|Lady Mordea nos deu uma cultura da qual nos orgulhamos. A vida é certamente melhor hoje do que no passado. 
+02|2031|0009|o passado 
+02|2048|0014|os valores do nosso povo 
 03|2069|4024
-02|206E|0009|the past 
+02|206E|0009|o passado 
 04|207C|0072
-02|2080|0041|Her Ladyship has given us peace and order. I am happy with that. 
-02|20D8|0009|the past 
+02|2080|0041|Sua Senhoria nos deu paz e ordem. Eu estou feliz com isso. 
+02|20D8|0009|o passado 
 03|20EE|3F9F
-02|20F3|0013|He was a herdsman? 
+02|20F3|0013|Ele era um pastor? 
 04|210B|0089
-02|210F|004E|Lleu was a herdsman from the time that he was a boy. It was all that he knew. 
-02|2174|0013|He was a herdsman? 
+02|210F|004E|Lleu foi pastor desde menino. Era tudo o que ele sabia. 
+02|2174|0013|Ele era um pastor? 
 03|2194|3EF9
-02|2199|000A|Cost him? 
+02|2199|000A|Custou a ele? 
 04|21A8|007A
-02|21AC|0048|Yes, long ago Lleu's herd was attacked by a kith. The kith killed Lleu. 
-02|220B|000A|Cost him? 
+02|21AC|0048|Sim, há muito tempo o rebanho de Lleu foi atacado por um kith. O kith matou Lleu. 
+02|220B|000A|Custou a ele? 
 03|2222|3E6B
-02|2227|001A|I hope I'm not intruding. 
+02|2227|001A|Espero não estar me intrometendo. 
 04|2246|00DF
-02|224A|00A5|No, you are welcome here. Although you did alarm me a bit. We do no get many strangers up here. Still, it is not for simple folk to say where and when -you- travel. 
-02|2304|0016|Do you know who I am? 
+02|224A|00A5|Não, você é bem-vindo aqui. Embora você tenha me alarmado um pouco. Não recebemos muitos estranhos aqui. Ainda assim, não cabe às pessoas simples dizer para onde e quando você viaja. 
+02|2304|0016|Você sabe quem eu sou? 
 03|2325|3D68
-02|232A|0016|Do you know who I am? 
+02|232A|0016|Você sabe quem eu sou? 
 04|2345|0107
-02|2349|00C6|Well, to be honest, no. But, someone of my stature certainly has no business telling a warrior what he can or can not do. But I have not introduced myself. I am Corinth. And by what are you called? 
-02|2426|0015|I prefer not to say. 
+02|2349|00C6|Bem, para ser honesto, não. Mas, alguém da minha estatura certamente não tem nada a ver com dizer a um guerreiro o que ele pode ou não fazer. Mas eu não me apresentei. Eu sou Corinto. E como você é chamado? 
+02|2426|0015|prefiro não dizer. 
 03|244C|3C41
 04|2454|007C
-02|2458|000A|Well met, 
-02|246C|0019|. It is good to know you.
-02|249B|0010|What do you do? 
-02|24AF|0009|Corinth? 
+02|2458|000A|Oi, 
+02|246C|0019|. É bom conhecer você.
+02|249B|0010|O que você faz? 
+02|24AF|0009|Corinto? 
 03|24D0|3BBD
-02|24D5|0015|I prefer not to say. 
+02|24D5|0015|prefiro não dizer. 
 04|24EF|0093
-02|24F3|0042|Very well, I am sure that you have your reasons for your secrecy. 
-02|254A|0019|You think I'm a warrior? 
-02|2567|0010|What do you do? 
+02|24F3|0042|Muito bem, tenho certeza de que você tem seus motivos para seu sigilo. 
+02|254A|0019|Você acha que sou um guerreiro? 
+02|2567|0010|O que você faz? 
 03|2582|3B0B
-02|2587|0019|You think I'm a warrior? 
+02|2587|0019|Você acha que sou um guerreiro? 
 04|25A5|00CF
-02|25A9|008E|Come now, do not be modest. You have the obvious look of a warrior. Look how you are dressed! I may live in the country, but I am not stupid. 
-02|264E|0019|You think I'm a warrior? 
+02|25A9|008E|Venha agora, não seja modesto. Você tem a aparência óbvia de um guerreiro. Olha como você está vestido! Posso morar no campo, mas não sou estúpido. 
+02|264E|0019|Você acha que sou um guerreiro? 
 03|2674|3A19
-02|2679|0010|What do you do? 
+02|2679|0010|O que você faz? 
 04|268E|00DF
-02|2692|007F|As we live in the country, away from most people, I do many things. Since my son did move away I am not as busy as I once was. 
-02|2728|000C|Many things 
-02|2738|000A|Your son? 
-02|2750|0010|What do you do? 
+02|2692|007F|Como moramos no campo, longe da maioria das pessoas, faço muitas coisas. Desde que meu filho se mudou, não estou tão ocupado como antes. 
+02|2728|000C|Muitas coisas 
+02|2738|000A|Seu filho? 
+02|2750|0010|O que você faz? 
 03|276D|3920
-02|2772|000C|Many things 
+02|2772|000C|Muitas coisas 
 04|2783|00DE
-02|2787|0083|I take care of my husband, feed him, stitch his clothes and such. I also keep the house and help tend the torax from time to time. 
-02|2821|000E|Your husband? 
-02|2833|0007|Torax? 
-02|2848|000C|Many things 
+02|2787|0083|Eu cuido do meu marido, dou comida para ele, costuro a roupa dele e tal. Eu também cuido da casa e ajudo a cuidar do tórax de vez em quando. 
+02|2821|000E|Seu marido? 
+02|2833|0007|Peito? 
+02|2848|000C|Muitas coisas 
 03|2861|382C
-02|2866|000A|Your son? 
+02|2866|000A|Seu filho? 
 04|2875|00C2
-02|2879|006F|My dear Cyrrus. I am so proud of him. His father and I are but simple people. But Cyrrus will do great things. 
-02|28FD|000C|His father? 
-02|290D|000E|Great things? 
-02|291F|000D|Simple folk. 
+02|2879|006F|Meu caro Ciro. Estou tão orgulhosa dele. Seu pai e eu somos apenas pessoas simples. Mas Cyrrus fará grandes coisas. 
+02|28FD|000C|O pai dele? 
+02|290D|000E|Boas coisas? 
+02|291F|000D|Pessoas simples. 
 03|2937|3756
-02|293C|000C|His father? 
+02|293C|000C|O pai dele? 
 04|294D|0057
-02|2951|0023|That would be my husband, Gwillim. 
-02|298B|000C|His father? 
+02|2951|0023|Esse seria meu marido, Gwillim. 
+02|298B|000C|O pai dele? 
 03|29A4|36E9
-02|29A9|000D|Simple folk. 
+02|29A9|000D|Pessoas simples. 
 04|29BB|015F
-02|29BF|00E6|Look about you, my lord. Does this look like the home of a wealthy family? Ours are not easy lives, yet we are proud people. Not many can do what we do. And our family has lived in this valley and worked the land for generations. 
-02|2ABC|0010|What do you do? 
-02|2AD0|0022|You've been here for generations? 
-02|2B00|000D|Simple folk. 
+02|29BF|00E6|Olhe ao seu redor, meu senhor. Parece a casa de uma família rica? Nossas vidas não são fáceis, mas somos pessoas orgulhosas. Poucos podem fazer o que fazemos. E a nossa família vive neste vale e trabalha a terra há gerações. 
+02|2ABC|0010|O que você faz? 
+02|2AD0|0022|Você está aqui há gerações? 
+02|2B00|000D|Pessoas simples. 
 03|2B1A|3573
-02|2B1F|0022|You've been here for generations? 
+02|2B1F|0022|Você está aqui há gerações? 
 04|2B46|0127
-02|2B4A|00A9|Oh yes. There used to be a great many families that lived in the valley. But that was long ago. Now, only Gwillim and I are left to keep the legacy of the valley alive. 
-02|2C08|0008|Legacy? 
-02|2C14|001D|What happened to the others? 
-02|2C3E|0022|You've been here for generations? 
+02|2B4A|00A9|Oh sim. Costumava haver muitas famílias que viviam no vale. Mas isso foi há muito tempo. Agora, só resta Gwillim e eu para manter vivo o legado do vale. 
+02|2C08|0008|Legado? 
+02|2C14|001D|O que aconteceu com os outros? 
+02|2C3E|0022|Você está aqui há gerações? 
 03|2C6D|3420
-02|2C72|0008|Legacy? 
+02|2C72|0008|Legado? 
 04|2C7F|00E6
-02|2C83|009A|Yes, we are the only folk that are left who know the myths and legends of the valley. It is sad, but we are the only people left who care of such things. 
-02|2D34|000E|No one cares? 
-02|2D50|0008|Legacy? 
+02|2C83|009A|Sim, somos as únicas pessoas que restam que conhecem os mitos e lendas do vale. É triste, mas somos as únicas pessoas que se preocupam com essas coisas. 
+02|2D34|000E|Ninguém se importa? 
+02|2D50|0008|Legado? 
 03|2D65|3328
-02|2D6A|000E|No one cares? 
+02|2D6A|000E|Ninguém se importa? 
 04|2D7D|00B7
-02|2D81|0081|There is no one -left- to care. Roam this valley all that you wish and the only people that you will see are Gwillim and myself. 
-02|2E19|000E|No one cares? 
+02|2D81|0081|Não há mais ninguém para se importar. Vagueie por este vale o quanto quiser e as únicas pessoas que você verá seremos Gwillim e eu. 
+02|2E19|000E|Ninguém se importa? 
 03|2E34|3259
-02|2E39|001D|What happened to the others? 
+02|2E39|001D|O que aconteceu com os outros? 
 04|2E5B|0186
-02|2E5F|00C7|Well, there was a great war long, long ago. That was the beginning of the end, I suppose. Since that time, many people believed that the land was cursed. Many people died and many others moved away. 
+02|2E5F|00C7|Bem, houve uma grande guerra há muito, muito tempo. Esse foi o começo do fim, suponho. Desde aquela época, muitas pessoas acreditaram que a terra estava amaldiçoada. Muitas pessoas morreram e muitas outras se mudaram. 
 04|2F44|002F
-02|2F47|001D|Cursed? By a ghost, perhaps? 
+02|2F47|001D|Amaldiçoado? Por um fantasma, talvez? 
 03|2F73|0016
-02|2F78|0008|Cursed? 
-02|2F8E|001B|Where did the people move? 
-02|2FB7|001D|What happened to the others? 
+02|2F78|0008|Amaldiçoado? 
+02|2F8E|001B|Para onde as pessoas se mudaram? 
+02|2FB7|001D|O que aconteceu com os outros? 
 03|2FE1|30AC
-02|2FE6|0008|Cursed? 
+02|2FE6|0008|Amaldiçoado? 
 04|2FF3|00C7
-02|2FF7|0097|Well that is what some folk believe, but Gwillim and I... That is to say, ahh... Some people believe that the land is cursed. It is best left at that. 
-02|30A5|0008|Cursed? 
+02|2FF7|0097|Bem, isso é o que algumas pessoas acreditam, mas Gwillim e eu... Quer dizer, ahh... Algumas pessoas acreditam que a terra está amaldiçoada. É melhor deixar por isso mesmo. 
+02|30A5|0008|Amaldiçoado? 
 03|30BA|2FD3
-02|30BF|001B|Where did the people move? 
+02|30BF|001B|Para onde as pessoas se mudaram? 
 04|30DF|00BE
-02|30E3|0034|My father says that most of them moved to the city. 
-02|312E|001B|This was before your time? 
-02|314D|001A|The city? You're kidding! 
-02|3175|001B|Where did the people move? 
+02|30E3|0034|Meu pai diz que a maioria deles se mudou para a cidade. 
+02|312E|001B|Isso foi antes do seu tempo? 
+02|314D|001A|A cidade? Você está brincando! 
+02|3175|001B|Para onde as pessoas se mudaram? 
 03|319D|2EF0
-02|31A2|001A|The city? You're kidding! 
+02|31A2|001A|A cidade? Você está brincando! 
 04|31C1|00A1
-02|31C5|005F|No, I am quite serious. The city, like the valley has suffered much and many people have died. 
-02|323B|001A|The city? You're kidding! 
+02|31C5|005F|Não, estou falando sério. A cidade, assim como o vale, sofreu muito e muitas pessoas morreram. 
+02|323B|001A|A cidade? Você está brincando! 
 03|3262|2E2B
-02|3267|001B|This was before your time? 
+02|3267|001B|Isso foi antes do seu tempo? 
 04|3287|0114
-02|328B|0091|Oh yes, it was long ago. I have only heard stories. By the time I was born, there were only two families here in the valley, mine and Gwillim's. 
-02|3333|0018|What about when you go? 
-02|334F|0016|And Gwillim's family? 
-02|3373|001B|This was before your time? 
+02|328B|0091|Ah, sim, foi há muito tempo. Só ouvi histórias. Quando nasci, havia apenas duas famílias aqui no vale, a minha e a de Gwillim. 
+02|3333|0018|E quando você for? 
+02|334F|0016|E a família de Gwillim? 
+02|3373|001B|Isso foi antes do seu tempo? 
 03|339B|2CF2
-02|33A0|0016|And Gwillim's family? 
+02|33A0|0016|E a família de Gwillim? 
 04|33BB|00D1
-02|33BF|006E|Oh, they too died off. Gwillim's only brother died rather tragically, and his parents eventually died of age. 
+02|33BF|006E|Oh, eles também morreram. O único irmão de Gwillim morreu de forma bastante trágica, e seus pais acabaram morrendo de idade. 
 04|3446|001E
-02|344B|0010|How did he die? 
-02|3469|0016|And Gwillim's family? 
+02|344B|0010|Como ele morreu? 
+02|3469|0016|E a família de Gwillim? 
 03|348C|2C01
-02|3491|001D|Cursed? By a ghost, perhaps? 
+02|3491|001D|Amaldiçoado? Por um fantasma, talvez? 
 04|34B3|007C
-02|34B7|001C|Yes! How did you know that? 
-02|34EE|0014|I have heard tales. 
-02|3506|001E|Can you tell me of the ghost? 
+02|34B7|001C|Sim! Como você sabia disso? 
+02|34EE|0014|Eu ouvi histórias. 
+02|3506|001E|Você pode me contar sobre o fantasma? 
 03|352F|2B5E
-02|3534|0018|What about when you go? 
+02|3534|0018|E quando você for? 
 04|3551|00F5
-02|3555|0078|It is sad, but I fear that when Gwillim and I are gone, then gone too shall be this way of life. I blame myself for it. 
-02|35E4|0015|That is sad, indeed. 
-02|35FD|0016|You blame -yourself-? 
-02|3621|0018|What about when you go? 
+02|3555|0078|É triste, mas temo que quando Gwillim e eu partirmos, esse modo de vida também desaparecerá. Eu me culpo por isso. 
+02|35E4|0015|Isso é triste, de fato. 
+02|35FD|0016|Você se culpa? 
+02|3621|0018|E quando você for? 
 03|3646|2A47
-02|364B|0015|That is sad, indeed. 
+02|364B|0015|Isso é triste, de fato. 
 04|3665|0098
-02|3669|005B|I suppose that is the way of things. But still, I can not help but cry when I think of it. 
-02|36DB|0015|That is sad, indeed. 
+02|3669|005B|Suponho que seja assim que as coisas acontecem. Mesmo assim, não consigo deixar de chorar quando penso nisso. 
+02|36DB|0015|Isso é triste, de fato. 
 03|36FD|2990
-02|3702|0016|You blame -yourself-? 
+02|3702|0016|Você se culpa? 
 04|371D|012D
-02|3721|00AB|Oh, please forget that ever I said such a thing. I need not trouble someone who is a virtual stranger with talk such as this. I have rattled on for far too long as it is. 
-02|37E3|0014|This is no trouble. 
-02|37FB|001E|How could you blame yourself? 
-02|3827|0016|You blame -yourself-? 
+02|3721|00AB|Oh, por favor, esqueça que alguma vez eu disse tal coisa. Não preciso incomodar alguém que é virtualmente estranho com conversas como esta. Eu já falei por muito tempo. 
+02|37E3|0014|Isso não é problema. 
+02|37FB|001E|Como você pôde se culpar? 
+02|3827|0016|Você se culpa? 
 03|384A|2843
-02|384F|0014|This is no trouble. 
+02|384F|0014|Isso não é problema. 
 04|3868|0061
-02|386C|0025|I thank you. You are kind to say so. 
-02|38A8|0014|This is no trouble. 
+02|386C|0025|Eu que agradeço. Você é gentil em dizer isso. 
+02|38A8|0014|Isso não é problema. 
 03|38C9|27C4
-02|38CE|001E|How could you blame yourself? 
+02|38CE|001E|Como você pôde se culpar? 
 04|38F1|010E
-02|38F5|0094|Well, there was an accident many years ago... You see, Cyrrus was not our only child. Oh dear, I can not believe that I am telling you all of this. 
-02|39A0|0010|It's ok, go on. 
-02|39B4|0012|Stop if you wish. 
-02|39D4|001E|How could you blame yourself? 
+02|38F5|0094|Bem, houve um acidente há muitos anos... Veja, Cyrrus não era nosso único filho. Oh querido, não posso acreditar que estou lhe contando tudo isso. 
+02|39A0|0010|Está tudo bem, vá em frente. 
+02|39B4|0012|Pare se desejar. 
+02|39D4|001E|Como você pôde se culpar? 
 03|39FF|268E
-02|3A04|0012|Stop if you wish. 
+02|3A04|0012|Pare se desejar. 
 04|3A1B|0193
-02|3A1F|013F|No, I will continue. For some reason it feels good to tell this to someone. I had a child after Cyrrus, a baby girl. One day while the baby was still very young, I went into the barn to fetch a pail. I was only gone but for a moment, but while I was out of the house, a kith did come into the house and devour my baby. 
-02|3B75|000C|How tragic! 
-02|3B8F|0012|Stop if you wish. 
+02|3A1F|013F|Não, vou continuar. Por alguma razão, é bom contar isso a alguém. Tive um filho depois de Cyrrus, uma menina. Um dia, quando o bebê ainda era muito pequeno, fui ao celeiro buscar um balde. Eu só saí por um momento, mas enquanto estava fora de casa, um kith entrou em casa e devorou meu bebê. 
+02|3B75|000C|Que trágico! 
+02|3B8F|0012|Pare se desejar. 
 03|3BAE|24DF
-02|3BB3|0010|It's ok, go on. 
+02|3BB3|0010|Está tudo bem, vá em frente. 
 04|3BC8|016D
-02|3BCC|011B|Yes, I shall. You see, when Cyrrus was still young, I gave birth to a baby girl. One day while the baby was still very young, I went into the barn to fetch a pale. I was only gone but for a moment, but while I was out of the house, a kith did come into the house and devour my baby. 
-02|3CFE|000C|How tragic! 
-02|3D18|0010|It's ok, go on. 
+02|3BCC|011B|Sim, eu devo. Veja, quando Cyrrus ainda era jovem, dei à luz uma menina. Um dia, quando o bebê ainda era muito pequeno, fui ao celeiro buscar um pale. Eu só saí por um momento, mas enquanto estava fora de casa, um kith entrou em casa e devorou meu bebê. 
+02|3CFE|000C|Que trágico! 
+02|3D18|0010|Está tudo bem, vá em frente. 
 03|3D35|2358
-02|3D3A|000C|How tragic! 
+02|3D3A|000C|Que trágico! 
 04|3D4B|0128
-02|3D4F|00F4|For years I have carried the shame and guilt of knowing that I was responsible for my baby's death. Gwillim has always been very kind and supportive. He tried to tell me that it was not my fault, yet always will have to live with this sadness. 
-02|3E5A|000C|How tragic! 
+02|3D4F|00F4|Durante anos carreguei a vergonha e a culpa de saber que fui responsável pela morte do meu bebê. Gwillim sempre foi muito gentil e solidário. Ele tentou me dizer que não foi minha culpa, mas sempre terei que conviver com essa tristeza. 
+02|3E5A|000C|Que trágico! 
 03|3E73|221A
-02|3E78|0014|I have heard tales. 
+02|3E78|0014|Eu ouvi histórias. 
 04|3E91|007C
-02|3E95|0040|Strange. I had no idea that such tales have stretched very far. 
-02|3EEC|0014|I have heard tales. 
+02|3E95|0040|Estranho. Eu não tinha ideia de que essas histórias se estenderam muito longe. 
+02|3EEC|0014|Eu ouvi histórias. 
 03|3F0D|2180
-02|3F12|001E|Can you tell me of the ghost? 
+02|3F12|001E|Você pode me contar sobre o fantasma? 
 04|3F35|0132
-02|3F39|00A3|Well, I have not seen the ghost myself. I have only heard stories. However, Gwillim, my husband, has seen the creature, but he is very reluctant to talk about it. 
-02|3FF3|001A|Gwillim's seen the ghost? 
-02|4011|001D|Why is he reluctant to talk? 
-02|403C|001E|Can you tell me of the ghost? 
+02|3F39|00A3|Bem, eu mesmo não vi o fantasma. Só ouvi histórias. No entanto, Gwillim, meu marido, viu a criatura, mas está muito relutante em falar sobre isso. 
+02|3FF3|001A|Gwillim viu o fantasma? 
+02|4011|001D|Por que ele está relutante em falar? 
+02|403C|001E|Você pode me contar sobre o fantasma? 
 03|4067|2026
-02|406C|001A|Gwillim's seen the ghost? 
+02|406C|001A|Gwillim viu o fantasma? 
 04|408B|013D
-02|408F|00BB|Yes, twice, and it was long ago. The first time was when he and his brother were young men. They where watching over their herd when upon the hillside they saw a glowing form above them. 
-02|4161|001C|What about the second time? 
-02|4181|0012|They both saw it? 
-02|41A1|001A|Gwillim's seen the ghost? 
+02|408F|00BB|Sim, duas vezes, e foi há muito tempo. A primeira vez foi quando ele e o irmão eram jovens. Eles estavam vigiando seu rebanho quando, na encosta da colina, viram uma forma brilhante acima deles. 
+02|4161|001C|E a segunda vez? 
+02|4181|0012|Ambos viram? 
+02|41A1|001A|Gwillim viu o fantasma? 
 03|41C8|1EC5
-02|41CD|001C|What about the second time? 
+02|41CD|001C|E a segunda vez? 
 04|41EE|0160
-02|41F2|00D9|The second time, the ghost was actually on the ground, in front of Gwillim. He said that the ghost appeared to dance around him, as though it was mocking Gwillim. He also said that it looked most unusual for a ghost. 
-02|42E2|001E|Where was it the second time? 
-02|4304|0013|It looked unusual? 
-02|4325|001C|What about the second time? 
+02|41F2|00D9|Na segunda vez, o fantasma estava no chão, na frente de Gwillim. Ele disse que o fantasma parecia dançar ao seu redor, como se estivesse zombando de Gwillim. Ele também disse que parecia muito incomum para um fantasma. 
+02|42E2|001E|Onde foi a segunda vez? 
+02|4304|0013|Parecia incomum? 
+02|4325|001C|E a segunda vez? 
 03|434E|1D3F
-02|4353|0012|They both saw it? 
+02|4353|0012|Ambos viram? 
 04|436A|00A9
-02|436E|006F|Indeed they did. From that time on, Karpese, that was Gwillim's brother was obsessed with capturing the ghost. 
-02|43F4|0012|They both saw it? 
+02|436E|006F|Na verdade eles fizeram. A partir daí, Karpese, que era irmão de Gwillim, ficou obcecado em capturar o fantasma. 
+02|43F4|0012|Ambos viram? 
 03|4413|1C7A
-02|4418|001D|Why is he reluctant to talk? 
+02|4418|001D|Por que ele está relutante em falar? 
 04|443A|0132
-02|443E|00ED|Gwillim was frightened very deeply by what he saw. He is a strong man and does not scare easily. Whatever Gwillim saw did disturb him deeply and brings back memories of his brother. Therefore Gwillim does not like to speak of the ghost. 
-02|4542|001D|Why is he reluctant to talk? 
+02|443E|00ED|Gwillim ficou profundamente assustado com o que viu. Ele é um homem forte e não se assusta facilmente. O que quer que Gwillim tenha visto, perturbou-o profundamente e traz de volta memórias de seu irmão. Por isso Gwillim não gosta de falar do fantasma. 
+02|4542|001D|Por que ele está relutante em falar? 
 03|456C|1B21
-02|4571|0013|It looked unusual? 
+02|4571|0013|Parecia incomum? 
 04|4589|017D
-02|458D|011F|Yes. Anyone who has had the misfortune to have visited the graveyard has probably seen a ghost floating in the distance. It is not unusual to see something such as that in a place where there is nothing but death. But Gwillim told me that the ghost that haunts this valley is different. 
-02|46C3|0015|How is it different? 
-02|46E6|0013|It looked unusual? 
+02|458D|011F|Sim. Qualquer pessoa que teve a infelicidade de visitar o cemitério provavelmente viu um fantasma flutuando ao longe. Não é incomum ver algo assim num lugar onde não há nada além da morte. Mas Gwillim me disse que o fantasma que assombra este vale é diferente. 
+02|46C3|0015|Como é diferente? 
+02|46E6|0013|Parecia incomum? 
 03|4706|1987
-02|470B|0015|How is it different? 
+02|470B|0015|Como é diferente? 
 04|4725|00ED
-02|4729|00B0|Well, most ghosts that people have seen are vaporous in appearance. According to Gwillim, this ghost here is invisible except for the armor which it bears. It is most unusual. 
-02|47F0|0015|How is it different? 
+02|4729|00B0|Bem, a maioria dos fantasmas que as pessoas viram têm uma aparência vaporosa. Segundo Gwillim, este fantasma aqui é invisível, exceto pela armadura que carrega. É muito incomum. 
+02|47F0|0015|Como é diferente? 
 03|4812|187B
-02|4817|001E|Where was it the second time? 
+02|4817|001E|Onde foi a segunda vez? 
 04|483A|0099
-02|483E|0053|I am not certain. Gwillim could tell you if you can get him to speak of the ghost. 
-02|48A8|001E|Where was it the second time? 
+02|483E|0053|Não estou certo. Gwillim poderia lhe dizer se você conseguir fazê-lo falar do fantasma. 
+02|48A8|001E|Onde foi a segunda vez? 
 03|48D3|17BA
-02|48D8|0010|How did he die? 
+02|48D8|0010|Como ele morreu? 
 04|48ED|006E
-02|48F1|0036|He went searching for the ghost and did never return. 
-02|493E|0010|How did he die? 
+02|48F1|0036|Ele foi em busca do fantasma e nunca mais voltou. 
+02|493E|0010|Como ele morreu? 
 03|495B|1732
-02|4960|0007|Torax? 
+02|4960|0007|Peito? 
 04|496C|011F
-02|4970|00D6|Yes, the animals that you will see grazing here in the valley. Do not tell me that you have never heard of a torax. We have been trying to increase the size of our herd so that we can save a little bit more money. 
-02|4A5D|000C|Save money? 
-02|4A77|0007|Torax? 
+02|4970|00D6|Sim, os animais que você verá pastando aqui no vale. Não me diga que você nunca ouviu falar de tórax. Temos tentado aumentar o tamanho do nosso rebanho para podermos economizar um pouco mais. 
+02|4A5D|000C|Economizar? 
+02|4A77|0007|Peito? 
 03|4A8B|1602
-02|4A90|000C|Save money? 
+02|4A90|000C|Economizar? 
 04|4AA1|00C7
-02|4AA5|0075|Yes, it is difficult to do because we don't have very much. Sometimes my husband hunts kiths to bring in extra food. 
-02|4B31|0010|He hunts kiths? 
-02|4B4F|000C|Save money? 
+02|4AA5|0075|Sim, é difícil de fazer porque não temos muito. Às vezes, meu marido caça kiths para trazer comida extra. 
+02|4B31|0010|Ele caça kiths? 
+02|4B4F|000C|Economizar? 
 03|4B68|1525
-02|4B6D|0010|He hunts kiths? 
+02|4B6D|0010|Ele caça kiths? 
 04|4B82|00D1
-02|4B86|0074|Kith meat is very tasty but they are dangerous animals. It is said that a kith can cut a man in half with its jaws. 
-02|4C11|0010|He hunts kiths? 
-02|4C30|0017|That sounds dangerous. 
+02|4B86|0074|A carne de Kith é muito saborosa, mas são animais perigosos. Dizem que um kith pode cortar um homem ao meio com suas mandíbulas. 
+02|4C11|0010|Ele caça kiths? 
+02|4C30|0017|Isso parece perigoso. 
 03|4C53|143A
-02|4C58|0017|That sounds dangerous. 
+02|4C58|0017|Isso parece perigoso. 
 04|4C74|007A
-02|4C78|003B|Not many people hunt them. But Gwillim is very good at it. 
-02|4CCA|0017|That sounds dangerous. 
+02|4C78|003B|Poucas pessoas os caçam. Mas Gwillim é muito bom nisso. 
+02|4CCA|0017|Isso parece perigoso. 
 03|4CEE|139F
-02|4CF3|000E|Your husband? 
+02|4CF3|000E|Seu marido? 
 04|4D06|008D
-02|4D0A|0036|Gwillim is my husband. He is a strong and goodly man. 
-02|4D57|0013|Strong and goodly? 
-02|4D78|000E|Your husband? 
+02|4D0A|0036|Gwillim é meu marido. Ele é um homem forte e bom. 
+02|4D57|0013|Forte e bom? 
+02|4D78|000E|Seu marido? 
 03|4D93|12FA
-02|4D98|0013|Strong and goodly? 
+02|4D98|0013|Forte e bom? 
 04|4DB0|00E9
-02|4DB4|0087|Many men drink every night and beat their wives but Gwillim does not do such things. He does not even mind that I sacrifice to Hydros. 
-02|4E52|0019|You sacrifice to Hydros? 
-02|4E79|0013|Strong and goodly? 
+02|4DB4|0087|Muitos homens bebem todas as noites e batem nas esposas, mas Gwillim não faz essas coisas. Ele nem se importa que eu sacrifique para Hydros. 
+02|4E52|0019|Você sacrifica para Hydros? 
+02|4E79|0013|Forte e bom? 
 03|4E99|11F4
-02|4E9E|0019|You sacrifice to Hydros? 
+02|4E9E|0019|Você sacrifica para Hydros? 
 04|4EBC|00DA
-02|4EC0|007F|Gwillim is a farmer, so he sacrifices to Lithos, the Earth Titan. But, like my father, I sacrifice to the Water Titan, Hydros. 
-02|4F56|0019|You sacrifice to Hydros? 
-02|4F7E|000C|Why Hydros? 
+02|4EC0|007F|Gwillim é fazendeiro, então ele sacrifica Lithos, o Titã da Terra. Mas, como meu pai, eu sacrifico ao Titã da Água, Hydros. 
+02|4F56|0019|Você sacrifica para Hydros? 
+02|4F7E|000C|Por que Hidros? 
 03|4F96|10F7
-02|4F9B|000C|Why Hydros? 
+02|4F9B|000C|Por que Hidros? 
 04|4FAC|00B3
-02|4FB0|007F|My father taught me to sacrifice to Hydros. All of my family has sacrificed to the Lurker for as far back as any can remember. 
-02|5046|000C|Why Hydros? 
+02|4FB0|007F|Meu pai me ensinou a sacrificar para Hydros. Toda a minha família se sacrificou ao Luker desde que alguém se lembra. 
+02|5046|000C|Por que Hidros? 
 03|505F|102E
-02|5064|000E|Great things? 
+02|5064|000E|Boas coisas? 
 04|5077|009B
-02|507B|005C|Yes! Cyrrus has gone to study with the Theurgists. He will help many people as a Theurgist. 
-02|50EC|000A|Theurgist 
-02|50FA|000D|Help people? 
+02|507B|005C|Sim! Ciro foi estudar com os teurgos. Ele ajudará muitas pessoas como teurgo. 
+02|50EC|000A|Teurgista 
+02|50FA|000D|Ajude as pessoas? 
 03|5112|0F7B
-02|5117|000A|Theurgist 
+02|5117|000A|Teurgista 
 04|5126|00FC
-02|512A|008C|The Theurgists are the disciples of the Air Titan. Although Gwillim sacrifices to Lithos, I believe that Cyrrus was born to be a Theurgist. 
-02|51CD|0014|But what of Hydros? 
-02|51E5|0018|Born to be a Theurgist? 
-02|520B|000A|Theurgist 
+02|512A|008C|Os teurgos são os discípulos do Titã do Ar. Embora Gwillim sacrifique a Lithos, acredito que Cyrrus nasceu para ser um Teurgista. 
+02|51CD|0014|Mas e a Hydros? 
+02|51E5|0018|Nasceu para ser Teurgista? 
+02|520B|000A|Teurgista 
 03|5222|0E6B
-02|5227|000D|Help people? 
+02|5227|000D|Ajude as pessoas? 
 04|5239|0095
-02|523D|0060|The Theurgists specialize in healing the sick. Some say that they can even bring back the dead. 
-02|52B4|000D|Help people? 
+02|523D|0060|Os teurgos são especializados em curar os enfermos. Alguns dizem que podem até trazer de volta os mortos. 
+02|52B4|000D|Ajude as pessoas? 
 03|52CE|0DBF
-02|52D3|0014|But what of Hydros? 
+02|52D3|0014|Mas e a Hydros? 
 04|52EC|0135
-02|52F0|00CD|All of the Titans are worthy of service. Gwillim did not much like the idea of Cyrrus being a Theurgist but saw the boy's dedication. If Cyrrus is meant to serve Stratos then we must not stand in his way. 
-02|53D4|0014|But what of Hydros? 
-02|53F7|001E|All of the Titans are worthy? 
+02|52F0|00CD|Todos os Titãs são dignos de serviço. Gwillim não gostou muito da ideia de Cyrrus ser Teurgista, mas viu a dedicação do menino. Se Cyrrus pretende servir Stratos, então não devemos ficar no seu caminho. 
+02|53D4|0014|Mas e a Hydros? 
+02|53F7|001E|Todos os Titãs são dignos? 
 03|5421|0C6C
-02|5426|001E|All of the Titans are worthy? 
+02|5426|001E|Todos os Titãs são dignos? 
 04|5449|0122
-02|544D|00C3|By that, I mean that all of the Titans are great powers. I do not mean to say that all are not worthy of good people's service. I would not claim that Pyros and his sorcerers are worthy of such. 
-02|5527|001E|All of the Titans are worthy? 
-02|5554|000B|Sorcerers? 
+02|544D|00C3|Com isso quero dizer que todos os Titãs são grandes potências. Não quero dizer que nem todos sejam dignos do serviço de boas pessoas. Eu não diria que Pyros e seus feiticeiros sejam dignos disso. 
+02|5527|001E|Todos os Titãs são dignos? 
+02|5554|000B|Feiticeiros? 
 03|556B|0B22
-02|5570|0018|Born to be a Theurgist? 
+02|5570|0018|Nasceu para ser Teurgista? 
 04|558D|0174
-02|5591|0104|All of his life Cyrrus has most enjoyed caring for others. He has always a talent for healing. It did not matter if it was a person or an animal, Cyrrus would heal it if it were sick. I knew that he was born to be a Theurgist, not to spend his life on a farm. 
-02|56AC|000E|Even animals? 
-02|56BE|0010|Not at the farm 
-02|56DC|0018|Born to be a Theurgist? 
+02|5591|0104|Durante toda a sua vida, Cyrrus gostou mais de cuidar dos outros. Ele sempre teve talento para curar. Não importava se era uma pessoa ou um animal, Cyrrus iria curá-lo se estivesse doente. Eu sabia que ele nasceu para ser teurgo, não para passar a vida numa fazenda. 
+02|56AC|000E|Até animais? 
+02|56BE|0010|Não na fazenda 
+02|56DC|0018|Nasceu para ser Teurgista? 
 03|5701|098C
-02|5706|000B|Sorcerers? 
+02|5706|000B|Feiticeiros? 
 04|5716|0079
-02|571A|0046|Ask me nothing of them. It is ill business to speak of the sorcerers. 
-02|5777|000B|Sorcerers? 
+02|571A|0046|Não me pergunte nada deles. Não é bom falar dos feiticeiros. 
+02|5777|000B|Feiticeiros? 
 03|578F|08FE
-02|5794|0010|Not at the farm 
+02|5794|0010|Não na fazenda 
 04|57A9|010E
-02|57AD|00A0|Gwillim wanted very much for Cyrrus to follow in his footsteps at the farm. I convinced Cyrrus that his future was more important than his father's traditions. 
-02|5864|000C|His future? 
-02|5874|0018|His father's tradition. 
-02|589A|0010|Not at the farm 
+02|57AD|00A0|Gwillim queria muito que Cyrrus seguisse seus passos na fazenda. Convenci Cyrrus de que o futuro dele era mais importante que as tradições do pai. 
+02|5864|000C|Seu futuro? 
+02|5874|0018|A tradição de seu pai. 
+02|589A|0010|Não na fazenda 
 03|58B7|07D6
-02|58BC|0018|His father's tradition. 
+02|58BC|0018|A tradição de seu pai. 
 04|58D9|00F7
-02|58DD|00B7|All of Gwillim's kin have always been herdsmen. Gwillim takes great pride in working the land. As Cyrrus is our only son, Gwillim expected Cyrrus to carry on the family's traditions. 
-02|59AB|0018|His father's tradition. 
+02|58DD|00B7|Todos os parentes de Gwillim sempre foram pastores. Gwillim tem muito orgulho de trabalhar a terra. Como Cyrrus é nosso único filho, Gwillim esperava que Cyrrus continuasse as tradições da família. 
+02|59AB|0018|A tradição de seu pai. 
 03|59D0|06BD
-02|59D5|0022|So, you don't see many strangers? 
+02|59D5|0022|Então, você não vê muitos estranhos? 
 04|59FC|00CD
-02|5A00|0068|We rarely have visitors here in the country.	We do see that strange old hermit once in a while, though. 
-02|5A7F|000D|What hermit? 
-02|5A9A|0022|So, you don't see many strangers? 
+02|5A00|0068|Raramente recebemos visitantes aqui no país. No entanto, vemos aquele velho e estranho eremita de vez em quando. 
+02|5A7F|000D|Que eremita? 
+02|5A9A|0022|Então, você não vê muitos estranhos? 
 03|5AC9|05C4
-02|5ACE|000D|What hermit? 
+02|5ACE|000D|Que eremita? 
 04|5AE0|00FC
-02|5AE4|00A4|I believe that his name is Mythran. He goes into Tenebrae now and then, for supplies I suppose. No one knows much about Mythran but there are many tales about him. 
-02|5B9F|0015|What kinds of tales? 
-02|5BC2|000D|What hermit? 
+02|5AE4|00A4|Eu acredito que o nome dele é Mythran. Ele vai a Tenebrae de vez em quando, em busca de suprimentos, suponho. Ninguém sabe muito sobre Mythran, mas existem muitas histórias sobre ele. 
+02|5B9F|0015|Que tipos de contos? 
+02|5BC2|000D|Que eremita? 
 03|5BDC|04B1
-02|5BE1|0015|What kinds of tales? 
+02|5BE1|0015|Que tipos de contos? 
 04|5BFB|00FE
-02|5BFF|00BB|Oh I don't not know them all. People claim that he knows magic. Some people even claim to have bought magic scrolls from the old hermit. But I would not believe everything that you hear. 
-02|5CD1|0015|What kinds of tales? 
+02|5BFF|00BB|Ah, eu não conheço todos eles. As pessoas afirmam que ele conhece magia. Algumas pessoas até afirmam ter comprado pergaminhos mágicos do velho eremita. Mas eu não acreditaria em tudo o que você ouve. 
+02|5CD1|0015|Que tipos de contos? 
 03|5CF9|0394
-02|5CFE|000C|His future? 
+02|5CFE|000C|Seu futuro? 
 04|5D0F|0123
-02|5D13|00EF|I knew that if Cyrrus became a farmer, he would be poor for the rest of life. Gwillim does not know that I convinced Cyrrus to seek the Theurgists, but I had to, for Cyrrus' sake. Now he can lead a life far richer than that of a farm man. 
-02|5E19|000C|His future? 
+02|5D13|00EF|Eu sabia que se Cyrrus se tornasse agricultor, seria pobre para o resto da vida. Gwillim não sabe que convenci Cyrrus a procurar os teurgos, mas tive que fazê-lo, pelo bem de Cyrrus. Agora ele pode levar uma vida muito mais rica do que a de um fazendeiro. 
+02|5E19|000C|Seu futuro? 
 03|5E32|025B
-02|5E37|000E|Even animals? 
+02|5E37|000E|Até animais? 
 04|5E4A|00CE
-02|5E4E|0063|My, but you do ask many questions! But yes, Cyrrus loves animals. He has always been a caring man. 
-02|5EC8|000E|Even animals? 
-02|5EE5|0027|I'm sorry if I ask too many questions. 
+02|5E4E|0063|Meu Deus, mas você faz muitas perguntas! Mas sim, Cyrrus adora animais. Ele sempre foi um homem atencioso. 
+02|5EC8|000E|Até animais? 
+02|5EE5|0027|Me desculpe se fiz muitas perguntas. 
 03|5F18|0175
-02|5F1D|0027|I'm sorry if I ask too many questions. 
+02|5F1D|0027|Me desculpe se fiz muitas perguntas. 
 04|5F49|00E4
-02|5F4D|0095|No, I am sorry if I made you uncomfortable. I enjoy your company! As I said, we do not see many visitors here, I am glad to have someone to talk to. 
-02|5FF9|0027|I'm sorry if I ask too many questions. 
+02|5F4D|0095|Não, sinto muito se deixei você desconfortável. Eu gosto da sua companhia! Como eu disse, não vemos muitos visitantes aqui, fico feliz em ter alguém com quem conversar. 
+02|5FF9|0027|Me desculpe se fiz muitas perguntas. 
 03|602D|0060
-02|6032|0009|Adeus 
+02|6032|0009|Adeus. 
 04|6040|004D
-02|6044|0009|Farewell 
-02|6064|0009|Adeus 
+02|6044|0009|Até a próxima 
+02|6064|0009|Adeus. 
 06|607D|057C:1090
 03|6090|B118

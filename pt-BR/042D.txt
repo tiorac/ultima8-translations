@@ -1,8 +1,8 @@
 01|0080|0080
 04|0094|0028
-02|0098|000F|dead guardsman 
+02|0098|000F|guarda morto 
 03|00BC|0020
-02|00C0|000A|guardsman 
+02|00C0|000A|guarda 
 01|00E1|00E1
 05|0124|0581:2A56
 06|012D|042D:0C02
@@ -12,91 +12,91 @@
 01|018A|018A
 05|019C|0581:2A56
 01|01A5|01A5
-02|01B2|000B|Guardsman! 
+02|01B2|000B|Guarda! 
 06|01D1|057C:0BCF
 06|01E6|0581:1C19
 05|01FA|0581:2A56
 04|0234|006A
-02|0238|003E|The Titans are angry! Run to safety and pray for their mercy! 
+02|0238|003E|Os Titãs estão com raiva! Corra para a segurança e ore por sua misericórdia! 
 06|028E|057C:1090
 03|029B|095E
 03|029E|007D
 04|02A5|0076
-02|02A9|004A|For the sake of Lithos, we are beset by the dead! Find shelter, stranger. 
+02|02A9|004A|Pelo bem de Lithos, estamos cercados de mortos! Encontre abrigo, estranho. 
 06|030B|057C:1090
 03|0318|08E1
 04|0322|00A5
 04|0329|002F
-02|032D|0010|What is it now? 
+02|032D|0010|O que é agora? 
 03|0358|006C
 04|0367|002B
-02|036B|0012|What do you want? 
+02|036B|0012|O que você quer? 
 03|0392|0032
-02|0396|001C|What! Again with questions! 
+02|0396|001C|O que! Novamente com perguntas! 
 03|03C7|0032
-02|03CB|001C|What do you want, stranger? 
-02|03FC|000D|Who are you? 
-02|040D|0013|What is your duty? 
-02|0424|000C|Where am I? 
-02|0434|0004|Bye 
-02|0445|0004|Bye 
+02|03CB|001C|O que você quer, estranho? 
+02|03FC|000D|Quem é você? 
+02|040D|0013|Qual é o seu dever? 
+02|0424|000C|Onde estou? 
+02|0434|0004|Tchau 
+02|0445|0004|Tchau 
 04|044F|07AA
-02|046D|000D|Who are you? 
+02|046D|000D|Quem é você? 
 04|047F|008E
-02|048A|000D|Who are you? 
-02|04A5|0053|My name is none of your concern. What -is- your concern is staying out of trouble. 
+02|048A|000D|Quem é você? 
+02|04A5|0053|Meu nome não é da sua conta. Qual é a sua preocupação é ficar longe de problemas. 
 03|050D|06E9
-02|0512|0013|What is your duty? 
+02|0512|0013|Qual é o seu dever? 
 04|052A|0142
-02|052F|0013|What is your duty? 
+02|052F|0013|Qual é o seu dever? 
 04|0553|006F
-02|0557|0056|My duty is to protect the Tempest, Devon, though I doubt he needs it with his powers. 
+02|0557|0056|Meu dever é proteger a Tempestade, Devon, embora duvide que ele precise disso com seus poderes. 
 03|05C2|00A7
-02|05C6|0091|My duty is to protect her Ladyship, Mordea, though I doubt she needs it with her powers. You would have to be insane to think of assaulting her. 
+02|05C6|0091|Meu dever é proteger Sua Senhoria, Mordea, embora duvide que ela precise disso com seus poderes. Você teria que ser louco para pensar em agredi-la. 
 03|066C|058A
-02|0671|000C|Where am I? 
+02|0671|000C|Onde estou? 
 04|0682|0528
-02|0687|000C|Where am I? 
+02|0687|000C|Onde estou? 
 04|06A4|002F
-02|06A8|0019|Try to listen this time! 
-02|06DD|001D|You are in central Tenebrae. 
+02|06A8|0019|Tente ouvir desta vez! 
+02|06DD|001D|Você está no centro da escuridão. 
 06|0718|057C:091C
 06|072E|057C:15E7
-02|073E|0024|This direction leads to the palace. 
+02|073E|0024|Esta direção leva ao palácio. 
 06|077E|057C:15E7
 06|079F|057C:091C
 04|07B3|004E
-02|07B7|0038|Since you're new here I'd suggest you stay clear of it! 
+02|07B7|0038|Como você é novo aqui, sugiro que fique longe disso! 
 04|0808|003D
-02|080C|0024|It is a quiet place without Mordea. 
+02|080C|0024|É um lugar tranquilo sem Mordea. 
 03|0845|006C
-02|0849|0056|You should head east or west, for the palace holds only trouble for the likes of you. 
+02|0849|0056|Você deve ir para o leste ou para o oeste, pois o palácio só traz problemas para pessoas como você. 
 06|08BD|057C:091C
 06|08D2|057C:15E7
-02|08DE|002A|To the East is where the rich folks live. 
+02|08DE|002A|A Leste é onde vivem os ricos. 
 06|0924|057C:15E7
 06|0945|057C:091C
-02|0955|0031|On that side is a library and a weapons trainer. 
+02|0955|0031|Desse lado há uma biblioteca e um treinador de armas. 
 06|09A4|057C:091C
 06|09B9|057C:15E7
-02|09C5|002A|And that is where all the poor sods live. 
+02|09C5|002A|E é lá que vivem todos os pobres coitados. 
 06|0A0B|057C:15E7
 06|0A2C|057C:091C
-02|0A3C|003C|There is the smithy and a tavern in that direction as well. 
+02|0A3C|003C|Há a ferraria e uma taverna naquela direção também. 
 04|0A91|00A3
 06|0AA6|057C:091C
-02|0AB6|0056|I must be getting back to duty, now. Mayhaps later we'll meet at the Shattered Skull. 
+02|0AB6|0056|Devo voltar ao trabalho agora. Talvez mais tarde nos encontremos no Shattered Skull. 
 06|0B24|057C:1090
 03|0B31|00C8
 03|0B34|0073
 06|0B49|057C:091C
-02|0B59|0029|Now, move along so I can return to duty. 
+02|0B59|0029|Agora, siga em frente para que eu possa voltar ao trabalho. 
 06|0B9A|057C:1090
 03|0BA7|0052
 03|0BAA|004C
-02|0BAF|0004|Bye 
+02|0BAF|0004|Tchau 
 04|0BB8|003E
-02|0BBB|0017|I go back to duty now. 
+02|0BBB|0017|Volto ao trabalho agora. 
 06|0BE6|057C:1090
 03|0BF9|F847
 01|0C02|0C02

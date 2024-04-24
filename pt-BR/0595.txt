@@ -1,197 +1,197 @@
 01|0080|0080
-02|008A|0005|I am 
+02|008A|0005|Eu sou 
 02|0099|0001|.
 04|00A8|052F
-02|00AC|0070|Ah. A stranger comes to the Enclave. How rare.*You are also a stranger to the island of Morgaelin.*Are you not? 
+02|00AC|0070|Ah. Um estranho chega ao Enclave. Que raro.*Você também é um estranho na ilha de Morgaelin.*Não é? 
 06|0139|0581:1B49
 04|0151|0022
-02|0154|0017|So I thought. And what 
+02|0154|0017|Então eu pensei. E o que 
 03|0173|0093
 04|017B|003E
-02|017E|0033|How odd, I've never seen one like you before.*What 
+02|017E|0033|Que estranho, nunca vi alguém como você antes.*O que 
 03|01B9|004D
-02|01BC|0045|Your silence is understood, but fear not, I intend you no harm.*What 
-02|020B|0020|might you be called, my friend? 
-02|0247|0014|It is of no matter. 
-02|025F|001D|You are not my friend, lady. 
+02|01BC|0045|Seu silêncio é compreendido, mas não tema, não pretendo lhe fazer mal.*O que 
+02|020B|0020|você pode ser chamado, meu amigo? 
+02|0247|0014|Não importa. 
+02|025F|001D|Você não é minha amiga, senhora. 
 04|02A5|0070
-02|02A8|005F|What an interesting name. I shall be sure to make note of it. However, you have need of a name 
+02|02A8|005F|Que nome interessante. Com certeza anotarei isso. No entanto, você precisa de um nome 
 03|0315|00DE
-02|031A|001D|You are not my friend, lady. 
+02|031A|001D|Você não é minha amiga, senhora. 
 04|033C|002E
-02|033F|0023|Ah, I shall be if only you wish it 
+02|033F|0023|Ah, eu estarei se você desejar 
 03|036A|0023
-02|036D|001B|I see you are a humble one 
-02|0392|005B|, but there is no reason for you to reveal your name to me. I would prefer to give you one 
-02|03F8|007B| that has meaning in the Elder Tongue. I sense that your name should be Daemion. It means Fire of the Sky.*Do you like it? 
+02|036D|001B|Vejo que você é humilde 
+02|0392|005B|, mas não há razão para você me revelar seu nome. Eu preferiria te dar um 
+02|03F8|007B| isso tem significado na Língua Antiga. Sinto que seu nome deveria ser Daemion. Significa Fogo do Céu.*Você gostou? 
 06|0493|0581:1AD0
 04|04A2|0026
-02|04A5|001B|It gladdens me to hear it. 
+02|04A5|001B|Fico feliz em ouvir isso. 
 03|04C8|0059
-02|04CB|0051|Nonetheless, it is what I shall call you. You may respond or not as you see fit. 
-02|0526|0091| Perhaps later, when you have earned it, you will be given a Truename. Daemion seems right and will suffice for now. With what may I assist you? 
+02|04CB|0051|No entanto, é assim que vou chamá-lo. Você pode responder ou não como achar melhor. 
+02|0526|0091| Talvez mais tarde, quando você o tiver conquistado, você receberá um Truename. Daemion parece certo e será suficiente por enquanto. Em que posso ajudá-lo? 
 03|05D7|041F
 04|05EA|0181
 04|05F2|00C9
 04|05F8|0044
-02|05FB|0039|To what do I owe the pleasure of your presence, Daemion? 
+02|05FB|0039|A que devo o prazer da sua presença, Daemion? 
 03|063C|003B
 04|0644|0026
-02|0647|001B|How may I aid you, friend? 
+02|0647|001B|Como posso ajudá-lo, amigo? 
 03|066A|000D
-02|066D|0005|Yes? 
+02|066D|0005|Sim? 
 04|0684|0034
-02|0689|0029|*Have you decided to become my Disciple? 
+02|0689|0029|*Você decidiu se tornar meu discípulo? 
 03|06BB|009C
 03|06D0|0326
 04|06D6|0044
-02|06D9|0039|To what do I owe the pleasure of your presence, Daemion? 
+02|06D9|0039|A que devo o prazer da sua presença, Daemion? 
 03|071A|003D
 04|0722|0028
-02|0725|001D|How may I aid you, Disciple? 
+02|0725|001D|Como posso ajudá-lo, discípulo? 
 03|074A|000D
-02|074D|0005|Yes? 
+02|074D|0005|Sim? 
 03|076B|028B
 04|0775|0112
 04|077B|006A
-02|077F|0051|Is there something we have to discuss? Because if not, I have much to attend to. 
+02|077F|0051|Há algo que precisamos discutir? Porque se não, tenho muito o que fazer. 
 03|07E5|009F
 04|07ED|006F
-02|07F1|0056|Unless you've come to apologize for your rude behavior, I have nothing to say to you. 
+02|07F1|0056|A menos que você tenha vindo se desculpar por seu comportamento rude, não tenho nada a lhe dizer. 
 03|085C|0028
-02|0860|0012|What do you want? 
+02|0860|0012|O que você quer? 
 03|0887|016F
 04|0891|011D
 04|0897|0045
-02|089B|002C|Leave me be! I grow weary of your presence. 
+02|089B|002C|Deixe-me em paz! Estou cansado da sua presença. 
 03|08DC|00CF
 04|08E4|005A
-02|08E8|0041|How can I make you understand?!*I do not wish to speak with you! 
+02|08E8|0041|Como posso fazer você entender?!*Não quero falar com você! 
 03|093E|006D
-02|0942|0057|If you do not give me peace, I shall have no other alternative than to give it to you. 
+02|0942|0057|Se você não me der paz, não terei outra alternativa senão dá-la a você. 
 03|09AE|0048
-02|09B2|0028|I will feed your entrails to my Daemon! 
+02|09B2|0028|Eu alimentarei meu Daemon com suas entranhas! 
 01|0A03|0A03
 04|0A1F|00D8
 04|0A25|0047
-02|0A29|002E|Return only when you have found your manners. 
+02|0A29|002E|Volte somente quando tiver encontrado boas maneiras. 
 03|0A6C|0088
 04|0A74|002C
-02|0A78|0013|Leave as you wish. 
+02|0A78|0013|Deixe como quiser. 
 03|0AA0|0054
-02|0AA4|003E|I cannot say I am sorry to see you go. I hope you understand. 
+02|0AA4|003E|Não posso dizer que lamento ver você partir. Espero que entenda. 
 03|0AF7|025A
 04|0B01|00B0
 04|0B07|002D
-02|0B0B|0014|Do not return here. 
+02|0B0B|0014|Não volte aqui. 
 03|0B34|007A
 04|0B3C|0040
-02|0B40|0027|Leave as you wish, for I wish it also. 
+02|0B40|0027|Deixe como quiser, pois eu também desejo. 
 03|0B7C|0032
-02|0B80|001C|Farewell, but not too well. 
+02|0B80|001C|Adeus, mas não muito bem. 
 03|0BB1|01A0
 04|0BB8|00A3
 04|0BBE|002D
-02|0BC2|0014|Farewell, Disciple. 
+02|0BC2|0014|Adeus, discípulo. 
 03|0BEB|006D
 04|0BF3|003D
-02|0BF7|0024|Return when you seek more training. 
+02|0BF7|0024|Volte quando buscar mais treinamento. 
 03|0C30|0028
 02|0C34|0012|Adeus, Daemion. 
 03|0C5B|00F6
 04|0C61|002F
-02|0C65|0016|Farewell, my Daemion. 
+02|0C65|0016|Adeus, meu Daemion. 
 03|0C90|0074
 04|0C98|004D
-02|0C9C|0034|Going so soon? Well, do return when it pleases you. 
+02|0C9C|0034|Indo tão cedo? Bem, volte quando quiser. 
 03|0CE5|001F
-02|0CE9|0009|Adeus 
+02|0CE9|0009|Adeus. 
 04|0D11|0040
-02|0D15|002A|Remember, my offer still stands, Daemion. 
+02|0D15|002A|Lembre-se, minha oferta ainda permanece, Daemion. 
 01|0D58|0D58
 04|0D72|0174
 04|0D78|0081
-02|0D7C|0068|I do have things to tend to, Daemion. When you have your thoughts collected, feel free to call upon me. 
+02|0D7C|0068|Eu tenho coisas para cuidar, Daemion. Quando você tiver seus pensamentos organizados, sinta-se à vontade para me visitar. 
 03|0DF9|00EA
 04|0E01|0066
-02|0E05|004D|If you do not seek my attention, I shall not keep yours.* Farewell, Daemion. 
+02|0E05|004D|Se você não buscar minha atenção, não manterei a sua.* Adeus, Daemion. 
 03|0E67|007C
-02|0E6B|0066|Do you hear me? Apparently not. If so, surely you would answer. Please return when you wish to speak. 
+02|0E6B|0066|Você me ouve? Aparentemente não. Se sim, certamente você responderia. Por favor, retorne quando desejar falar. 
 03|0EE6|0275
 04|0EF0|0129
 04|0EF6|003F
-02|0EFA|0026|I do not have time for this, Daemion. 
+02|0EFA|0026|Não tenho tempo para isso, Daemion. 
 03|0F35|00E1
 04|0F3D|0052
-02|0F41|0039|If you do not seek my attention, I shall not keep yours. 
+02|0F41|0039|Se você não buscar minha atenção, não manterei a sua. 
 03|0F8F|0087
-02|0F93|0071|Do you hear me? Apparently not. If so, surely you would answer. Return when you have something important to say. 
+02|0F93|0071|Você me ouve? Aparentemente não. Se sim, certamente você responderia. Volte quando tiver algo importante a dizer. 
 03|1019|0142
 04|1023|0138
 04|1029|0088
-02|102D|006F|You are a most infuriating person. It would not be wise for you to remain. Some here are not as friendly as I. 
+02|102D|006F|Você é uma pessoa muito irritante. Não seria sensato você permanecer. Alguns aqui não são tão amigáveis quanto eu. 
 03|10B1|00A7
 04|10B9|005D
-02|10BD|0044|Should you decide to seek my advice later, I will not be available. 
+02|10BD|0044|Se você decidir procurar meu conselho mais tarde, não estarei disponível. 
 03|1116|0042
-02|111A|002C|I am surrounded by half-wits and imbeciles! 
+02|111A|002C|Estou rodeado de idiotas e imbecis! 
 01|1162|1162
 03|1176|058B
-02|1179|0012|Please forgive me 
+02|1179|0012|por favor me perdoe 
 04|1198|001B
-02|119D|000D|, kind lady. 
+02|119D|000D|, gentil senhora. 
 03|11B3|0013
 02|11B8|0008|, Bane. 
 04|11D0|0026
-02|11D3|001B|I need information, woman! 
+02|11D3|001B|Preciso de informações, mulher! 
 03|11F6|002C
-02|11F9|0024|Tell me what I need to know, wench! 
-02|1227|0020|I did not mean to give offense. 
-02|124D|000B|Nevermind. 
+02|11F9|0024|Diga-me o que preciso saber, garota! 
+02|1227|0020|Eu não tive a intenção de ofender. 
+02|124D|000B|Deixa para lá. 
 02|1263|0000|
-02|126D|000B|Nevermind. 
+02|126D|000B|Deixa para lá. 
 04|127E|0483
 04|129F|0134
-02|12A3|00BC|I'm not so sure I should...*Your manners were atrocious. But you seem sincere now. Very well. I suppose I do forgive you. Just don't let it happen again. Now then, what do you seek of me? 
+02|12A3|00BC|Não tenho tanta certeza se deveria... *Seus modos eram atrozes. Mas você parece sincero agora. Muito bem. Suponho que te perdôo. Só não deixe isso acontecer novamente. Agora, então, o que você procura de mim? 
 06|1385|041D:0782
 06|13A0|0595:170E
 06|13B3|058A:19C9
-02|13C0|000B|Nevermind. 
+02|13C0|000B|Deixa para lá. 
 03|13D3|032B
-02|13D8|0020|I did not mean to give offense. 
+02|13D8|0020|Eu não tive a intenção de ofender. 
 04|13FD|00E9
-02|1401|0071|Well you did! But you are a foreigner. Let us not dwell on your past mistakes. Now then, what do you seek of me? 
+02|1401|0071|Bem, você fez! Mas você é um estrangeiro. Não vamos nos debruçar sobre seus erros do passado. Agora, então, o que você procura de mim? 
 06|1498|041D:0782
 06|14B3|0595:170E
 06|14C6|058A:19C9
-02|14D3|000B|Nevermind. 
+02|14D3|000B|Deixa para lá. 
 03|14E6|0218
 04|14EE|0107
 04|14F8|0090
-02|14FC|0077|By Pyros' flaming eyes! Take that tone with me again, and I'll incinerate your heart where it beats within your chest. 
+02|14FC|0077|Pelos olhos flamejantes de Pyros! Leve esse tom comigo novamente e incinerarei seu coração onde ele bate dentro do seu peito. 
 03|1588|004C
-02|158C|002C|Your pain will be legendary, even in Pagan! 
-02|15E2|000B|Nevermind. 
+02|158C|002C|Sua dor será lendária, mesmo em Pagan! 
+02|15E2|000B|Deixa para lá. 
 03|15F5|0109
-02|15FA|000B|Nevermind. 
+02|15FA|000B|Deixa para lá. 
 06|1610|0595:0A03
 03|161D|00E1
 02|1622|0000|
 04|1627|0026
 06|162D|0595:0D58
-02|163A|000B|Nevermind. 
+02|163A|000B|Deixa para lá. 
 03|164D|00B1
-02|1651|009B|I believe something you said was incorrectly spelled. I don't know why I know this. It was as if giant, blue letters had appeared, blazing across the sky. 
+02|1651|009B|Acredito que algo que você disse foi escrito incorretamente. Não sei por que sei disso. Era como se letras azuis gigantes tivessem aparecido, brilhando no céu. 
 03|1701|FB67
 01|170E|170E
-02|1719|002A|Do you perchance have Vardion's Truename? 
+02|1719|002A|Você por acaso tem o verdadeiro nome de Vardion? 
 06|175E|0581:1AD0
 04|1774|0085
-02|1778|006C|Wonderful! Give it to me and I will perform the ritual necessary to end Vardion's designs upon the Mastery. 
+02|1778|006C|Maravilhoso! Dê-mo e eu realizarei o ritual necessário para acabar com os desígnios de Vardion sobre a Maestria. 
 03|17F9|0088
-02|17FD|006F|I see. You must be swift about this. If he kills the Master before I know his intentions, it will be too late. 
+02|17FD|006F|Eu vejo. Você deve ser rápido nisso. Se ele matar o Mestre antes que eu saiba suas intenções, será tarde demais. 
 03|1881|054E
-02|1884|0015|I don't know it yet. 
+02|1884|0015|Eu não sei ainda. 
 04|18A8|0018
 02|18AB|0009| Morduin.
 04|18C8|0018
@@ -199,31 +199,31 @@
 04|18E8|0018
 02|18EB|0009| Daemion.
 04|1908|0019
-02|190B|000A| Sabriane.
+02|190B|000A| Sabriano
 02|193F|0009| Vardion.
 04|194D|00C8
-02|1951|006A|You poor stupid fool. If you truly believe that Vardion is his Truename, you are of no use as a Sorcerer. 
-02|19D1|0029|Try again. And this time do not fail me. 
+02|1951|006A|Seu pobre idiota estúpido. Se você realmente acredita que Vardion é seu nome verdadeiro, você não tem utilidade como feiticeiro. 
+02|19D1|0029|Tente novamente. E desta vez não me falhe. 
 03|1A15|03BA
 02|1A1A|0009| Daemion.
 04|1A28|0090
-02|1A2C|0071|No, you little idiot. That is the name I gave you. Perhaps I should have called you Daemient. Fire of the Brain. 
+02|1A2C|0071|Não, seu idiota. Esse é o nome que eu te dei. Talvez eu devesse ter chamado você de Daemient. Fogo do Cérebro. 
 03|1AB8|0317
-02|1ABD|000A| Sabriane.
+02|1ABD|000A| Sabriano
 04|1ACC|00C8
-02|1AD0|00A9|That is my name. Have I entrusted my Truename, and the future of the Cabal to a simpering moron? Please run along now and get Vardion's Truename for me, won't you dear? 
+02|1AD0|00A9|Esse é meu nome. Confiei meu Verdadeiro Nome e o futuro da Cabala a um idiota sorridente? Por favor, vá agora e pegue o verdadeiro nome de Vardion para mim, certo, querido? 
 03|1B94|023B
-02|1B99|0015|I don't know it yet. 
+02|1B99|0015|Eu não sei ainda. 
 04|1BB3|012F
 04|1BBB|00AA
-02|1BBF|0085|Do you toy with me?! I am not accustomed to having my Disciples lie to me. Get his Truename or I'll personally feed you to the Fire. 
+02|1BBF|0085|Você brinca comigo?! Não estou acostumado a que meus discípulos mintam para mim. Obtenha seu nome verdadeiro ou eu pessoalmente alimentarei o Fogo com você. 
 03|1C65|007A
-02|1C69|0051|I gave fair warning. Your life has come to a close, my irritating little friend. 
+02|1C69|0051|Eu dei um aviso justo. Sua vida chegou ao fim, meu amiguinho irritante. 
 03|1CDF|00F0
 03|1CE2|00ED
 02|1CE7|0009| Morduin.
 04|1CF5|00CA
-02|1CF9|0088|Ah, yes! I should have guessed it. Dark Flame. It could have been no other. Thank you, my disciple. Now prepare to witness his undoing. 
+02|1CF9|0088|Ah sim! Eu deveria ter adivinhado. Chama Negra. Não poderia ter sido outro. Obrigado, meu discípulo. Agora prepare-se para testemunhar sua ruína. 
 06|1D9F|058A:014B
 06|1DAF|058A:0B96
 06|1DC5|0595:0D58

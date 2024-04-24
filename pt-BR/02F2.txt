@@ -6,6 +6,6 @@
 04|00E0|00BF
 03|00F3|00AC
 03|00F6|00A9
-02|00FA|003F|Mountain King, I call Your name. Save me from this interloper! 
+02|00FA|003F|Rei da Montanha, eu chamo Seu nome. Salve-me deste intruso! 
 06|016A|0581:1C19
 05|0197|057C:0080

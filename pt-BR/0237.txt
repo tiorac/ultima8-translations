@@ -1,17 +1,17 @@
 01|0080|0080
 04|0097|0026
-02|009B|000D|Mordea's bed 
+02|009B|000D|Cama de Mordeia 
 03|00BD|00AB
 04|00C9|002C
-02|00CD|0013|Mordea the Tempest 
+02|00CD|0013|Mordeia, a Tempestade 
 03|00F5|0073
 04|00FC|001F
-02|0100|0006|Mordea
+02|0100|0006|Mordeia
 03|011B|004D
 04|0122|0021
-02|0126|0008|Tempest 
+02|0126|0008|Tempestade 
 03|0143|0025
-02|0147|000F|sleeping woman 
+02|0147|000F|mulher dormindo 
 01|016D|016D
 01|01AA|01AA
 03|01C4|02F7
@@ -22,9 +22,9 @@
 06|0277|057C:15E7
 06|029A|0581:1C19
 06|02F2|057C:091C
-02|0304|0021|Who dares to awaken the Tempest! 
-02|033D|000F|Ahhh, Sorry... 
-02|0364|002C|Sorry!?! Feel a touch of a Tempest's power! 
+02|0304|0021|Quem se atreve a despertar a Tempestade! 
+02|033D|000F|Ahhh, desculpe... 
+02|0364|002C|Desculpe!?! Sinta um toque do poder de uma Tempestade! 
 06|03B7|057C:15E7
 06|03D8|057C:15E7
 06|03E9|0237:04C0

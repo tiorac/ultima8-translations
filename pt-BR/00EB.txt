@@ -3,4 +3,4 @@
 01|00AC|00AC
 03|00D3|0054
 04|00E2|003B
-02|00E6|0022|Nao profane meus ossos, vivo! 
+02|00E6|0022|Não contamine meus ossos, viva um! 

@@ -2,4 +2,4 @@
 04|008F|001F
 02|0093|0006|Amoras
 03|00AE|0024
-02|00B2|000E|female statue 
+02|00B2|000E|estátua feminina 

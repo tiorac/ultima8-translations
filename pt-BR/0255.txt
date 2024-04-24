@@ -1,5 +1,5 @@
 01|0080|0080
 04|008F|0020
-02|0093|0007|Apathas
+02|0093|0007|Apatas
 03|00AF|0022
-02|00B3|000C|male statue 
+02|00B3|000C|estátua masculina 

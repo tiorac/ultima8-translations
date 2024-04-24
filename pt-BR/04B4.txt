@@ -9,7 +9,7 @@
 06|01D7|0581:1C19
 06|01FB|057C:091C
 06|0232|0581:1C6D
-02|024C|0122|Greetings Disciple.*You will remain within this fortress until you have found my inner sanctum, or you are dead. Even then, you shall not leave this place. Within the chamber beyond this hall you will see the fate that befalls those who fail. The Trials of the Obsidian Fortress begin now. 
+02|024C|0122|Saudações, Discípulo.* Você permanecerá nesta fortaleza até encontrar meu santuário interior, ou estará morto. Mesmo assim, você não deve sair deste lugar. Dentro da câmara além deste salão você verá o destino que recai sobre aqueles que falham. As Provações da Fortaleza Obsidiana começam agora. 
 06|03B2|057C:091C
 06|03D3|057C:15E7
 06|03F4|057C:15E7
@@ -22,10 +22,10 @@
 06|054F|057C:15E7
 06|0570|057C:15E7
 06|059B|057C:091C
-02|05AD|001B|Guardians! Do your duties! 
+02|05AD|001B|Guardiões! Cumpra seus deveres! 
 06|05F5|057C:15E7
 06|0608|0581:1C19
-02|061D|0052|Farewell, Disciple. I sincerely hope you survive to become an Acolyte. Good luck. 
+02|061D|0052|Adeus, discípulo. Sinceramente espero que você sobreviva para se tornar um Noviço. Boa sorte. 
 06|0695|057C:15E7
 06|06A8|0581:1C19
 06|06BF|0583:1F65

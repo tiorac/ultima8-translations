@@ -1,25 +1,25 @@
 01|0080|0080
 04|0096|0028
-02|009A|000F|dead guardsman 
+02|009A|000F|guarda morto 
 03|00BE|0020
-02|00C2|000A|guardsman 
+02|00C2|000A|guarda 
 01|00E3|00E3
 05|0106|0581:2A56
 06|010F|0404:1033
 01|011A|011A
 05|012C|0581:2A56
 01|0135|0135
-02|0140|0005|I am 
+02|0140|0005|Eu sou 
 02|014F|0001|.
 04|015E|0054
-02|0163|000B|Guardsman! 
+02|0163|000B|Guarda! 
 06|0182|057C:0BCF
 06|0197|0581:1C19
 05|01AB|0581:2A56
 03|01B2|00F0
 05|01CA|0581:2A56
 05|01D8|0581:2A56
-02|01DF|0010|Halt, stranger! 
+02|01DF|0010|Pare, estranho! 
 05|0205|0581:2A56
 06|021E|057C:15E7
 06|0252|057C:091C
@@ -28,99 +28,99 @@
 06|0298|057C:0E4F
 04|02A9|013E
 04|02B0|0060
-02|02B4|0015|Blimey, not again... 
-02|02DF|0016|What is it this time? 
+02|02B4|0015|Caramba, de novo não... 
+02|02DF|0016|O que é desta vez? 
 03|0310|006A
 04|031F|002F
-02|0323|0016|What can I do ya for? 
+02|0323|0016|O que posso fazer com você? 
 03|034E|002C
-02|0352|0016|What! More questions! 
+02|0352|0016|O que! Mais perguntas! 
 04|0382|003C
-02|0385|0013|What is this city? 
-02|039C|000F|Open the gate! 
-02|03AF|0004|Bye 
+02|0385|0013|O que é esta cidade? 
+02|039C|000F|Abra o portão! 
+02|03AF|0004|Tchau 
 03|03BE|0026
-02|03C1|0013|What is this city? 
-02|03D8|0004|Bye 
+02|03C1|0013|O que é esta cidade? 
+02|03D8|0004|Tchau 
 03|03E7|00D4
-02|03F2|0011|I am the Avatar! 
-02|0407|0013|What is your name? 
-02|0426|0051|I have seen many strange things in my time, but I've never seen the likes of ya. 
-02|048D|001C|What be yer name, stranger? 
-02|04C0|0004|Bye 
+02|03F2|0011|Eu sou o Avatar! 
+02|0407|0013|Qual o seu nome? 
+02|0426|0051|Já vi muitas coisas estranhas no meu tempo, mas nunca vi coisas como você. 
+02|048D|001C|Qual é o seu nome, estranho? 
+02|04C0|0004|Tchau 
 04|04CA|0B5E
-02|04E8|0013|What is your name? 
+02|04E8|0013|Qual o seu nome? 
 04|0500|0103
-02|0504|004E|Who am I? I'll tell ya who am I! I'm the one who's asking tha questions here! 
-02|0568|0046|Who might ya be? Ain't seen the likes of ya before in this here city. 
-02|05C5|0013|What is your name? 
-02|05E7|0011|I am the Avatar! 
+02|0504|004E|Quem sou eu? Eu vou te dizer quem sou eu! Sou eu quem está fazendo essas perguntas aqui! 
+02|0568|0046|Quem você pode ser? Nunca vi alguém como você nesta cidade. 
+02|05C5|0013|Qual o seu nome? 
+02|05E7|0011|Eu sou o Avatar! 
 03|0603|0A22
-02|0608|0011|I am the Avatar! 
+02|0608|0011|Eu sou o Avatar! 
 04|061E|0194
-02|0622|0048|The Avatar? Blimey, ya say it like ya think yer important or somethin'. 
-02|0680|0071|Listen, bloke, if ya don't want to find yerself in the belly of the Lurker yer'll soon change that tone of yers. 
+02|0622|0048|O Avatar? Caramba, você diz isso como se achasse que é importante ou algo assim. 
+02|0680|0071|Escute, cara, se você não quer se encontrar na barriga do Luker, logo mudará esse seu tom. 
 06|0723|057C:15E7
 04|073D|004C
-02|0740|000C|The Lurker? 
-02|0750|0013|What is this city? 
-02|0767|000F|Open the gate! 
-02|077A|0004|Bye 
+02|0740|000C|O Luker? 
+02|0750|0013|O que é esta cidade? 
+02|0767|000F|Abra o portão! 
+02|077A|0004|Tchau 
 03|0789|0026
-02|078C|0013|What is this city? 
-02|07A3|0004|Bye 
+02|078C|0013|O que é esta cidade? 
+02|07A3|0004|Tchau 
 03|07B2|0873
-02|07B7|000C|The Lurker? 
+02|07B7|000C|O Luker? 
 04|07C8|00C2
-02|07CC|0027|Say, ya don't know what tha Lurker is? 
-02|0809|0053|Best ya check out what's at the end of the dock, lest ya become fish bait yerself. 
+02|07CC|0027|Diga, você não sabe o que é esse Lurker? 
+02|0809|0053|É melhor você dar uma olhada no que tem no final do cais, para não virar isca de peixe. 
 06|087A|057C:1090
 03|0887|07A1
 03|088A|079B
 04|0892|01C2
-02|0896|000B|All right, 
-02|08AB|001E|, now I know ya. Now get lost!
-02|08E0|0066|I don't need Lady Mordea catching me chatting with some pauper. She's not in a right good mood today. 
+02|0896|000B|Tudo bem, 
+02|08AB|001E|, agora eu te conheço. Agora se perca!
+02|08E0|0066|Não preciso que Lady Mordea me pegue conversando com algum indigente. Ela não está de bom humor hoje. 
 06|0978|057C:15E7
 04|098C|009F
-02|0990|0067|Or maybe ya haven't noticed what goin' on at the end of tha dock. I'd advise ya to go see for yerself. 
+02|0990|0067|Ou talvez você não tenha notado o que está acontecendo no final da doca. Eu aconselho você a ir ver por si mesmo. 
 06|0A1B|057C:1090
 03|0A28|0600
 03|0A2B|0026
-02|0A2E|0013|What is this city? 
-02|0A45|0004|Bye 
+02|0A2E|0013|O que é esta cidade? 
+02|0A45|0004|Tchau 
 03|0A54|05D1
-02|0A59|0013|What is this city? 
+02|0A59|0013|O que é esta cidade? 
 04|0A71|01EC
 04|0A79|011B
-02|0A7D|0026|What do ya mean, 'What is this city?' 
-02|0AB9|0056|Do ya have brain fever, lad? It's only tha largest pile of bricks in the known world! 
-02|0B25|0032|Tenebrae it is! And don't ya go now forgetin' it. 
-02|0B74|0013|What is this city? 
+02|0A7D|0026|O que você quer dizer com 'O que é esta cidade?' 
+02|0AB9|0056|Você está com febre cerebral, rapaz? É apenas a maior pilha de tijolos do mundo conhecido! 
+02|0B25|0032|Tenebrae é isso! E não vá agora, esquecendo isso. 
+02|0B74|0013|O que é esta cidade? 
 03|0B94|00C6
-02|0B98|004F|If you don't know what this city is, then you ought not be entering its gates. 
-02|0BFD|0029|Everyone knows that it's Tenebrae, dolt! 
-02|0C3D|0013|What is this city? 
+02|0B98|004F|Se você não sabe o que é esta cidade, então não deveria entrar pelos seus portões. 
+02|0BFD|0029|Todo mundo sabe que é Tenebrae, idiota! 
+02|0C3D|0013|O que é esta cidade? 
 03|0C5D|03C8
-02|0C62|000F|Open the gate! 
+02|0C62|000F|Abra o portão! 
 04|0C76|036C
 04|0C7D|014B
-02|0C81|0077|Look, I've already told ya once, this gate is not gonna open til I see that axe come down on the back of Toran's neck! 
-02|0D0E|006F|Those are me lady's orders, and ya ain't gonna find the likes of me disobeyin' them, less my neck be tha next! 
+02|0C81|0077|Olha, eu já te disse uma vez, esse portão não vai abrir até eu ver aquele machado cair na nuca de Toran! 
+02|0D0E|006F|Essas são minhas ordens de senhora, e você não vai encontrar pessoas como eu desobedecendo-as, a menos que meu pescoço seja o próximo! 
 06|0D9B|057C:1090
-02|0DA8|000C|Bugger off! 
+02|0DA8|000C|Dê o fora! 
 03|0DC5|0263
 03|0DC8|0217
-02|0DCC|0022|Oh! Ya want me to open this gate? 
-02|0E04|0087|Sure I will! In fact, I'll not only just fling them open for ya, I'll scoop ya up in me lovin' arms and carry ya into the city meself! 
-02|0EA1|003E|No! I'll -not- be openin' this gate! Not under pain of death! 
-02|0EF5|003A|This gate ain't gonna be openin' til after the execution! 
-02|0F45|0047|Ya can enter the city after they behead poor Toran, but not till then. 
+02|0DCC|0022|Oh! Você quer que eu abra esse portão? 
+02|0E04|0087|Claro que vou! Na verdade, não vou apenas abri-los para você, mas também vou pegá-lo em meus braços amorosos e levá-lo eu mesmo para a cidade! 
+02|0EA1|003E|Não! Eu não vou abrir este portão! Não sob pena de morte! 
+02|0EF5|003A|Este portão só abrirá depois da execução! 
+02|0F45|0047|Você pode entrar na cidade depois que eles decapitarem o pobre Toran, mas não antes disso. 
 06|0FB0|057C:1090
-02|0FBD|0011|Come back later! 
+02|0FBD|0011|Volte mais tarde! 
 03|0FDF|0049
 03|0FE2|0043
-02|0FE7|0004|Bye 
+02|0FE7|0004|Tchau 
 04|0FF0|0035
 02|0FF3|000E|Yeah, yeah... 
 06|1015|057C:1090

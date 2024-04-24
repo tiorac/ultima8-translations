@@ -1,99 +1,99 @@
 01|0080|0080
-02|008C|000C|Necromancer 
+02|008C|000C|Necromante 
 01|00AF|00AF
 03|00C2|224A
 06|00F0|0581:1C6D
 06|011D|0581:1C19
 04|0142|0861
 04|0149|0061
-02|014D|0048|I will help you no further, live one. You must continue with your test. 
+02|014D|0048|Não vou te ajudar mais, viva um. Você deve continuar com seu teste. 
 03|01AA|07F6
-02|01AE|00C7|You who would join me here at the right hand of Lithos. You who seek my knowledge. You who have taken but your first steps upon the path of Necromancy. Come closer, living one, so that we may speak. 
-02|028D|0017|Are you a Necromancer? 
-02|02BA|007F|But of course I am. You have done well to find me, yet there is much left for you to find. You have not yet been truly tested. 
-02|0351|002E|In what manner will I be tested, Necromancer? 
-02|0395|00A9|Your testing has already begun. The rest is for you to discover. If you prove yourself worthy, you will learn enough of our magical art to gain an audience with Lithos. 
-02|0456|0022|Yes, I need to speak with Lithos! 
-02|048E|00C3|Yes, and so your testing has begun. You will meet other Necromancers here.  Each of us will in turn teach you a spell. You will need to use each new spell in order to reach the next Necromancer. 
-02|0569|0037|What will happen if I don't learn the spells properly? 
-02|05B6|00C0|Then you will die before you meet the next Necromancer. Do not falter, apprentice. You have come this far, there is no going back. In order to return to the surface world you must go forward. 
-02|068E|0019|I am ready, Necromancer. 
-02|06BD|014F|Good. The first spell that you will learn was written by my hand many generations ago. It is called Mask of Death. When you cast this spell upon yourself, your enemies shall think that you are dead. To cast this spell, you will need Wood and Executioner's Hood. Speak the words Quas Corp, and you appear to all who behold you as dead. 
-02|0824|0026|And this will help me in some manner? 
-02|0860|0128|Leave your doubts behind, young one, and trust in your elders. If, per chance, you did find a barrier of stalagmites upon a short wall which did block your way; you will now find that the stalagmites are gone. Your way to the next Necromancer is clear. Now, be gone. There is much for you to do. 
+02|01AE|00C7|Você que se juntaria a mim aqui à direita de Lithos. Você que busca meu conhecimento. Você que deu apenas os primeiros passos no caminho da Necromancia. Aproxime-se, vivente, para que possamos conversar. 
+02|028D|0017|Você é um Necromante? 
+02|02BA|007F|Mas é claro que estou. Você fez bem em me encontrar, mas ainda há muito para você encontrar. Você ainda não foi verdadeiramente testado. 
+02|0351|002E|De que maneira serei testado, Necromante? 
+02|0395|00A9|Seus testes já começaram. O resto é para você descobrir. Se você provar que é digno, aprenderá o suficiente sobre nossa arte mágica para ganhar uma audiência com Lithos. 
+02|0456|0022|Sim, preciso falar com Lithos! 
+02|048E|00C3|Sim, e então seus testes começaram. Você encontrará outros Necromantes aqui. Cada um de nós, por sua vez, lhe ensinará um feitiço. Você precisará usar cada novo feitiço para alcançar o próximo Necromante. 
+02|0569|0037|O que acontecerá se eu não aprender os feitiços corretamente? 
+02|05B6|00C0|Então você morrerá antes de encontrar o próximo Necromante. Não vacile, aprendiz. Você chegou até aqui, não há como voltar atrás. Para retornar ao mundo da superfície você deve seguir em frente. 
+02|068E|0019|Estou pronto, Necromante. 
+02|06BD|014F|Bom. O primeiro feitiço que você aprenderá foi escrito pela minha mão há muitas gerações. Chama-se Máscara da Morte. Quando você lançar esse feitiço sobre si mesmo, seus inimigos pensarão que você está morto. Para lançar este feitiço, você precisará de Wood e Executioner's Hood. Fale as palavras Quas Corp e você aparecerá como morto para todos que o contemplarem. 
+02|0824|0026|E isso vai me ajudar de alguma forma? 
+02|0860|0128|Deixe suas dúvidas para trás, jovem, e confie nos mais velhos. Se, por acaso, você encontrasse uma barreira de estalagmites sobre uma mureta que bloqueasse seu caminho; agora você descobrirá que as estalagmites desapareceram. Seu caminho para o próximo Necromante está livre. Agora, vá embora. Há muito para você fazer. 
 03|09A3|1910
 04|09B2|0339
 04|09B9|010C
-02|09BD|00F3|You have learned the spell that you needed from me, live one. There is nought else for you here. Go now and complete your journey. If you are unable to do that, then you are unfit to be a Necromancer and will meet your deserved fate. Be gone. 
+02|09BD|00F3|Você aprendeu o feitiço que precisava de mim, viva um. Não há mais nada para você aqui. Vá agora e complete sua jornada. Se você não for capaz de fazer isso, então você não está apto para ser um Necromante e encontrará seu destino merecido. Vá embora. 
 03|0AC5|0223
-02|0AC9|0063|So you have survived your test long enough to meet me. I am Bentos, seventh Necromancer of Lithos. 
-02|0B44|0032|Greetings, Bentos. I have come to learn from you. 
-02|0B8C|0144|And so you shall. The way of the Necromancer is difficult. You will be assailed in many ways. And so will this happen before you next meet a Necromancer. Learn these words, Rel Sanct Ylem. Those words, and Wood and Dirt, will make you become as hard as stone. Now you must continue upon your way. May Lithos smile upon you. 
+02|0AC9|0063|Então você sobreviveu ao seu teste tempo suficiente para me conhecer. Eu sou Bentos, sétimo Necromante de Lithos. 
+02|0B44|0032|Saudações, Bentos. Eu vim para aprender com você. 
+02|0B8C|0144|E assim você fará. O caminho do Necromante é difícil. Você será atacado de muitas maneiras. E isso acontecerá antes de você conhecer um Necromante. Aprenda estas palavras, Rel Sanct Ylem. Essas palavras, e Madeira e Sujeira, farão com que você se torne duro como pedra. Agora você deve continuar seu caminho. Que Lithos sorria para você. 
 03|0CEB|15C8
 04|0CFA|04D1
 04|0D01|007D
 06|0D07|026F:2311
-02|0D15|0044|I can not help you. You know this to be true, so be gone from here. 
+02|0D15|0044|Eu não posso te ajudar. Você sabe que isso é verdade, então saia daqui. 
 06|0D71|026F:23DB
 03|0D7E|044A
 06|0D84|026F:2311
-02|0D92|00FB|Well, well...You are progressing well, student. Please forgive those who attacked you. Your test must be a difficult one. Already you have learned Mask of Death and Rock Flesh from the Necromancers who wrote them. Are you now ready to learn my spell? 
-02|0EA5|0012|Yes, Necromancer. 
-02|0ECD|00CE|Very well, always remember that no matter how mighty you may feel, everyone eventually needs help in battle. Take Blood, Bone, and Wood. Speak the words Kal Corp Xen. Focus this power and help will arrive. 
-02|0FB3|0030|What kind of help will this bring, Necromancer? 
-02|0FF9|006A|This spell will summon your deceased brethren to your aid. It may also help you find that which you seek. 
-02|107B|0013|Deceased brethren? 
-02|10A4|00D2|Yes, student. Once you have joined the Necromantic order, you will never again be alone. You shall always have company of the dead to comfort you. But enough talk. You must continue on your journey. Fare well. 
+02|0D92|00FB|Bem, bem...Você está progredindo bem, estudante. Por favor, perdoe aqueles que atacaram você. Seu teste deve ser difícil. Você já aprendeu Mask of Death e Rock Flesh com os Necromancers que os escreveram. Você está pronto para aprender meu feitiço? 
+02|0EA5|0012|Sim, Necromante. 
+02|0ECD|00CE|Muito bem, lembre-se sempre de que não importa o quão poderoso você se sinta, todos eventualmente precisarão de ajuda na batalha. Pegue Sangue, Osso e Madeira. Fale as palavras Kal Corp Xen. Concentre esse poder e a ajuda chegará. 
+02|0FB3|0030|Que tipo de ajuda isso trará, Necromante? 
+02|0FF9|006A|Este feitiço convocará seus irmãos falecidos em seu auxílio. Também pode ajudá-lo a encontrar aquilo que procura. 
+02|107B|0013|Irmãos falecidos? 
+02|10A4|00D2|Sim, estudante. Depois de ingressar na ordem Necromântica, você nunca mais estará sozinho. Você sempre terá a companhia dos mortos para confortá-lo. Mas chega de conversa. Você deve continuar sua jornada. Até a próxima. 
 06|1194|026F:23DB
 03|11CB|10E8
 04|11DA|0504
 04|11E1|0085
 06|11E7|026F:2311
-02|11F5|004C|You have returned in vain. I can not help you any further. Go your own way. 
+02|11F5|004C|Você voltou em vão. Não posso mais ajudá-lo. Siga seu próprio caminho. 
 06|1259|026F:23DB
 03|1266|0475
 06|126C|026F:2311
-02|127A|002E|You are coming closer to your goal, live one. 
-02|12C0|002A|I have worked hard to do so, Necromancer. 
-02|1300|00A8|Do not think that the rest of your path will be an easy one, apprentice!  There is something about you that I do not trust. I doubt your devotion to the Mountain King. 
-02|13C0|001B|I am devoted, Necromancer. 
-02|13F1|00B7|Silence! I did not ask to hear your hollow voice. I was told to give my spell unto you and I will do so. But know that if Lithos consults me, I will tell Him that I do not trust you. 
-02|14C0|001B|I understand, Necromancer. 
-02|14F1|0117|I do not care that you understand, meat. Listen to me then be gone. Often will you be assailed by enemies. Carry with you Executioner's Hood and Blackmoor. Blend the reagents and focus your magic on the ground. Say the words, In Vas Corp and grant eternal peace	upon your enemy. 
-02|1620|0018|Thank you, Necromancer. 
-02|164E|003B|Go now, and Pray to the Mountain King that you are worthy. 
+02|127A|002E|Você está chegando mais perto do seu objetivo, viva um. 
+02|12C0|002A|Eu trabalhei duro para fazer isso, Necromante. 
+02|1300|00A8|Não pense que o resto do seu caminho será fácil, aprendiz! Há algo em você em que não confio. Duvido da sua devoção ao Rei da Montanha. 
+02|13C0|001B|Eu sou devotado, Necromante. 
+02|13F1|00B7|Silêncio! Não pedi para ouvir sua voz oca. Disseram-me para dar meu feitiço a você e eu o farei. Mas saiba que se Lithos me consultar, direi a ele que não confio em você. 
+02|14C0|001B|Eu entendo, Necromante. 
+02|14F1|0117|Eu não me importo que você entenda, carne. Ouça-me, então vá embora. Freqüentemente você será atacado por inimigos. Leve com você Capuz do Carrasco e Blackmoor. Misture os reagentes e concentre sua magia no chão. Diga as palavras In Vas Corp e conceda paz eterna ao seu inimigo. 
+02|1620|0018|Obrigado, Necromante. 
+02|164E|003B|Vá agora e ore ao Rei da Montanha para que você seja digno. 
 06|16A7|026F:23DB
 03|16DE|0BD5
 04|16ED|05BB
 04|16F4|00BC
 06|16FA|026F:2311
-02|1708|0083|Surely you must realize that I can not help you any further. The path is yours alone to follow. You must walk it alone. Fare well. 
+02|1708|0083|Certamente você deve perceber que não posso ajudá-lo mais. O caminho é só seu para seguir. Você deve caminhar sozinho. Até a próxima. 
 06|17A3|026F:23DB
 03|17B0|04F5
 06|17B6|026F:2311
-02|17C4|005F|Well, apprentice, you have nearly completed your test. You seem to have fared well, young one. 
-02|183B|0030|Thank you, Necromancer. The road has been hard. 
-02|1881|00ED|And harder still will it become, live one. Your final test is at hand. The next Necromancer you seek is Galious. If you prove yourself worthy, Galious will provide you with that which you need to gain an audience with the Mountain King. 
-02|1986|0019|I am ready, Necromancer. 
-02|19B5|018D|Galious will be the judge of that, live one. Now, listen carefully. For without my knowledge, you will never live to see Galious. A Necromancer deals always with death. Yet sometimes the Necromancer must be able to resist death in order to continue to serve his master. Therefore, when the time arrives, take Wood, Dirt and Blackmoor. Say the words Vas An Corp and focus this magic upon yourself. 
-02|1B5A|0028|How will I know when to use this spell? 
-02|1B98|00BB|That I can not tell you. You must decide this for yourself, but be warned: You may only use this spell once. Therefore; use it wisely. You must now go. Good fortune upon you, apprentice. 
+02|17C4|005F|Bem, aprendiz, você quase completou seu teste. Você parece ter se saído bem, jovem. 
+02|183B|0030|Obrigado, Necromante. O caminho tem sido difícil. 
+02|1881|00ED|E mais difícil ainda será, viva um. Seu teste final está próximo. O próximo Necromante que você procura é Galious. Se você provar que é digno, Galious fornecerá o que você precisa para obter uma audiência com o Rei da Montanha. 
+02|1986|0019|Estou pronto, Necromante. 
+02|19B5|018D|Galious será o juiz disso, viva um. Agora, ouça com atenção. Pois sem o meu conhecimento, você nunca viverá para ver Galious. Um Necromante sempre lida com a morte. No entanto, às vezes o Necromante deve ser capaz de resistir à morte para continuar a servir o seu mestre. Portanto, quando chegar a hora, leve Wood, Dirt e Blackmoor. Diga as palavras Vas An Corp e concentre essa magia em você. 
+02|1B5A|0028|Como saberei quando usar esse feitiço? 
+02|1B98|00BB|Isso eu não posso te contar. Você deve decidir isso por si mesmo, mas esteja avisado: você só pode usar este feitiço uma vez. Portanto; use-o com sabedoria. Você deve ir agora. Boa sorte para você, aprendiz. 
 06|1C71|026F:23DB
 03|1CA8|060B
 04|1CB7|05FC
 04|1CBE|012B
 06|1CC4|026F:2311
-02|1CD2|00F2|You know that I can not help you. Nor would I choose to do so if I could. You have the spell which I have given you. If, for whatever reason, you can not raise the Golem, that is your burden. You alone must shoulder it or solve it. Farewell. 
+02|1CD2|00F2|Você sabe que não posso ajudá-lo. Nem eu escolheria fazer isso se pudesse. Você tem o feitiço que eu lhe dei. Se, por qualquer motivo, você não conseguir levantar o Golem, esse será o seu fardo. Você sozinho deve arcar com isso ou resolvê-lo. Até a próxima. 
 06|1DDC|026F:23DB
 03|1DE9|04C7
 06|1DEF|026F:2311
-02|1DFD|00AC|You have reached me and therefore proven yourself worthy. Lithos has instructed me to give a spell which would allow you to gain entrance to the Hall of the Mountain King. 
-02|1EC1|001E|Is that where Lithos resides? 
-02|1EF5|00F0|You already know that, apprentice. Do not let your excitement cloud your mind. The Hall is guarded by doors which no living creature may open. In order to gain entrance, you must raise a golem of the very element which is our lord, Lithos. 
-02|1FFD|0017|A golem made of earth. 
-02|202A|01D6|Yes. Now listen carefully, for like the other Necromancers, I will only tell you this spell once. Blood, Bone, Wood, Dirt and Blackmoor. Say these words of power; In Ort Ylem Xen. Focus this magic upon a broad space of mud and the golem will be created. Seek out Stone Cove. You shall reach it by way of the catacombs. Once you have found Stone Cove, there you shall need to create your golem. Only the golem shall be able to open the door which shall stand before you. 
-02|2218|001B|I understand, Necromancer. 
-02|2249|003F|It is good that you do. Now, be gone. Go to the Mountain King. 
+02|1DFD|00AC|Você me alcançou e, portanto, provou ser digno. Lithos me instruiu a lançar um feitiço que permitiria a você entrar no Salão do Rei da Montanha. 
+02|1EC1|001E|É onde Lithos reside? 
+02|1EF5|00F0|Você já sabe disso, aprendiz. Não deixe sua excitação turvar sua mente. O Salão é guardado por portas que nenhuma criatura viva pode abrir. Para entrar, você deve criar um golem do mesmo elemento que é nosso senhor, Lithos. 
+02|1FFD|0017|Um golem feito de terra. 
+02|202A|01D6|Sim. Agora ouça com atenção, pois, como os outros Necromantes, só vou lhe contar esse feitiço uma vez. Sangue, Osso, Madeira, Sujeira e Blackmoor. Diga estas palavras de poder; Em Ort Ylem Xen. Concentre esta magia em um amplo espaço de lama e o golem será criado. Procure Stone Cove. Você chegará lá pelas catacumbas. Depois de encontrar Stone Cove, você precisará criar seu golem. Somente o golem será capaz de abrir a porta que estará diante de você. 
+02|2218|001B|Eu entendo, Necromante. 
+02|2249|003F|É bom que você faça isso. Agora, vá embora. Vá para o Rei da Montanha. 
 06|22A6|026F:23DB
 06|22D7|0581:1C19
 06|2300|0581:1C8B

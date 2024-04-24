@@ -14,26 +14,26 @@
 06|0239|057C:091C
 06|024E|057C:091C
 06|0282|0581:1C6D
-02|0294|0086|Toran, you have been accused of blasphemy against our Lady Mordea and sentenced to death by beheading... Do you have any final words? 
-02|0330|005F|I shall die as I have lived... with honor.  When I face Lithos, he will not find -me- wanting. 
-02|03A7|004E|A man of honor would not have insulted his Lady with seditious rumors, knave! 
+02|0294|0086|Toran, você foi acusado de blasfêmia contra Nossa Senhora Mordea e condenado à morte por decapitação... Você tem alguma palavra final? 
+02|0330|005F|Morrerei como vivi... com honra. Quando eu enfrentar Lithos, ele não me achará carente. 
+02|03A7|004E|Um homem de honra não teria insultado a sua Senhora com rumores sediciosos, patife! 
 06|0415|057C:091C
 06|042D|057C:15E7
 06|0447|057C:091C
-02|0459|008A|I fear that Lithos will not find you at all... for your grave shall be a watery one.  The Lurker is not kind to the ones she... acquires. 
+02|0459|008A|Temo que Lithos não o encontre... pois seu túmulo será aguado. O Luker não é gentil com aqueles que ela... adquire. 
 06|0501|057C:15E7
 06|051B|057C:091C
 06|0533|057C:15E7
 06|054B|057C:15E7
-02|055D|003D|This is forbidden, Lady.  The Ritual of Interment is sacred. 
+02|055D|003D|Isto é proibido, senhora. O Ritual do Enterro é sagrado. 
 06|05BA|057C:091C
-02|05CC|0076|Do not question my decisions, Tarna.  I am sure that Lithos would not want this one's worthless spirit in his domain. 
-02|06BB|0008|No!!!!  
+02|05CC|0076|Não questione minhas decisões, Tarna. Tenho certeza de que Lithos não iria querer o espírito inútil deste em seu domínio. 
+02|06BB|0008|Não!!!!  
 06|06CC|057C:087D
 06|06EA|057C:15E7
 06|0700|057C:091C
 06|074B|057C:15E7
-02|078D|000D|Back, woman! 
+02|078D|000D|De volta, mulher! 
 06|07A3|057C:087D
 06|07BF|057C:091C
 06|07DE|0581:1C19
@@ -41,7 +41,7 @@
 06|0809|057C:091C
 06|0820|057C:091C
 06|0836|0581:1C19
-02|0847|0020|Perform your task, Executioner! 
+02|0847|0020|Execute sua tarefa, Executor! 
 06|089B|0581:1C6D
 06|08C6|0581:1C19
 06|08F1|0581:1C19
@@ -59,9 +59,9 @@
 06|0A5D|0581:1C19
 03|0A6B|006A
 01|0A6E|0A6E
-02|0A79|0006|No... 
+02|0A79|0006|Não... 
 06|0A88|057C:087D
-02|0A9C|000E|My husband... 
+02|0A9C|000E|Meu marido... 
 06|0AC8|057C:15E7
 06|0ADC|0483:168B
 06|0AED|0581:1C19
@@ -85,7 +85,7 @@
 06|0D25|057C:15E7
 06|0D3F|057C:091C
 06|0D57|057C:15E7
-02|0D68|0023|Stand aside! Let Lady Mordea pass! 
+02|0D68|0023|Fique de lado! Deixe Lady Mordea passar! 
 06|0DA2|0581:1C19
 06|0DDC|0483:10D8
 06|0DF8|057C:15E7

@@ -1,120 +1,120 @@
 01|0080|0080
-02|008C|000C|Water Titan 
+02|008C|000C|Titã da Água 
 01|00AF|00AF
 06|00E4|0050:0DDB
-02|00F3|0009|Adeus 
+02|00F3|0009|Adeus. 
 06|0114|0050:13FB
 03|0121|0C33
 03|0124|00A6
 04|012B|007E
 04|0132|005D
 04|0144|001A
-02|0147|0008|Hydros? 
+02|0147|0008|Hidros? 
 03|015E|002E
-02|0161|001F|I wish the power of Tempestry. 
+02|0161|001F|Desejo o poder da Tempesteria. 
 03|018F|0017
-02|0192|0008|Hydros? 
+02|0192|0008|Hidros? 
 03|01A9|0021
-02|01AE|0013|Are you... Hydros? 
-02|01CE|000B|Who dares? 
-02|01F0|0009|Adeus 
+02|01AE|0013|Você é... Hidros? 
+02|01CE|000B|Quem ousa? 
+02|01F0|0009|Adeus. 
 04|01FF|0B55
-02|0204|0009|Adeus 
-02|021C|0009|Adeus 
-02|024C|0013|Are you... Hydros? 
+02|0204|0009|Adeus. 
+02|021C|0009|Adeus. 
+02|024C|0013|Você é... Hidros? 
 04|0264|0189
-02|026E|0060|Indeed, piteous mortal, I am Hydros. Know that it is into -my- domain that you have trespassed. 
+02|026E|0060|Na verdade, lamentável mortal, eu sou Hydros. Saiba que é no meu domínio que você invadiu. 
 04|02E7|0063
-02|02EB|001C|Why do you disturb my rest? 
-02|031C|001F|I wish the power of Tempestry. 
+02|02EB|001C|Por que você perturba meu descanso? 
+02|031C|001F|Desejo o poder da Tempesteria. 
 03|034A|007E
-02|034E|0026|And I do not like intrusions. Begone! 
+02|034E|0026|E eu não gosto de intrusões. Vá embora! 
 06|039D|0050:0F0F
 06|03AE|0581:1C8B
 03|03C5|098F
 03|03C8|098C
-02|03CD|0013|Are you... Hydros? 
+02|03CD|0013|Você é... Hidros? 
 03|03ED|0964
-02|03F2|0008|Hydros? 
+02|03F2|0008|Hidros? 
 04|03FF|01C7
 04|0406|006E
-02|040A|0025|I hope you have come to make amends. 
-02|0444|000D|I apologize. 
-02|0455|0007|Never! 
-02|0460|0009|Adeus 
+02|040A|0025|Espero que você tenha vindo para fazer as pazes. 
+02|0444|000D|Peço desculpas. 
+02|0455|0007|Nunca! 
+02|0460|0009|Adeus. 
 03|0474|0138
 04|047B|008C
-02|047F|0034|There will be time for conversation when I am free. 
+02|047F|0034|Haverá tempo para conversar quando eu estiver livre. 
 06|04DC|0050:0F0F
 06|04ED|0581:1C8B
 03|0504|0850
 03|0507|00A5
-02|050B|0050|I have no desire for idle chatter. Find me when you are worthy of conversation. 
+02|050B|0050|Não tenho desejo de conversa fiada. Encontre-me quando você for digno de uma conversa. 
 06|0584|0050:0F0F
 06|0595|0581:1C8B
 03|05AC|07A8
-02|05B1|0008|Hydros? 
+02|05B1|0008|Hidros? 
 03|05C6|078B
-02|05CB|000D|I apologize. 
+02|05CB|000D|Peço desculpas. 
 04|05DD|00E0
-02|05E1|0058|Very well, groundling, I accept your submission. Now go and reflect upon my generosity. 
-02|0656|000D|I apologize. 
-02|0667|0007|Never! 
-02|0672|0009|Adeus 
+02|05E1|0058|Muito bem, groundling, aceito sua submissão. Agora vá e reflita sobre minha generosidade. 
+02|0656|000D|Peço desculpas. 
+02|0667|0007|Nunca! 
+02|0672|0009|Adeus. 
 06|0692|0050:0F0F
 06|06A3|0581:1C8B
 03|06BA|069A
 03|06BD|0694
-02|06C2|001F|I wish the power of Tempestry. 
+02|06C2|001F|Desejo o poder da Tempesteria. 
 04|06E6|0119
-02|06EA|00A7|Ah, a wise request from one who has made the difficult journey to my current home. But alas, your desire must go unfulfilled. Trapped here as I am, I cannot help you. 
-02|07A8|001F|I wish the power of Tempestry. 
-02|07D4|000F|What can I do? 
-02|07E7|0009|Too bad. 
+02|06EA|00A7|Ah, um pedido sábio de alguém que fez a difícil jornada até minha casa atual. Mas, infelizmente, seu desejo não será realizado. Preso aqui como estou, não posso ajudá-lo. 
+02|07A8|001F|Desejo o poder da Tempesteria. 
+02|07D4|000F|O que posso fazer? 
+02|07E7|0009|Muito ruim. 
 03|07FF|0552
-02|0804|0009|Too bad. 
+02|0804|0009|Muito ruim. 
 04|0812|012A
-02|0816|0030|You do not care for my plight? Why, I should... 
+02|0816|0030|Você não se importa com a minha situação? Porque eu deveria... 
 06|085D|0050:12B0
 06|086F|0581:1C19
-02|087F|0068|Perhaps I was unclear. You see, should I become free, I would be able to grant you any powers you wish. 
-02|0902|0009|Too bad. 
-02|0918|0015|I will not help you. 
+02|087F|0068|Talvez eu não tenha sido claro. Veja, se eu me tornar livre, poderei conceder-lhe quaisquer poderes que desejar. 
+02|0902|0009|Muito ruim. 
+02|0918|0015|Eu não vou te ajudar. 
 03|093C|0415
-02|0941|0007|Never! 
+02|0941|0007|Nunca! 
 04|094D|00A3
-02|0951|0032|You do not know what you say, groundling! Begone! 
+02|0951|0032|Você não sabe o que diz, terrestre! Vá embora! 
 06|099A|0050:12B0
 06|09AC|0581:1C19
 06|09C5|0050:0F0F
 06|09D6|0581:1C8B
 03|09ED|0367
 03|09F0|0361
-02|09F5|0015|I will not help you. 
+02|09F5|0015|Eu não vou te ajudar. 
 04|0A0F|00A9
-02|0A13|0032|You do not know what you say, groundling! Begone! 
+02|0A13|0032|Você não sabe o que diz, terrestre! Vá embora! 
 06|0A5C|0050:12B0
 06|0A6E|0581:1C19
 06|0A8D|0050:0F0F
 06|0A9E|0581:1C8B
 03|0AB5|029F
 03|0AB8|0299
-02|0ABD|000F|What can I do? 
-02|0AD3|0025|Could you repeat those instructions? 
+02|0ABD|000F|O que posso fazer? 
+02|0AD3|0025|Você poderia repetir essas instruções? 
 04|0AFE|0197
-02|0B02|00E9|Ah, you will assist me then. My gratitude will be boundless, mortal. The task is a simple one. Merely open the ground next to the gravestone of my captor's beloved, releasing the waters on the cliffside. Do that and I shall be free. 
-02|0C02|000F|What can I do? 
-02|0C15|0009|Too bad. 
-02|0C2B|0025|Could you repeat those instructions? 
+02|0B02|00E9|Ah, você vai me ajudar então. Minha gratidão será ilimitada, mortal. A tarefa é simples. Basta abrir o terreno próximo à lápide da amada do meu captor, liberando as águas do penhasco. Faça isso e estarei livre. 
+02|0C02|000F|O que posso fazer? 
+02|0C15|0009|Muito ruim. 
+02|0C2B|0025|Você poderia repetir essas instruções? 
 04|0C64|0028
-02|0C6D|0015|I will not help you. 
+02|0C6D|0015|Eu não vou te ajudar. 
 03|0C95|00BC
-02|0C9A|0009|Adeus 
+02|0C9A|0009|Adeus. 
 04|0CA8|00A9
 04|0CAF|0035
-02|0CB3|001C|Farewell, my mortal friend. 
+02|0CB3|001C|Adeus, meu amigo mortal. 
 03|0CE4|002E
-02|0CE8|0018|Begone, foolish mortal! 
+02|0CE8|0018|Vá embora, mortal tolo! 
 06|0D29|0050:0F0F
 06|0D3A|0581:1C8B
 03|0D54|F497
@@ -146,6 +146,6 @@
 06|13B5|0050:114F
 06|13EE|0050:0D5F
 01|13FB|13FB
-02|1406|010F|Ah, I am now free! Thank you, foolish one, for your actions. Consider my gift of your wretched life as payment for your part. Now I will have my vengeance upon your pathetic kind! I will slay the descendant of my jailer! Let us see who can reach Devon first, groundling. 
+02|1406|010F|Ah, agora estou livre! Obrigado, tolo, por suas ações. Considere meu presente de sua vida miserável como pagamento por sua parte. Agora terei minha vingança contra sua espécie patética! Vou matar o descendente do meu carcereiro! Vamos ver quem consegue chegar primeiro a Devon, terrestre. 
 06|1538|0581:1C8B
 06|1551|0050:0F0F

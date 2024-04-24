@@ -1,14 +1,14 @@
 01|0080|0080
 04|009B|001E
-02|009F|0005|fish 
+02|009F|0005|peixe 
 03|00B9|008C
 04|00C1|0025
-02|00C5|000C|cooked fish 
+02|00C5|000C|peixe cozido 
 03|00E6|005F
 04|00EE|0024
-02|00F2|000B|Torax ribs 
+02|00F2|000B|Costelas de tórax 
 03|0112|0033
 04|011A|002B
-02|011E|0012|cooked Torax ribs 
+02|011E|0012|Costelas Torax cozidas 
 01|014A|014A
-02|0157|0008|Mmmm... 
+02|0157|0008|Hummm... 

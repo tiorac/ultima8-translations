@@ -1,149 +1,149 @@
 01|0080|0080
-02|0087|0017|Empower offensive spell
-02|00A2|0017|Empower defensive spell
-02|00BD|0013|Empower other spell
-02|00D4|0010|Invoke Pentagram
-02|00E8|0009|Nevermind
+02|0087|0017|Capacitar feitiço ofensivo
+02|00A2|0017|Fortalecer feitiço defensivo
+02|00BD|0013|Capacitar outro feitiço
+02|00D4|0010|Invocar Pentagrama
+02|00E8|0009|Deixa para lá
 02|00FC|0000|
 02|0106|0000|
 04|010B|01AA
-02|012B|0017|Empower offensive spell
+02|012B|0017|Capacitar feitiço ofensivo
 04|0147|0067
-02|014A|000A|Flame Bolt
-02|0158|000B|Create Fire
-02|0167|000A|Explosion 
-02|0175|000E|Summon Daemon 
-02|0187|000E|Conflagration 
-02|0199|000A|Nevermind 
+02|014A|000A|Raio de Chama
+02|0158|000B|Criar Fogo
+02|0167|000A|Explosão 
+02|0175|000E|Convocar Daemon 
+02|0187|000E|Conflagração 
+02|0199|000A|Deixa para lá 
 03|01AE|0104
-02|01B3|0017|Empower defensive spell
+02|01B3|0017|Fortalecer feitiço defensivo
 04|01CF|0059
-02|01D2|000B|Endure Heat
-02|01E1|000B|Fire Shield
-02|01F0|000F|Armor Of Flames
-02|0203|000D|Banish Daemon
-02|0214|0009|Nevermind
+02|01D2|000B|Suportar o calor
+02|01E1|000B|Escudo de Fogo
+02|01F0|000F|Armadura de Chamas
+02|0203|000D|Banir Daemon
+02|0214|0009|Deixa para lá
 03|0228|008A
-02|022D|0013|Empower other spell
+02|022D|0013|Capacitar outro feitiço
 04|0245|0038
-02|0248|0006|Ignite
-02|0252|000A|Extinguish
-02|0260|0005|Flash
-02|0269|0009|Nevermind
+02|0248|0006|Acender
+02|0252|000A|Extinguir
+02|0260|0005|Clarão
+02|0269|0009|Deixa para lá
 03|027D|0035
-02|0282|0010|Invoke Pentagram
-02|0299|0009|Nevermind
+02|0282|0010|Invocar Pentagrama
+02|0299|0009|Deixa para lá
 03|02AF|025A
 03|02B5|FE4C
 02|02B8|0000|
 02|02C2|0000|
-02|02EA|0006|Ignite
+02|02EA|0006|Acender
 04|02F5|0013
-02|02F8|0008|In Flam!
+02|02F8|0008|No Fla!
 03|0308|01FA
-02|030D|000A|Extinguish
+02|030D|000A|Extinguir
 04|031C|0013
-02|031F|0008|An Flam!
+02|031F|0008|Um Flam!
 03|032F|01D3
-02|0334|0005|Flash
+02|0334|0005|Clarão
 04|033E|0014
 02|0341|0009|Flam Por!
 03|0352|01B0
-02|0357|000A|Flame Bolt
+02|0357|000A|Raio de Chama
 04|0366|0017
-02|0369|000C|In Ort Flam!
+02|0369|000C|Em Ort Flam!
 03|037D|0185
-02|0382|000B|Endure Heat
+02|0382|000B|Suportar o calor
 04|0392|0016
-02|0395|000B|Sanct Flam!
+02|0395|000B|Chama Sagrada!
 03|03A8|015A
-02|03AD|000B|Fire Shield
+02|03AD|000B|Escudo de Fogo
 04|03BD|001A
-02|03C0|000F|In Flam An Por!
+02|03C0|000F|Em Flam An Por!
 03|03D7|012B
-02|03DC|000F|Armor Of Flames
+02|03DC|000F|Armadura de Chamas
 04|03F0|001A
-02|03F3|000F|Vas Sanct Flam!
+02|03F3|000F|Você vai para Santa Flam!
 03|040A|00F8
-02|040F|000B|Create Fire
+02|040F|000B|Criar Fogo
 04|041F|0018
-02|0422|000D|In Flam Ylem!
+02|0422|000D|Em Flam Ylem!
 03|0437|00CB
-02|043C|0009|Explosion
+02|043C|0009|Explosão
 04|044A|0018
-02|044D|000D|Vas Ort Flam!
+02|044D|000D|Vá para Ort Flam!
 03|0462|00A0
-02|0467|000D|Summon Daemon
+02|0467|000D|Convocar Daemon
 04|0479|001D
 02|047C|0012|Kal Flam Corp Xen!
 03|0496|006C
-02|049B|000D|Banish Daemon
+02|049B|000D|Banir Daemon
 04|04AD|001C
-02|04B0|0011|An Flam Corp Xen!
+02|04B0|0011|Um Flam Corp Xen!
 03|04C9|0039
-02|04CE|000E|Conflagration 
+02|04CE|000E|Conflagração 
 04|04E1|0021
 02|04E4|0016|Kal Vas Flam Corp Xen!
 01|0512|0512
-02|0516|0008|In Flam!
+02|0516|0008|No Fla!
 05|052A|0581:1A96
 03|0534|01DF
-02|0539|0008|An Flam!
+02|0539|0008|Um Flam!
 05|054D|0581:1A96
 03|0557|01BC
 02|055C|0009|Flam Por!
 05|0571|0581:1A96
 03|057B|0198
-02|0580|000C|In Ort Flam!
+02|0580|000C|Em Ort Flam!
 05|0598|0581:1A96
 03|05A2|0171
-02|05A7|000B|Sanct Flam!
+02|05A7|000B|Chama Sagrada!
 05|05BE|0581:1A96
 03|05C8|014B
-02|05CD|000F|In Flam An Por!
+02|05CD|000F|Em Flam An Por!
 05|05E8|0581:1A96
 03|05F2|0121
-02|05F7|000F|Vas Sanct Flam!
+02|05F7|000F|Você vai para Santa Flam!
 05|0612|0581:1A96
 03|061C|00F7
-02|0621|000D|In Flam Ylem!
+02|0621|000D|Em Flam Ylem!
 05|063A|0581:1A96
 03|0644|00CF
-02|0649|000D|Vas Ort Flam!
+02|0649|000D|Vá para Ort Flam!
 05|0662|0581:1A96
 03|066C|00A7
 02|0671|0012|Kal Flam Corp Xen!
 05|068F|0581:1A96
 03|0699|007A
-02|069E|0011|An Flam Corp Xen!
+02|069E|0011|Um Flam Corp Xen!
 05|06BB|0581:1A96
 03|06C5|004E
 02|06CA|0016|Kal Vas Flam Corp Xen!
 05|06EC|0581:1A96
 03|06F6|001D
-02|06FF|0006|Ooops.
+02|06FF|0006|Ops.
 01|071E|071E
-02|0722|0008|In Flam!
+02|0722|0008|No Fla!
 03|0736|0154
-02|073B|0008|An Flam!
+02|073B|0008|Um Flam!
 03|074F|013B
 02|0754|0009|Flam Por!
 03|0769|0121
-02|076E|000C|In Ort Flam!
+02|076E|000C|Em Ort Flam!
 03|0786|0104
-02|078B|000B|Sanct Flam!
+02|078B|000B|Chama Sagrada!
 03|07A2|00E8
-02|07A7|000F|In Flam An Por!
+02|07A7|000F|Em Flam An Por!
 03|07C2|00C8
-02|07C7|000F|Vas Sanct Flam!
+02|07C7|000F|Você vai para Santa Flam!
 03|07E2|00A8
-02|07E7|000D|In Flam Ylem!
+02|07E7|000D|Em Flam Ylem!
 03|0800|008A
-02|0805|000D|Vas Ort Flam!
+02|0805|000D|Vá para Ort Flam!
 03|081E|006C
 02|0823|0012|Kal Flam Corp Xen!
 03|0841|0049
-02|0846|0011|An Flam Corp Xen!
+02|0846|0011|Um Flam Corp Xen!
 03|0863|0027
 02|0868|0016|Kal Vas Flam Corp Xen!
 01|0895|0895
@@ -154,55 +154,55 @@
 05|0A6D|007C:0F4B
 05|0A8D|007C:0F4B
 05|0AAD|007C:0F4B
-02|0AF2|0006|Ignite
+02|0AF2|0006|Acender
 03|0B4E|04A4
-02|0B53|000A|Extinguish
+02|0B53|000A|Extinguir
 03|0B9B|0457
-02|0BA0|0005|Flash
+02|0BA0|0005|Clarão
 03|0BFB|03F7
-02|0C00|000A|Flame Bolt
+02|0C00|000A|Raio de Chama
 03|0C6C|0386
-02|0C71|000B|Endure Heat
+02|0C71|000B|Suportar o calor
 03|0CCC|0326
-02|0CD1|000B|Fire Shield
+02|0CD1|000B|Escudo de Fogo
 03|0D38|02BA
-02|0D3D|000F|Armor Of Flames
+02|0D3D|000F|Armadura de Chamas
 03|0DB4|023E
-02|0DB9|000B|Create Fire
+02|0DB9|000B|Criar Fogo
 03|0E1A|01D8
-02|0E1F|0009|Explosion
+02|0E1F|0009|Explosão
 03|0E8A|0168
-02|0E8F|000D|Summon Daemon
+02|0E8F|000D|Convocar Daemon
 03|0EFE|00F4
-02|0F03|000D|Banish Daemon
+02|0F03|000D|Banir Daemon
 03|0F72|0080
-02|0F77|000D|Conflagration
+02|0F77|000D|Conflagração
 04|0FF7|0056
-02|0FFC|003D|I don't have an unenchanted focus to place the spell within. 
+02|0FFC|003D|Não tenho um foco não encantado para colocar o feitiço. 
 03|104D|01A7
 04|1052|0034
-02|1057|001B|I need more black candles. 
+02|1057|001B|Preciso de mais velas pretas. 
 03|1086|016E
 04|108B|0032
-02|1090|0019|I need more red candles. 
+02|1090|0019|Preciso de mais velas vermelhas. 
 03|10BD|0137
 04|10C2|002A
-02|10C7|0011|I need more ash. 
+02|10C7|0011|Eu preciso de mais cinzas. 
 03|10EC|0108
 04|10F1|002D
-02|10F6|0014|I need more pumice. 
+02|10F6|0014|Preciso de mais pedra-pomes. 
 03|111E|00D6
 04|1123|002F
-02|1128|0016|I need more obsidian. 
+02|1128|0016|Preciso de mais obsidiana. 
 03|1152|00A2
 04|1157|002B
-02|115C|0012|I need more iron. 
+02|115C|0012|Preciso de mais ferro. 
 03|1182|0072
 04|1187|0030
-02|118C|0017|I need more brimstone. 
+02|118C|0017|Preciso de mais enxofre. 
 03|11B7|003D
 04|11BC|0032
-02|11C1|0019|I need more daemon bone. 
+02|11C1|0019|Preciso de mais osso de daemon. 
 01|11F9|11F9
 01|121C|121C
 06|1244|007C:10C3
@@ -217,10 +217,10 @@
 04|130F|00ED
 04|1387|0075
 04|1395|0015
-02|1398|0006|Good. 
+02|1398|0006|Bom. 
 03|13AA|0024
 04|13B4|001A
-02|13B7|000B|Excellent! 
+02|13B7|000B|Excelente! 
 05|1417|0581:2A79
 05|142E|0581:3552
 05|145F|0581:1A96
@@ -253,35 +253,35 @@
 06|183B|057C:091C
 06|1858|057C:15E7
 06|1874|057C:15E7
-02|1880|000C|An Flam Ort!
+02|1880|000C|Um Flam Ort!
 06|1895|057C:087D
 06|18B4|057C:15E7
 06|18D1|057C:15E7
 06|18EE|057C:15E7
 06|190F|057C:091C
-02|191F|0066|Fool! Had I not been here, you could have killed yourself, and that would have displeased the Master. 
+02|191F|0066|Enganar! Se eu não estivesse aqui, você poderia ter se matado, e isso teria desagradado ao Mestre. 
 04|199F|004F
-02|19A3|0036|Never use more Daemon Bone than your spell calls for. 
+02|19A3|0036|Nunca use mais Daemon Bone do que seu feitiço exige. 
 03|19EE|004A
-02|19F2|0034|Never use more Brimstone than your spell calls for. 
-02|1A3C|0032|Now, continue your test. I tire of your bumbling. 
+02|19F2|0034|Nunca use mais Brimstone do que o seu feitiço exige. 
+02|1A3C|0032|Agora, continue seu teste. Estou cansado de sua trapalhada. 
 01|1A85|1A85
 01|1A96|1A96
 01|1AD0|1AD0
-02|1AD8|0005|Yes. 
-02|1AE1|0004|No. 
-02|1B0D|0005|Yes. 
+02|1AD8|0005|Sim. 
+02|1AE1|0004|Não. 
+02|1B0D|0005|Sim. 
 03|1B1E|0022
 03|1B21|001F
-02|1B26|0004|No. 
+02|1B26|0004|Não. 
 01|1B49|1B49
 04|1B5A|006E
-02|1B5D|0005|Yes. 
-02|1B66|0004|No. 
-02|1B92|0005|Yes. 
+02|1B5D|0005|Sim. 
+02|1B66|0004|Não. 
+02|1B92|0005|Sim. 
 03|1BA3|002C
 03|1BA6|001F
-02|1BAB|0004|No. 
+02|1BAB|0004|Não. 
 03|1BC8|FF8A
 01|1BD8|1BD8
 01|1BF1|1BF1

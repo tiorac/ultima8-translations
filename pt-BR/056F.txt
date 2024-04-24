@@ -1,431 +1,431 @@
 01|0080|0080
 04|0093|1654
-02|0097|000D|Who are you? 
-02|00B9|0005|I am 
+02|0097|000D|Quem é você? 
+02|00B9|0005|Eu sou 
 02|00C8|0001|.
-02|00D4|0018|It is of little import. 
-02|00F0|001E|It is my business, not yours. 
-02|0119|0008|nothing 
+02|00D4|0018|É de pouca importância. 
+02|00F0|001E|É problema meu, não seu. 
+02|0119|0008|nada 
 02|012B|0000|
 04|0131|155C
 04|0152|0140
-02|0156|008C|I don't care what your name is. I want to know who you are that you feel free to enter into the Sorcerer's Enclave without -my- permission. 
-02|01F7|001A|What do you want from me? 
-02|0215|0019|I merely seek knowledge. 
-02|0232|0013|I am a great hero! 
-02|0249|0013|I go where I will. 
-02|0260|0021|Why do I need -your- permission? 
+02|0156|008C|Eu não me importo qual é o seu nome. Quero saber quem você é para se sentir à vontade para entrar no Enclave do Feiticeiro sem minha permissão. 
+02|01F7|001A|O que você quer de mim? 
+02|0215|0019|Eu apenas busco conhecimento. 
+02|0232|0013|Eu sou um grande herói! 
+02|0249|0013|Eu vou para onde eu quiser. 
+02|0260|0021|Por que preciso da sua permissão? 
 03|0292|13F8
-02|0297|0019|Some call me the Avatar. 
+02|0297|0019|Alguns me chamam de Avatar. 
 04|02B5|0131
-02|02B9|0083|Avatar? Strange title. Now, what I want to know is why you feel free to enter into the Sorcerer's Enclave without -my- permission. 
-02|0351|001A|What do you want from me? 
-02|036F|0019|I merely seek knowledge. 
-02|038C|0013|I am a great hero! 
-02|03A3|0013|I go where I will. 
-02|03BA|0021|Why do I need -your- permission? 
+02|02B9|0083|Avatar? Título estranho. Agora, o que eu quero saber é por que você se sente livre para entrar no Enclave do Feiticeiro sem minha permissão. 
+02|0351|001A|O que você quer de mim? 
+02|036F|0019|Eu apenas busco conhecimento. 
+02|038C|0013|Eu sou um grande herói! 
+02|03A3|0013|Eu vou para onde eu quiser. 
+02|03BA|0021|Por que preciso da sua permissão? 
 03|03E6|12A4
-02|03EB|0018|It is of little import. 
+02|03EB|0018|É de pouca importância. 
 04|0408|00B5
-02|040C|004D|That's as it may be, but I will know who you are if you wish to remain here. 
-02|0470|0018|It is of little import. 
-02|0495|0019|Some call me the Avatar. 
+02|040C|004D|Pode ser que seja, mas saberei quem você é se desejar permanecer aqui. 
+02|0470|0018|É de pouca importância. 
+02|0495|0019|Alguns me chamam de Avatar. 
 03|04BD|11CD
-02|04C2|001E|It is my business, not yours. 
+02|04C2|001E|É problema meu, não seu. 
 04|04E5|006D
-02|04E9|0046|Is that so? You try my patience, and I have no patience. Begone fool! 
+02|04E9|0046|É assim mesmo? Você testa minha paciência e eu não tenho paciência. Vá embora, tolo! 
 02|054A|0000|
 03|0552|1138
-02|0557|001A|What do you want from me? 
+02|0557|001A|O que você quer de mim? 
 04|0576|0074
-02|057A|0032|What I want is an intelligent response, intruder. 
-02|05C3|001A|What do you want from me? 
+02|057A|0032|O que eu quero é uma resposta inteligente, intruso. 
+02|05C3|001A|O que você quer de mim? 
 03|05EA|10A0
-02|05EF|0019|I merely seek knowledge. 
+02|05EF|0019|Eu apenas busco conhecimento. 
 04|060D|008F
-02|0611|004E|We don't give it away at the Enclave. It is earned. Tell me why you are here. 
-02|0676|0019|I merely seek knowledge. 
+02|0611|004E|Não o entregamos no Enclave. É conquistado. Diga-me por que você está aqui. 
+02|0676|0019|Eu apenas busco conhecimento. 
 03|069C|0FEE
-02|06A1|0021|Why do I need -your- permission? 
+02|06A1|0021|Por que preciso da sua permissão? 
 04|06C7|0083
-02|06CB|003A|Because I run this place... for all intents and purposes. 
-02|071C|0021|Why do I need -your- permission? 
+02|06CB|003A|Porque eu administro este lugar... para todos os efeitos. 
+02|071C|0021|Por que preciso da sua permissão? 
 03|074A|0F40
-02|074F|0013|I go where I will. 
+02|074F|0013|Eu vou para onde eu quiser. 
 04|0767|0142
-02|076B|0066|Ah some Fire in you after all! But in truth, while you are here, you go only where I say. Understood? 
+02|076B|0066|Ah, algum Fogo em você, afinal! Mas, na verdade, enquanto estiver aqui, você só vai aonde eu mandar. Entendido? 
 06|07EC|0581:1AD0
 04|07FB|003B
-02|07FF|0022|Good. I'm glad we see eye to eye. 
+02|07FF|0022|Bom. Estou feliz por estarmos de acordo. 
 03|0836|0068
-02|083A|0052|I did not misspeak myself. You go where I allow you or you die. It's that simple. 
+02|083A|0052|Eu não me enganei. Você vai aonde eu permitir ou você morre. É simples assim. 
 02|08A1|0000|
 03|08A9|0DE1
-02|08AE|0013|I am a great hero! 
+02|08AE|0013|Eu sou um grande herói! 
 04|08C6|00C5
-02|08CA|0052|Maybe where you come from, but here you're nothing unless I say you're something. 
-02|0931|000B|Ah, I see. 
-02|0940|001E|No really, I am a great hero. 
-02|0962|001E|This from one who is nothing. 
+02|08CA|0052|Talvez de onde você vem, mas aqui você não é nada, a menos que eu diga que você é alguma coisa. 
+02|0931|000B|Ah, entendo. 
+02|0940|001E|Não, sério, sou um grande herói. 
+02|0962|001E|Isto vindo de alguém que não é nada. 
 03|098B|0CFF
-02|0990|001E|No really, I am a great hero. 
+02|0990|001E|Não, sério, sou um grande herói. 
 04|09B3|0049
-02|09B7|0028|Yes, yes, yes. I'm sure you are, child. 
+02|09B7|0028|Sim Sim Sim. Tenho certeza que você está, criança. 
 02|09F4|0000|
 03|09FC|0C8E
-02|0A01|001E|This from one who is nothing. 
+02|0A01|001E|Isto vindo de alguém que não é nada. 
 04|0A24|00D5
-02|0A28|005C|I have no qualms about killing you, fool. In fact, I might gain pleasure from the exercise. 
-02|0A99|000B|Ah, I see. 
-02|0AA8|001B|You take pleasure in pain? 
-02|0AC7|0021|Aye, exercise would do you good. 
+02|0A28|005C|Não tenho escrúpulos em matar você, idiota. Na verdade, posso sentir prazer com o exercício. 
+02|0A99|000B|Ah, entendo. 
+02|0AA8|001B|Você sente prazer na dor? 
+02|0AC7|0021|Sim, o exercício lhe faria bem. 
 03|0AF9|0B91
-02|0AFE|000B|Ah, I see. 
+02|0AFE|000B|Ah, entendo. 
 04|0B0E|004F
-02|0B12|001C|Good. I'm glad that you do. 
+02|0B12|001C|Bom. Estou feliz que você faça isso. 
 02|0B55|0000|
 03|0B5D|0B2D
-02|0B62|0021|Aye, exercise would do you good. 
+02|0B62|0021|Sim, o exercício lhe faria bem. 
 04|0B88|00C4
-02|0B8C|0050|What do you mean by that, knave? I could burn you to ashes, if I had a mind to. 
-02|0BF1|000B|Ah, I see. 
-02|0C00|0025|I mean, perhaps you should eat less. 
-02|0C29|0018|If only you had a mind. 
+02|0B8C|0050|O que você quer dizer com isso, patife? Eu poderia queimar você até virar cinzas, se quisesse. 
+02|0BF1|000B|Ah, entendo. 
+02|0C00|0025|Quero dizer, talvez você devesse comer menos. 
+02|0C29|0018|Se ao menos você tivesse uma mente. 
 03|0C4C|0A3E
-02|0C51|001B|You take pleasure in pain? 
+02|0C51|001B|Você sente prazer na dor? 
 04|0C71|0104
-02|0C75|0097|Only that of my enemies. I was merely saying that you should have a care for your own welfare. Insulting your betters can be hazardous to your health. 
-02|0D21|000B|Ah, I see. 
-02|0D30|0019|I didn't know you cared. 
-02|0D4D|001D|You think you are my better? 
+02|0C75|0097|Somente o dos meus inimigos. Eu estava apenas dizendo que você deveria cuidar do seu próprio bem-estar. Insultar seus superiores pode ser perigoso para sua saúde. 
+02|0D21|000B|Ah, entendo. 
+02|0D30|0019|Eu não sabia que você se importava. 
+02|0D4D|001D|Você acha que é meu melhor? 
 03|0D75|0915
-02|0D7A|0019|I didn't know you cared. 
+02|0D7A|0019|Eu não sabia que você se importava. 
 04|0D98|002A
-02|0D9C|0009|I don't. 
+02|0D9C|0009|Eu não. 
 02|0DBA|0000|
 03|0DC2|08C8
-02|0DC7|001D|You think you are my better? 
+02|0DC7|001D|Você acha que é meu melhor? 
 04|0DE9|007A
-02|0DED|0059|It is a true fact. You are a stranger, whereas I lead these people... for the most part. 
+02|0DED|0059|É um fato verdadeiro. Você é um estranho, enquanto eu lidero essas pessoas... na maior parte. 
 02|0E5B|0000|
 03|0E63|0827
-02|0E68|0025|I mean, perhaps you should eat less. 
+02|0E68|0025|Quero dizer, talvez você devesse comer menos. 
 04|0E92|00DA
-02|0E96|005C|Are you insinuating that my physique is less than ideal? I could break you like a dry twig. 
-02|0F07|000B|Ah, I see. 
-02|0F16|0022|What physique? I see no physique. 
-02|0F3C|0025|Your physique is ideal... for a cow. 
+02|0E96|005C|Você está insinuando que meu físico não é o ideal? Eu poderia quebrar você como um galho seco. 
+02|0F07|000B|Ah, entendo. 
+02|0F16|0022|Qual físico? Não vejo nenhum físico. 
+02|0F3C|0025|Seu físico é ideal... para uma vaca. 
 03|0F6C|071E
-02|0F71|0022|What physique? I see no physique. 
+02|0F71|0022|Qual físico? Não vejo nenhum físico. 
 04|0F98|00E6
-02|0F9C|0063|You play the fool to make jest at my expense, but be wary. I will not take more of your insolence. 
-02|1014|000B|Ah, I see. 
-02|1023|0022|I am not insolent, merely honest. 
-02|1049|0024|But I've just begun to be insolent. 
+02|0F9C|0063|Você faz papel de bobo ao fazer piada às minhas custas, mas tenha cuidado. Não vou aguentar mais a sua insolência. 
+02|1014|000B|Ah, entendo. 
+02|1023|0022|Não sou insolente, apenas honesto. 
+02|1049|0024|Mas comecei a ser insolente. 
 03|107E|060C
-02|1083|0025|Your physique is ideal... for a cow. 
+02|1083|0025|Seu físico é ideal... para uma vaca. 
 04|10AD|007E
-02|10B1|0057|I don't know what this -cow- you speak of is, but I mislike your tone. Run along, boy. 
+02|10B1|0057|Não sei o que é essa vaca de que você fala, mas não gosto do seu tom. Vá em frente, garoto. 
 02|1123|0000|
 03|112B|055F
-02|1130|0018|If only you had a mind. 
+02|1130|0018|Se ao menos você tivesse uma mente. 
 04|114D|00D4
-02|1151|0051|I am a forgiving man, but you go too far. I will not take more of your isolence. 
-02|11B7|000B|Ah, I see. 
-02|11C6|0022|I am not insolent, merely honest. 
-02|11EC|0024|But I've just begun to be insolent. 
+02|1151|0051|Sou um homem misericordioso, mas você foi longe demais. Não vou aguentar mais o seu isolamento. 
+02|11B7|000B|Ah, entendo. 
+02|11C6|0022|Não sou insolente, apenas honesto. 
+02|11EC|0024|Mas comecei a ser insolente. 
 03|1221|0469
-02|1226|0022|I am not insolent, merely honest. 
+02|1226|0022|Não sou insolente, apenas honesto. 
 04|124D|00B8
-02|1251|0044|Honesty can be as deadly as deceit if it is not tempered by wisdom. 
-02|12AA|000B|Ah, I see. 
-02|12B9|0021|Deceit... a thing you know well? 
-02|12DE|001C|What do you know of wisdom? 
+02|1251|0044|A honestidade pode ser tão mortal quanto o engano se não for temperada pela sabedoria. 
+02|12AA|000B|Ah, entendo. 
+02|12B9|0021|Engano... uma coisa que você conhece bem? 
+02|12DE|001C|O que você sabe sobre sabedoria? 
 03|1305|0385
-02|130A|0024|But I've just begun to be insolent. 
+02|130A|0024|Mas comecei a ser insolente. 
 04|1333|008E
-02|1337|0067|Your skull will make a fine flagon when I'm done with you. Prepare to meet the Lord of Flame, infidel! 
+02|1337|0067|Seu crânio será uma bela jarra quando eu terminar com você. Prepare-se para conhecer o Senhor da Chama, infiel! 
 02|13B9|0000|
 03|13C1|02C9
-02|13C6|0021|Deceit... a thing you know well? 
+02|13C6|0021|Engano... uma coisa que você conhece bem? 
 04|13EC|009F
-02|13F0|0078|Know one thing, infidel, I never -- ever break my word. Why should I defend myself before one such as you? Leave me be. 
+02|13F0|0078|Saiba uma coisa, infiel, eu nunca – jamais quebro minha palavra. Por que eu deveria me defender diante de alguém como você? Deixe-me em paz. 
 02|1483|0000|
 03|148B|01FF
-02|1490|001C|What do you know of wisdom? 
+02|1490|001C|O que você sabe sobre sabedoria? 
 04|14B1|007E
-02|14B5|0057|Your tenure on Pagan has ended, dolt! I remand you into the care of the Lord of Flame. 
+02|14B5|0057|Seu mandato em Pagan terminou, idiota! Eu o devolvo aos cuidados do Senhor da Chama. 
 02|1527|0000|
 03|152F|015B
 02|1532|0001| 
 04|153E|002E
-02|1542|0015|Answer me, stranger. 
+02|1542|0015|Responda-me, estranho. 
 03|156C|0117
 04|1574|003F
-02|1578|0026|You will answer me or you will leave. 
+02|1578|0026|Você vai me responder ou irá embora. 
 03|15B3|00D0
 04|15BB|004B
-02|15BF|0032|I give you one last chance to answer me promptly. 
+02|15BF|0032|Dou-lhe uma última chance de me responder prontamente. 
 03|1606|007D
-02|160A|0059|I'm not your servant and I refuse to wait upon you! Go now, and do not disturb me again. 
+02|160A|0059|Não sou seu servo e me recuso a servir você! Vá agora e não me perturbe novamente. 
 02|167E|0000|
 03|168D|EA99
 04|1695|0049
-02|1699|0033|Now then, I am a busy man. What do you want of me? 
+02|1699|0033|Agora, sou um homem ocupado. O que você quer de mim? 
 03|16E7|06B9
 04|16FA|045D
 04|1704|008F
 03|1719|0687
 04|171F|0035
-02|1723|001C|What do you need, Disciple? 
+02|1723|001C|O que você precisa, discípulo? 
 03|1754|003C
 04|175C|0027
-02|175F|001C|How may I aid you, Daemion? 
+02|175F|001C|Como posso ajudá-lo, Daemion? 
 03|1783|000D
-02|1786|0005|Yes? 
+02|1786|0005|Sim? 
 03|1793|03C4
 04|179A|00BF
 04|17A0|0039
-02|17A4|0020|Well, do you have her Truename? 
+02|17A4|0020|Bem, você tem o Truename dela? 
 03|17D9|007D
 04|17E1|003E
-02|17E5|0025|Do you know what Bane's Truename is? 
+02|17E5|0025|Você sabe qual é o verdadeiro nome de Bane? 
 03|181F|0037
-02|1823|0021|Have you accomplished your task? 
+02|1823|0021|Você cumpriu sua tarefa? 
 03|1859|02FE
 04|186B|0224
 04|1875|0156
 04|187B|0035
-02|187F|001C|How can I help you, friend? 
+02|187F|001C|Como posso te ajudar, amigo? 
 03|18B0|0118
 04|18B8|0063
-02|18BB|000F|Good tidings,  
+02|18BB|000F|Boas novas,  
 04|18D6|0015
 02|18E0|0001|.
 03|18EB|001C
-02|18F0|0011|my alien friend. 
+02|18F0|0011|meu amigo alienígena. 
 03|191B|00AD
 04|1925|0030
-02|1929|0017|Greetings, offworlder. 
+02|1929|0017|Saudações, extraterrestre. 
 03|1955|0073
 04|195F|002F
-02|1963|0016|Greetings, Earthling. 
+02|1963|0016|Saudações, terráqueo. 
 03|198E|003A
 04|1998|0030
-02|199C|0017|Greetings, Britannian. 
+02|199C|0017|Saudações, Grã-Bretanha. 
 03|19CB|00C1
 04|19D1|0067
-02|19D5|004E|I have no time for idle conversation. Ask your questions and be done with it. 
+02|19D5|004E|Não tenho tempo para conversas inúteis. Tire suas dúvidas e pronto. 
 03|1A38|0054
 04|1A40|002F
-02|1A44|0016|What do you want now? 
+02|1A44|0016|O que você quer agora? 
 03|1A6F|001D
-02|1A73|0007|What?! 
+02|1A73|0007|O que?! 
 03|1A8F|00C8
 04|1A95|0046
-02|1A99|002D|Well. Are you prepared to undertake my task? 
+02|1A99|002D|Bem. Você está preparado para realizar minha tarefa? 
 03|1ADB|007C
 04|1AE3|0035
-02|1AE7|001C|Will you undertake my task? 
+02|1AE7|001C|Você realizará minha tarefa? 
 03|1B18|003F
-02|1B1C|0029|The task awaits. Are you ready to begin? 
+02|1B1C|0029|A tarefa aguarda. Você está pronto para começar? 
 04|1B61|0102
 04|1B67|0067
-02|1B6B|004E|Depart now or face my wrath. I do not take kindly to mischievous interlopers. 
+02|1B6B|004E|Parta agora ou enfrente minha ira. Não sou gentil com intrusos travessos. 
 03|1BCE|0092
 04|1BD6|0044
-02|1BDA|002B|Leave this place. You are not needed here. 
+02|1BDA|002B|Saia deste lugar. Você não é necessário aqui. 
 03|1C1A|0046
-02|1C1E|0030|Go now, for we have nothing further to discuss. 
+02|1C1E|0030|Vá agora, pois não temos mais nada para discutir. 
 03|1C63|013D
 04|1C6D|0133
 04|1C73|0071
-02|1C77|0058|You have earned my wrath. I hold back your destruction now only by sheer force of will. 
+02|1C77|0058|Você ganhou minha ira. Eu seguro sua destruição agora apenas por pura força de vontade. 
 03|1CE4|00B9
 04|1CEC|0040
-02|1CF0|0027|You tempt your fate by remaining here. 
+02|1CF0|0027|Você desafia seu destino permanecendo aqui. 
 03|1D2C|0071
-02|1D30|005B|I find you unfit to walk upon this Enclave's soil. Leave now and your life will be spared. 
+02|1D30|005B|Considero você inadequado para caminhar no solo deste Enclave. Saia agora e sua vida será poupada. 
 01|1DAD|1DAD
 02|1DC2|0000|
 04|1DD1|00E0
 04|1DD7|0068
-02|1DDB|004F|The foolish are said to die young. I don't expect you'll see your elder years. 
+02|1DDB|004F|Diz-se que os tolos morrem jovens. Não espero que você chegue à velhice. 
 03|1E3F|006F
 04|1E47|0044
-02|1E4B|002B|Do not disturb me or my Sorcerers further. 
+02|1E4B|002B|Não perturbe mais a mim ou aos meus Feiticeiros. 
 03|1E8B|0023
-02|1E8F|000D|Leave me be. 
+02|1E8F|000D|Deixe-me em paz. 
 03|1EB1|048F
 04|1EBB|0132
 04|1EC1|008F
-02|1EC5|0076|I have been lenient up until now. If you so much as breathe in my direction... make no mistake... you will regret it. 
+02|1EC5|0076|Tenho sido tolerante até agora. Se você respirar em minha direção... não se engane... você vai se arrepender. 
 03|1F50|009A
 04|1F58|0061
-02|1F5C|0048|If you return, I will become angered. You won't like me when I'm angry. 
+02|1F5C|0048|Se você voltar, ficarei com raiva. Você não vai gostar de mim quando eu estiver com raiva. 
 03|1FB9|0031
-02|1FBD|001B|Go now, and do not return. 
+02|1FBD|001B|Vá agora e não volte. 
 03|1FED|0353
 04|1FF4|00C7
 04|1FFA|002D
-02|1FFE|0014|Farewell, Disciple. 
+02|1FFE|0014|Adeus, discípulo. 
 03|2027|0091
 04|202F|003D
-02|2033|0024|Return when you seek more training. 
+02|2033|0024|Volte quando buscar mais treinamento. 
 03|206C|004C
-02|2070|0036|If I could only remember where I put the brimstone... 
+02|2070|0036|Se eu pudesse lembrar onde coloquei o enxofre... 
 03|20BB|0285
 04|20C2|00D5
 04|20C8|003C
-02|20CC|0023|Leave me and accomplish your task. 
+02|20CC|0023|Deixe-me e cumpra sua tarefa. 
 03|2104|0090
 04|210C|0046
-02|2110|002D|When you have Bane's Truename, return to me. 
+02|2110|002D|Quando você tiver o verdadeiro nome de Bane, volte para mim. 
 03|2152|0042
-02|2156|002C|Go now. Do not return without her Truename. 
+02|2156|002C|Vá agora. Não retorne sem seu Truename. 
 03|2197|01A9
 04|219E|00DE
 04|21A4|0024
-02|21A7|0019|Keep the Fire burning,   
+02|21A7|0019|Mantenha o fogo aceso,   
 03|21C8|003E
 04|21D0|0023
-02|21D3|0018|Go with the Guardian,   
+02|21D3|0018|Vá com o Guardião,   
 03|21F3|0013
-02|21F6|000B|Farewell,  
+02|21F6|000B|Até a próxima,  
 04|2210|0017
-02|2215|000C|offworlder. 
+02|2215|000C|fora do mundo. 
 04|2231|0016
-02|2236|000B|Earthling. 
+02|2236|000B|Terráqueo. 
 04|2251|0017
-02|2256|000C|Britannian. 
+02|2256|000C|Da Grã-Bretanha. 
 03|227C|00C4
 04|2282|0046
-02|2286|002D|Disturb the Sorcerers here at your own risk. 
+02|2286|002D|Perturbe os Feiticeiros aqui por sua conta e risco. 
 03|22C8|0078
 04|22D0|0032
-02|22D4|0019|Now, what was I doing... 
+02|22D4|0019|Agora, o que eu estava fazendo... 
 03|2302|003E
-02|2306|0028|I must remember to replace the wards... 
+02|2306|0028|Devo me lembrar de substituir as proteções... 
 01|2347|2347
 04|2363|013B
 04|2369|002F
-02|236C|0024|I really must be about my business, 
+02|236C|0024|Eu realmente devo cuidar dos meus negócios, 
 03|2398|006E
 04|23A0|0025
-02|23A3|001A|I must return to my work, 
+02|23A3|001A|Devo voltar ao meu trabalho, 
 03|23C5|0041
-02|23C8|0039|When your thoughts are collected come and speak with me, 
+02|23C8|0039|Quando seus pensamentos estiverem reunidos, venha falar comigo, 
 04|2410|0019
-02|2415|000B|Earthling. 
+02|2415|000B|Terráqueo. 
 03|2429|0061
 04|2433|001A
-02|2438|000C|Britannian. 
+02|2438|000C|Da Grã-Bretanha. 
 03|244D|003D
 04|2454|0015
 02|245E|0001|.
 03|2469|0021
-02|246E|0016|my offworlder friend. 
+02|246E|0016|meu amigo extraterrestre. 
 03|249E|00FB
 04|24A4|0042
-02|24A8|0029|I grow weary of your games. Leave me be. 
+02|24A8|0029|Estou cansado de seus jogos. Deixe-me em paz. 
 03|24E6|00B3
 04|24EE|0059
-02|24F2|0040|Speak to me only when you have something to say, or not at all. 
+02|24F2|0040|Fale comigo apenas quando tiver algo a dizer, ou não. 
 03|2547|0052
-02|254B|003C|I cannot abide your ill manners. Or is it perhaps slow wit? 
+02|254B|003C|Não posso tolerar seus maus modos. Ou talvez seja um raciocínio lento? 
 01|25A0|25A0
-02|25AA|0020|I must learn to hold my tongue. 
-02|25CE|0021|Forgive me. I have offended you. 
+02|25AA|0020|Devo aprender a segurar minha língua. 
+02|25CE|0021|Me perdoe. Eu tenho ofendido você. 
 04|2601|0033
-02|2604|0021|Do not turn away from me, rogue. 
+02|2604|0021|Não se afaste de mim, ladino. 
 03|2634|0046
 04|263E|002F
-02|2641|001D|You will do as I say, knave! 
+02|2641|001D|Você fará o que eu digo, patife! 
 03|267A|048B
-02|267D|000C|Never mind. 
-02|269A|000C|Never mind. 
+02|267D|000C|Deixa para lá. 
+02|269A|000C|Deixa para lá. 
 04|26AC|0426
-02|26CA|0020|I must learn to hold my tongue. 
+02|26CA|0020|Devo aprender a segurar minha língua. 
 04|26EF|0044
-02|26F3|0017|I would have to agree. 
-02|271F|000C|Never mind. 
+02|26F3|0017|Eu tenho que concordar. 
+02|271F|000C|Deixa para lá. 
 03|2733|039C
-02|2738|0021|Forgive me. I have offended you. 
+02|2738|0021|Me perdoe. Eu tenho ofendido você. 
 04|275E|00DD
-02|2762|00AB|I am not so thin-skinned as to be offended by your remarks, but it shows prudence that you saw them to be offensive and can accept fault for your error. What do you want? 
+02|2762|00AB|Não sou tão sensível a ponto de ficar ofendido com seus comentários, mas mostra prudência que você os considerou ofensivos e pode aceitar a culpa por seu erro. O que você quer? 
 06|282B|041C:073C
 03|2838|02CD
 03|283B|0294
-02|2840|0021|Do not turn away from me, rogue. 
+02|2840|0021|Não se afaste de mim, ladino. 
 04|2866|00F7
-02|286A|005C|You will not adress me in such a manner! I am not accustomed to being ordered by inferiors. 
-02|28DD|0021|Do not turn away from me, rogue. 
-02|2902|000C|Never mind. 
-02|291B|001D|You will do as I say, knave! 
-02|293C|000C|Never mind. 
+02|286A|005C|Você não vai se dirigir a mim dessa maneira! Não estou acostumado a receber ordens de inferiores. 
+02|28DD|0021|Não se afaste de mim, ladino. 
+02|2902|000C|Deixa para lá. 
+02|291B|001D|Você fará o que eu digo, patife! 
+02|293C|000C|Deixa para lá. 
 03|295D|0172
-02|2962|001D|You will do as I say, knave! 
+02|2962|001D|Você fará o que eu digo, patife! 
 04|2984|006F
-02|2988|0043|By the blood of the Destroyer! I'll have your eyes for a necklace! 
+02|2988|0043|Pelo sangue do Destruidor! Vou querer seus olhos por um colar! 
 03|29F0|0115
 03|29F3|00DC
-02|29F8|000C|Never mind. 
+02|29F8|000C|Deixa para lá. 
 06|2A0F|056F:1DAD
 03|2A1C|00B3
 02|2A21|0000|
 04|2A26|0027
 06|2A2C|056F:2347
-02|2A39|000C|Never mind. 
+02|2A39|000C|Deixa para lá. 
 03|2A4D|0082
-02|2A51|006C|Something you said was wrong. Giant, blue letters appeared, blazing across the sky. It's a sign from Pyros! 
+02|2A51|006C|Algo que você disse estava errado. Letras azuis gigantes apareceram, brilhando no céu. É um sinal de Pyros! 
 03|2AD2|FBC3
 06|2AE8|041C:073C
 06|2AFB|058A:19C9
 01|2B0E|2B0E
 06|2B1E|0581:1AD0
 04|2B34|006E
-02|2B38|0055|What is it?! You must hurry. We have no time to waste. I must begin the ritual, now. 
+02|2B38|0055|O que é?! Você deve se apressar. Não temos tempo a perder. Devo começar o ritual agora. 
 03|2BA2|00AE
-02|2BA6|0095|There is no time for conversation. You must get her Truename. Only that will allow me to avert the coming disaster, and quite possibly my own death. 
+02|2BA6|0095|Não há tempo para conversa. Você deve obter o nome verdadeiro dela. Só isso me permitirá evitar o desastre que se aproxima e, muito possivelmente, a minha própria morte. 
 03|2C50|055D
-02|2C53|0015|I don't know it yet. 
+02|2C53|0015|Eu não sei ainda. 
 04|2C77|0019
-02|2C7A|000A| Sabriane.
+02|2C7A|000A| Sabriano
 04|2C98|0015
-02|2C9B|0006| Bane.
+02|2C9B|0006| Banimento.
 04|2CB5|0018
 02|2CB8|0009| Daemion.
 04|2CD5|0018
 02|2CD8|0009| Morduin.
-02|2D0B|0006| Bane.
+02|2D0B|0006| Banimento.
 04|2D16|007B
-02|2D1A|0059|That name has no use to me, dolt. I said get her Truename. Go! Do not return without it. 
+02|2D1A|0059|Esse nome não tem utilidade para mim, idiota. Eu disse para pegar o nome verdadeiro dela. Ir! Não volte sem ele. 
 03|2D8E|041F
 03|2D91|041C
 02|2D96|0009| Daemion.
 04|2DA4|0091
-02|2DA8|006F|Fool! That is most definitely not her Truename. And if you don't get it quickly, you'll have no use for yours. 
+02|2DA8|006F|Enganar! Esse definitivamente não é o seu verdadeiro nome. E se você não conseguir isso rapidamente, você não terá utilidade para o seu. 
 03|2E32|037B
 03|2E35|0378
 02|2E3A|0009| Morduin.
 04|2E48|0091
-02|2E4C|006F|How can one be so stupid? Must I be surrounded by incompetents? Get Bane's Truename, or face the consequences. 
+02|2E4C|006F|Como alguém pode ser tão estúpido? Devo estar rodeado de incompetentes? Obtenha o verdadeiro nome de Bane ou enfrente as consequências. 
 03|2ED6|02D7
 03|2ED9|02D4
-02|2EDE|0015|I don't know it yet. 
+02|2EDE|0015|Eu não sei ainda. 
 04|2EF8|0115
 04|2F00|007E
-02|2F04|005C|Do not waste time with your lies. Get me her Truename or you'll die before she can kill me! 
+02|2F04|005C|Não perca tempo com suas mentiras. Dê-me o nome verdadeiro dela ou você morrerá antes que ela possa me matar! 
 03|2F7B|0232
 03|2F7E|008C
-02|2F82|0063|I have had enough of you, fool! There won't be enough of you left to inter when I'm done with you! 
+02|2F82|0063|Já estou farto de você, idiota! Não sobrará o suficiente de vocês para intervir quando eu terminar com vocês! 
 03|300A|01A3
 03|300D|01A0
-02|3012|000A| Sabriane.
+02|3012|000A| Sabriano
 04|3021|009B
-02|3025|0059|A weak name for a weakling Sorcerer. Watch now what a real Sorcerer can do, my Disciple. 
+02|3025|0059|Um nome fraco para um feiticeiro fraco. Observe agora o que um verdadeiro Feiticeiro pode fazer, meu Discípulo. 
 06|309C|058A:014B
 06|30AC|058A:0B96
 03|30B9|00F4
 03|30BC|00F1
-02|30C0|00DB|If you have her Truename and won't reveal it, you are breaching our contract. If you don't know it, you are insolent. In either case, I will not wait upon your leisure. Return only when you can give me Bane's Truename. 
+02|30C0|00DB|Se você tem o nome verdadeiro dela e não o revela, você está violando nosso contrato. Se você não sabe, você é insolente. Em ambos os casos, não esperarei pelo seu lazer. Volte somente quando puder me dar o verdadeiro nome de Bane. 

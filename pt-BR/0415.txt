@@ -5,32 +5,32 @@
 06|00EF|057C:15E7
 06|0105|057C:15E7
 06|011B|057C:15E7
-02|012B|003F|Mountain King, I call Your name. Save me from this interloper! 
+02|012B|003F|Rei da Montanha, eu chamo Seu nome. Salve-me deste intruso! 
 06|019B|0581:1C19
 05|01CA|057C:0080
 01|01D7|01D7
 06|01FC|057C:091C
 06|023A|0581:1C6D
 06|0251|0581:1C19
-02|0286|01D1|Thank you, my friend. You have done good service this day. And your timing could not be better. For, as you can see, Lothian lies upon the altar barely clinging to life. For your service, I will grant you the boon which you did ask of me. I will introduce you to the Necromancer. But first, stand witness to the Ceremony of Eternity. For the time has come for Lothian and I to perform the ceremony. Please follow my instructions closely. Are you prepared, Lothian? 
-02|046D|005F|All of my life I have prepared for this, Vividos. I beg you now, send me to the Mountain King. 
-02|04E2|0036|Very well, please, my friend, stand beside the altar. 
+02|0286|01D1|Obrigado, meu amigo. Você prestou um bom serviço neste dia. E o seu momento não poderia ser melhor. Pois, como você pode ver, Lothian está deitado no altar, mal se agarrando à vida. Por seu serviço, concederei a você o benefício que você me pediu. Vou apresentá-lo ao Necromante. Mas primeiro, seja testemunha da Cerimônia da Eternidade. Pois chegou a hora de Lothian e eu realizarmos a cerimônia. Por favor, siga minhas instruções de perto. Você está preparado, Lothian? 
+02|046D|005F|Toda a minha vida me preparei para isso, Vividos. Eu imploro agora, mande-me para o Rei da Montanha. 
+02|04E2|0036|Muito bem, por favor, meu amigo, fique ao lado do altar. 
 06|057A|0581:1C19
 06|0594|057C:091C
 06|05AB|0581:1C19
-02|05BB|002A|Please kneel before the Altar of Passage. 
+02|05BB|002A|Por favor, ajoelhe-se diante do Altar da Passagem. 
 06|0603|057C:15E7
 06|0619|057C:15E7
-02|0629|00DB|Lord Lithos, Mountain King, eldest and mightiest of the four Titans, we come forth to send your faithful servant Lothian into your waiting arms. Tell us now, Lord of the Underworld, does this, our sacrifice please you? 
+02|0629|00DB|Lorde Lithos, Rei da Montanha, o mais velho e poderoso dos quatro Titãs, viemos enviar seu fiel servo Lothian para seus braços que o aguardam. Diga-nos agora, Senhor do Submundo, este nosso sacrifício lhe agrada? 
 06|0734|0581:1C19
-02|0748|003C|Yes, Lord! Take me! I am ready to greet you, Mountain King! 
+02|0748|003C|Sim, senhor! Leve-me! Estou pronto para cumprimentá-lo, Rei da Montanha! 
 06|07A0|057C:15E7
 06|07B6|057C:15E7
 06|07CD|0581:1C19
 06|07E3|057C:15E7
 06|07F9|057C:15E7
 06|080F|057C:15E7
-02|081F|007B|Let all rejoice, for Lithos is pleased with this, our sacrifice. Now, prepare to greet the ambassadors from Lithos' realm. 
+02|081F|007B|Que todos se alegrem, pois Lithos está satisfeito com este nosso sacrifício. Agora prepare-se para cumprimentar os embaixadores do reino de Lithos. 
 06|08B6|057C:15E7
 06|08CC|057C:15E7
 02|08DB|0008|Kal Corp
@@ -41,30 +41,30 @@
 06|0999|0415:0F9D
 06|09D3|057C:15E7
 06|09E6|0415:0F9D
-02|09F4|0044|The dead now surround you, Lothian. Prepare yourself for your Lord. 
-02|0A4E|001B|The grave opens before me! 
+02|09F4|0044|Os mortos agora cercam você, Lothian. Prepare-se para o seu Senhor. 
+02|0A4E|001B|A sepultura se abre diante de mim! 
 06|0A85|057C:15E7
 06|0A9B|057C:15E7
-02|0AAB|002E|Be you cleansed for death. Lithos awaits you. 
+02|0AAB|002E|Esteja você limpo para a morte. Lithos espera por você. 
 06|0AF5|057C:15E7
 06|0B0B|057C:15E7
-02|0B1B|003B|Sweet dagger, I am your sheath. Wear me now, lovely blade! 
-02|0B6C|004B|Go you now to the Mountain King! From life to death. From death to Lithos! 
+02|0B1B|003B|Doce adaga, eu sou sua bainha. Use-me agora, linda lâmina! 
+02|0B6C|004B|Vá agora para o Rei da Montanha! Da vida à morte. Da morte a Lithos! 
 06|0BD3|057C:15E7
 06|0BE9|057C:15E7
-02|0BF9|001C|Ex Ort Corp. Ort Des Lithos!
+02|0BF9|001C|Ex-Ort Corp. Ort Des Lithos!
 06|0C3D|0581:29D8
 06|0C53|057C:15E7
 06|0C6A|0581:1C19
 06|0C82|057C:091C
 06|0D6F|0581:1C19
-02|0DD7|0061|Now shall we bow in reverence of deeds here done, and to the awesome might of the Mountain King. 
-02|0E50|002C|All is done. Lothian may now join her lord. 
+02|0DD7|0061|Agora devemos nos curvar em reverência aos feitos aqui cometidos e ao incrível poder do Rei da Montanha. 
+02|0E50|002C|Tudo pronto. Lothian agora pode se juntar ao seu senhor. 
 06|0E9A|057C:15E7
-02|0EAC|0012|Arise, my friend. 
+02|0EAC|0012|Levante-se, meu amigo. 
 06|0EDC|057C:15E7
 06|0EF4|057C:15E7
-02|0F06|003A|You may now greet the Necromancer my friend, for I am he. 
+02|0F06|003A|Agora você pode cumprimentar o Necromante, meu amigo, pois eu sou ele. 
 06|0F63|0581:1C19
 06|0F81|057C:15E7
 06|0F92|0415:5D41
@@ -76,7 +76,7 @@
 04|1019|0020
 02|101D|0007|Vividos
 03|1039|001B
-02|103D|0005|Mage 
+02|103D|0005|Mago 
 01|1059|1059
 05|1095|0581:28F9
 05|109E|0581:28F9
@@ -102,46 +102,46 @@
 04|13C0|0209
 04|13D3|0072
 06|13E8|057C:091C
-02|13F8|0007|Hello? 
+02|13F8|0007|Olá? 
 06|1422|057C:15E7
 06|1439|0581:1C19
 04|144D|007B
 06|1462|057C:091C
-02|1472|0010|Can I help you? 
+02|1472|0010|Posso ajudar? 
 06|14A5|057C:15E7
 06|14BC|0581:1C19
 04|14D0|003D
-02|14D4|0010|PRAISE LITHOS!! 
+02|14D4|0010|ELOGIO LITOS!! 
 06|1501|0581:1C19
 04|1515|00B1
 06|152A|057C:091C
 06|1547|057C:15E7
-02|1557|001E|Do you require my assistance? 
+02|1557|001E|Você precisa da minha ajuda? 
 06|1592|0581:1C19
-02|15A2|0012|Very well then... 
+02|15A2|0012|Muito bem então... 
 03|15C9|02C7
 06|15E7|057C:091C
 04|15FB|003D
-02|15FF|0024|Blessed are the children of Lithos. 
+02|15FF|0024|Bem-aventurados os filhos de Lithos. 
 03|1638|0258
 04|1640|0061
-02|1644|0017|Oh, to be with Lithos. 
+02|1644|0017|Ah, para estar com Lithos. 
 06|167E|057C:15E7
 06|1695|0581:1C19
 04|16A9|0038
-02|16AD|0022|Ahh, the life of the Necromancer. 
+02|16AD|0022|Ahh, a vida do Necromante. 
 04|16E9|006D
-02|16ED|0023|The ground is cool and good today. 
+02|16ED|0023|O terreno está fresco e bom hoje. 
 06|1733|057C:15E7
 06|174A|0581:1C19
 04|175E|0077
-02|1762|000D|I wonder...? 
+02|1762|000D|Eu me pergunto...? 
 06|1792|057C:15E7
-02|17A2|0021|What is my lord doing right now? 
+02|17A2|0021|O que meu senhor está fazendo agora? 
 04|17DD|003E
-02|17E1|0028|Oh mighty Lithos, forgive my fragility. 
+02|17E1|0028|Ó poderoso Lithos, perdoe minha fragilidade. 
 04|1823|006D
-02|1827|0023|My, the undead are restless today. 
+02|1827|0023|Que coisa, os mortos-vivos estão inquietos hoje. 
 06|186D|057C:15E7
 06|1884|0581:1C19
 01|1895|1895
@@ -156,794 +156,794 @@
 04|1A3C|022F
 04|1A4F|0072
 06|1A64|057C:091C
-02|1A74|0007|Hello? 
+02|1A74|0007|Olá? 
 06|1A9E|057C:15E7
 06|1AB5|0581:1C19
 04|1AC9|007B
 06|1ADE|057C:091C
-02|1AEE|0010|Can I help you? 
+02|1AEE|0010|Posso ajudar? 
 06|1B21|057C:15E7
 06|1B38|0581:1C19
 04|1B4C|0063
-02|1B50|0036|One can almost feel Moriens' presence in these walls. 
+02|1B50|0036|Quase se pode sentir a presença de Moriens nestas paredes. 
 06|1BA3|0581:1C19
 04|1BB7|00B1
 06|1BCC|057C:091C
 06|1BE9|057C:15E7
-02|1BF9|001E|Do you require my assistance? 
+02|1BF9|001E|Você precisa da minha ajuda? 
 06|1C34|0581:1C19
-02|1C44|0012|Very well then... 
+02|1C44|0012|Muito bem então... 
 03|1C6B|02DB
 06|1C89|057C:091C
 04|1C9D|002A
-02|1CA1|0011|I do worry so... 
+02|1CA1|0011|Eu me preocupo tanto... 
 03|1CC7|027F
 04|1CCF|0061
-02|1CD3|0017|Oh, to be with Lithos. 
+02|1CD3|0017|Ah, para estar com Lithos. 
 06|1D0D|057C:15E7
 06|1D24|0581:1C19
 04|1D38|003C
-02|1D3C|0026|Powerful indeed is the Mountain King. 
+02|1D3C|0026|De fato, poderoso é o Rei da Montanha. 
 04|1D7C|006C
-02|1D80|0022|Tred lightly here on holy ground. 
+02|1D80|0022|Pisei levemente aqui em solo sagrado. 
 06|1DC5|057C:15E7
 06|1DDC|0581:1C19
 04|1DF0|0094
-02|1DF4|0012|I do worry so...? 
+02|1DF4|0012|Eu me preocupo então...? 
 06|1E29|057C:15E7
-02|1E39|0039|There are so many people who do not show Lithos respect. 
+02|1E39|0039|Há tantas pessoas que não demonstram respeito por Lithos. 
 04|1E8C|003E
-02|1E90|0028|Oh mighty Lithos, forgive my fragility. 
+02|1E90|0028|Ó poderoso Lithos, perdoe minha fragilidade. 
 04|1ED2|0074
-02|1ED6|002A|I must read Moriens book again very soon. 
+02|1ED6|002A|Devo ler o livro de Moriens novamente em breve. 
 06|1F23|057C:15E7
 06|1F3A|0581:1C19
 01|1F4B|1F4B
 06|1F59|057C:0BCF
 04|1FB1|0031
-02|1FB5|0018|Hello again, my friend. 
+02|1FB5|0018|Olá novamente, meu amigo. 
 03|1FE2|004A
-02|1FE6|0034|Ah, a stranger. Have you come to the tomb to learn? 
+02|1FE6|0034|Ah, um estranho. Você veio ao túmulo para aprender? 
 06|203A|0415:21F0
 06|204D|0415:5D41
 04|205E|018D
-02|2062|0164|YOU!! You stole the Heart of Earth! You betrayed the Mountain King and now he has forsaken us!! He tears the land apart. He has sent his army of the dead to walk above the ground and it is all because of you!! Give the Heart of Earth back now and he may spare us. If not, all is lost. Go!! Get away from here and return to the Mountain King what is His!!! 
+02|2062|0164|VOCÊ!! Você roubou o Coração da Terra! Você traiu o Rei da Montanha e agora ele nos abandonou!! Ele destrói a terra. Ele enviou seu exército de mortos para caminhar acima do solo e é tudo por sua causa!! Devolva o Coração da Terra agora e ele poderá nos poupar. Se não, tudo está perdido. Ir!! Saia daqui e devolva ao Rei da Montanha o que é Dele!!! 
 06|21DE|057C:1090
 01|21F0|21F0
 02|21FA|0000|
 04|2206|0021
-02|220B|0013|I have the dagger. 
+02|220B|0013|Eu tenho a adaga. 
 04|222E|0044
-02|2233|001C|How are you today, Vividos? 
-02|2253|0013|Tell me of Lithos. 
+02|2233|001C|Como você está hoje, Vividos? 
+02|2253|0013|Conte-me sobre Lithos. 
 03|2272|001C
-02|227B|000B|What Tomb? 
+02|227B|000B|Que tumba? 
 04|2295|0029
-02|229A|0018|Yes, I'm here to learn. 
+02|229A|0018|Sim, estou aqui para aprender. 
 03|22BE|0020
-02|22C3|0012|Learn about what? 
-02|22E3|000A|Farewell. 
+02|22C3|0012|Aprenda sobre o quê? 
+02|22E3|000A|Até a próxima. 
 04|22F3|3A45
-02|22F8|000A|Farewell. 
-02|2311|000A|Farewell. 
-02|2342|000B|What Tomb? 
+02|22F8|000A|Até a próxima. 
+02|2311|000A|Até a próxima. 
+02|2342|000B|Que tumba? 
 04|2352|0086
-02|2356|0030|What Tomb? Why -the- Tomb. The Tomb of Moriens. 
-02|239D|0015|The Tomb of Moriens? 
-02|23C0|000B|What Tomb? 
+02|2356|0030|Que tumba? Por que -a-Tumba. A Tumba de Moriens. 
+02|239D|0015|A Tumba de Moriens? 
+02|23C0|000B|Que tumba? 
 03|23D8|395D
-02|23DD|0015|The Tomb of Moriens? 
+02|23DD|0015|A Tumba de Moriens? 
 04|23F7|00B2
-02|23FB|0049|Yes! Moriens, the Great One, was interred here, within these very walls. 
-02|245B|001E|What do you mean by interred? 
-02|2487|0015|The Tomb of Moriens? 
+02|23FB|0049|Sim! Moriens, o Grande, foi enterrado aqui, dentro destas mesmas paredes. 
+02|245B|001E|O que você quer dizer com enterrado? 
+02|2487|0015|A Tumba de Moriens? 
 03|24A9|388C
-02|24AE|0018|Yes, I'm here to learn. 
+02|24AE|0018|Sim, estou aqui para aprender. 
 04|24CB|00B4
-02|24CF|005F|Oh my! This is excellent news! Well, I shall teach you all about our mysteries and traditions. 
-02|2543|000C|Traditions. 
-02|2553|000D|Necromancer? 
-02|2564|0010|What mysteries? 
+02|24CF|005F|Oh meu Deus! Esta é uma excelente notícia! Bem, vou lhe ensinar tudo sobre nossos mistérios e tradições. 
+02|2543|000C|Tradições. 
+02|2553|000D|Necromante? 
+02|2564|0010|Que mistérios? 
 03|257F|37B6
-02|2584|001E|What do you mean by interred? 
+02|2584|001E|O que você quer dizer com enterrado? 
 04|25A7|00E1
-02|25AB|0064|Buried, then given over to Lithos, the Mountain King. Long has it been since Moriens joined Lithos. 
-02|2626|0016|How long has it been? 
-02|2640|000F|Who is Lithos? 
-02|265D|001E|What do you mean by interred? 
+02|25AB|0064|Enterrado e depois entregue a Lithos, o Rei da Montanha. Já faz muito tempo que Moriens se juntou à Lithos. 
+02|2626|0016|Quanto tempo faz? 
+02|2640|000F|Quem é Lithos? 
+02|265D|001E|O que você quer dizer com enterrado? 
 03|2688|36AD
-02|268D|000F|Who is Lithos? 
+02|268D|000F|Quem é Lithos? 
 04|26A1|00E2
-02|26A5|00AB|What a jest you play, my friend! As if any one could not know of the Mountain King. How could a person live and not know of the Earth Titan? You have a sharp wit, friend. 
-02|2767|000F|Who is Lithos? 
+02|26A5|00AB|Que brincadeira você faz, meu amigo! Como se alguém não pudesse conhecer o Rei da Montanha. Como uma pessoa poderia viver e não saber da existência do Titã da Terra? Você tem uma inteligência afiada, amigo. 
+02|2767|000F|Quem é Lithos? 
 03|2783|35B2
-02|2788|0016|How long has it been? 
+02|2788|0016|Quanto tempo faz? 
 04|27A3|0099
-02|27A7|005B|Oh, generations ago, too many to count. Moriens is the ancient father of all Necromancers. 
-02|2819|0016|How long has it been? 
+02|27A7|005B|Oh, gerações atrás, muitas para contar. Moriens é o antigo pai de todos os Necromantes. 
+02|2819|0016|Quanto tempo faz? 
 03|283C|34F9
-02|2841|0012|Learn about what? 
+02|2841|0012|Aprenda sobre o quê? 
 04|2858|00BC
-02|285C|0046|Learn the way of the Necromancer. Learn our traditions and mysteries! 
-02|28B7|000D|Necromancer? 
-02|28C8|000C|Traditions. 
-02|28D8|0010|What mysteries? 
-02|28F5|0012|Learn about what? 
+02|285C|0046|Aprenda o caminho do Necromante. Aprenda nossas tradições e mistérios! 
+02|28B7|000D|Necromante? 
+02|28C8|000C|Tradições. 
+02|28D8|0010|Que mistérios? 
+02|28F5|0012|Aprenda sobre o quê? 
 03|2914|3421
-02|2919|000D|Necromancer? 
+02|2919|000D|Necromante? 
 04|292B|00CC
-02|292F|0048|Lothian is the current Necromancer. But you probably already knew that. 
+02|292F|0048|Lothian é o atual Necromante. Mas você provavelmente já sabia disso. 
 04|2990|0032
-02|2995|0024|I need to speak to the Necromancer. 
+02|2995|0024|Preciso falar com o Necromante. 
 02|29C7|0008|Lothian?
-02|29DD|000D|Necromancer? 
+02|29DD|000D|Necromante? 
 03|29F7|333E
-02|29FC|0024|I need to speak to the Necromancer. 
+02|29FC|0024|Preciso falar com o Necromante. 
 04|2A25|00D4
-02|2A29|0060|I am sorry but that is impossible. The Necromancer is very ill and she is not receiving anyone. 
-02|2AA0|001A|She's too sick to see me? 
-02|2AC8|0024|I need to speak to the Necromancer. 
+02|2A29|0060|Sinto muito, mas isso é impossível. A Necromante está muito doente e não recebe ninguém. 
+02|2AA0|001A|Ela está muito doente para me ver? 
+02|2AC8|0024|Preciso falar com o Necromante. 
 03|2AF9|323C
-02|2AFE|001A|She's too sick to see me? 
+02|2AFE|001A|Ela está muito doente para me ver? 
 04|2B1D|00C8
-02|2B21|0086|Yes. In fact, she has been slipping in and out of consciousness lately. Even if you were to see her, she probably would not be awake. 
-02|2BBE|001A|She's too sick to see me? 
+02|2B21|0086|Sim. Na verdade, ela tem entrado e saído da consciência ultimamente. Mesmo se você a visse, ela provavelmente não estaria acordada. 
+02|2BBE|001A|Ela está muito doente para me ver? 
 03|2BE5|3150
 02|2BEA|0008|Lothian?
 04|2BF7|0085
-02|2BFB|0055|Long has she been the Necromancer. Lothian has loyally served since I was but a boy. 
+02|2BFB|0055|Há muito tempo ela é a Necromante. Lothian serviu lealmente desde que eu era menino. 
 02|2C67|0008|Lothian?
 03|2C7C|30B9
-02|2C81|000C|Traditions. 
+02|2C81|000C|Tradições. 
 04|2C92|00F8
-02|2C96|0095|Our lives are very structured. We must perform our rites very precisely lest they be not accepted. Yet sometimes such precision can create problems. 
-02|2D42|000E|Not accepted. 
-02|2D54|000F|What problems? 
-02|2D71|000C|Traditions. 
+02|2C96|0095|Nossas vidas são muito estruturadas. Devemos realizar nossos ritos com muita precisão, para que não sejam aceitos. No entanto, por vezes, essa precisão pode criar problemas. 
+02|2D42|000E|Não aceito. 
+02|2D54|000F|Que problemas? 
+02|2D71|000C|Tradições. 
 03|2D8A|2FAB
-02|2D8F|0010|What mysteries? 
+02|2D8F|0010|Que mistérios? 
 04|2DA4|00F8
-02|2DA8|008B|I can not tell someone who is not of our order about our mysteries. You could learn all if you were to join the order and become a novice. 
-02|2E4A|0011|Join your order? 
-02|2E5F|0012|What is a novice? 
-02|2E7F|0010|What mysteries? 
+02|2DA8|008B|Não posso contar a alguém que não seja da nossa ordem sobre nossos mistérios. Você poderia aprender tudo se ingressasse na ordem e se tornasse um novato. 
+02|2E4A|0011|Junte-se ao seu pedido? 
+02|2E5F|0012|O que é um novato? 
+02|2E7F|0010|Que mistérios? 
 03|2E9C|2E99
-02|2EA1|0012|What is a novice? 
+02|2EA1|0012|O que é um novato? 
 04|2EB8|008A
-02|2EBC|0050|A novice is someone who has newly joined the order and has just begun to learn. 
-02|2F23|0012|What is a novice? 
+02|2EBC|0050|Um novato é alguém que ingressou recentemente na ordem e apenas começou a aprender. 
+02|2F23|0012|O que é um novato? 
 03|2F42|2DF3
-02|2F47|0011|Join your order? 
+02|2F47|0011|Junte-se ao seu pedido? 
 04|2F5D|007F
-02|2F61|0046|Few people join our order. Life here is not easy but it is rewarding. 
-02|2FBE|0011|Join your order? 
+02|2F61|0046|Poucas pessoas se juntam à nossa ordem. A vida aqui não é fácil, mas é gratificante. 
+02|2FBE|0011|Junte-se ao seu pedido? 
 03|2FDC|2D59
-02|2FE1|000E|Not accepted. 
+02|2FE1|000E|Não aceito. 
 04|2FF4|00BF
-02|2FF8|006B|As you are not of our order, I can not tell you much. Suffice to say that titanic forces are often fickle. 
-02|307A|0010|Titanic forces? 
-02|3098|000E|Not accepted. 
+02|2FF8|006B|Como você não é da nossa ordem, não posso lhe contar muita coisa. Basta dizer que as forças titânicas são frequentemente instáveis. 
+02|307A|0010|Forças titânicas? 
+02|3098|000E|Não aceito. 
 03|30B3|2C82
-02|30B8|0010|Titanic forces? 
+02|30B8|0010|Forças titânicas? 
 04|30CD|00DE
-02|30D1|00A6|You have many questions, my friend! I was the same when first I came to the Tomb. Unfortunately, I can answer little since, as I have said, you are not of our order. 
-02|318E|0010|Titanic forces? 
+02|30D1|00A6|Você tem muitas perguntas, meu amigo! Eu era o mesmo quando cheguei à Tumba pela primeira vez. Infelizmente, pouco posso responder, pois, como já disse, você não é da nossa ordem. 
+02|318E|0010|Forças titânicas? 
 03|31AB|2B8A
-02|31B0|000F|What problems? 
+02|31B0|000F|Que problemas? 
 04|31C4|00E5
-02|31C8|0090|As I said, in our rituals, everything must be done at the right time with the right tools. Unfortunately, we are missing a most important tool. 
-02|326F|0010|Missing a tool? 
-02|328D|000F|What problems? 
+02|31C8|0090|Como eu disse, em nossos rituais tudo deve ser feito na hora certa e com as ferramentas certas. Infelizmente, falta-nos uma ferramenta muito importante. 
+02|326F|0010|Faltando uma ferramenta? 
+02|328D|000F|Que problemas? 
 03|32A9|2A8C
-02|32AE|0010|Missing a tool? 
+02|32AE|0010|Faltando uma ferramenta? 
 04|32C3|00C5
-02|32C7|0052|Yes, our ceremonial dagger. It was taken from us by that power mad witch, Mordea. 
-02|332E|000B|Power mad? 
-02|333D|0018|Mordea took the dagger? 
+02|32C7|0052|Sim, nossa adaga cerimonial. Foi tirado de nós por aquela bruxa louca pelo poder, Mordea. 
+02|332E|000B|Louco por poder? 
+02|333D|0018|Mordea pegou a adaga? 
 04|336A|001B
-02|336D|0010|Mordea is dead. 
+02|336D|0010|Mordeia está morta. 
 03|3388|29AD
-02|338D|0018|Mordea took the dagger? 
+02|338D|0018|Mordea pegou a adaga? 
 04|33AA|0125
-02|33AE|00C5|Yes! Never before have we had to worry about such things. People have always feared the cemetery and respected our work. But not long ago, Mordea came here with an armed force and took the dagger. 
-02|3488|001C|Why is this dagger special? 
-02|34A8|001C|People respected your work? 
+02|33AE|00C5|Sim! Nunca antes tivemos que nos preocupar com essas coisas. As pessoas sempre temeram o cemitério e respeitaram o nosso trabalho. Mas não faz muito tempo, Mordea veio aqui com uma força armada e pegou a adaga. 
+02|3488|001C|Por que esta adaga é especial? 
+02|34A8|001C|As pessoas respeitaram seu trabalho? 
 03|34CF|2866
-02|34D4|001C|People respected your work? 
+02|34D4|001C|As pessoas respeitaram seu trabalho? 
 04|34F5|0157
-02|34F9|00DD|Oh yes, we were respected and feared. The Necromancers have always been held in just regard as one of the great powers of the world. It has taken one so obsessed with power as Mordea to lessen the people's regard for us. 
-02|35EB|0013|People feared you? 
-02|3602|001D|Your order is a great power? 
-02|3623|001E|People's regard has lessened? 
+02|34F9|00DD|Ah, sim, éramos respeitados e temidos. Os Necromantes sempre foram considerados uma das grandes potências do mundo. Foi preciso alguém tão obcecado pelo poder como Mordea para diminuir a consideração do povo por nós. 
+02|35EB|0013|As pessoas temiam você? 
+02|3602|001D|Sua ordem é um grande poder? 
+02|3623|001E|A consideração das pessoas diminuiu? 
 03|364C|26E9
-02|3651|0013|People feared you? 
+02|3651|0013|As pessoas temiam você? 
 04|3669|0138
-02|366D|00D8|It is only natural that people fear forces that they do not understand. Of course they have never had a reason to fear us. Those of our order have always been benevolent, unlike the followers of Pyros or the Lurker. 
+02|366D|00D8|É natural que as pessoas temam forças que não compreendem. É claro que eles nunca tiveram motivos para nos temer. Aqueles da nossa ordem sempre foram benevolentes, ao contrário dos seguidores de Pyros ou do Luker. 
 02|375C|0007|Pyros? 
-02|3767|000C|The Lurker? 
-02|3781|0013|People feared you? 
+02|3767|000C|O Luker? 
+02|3781|0013|As pessoas temiam você? 
 03|37A1|2594
 02|37A6|0007|Pyros? 
 04|37B2|00E8
-02|37B6|0092|Please, speak not of that malevolent demon! I should not have mentioned his name. All the world would he consume in his flame if he were allowed! 
+02|37B6|0092|Por favor, não fale desse demônio malévolo! Eu não deveria ter mencionado o nome dele. Ele consumiria todo o mundo em sua chama se lhe fosse permitido! 
 02|385F|0007|Pyros? 
 04|3877|0020
-02|387C|0012|Is Pyros a Titan? 
+02|387C|0012|Pyros é um titã? 
 03|389A|249B
-02|389F|0012|Is Pyros a Titan? 
+02|389F|0012|Pyros é um titã? 
 04|38B6|0063
-02|38BA|0029|Please, I asked you not to speak of him. 
-02|38FA|0012|Is Pyros a Titan? 
+02|38BA|0029|Por favor, pedi que não falasse dele. 
+02|38FA|0012|Pyros é um titã? 
 03|3919|241C
-02|391E|000C|The Lurker? 
+02|391E|000C|O Luker? 
 04|392F|00BE
-02|3933|008A|The water Titan. Damned be her and all who follow her. That is Mordea's station; to follow that watery spirit and oppress all in her way. 
-02|39D4|000C|The Lurker? 
+02|3933|008A|O Titã da água. Maldita seja ela e todos os que a seguem. Essa é a estação de Mordea; seguir aquele espírito aquático e oprimir todos em seu caminho. 
+02|39D4|000C|O Luker? 
 03|39ED|2348
-02|39F2|001D|Your order is a great power? 
+02|39F2|001D|Sua ordem é um grande poder? 
 04|3A14|010E
-02|3A18|00A8|What greater power could there be than the power of the land itself? We who follow the Mountain King are peaceful, but when we are pressed we can wield our power well. 
-02|3AD7|0013|What about Mordea? 
-02|3AF8|001D|Your order is a great power? 
+02|3A18|00A8|Que poder maior poderia haver do que o poder da própria terra? Nós, que seguimos o Rei da Montanha, somos pacíficos, mas quando somos pressionados podemos exercer bem o nosso poder. 
+02|3AD7|0013|E Mordeia? 
+02|3AF8|001D|Sua ordem é um grande poder? 
 03|3B22|2213
-02|3B27|0013|What about Mordea? 
+02|3B27|0013|E Mordeia? 
 04|3B3F|00B6
-02|3B43|006E|It would do more harm than good for the Necromancer to wage war with Mordea. Even though Mordea is power mad. 
-02|3BC6|000B|Power mad? 
-02|3BD5|0015|More harm than good? 
+02|3B43|006E|Seria mais prejudicial do que benéfico para o Necromante travar uma guerra com Mordea. Mesmo que Mordea seja louca por poder. 
+02|3BC6|000B|Louco por poder? 
+02|3BD5|0015|Mais mal do que bem? 
 03|3BF5|2140
-02|3BFA|001E|People's regard has lessened? 
+02|3BFA|001E|A consideração das pessoas diminuiu? 
 04|3C1D|00F5
-02|3C21|008E|Yes, I am sad to say. We shall yet win them back, however. Lithos will lead us out of these dark times and show to all His power and majesty. 
-02|3CC6|0013|Power and majesty? 
-02|3CE7|001E|People's regard has lessened? 
+02|3C21|008E|Sim, estou triste em dizer. Contudo, ainda os recuperaremos. Lithos nos tirará desses tempos sombrios e mostrará a todos Seu poder e majestade. 
+02|3CC6|0013|Poder e majestade? 
+02|3CE7|001E|A consideração das pessoas diminuiu? 
 03|3D12|2023
-02|3D17|0013|Power and majesty? 
+02|3D17|0013|Poder e majestade? 
 04|3D2F|00B6
-02|3D33|007B|You must understand that we do not seek to rule all, such as Mordea does. We simply wish all to respect and revere Lithos. 
-02|3DC5|0013|Power and majesty? 
+02|3D33|007B|Você deve entender que não procuramos governar a todos, como Mordea faz. Desejamos simplesmente que todos respeitem e reverenciem Lithos. 
+02|3DC5|0013|Poder e majestade? 
 03|3DE5|1F50
-02|3DEA|0015|More harm than good? 
+02|3DEA|0015|Mais mal do que bem? 
 04|3E04|00C3
-02|3E08|0086|Think of the destruction that would occur if two Titanic forces were to lock themselves in combat. The destruction would be terrible. 
-02|3EA5|0015|More harm than good? 
+02|3E08|0086|Pense na destruição que ocorreria se duas forças do Titanic se travassem em combate. A destruição seria terrível. 
+02|3EA5|0015|Mais mal do que bem? 
 03|3EC7|1E6E
-02|3ECC|001C|Why is this dagger special? 
+02|3ECC|001C|Por que esta adaga é especial? 
 04|3EED|00B3
-02|3EF1|006F|It was given to Moriens by the Mountain King Himself. We can not perform our ceremonies with any other dagger. 
-02|3F77|001C|Why is this dagger special? 
+02|3EF1|006F|Foi dado a Moriens pelo próprio Rei da Montanha. Não podemos realizar nossas cerimônias com nenhuma outra adaga. 
+02|3F77|001C|Por que esta adaga é especial? 
 03|3FA0|1D95
-02|3FA5|000B|Power mad? 
+02|3FA5|000B|Louco por poder? 
 04|3FB5|013E
-02|3FB9|00CC|I don't care who hears me say it! Mordea is evil and power hungry! Long has she been a tyrant but now she has gone too far! Now that she has the dagger, we can not perform our rites without her approval. 
-02|409C|0016|She has gone too far? 
-02|40B6|0017|You need her approval? 
-02|40DB|000B|Power mad? 
+02|3FB9|00CC|Eu não me importo com quem me ouve dizer isso! Mordea é má e tem fome de poder! Há muito tempo ela é uma tirana, mas agora foi longe demais! Agora que ela tem a adaga, não podemos realizar nossos ritos sem a aprovação dela. 
+02|409C|0016|Ela foi longe demais? 
+02|40B6|0017|Você precisa da aprovação dela? 
+02|40DB|000B|Louco por poder? 
 03|40F3|1C42
-02|40F8|0016|She has gone too far? 
+02|40F8|0016|Ela foi longe demais? 
 04|4113|007F
-02|4117|0041|What Mordea has done violates generations of tradition and work. 
-02|416F|0016|She has gone too far? 
+02|4117|0041|O que Mordea fez viola gerações de tradição e trabalho. 
+02|416F|0016|Ela foi longe demais? 
 03|4192|1BA3
-02|4197|0017|You need her approval? 
+02|4197|0017|Você precisa da aprovação dela? 
 04|41B3|011D
-02|41B7|00A5|Yes! Without her approval, we can not perform our rituals. We can not work under such conditions! We need to get the dagger back soon or there will be great danger. 
-02|4271|0015|Get the dagger back. 
-02|428A|0015|What kind of danger? 
-02|42AC|0017|You need her approval? 
+02|41B7|00A5|Sim! Sem a aprovação dela, não poderemos realizar nossos rituais. Não podemos trabalhar nessas condições! Precisamos recuperar a adaga logo ou haverá um grande perigo. 
+02|4271|0015|Pegue a adaga de volta. 
+02|428A|0015|Que tipo de perigo? 
+02|42AC|0017|Você precisa da aprovação dela? 
 03|42D0|1A65
-02|42D5|0015|What kind of danger? 
+02|42D5|0015|Que tipo de perigo? 
 04|42EF|00E5
-02|42F3|0077|I truly can not tell you. The Mountain King's temper is, well, titanic. He may rip the land apart should we anger him. 
-02|4381|0014|Rip the land apart? 
-02|4399|000B|Anger him? 
-02|43B2|0015|What kind of danger? 
+02|42F3|0077|Eu realmente não posso te contar. O temperamento do Rei da Montanha é, bem, titânico. Ele pode destruir a terra se o irritarmos. 
+02|4381|0014|Destruir a terra? 
+02|4399|000B|Irritá-lo? 
+02|43B2|0015|Que tipo de perigo? 
 03|43D4|1961
-02|43D9|0014|Rip the land apart? 
+02|43D9|0014|Destruir a terra? 
 04|43F2|0103
-02|43F6|00AB|Oh yes, earthquakes, fissures, landslides, the power of the Earth Titan is very great. I have never seen the power of His wrath before, but I have heard terrible stories. 
-02|44B8|000E|What stories? 
-02|44D4|0014|Rip the land apart? 
+02|43F6|00AB|Ah, sim, terremotos, fissuras, deslizamentos de terra, o poder do Titã da Terra é muito grande. Nunca vi o poder de Sua ira antes, mas ouvi histórias terríveis. 
+02|44B8|000E|Que histórias? 
+02|44D4|0014|Destruir a terra? 
 03|44F5|1840
-02|44FA|000E|What stories? 
+02|44FA|000E|Que histórias? 
 04|450D|00CC
-02|4511|0074|In the days before Moriens agreed to serve the Mountain King, our lord did often rend the land as was His pleasure. 
-02|459C|0014|Why did he do this? 
-02|45BE|000E|What stories? 
+02|4511|0074|Nos dias anteriores a Moriens concordar em servir o Rei da Montanha, nosso senhor muitas vezes rasgava a terra como desejava. 
+02|459C|0014|Por que ele fez isso? 
+02|45BE|000E|Que histórias? 
 03|45D9|175C
-02|45DE|0014|Why did he do this? 
+02|45DE|0014|Por que ele fez isso? 
 04|45F7|009B
-02|45FB|005F|Please, I do not have time to talk of this. I need to get the dagger back before Lothian dies. 
-02|4671|0014|Why did he do this? 
+02|45FB|005F|Por favor, não tenho tempo para falar sobre isso. Preciso recuperar a adaga antes que Lothian morra. 
+02|4671|0014|Por que ele fez isso? 
 03|4692|16A3
-02|4697|000B|Anger him? 
+02|4697|000B|Irritá-lo? 
 04|46A7|00AA
-02|46AB|0077|Yes. If I am not able to perform the appropriate ceremony upon Lothian, I will greatly disappoint, and anger, my Lord. 
-02|4739|000B|Anger him? 
+02|46AB|0077|Sim. Se eu não for capaz de realizar a cerimônia apropriada em Lothian, irei desapontar e irritar enormemente meu Senhor. 
+02|4739|000B|Irritá-lo? 
 03|4751|15E4
-02|4756|0015|Get the dagger back. 
+02|4756|0015|Pegue a adaga de volta. 
 04|4770|0121
-02|4774|00AB|How? Lothian is very ill and I must stay by her side. Besides, neither of us are trained warriors to challenge Mordea's guards. How could we possibly retrieve the dagger? 
-02|4836|0015|I'll get the dagger. 
-02|484F|0012|Stay by her side. 
-02|486F|0015|Get the dagger back. 
+02|4774|00AB|Como? Lothian está muito doente e devo ficar ao lado dela. Além disso, nenhum de nós é guerreiro treinado para desafiar os guardas de Mordea. Como poderíamos recuperar a adaga? 
+02|4836|0015|Eu vou pegar a adaga. 
+02|484F|0012|Fique ao lado dela. 
+02|486F|0015|Pegue a adaga de volta. 
 03|4891|14A4
-02|4896|0015|I'll get the dagger. 
+02|4896|0015|Eu vou pegar a adaga. 
 04|48B0|01EE
-02|48B4|0010|Will you truly? 
-02|48DA|0005|Yes. 
-02|48E3|0004|No. 
-02|4906|0005|Yes. 
+02|48B4|0010|Você vai realmente? 
+02|48DA|0005|Sim. 
+02|48E3|0004|Não. 
+02|4906|0005|Sim. 
 04|4910|0109
-02|4914|00B9|Thank you! I have heard that Mordea keeps the dagger in her chambers. You will know the dagger by its golden hilt and serpentine blade. Please hurry, for soon we shall need the dagger! 
+02|4914|00B9|Obrigado! Ouvi dizer que Mordea guarda a adaga em seus aposentos. Você conhecerá a adaga pelo punho dourado e pela lâmina serpentina. Por favor, apresse-se, pois em breve precisaremos da adaga! 
 04|49EC|002A
-02|49F1|001C|May I meet the Necromancer? 
+02|49F1|001C|Posso conhecer o Necromante? 
 03|4A19|005E
-02|4A1D|0048|That is a cruel jest. We need the dagger soon else we shall all suffer. 
-02|4A7C|0015|I'll get the dagger. 
+02|4A1D|0048|Isso é uma piada cruel. Precisamos da adaga logo, caso contrário todos sofreremos. 
+02|4A7C|0015|Eu vou pegar a adaga. 
 03|4A9E|1297
-02|4AA3|0012|Stay by her side. 
+02|4AA3|0012|Fique ao lado dela. 
 04|4ABA|00D8
-02|4ABE|009E|It is as I have said, our ceremonies must occur at the correct time. I can tell you no more than that except to say that I must be present when Lothian dies. 
-02|4B73|0012|Stay by her side. 
+02|4ABE|009E|É como eu disse, nossas cerimônias devem ocorrer no horário correto. Não posso dizer mais do que isso, exceto que devo estar presente quando Lothian morrer. 
+02|4B73|0012|Fique ao lado dela. 
 03|4B92|11A3
-02|4B97|001C|May I meet the Necromancer? 
+02|4B97|001C|Posso conhecer o Necromante? 
 04|4BB8|0094
-02|4BBC|0050|If you bring to me the dagger, I will get you an audience with the Necromancer. 
-02|4C23|001C|May I meet the Necromancer? 
+02|4BBC|0050|Se você me trouxer a adaga, conseguirei uma audiência com o Necromante. 
+02|4C23|001C|Posso conhecer o Necromante? 
 03|4C4C|10E9
-02|4C51|0010|Mordea is dead. 
+02|4C51|0010|Mordeia está morta. 
 04|4C66|00D1
-02|4C6A|0077|She is truly dead? Oh praise be to the Mountain King! Perhaps now we may get our dagger back and avert certain danger. 
-02|4CF6|0015|What kind of dagger? 
-02|4D0F|001D|You may get the dagger back. 
+02|4C6A|0077|Ela está realmente morta? Oh, louvado seja o Rei da Montanha! Talvez agora possamos recuperar a nossa adaga e evitar certos perigos. 
+02|4CF6|0015|Que tipo de adaga? 
+02|4D0F|001D|Você pode recuperar a adaga. 
 03|4D37|0FFE
-02|4D3C|0015|What kind of dagger? 
+02|4D3C|0015|Que tipo de adaga? 
 04|4D56|00EF
-02|4D5A|00B2|It is a very special dagger. This dagger was given to us by the Mountain King so that we may perform a very special ceremony. Without the dagger, I can not perform the ceremony. 
-02|4E23|0015|What kind of dagger? 
+02|4D5A|00B2|É uma adaga muito especial. Esta adaga nos foi dada pelo Rei da Montanha para que possamos realizar uma cerimônia muito especial. Sem a adaga não posso realizar a cerimônia. 
+02|4E23|0015|Que tipo de adaga? 
 03|4E45|0EF0
-02|4E4A|001D|You may get the dagger back. 
+02|4E4A|001D|Você pode recuperar a adaga. 
 04|4E6C|00CB
-02|4E70|004D|Unfortunately, I can not leave here. You see, I must stay by Lothian's side. 
-02|4ED4|0012|Stay by her side. 
-02|4EEA|0015|I'll get the dagger. 
-02|4F0D|001D|You may get the dagger back. 
+02|4E70|004D|Infelizmente não posso sair daqui. Veja, devo ficar ao lado de Lothian. 
+02|4ED4|0012|Fique ao lado dela. 
+02|4EEA|0015|Eu vou pegar a adaga. 
+02|4F0D|001D|Você pode recuperar a adaga. 
 03|4F37|0DFE
-02|4F3C|000A|Farewell. 
+02|4F3C|000A|Até a próxima. 
 04|4F4B|0057
-02|4F4F|0012|Farewell, friend. 
-02|4F78|000A|Farewell. 
+02|4F4F|0012|Adeus, amigo. 
+02|4F78|000A|Até a próxima. 
 06|4F92|057C:1090
 03|4F9F|0D99
 03|4FA2|0D93
-02|4FA7|0013|I have the dagger. 
+02|4FA7|0013|Eu tenho a adaga. 
 04|4FBF|0130
-02|4FC3|0096|Truly?! You have the dagger? Bless you, my friend, bless you! Your timing is perfect for I need the dagger immediately! May I please have the dagger? 
-02|50C1|0013|I have the dagger. 
+02|4FC3|0096|Verdadeiramente?! Você está com a adaga? Deus te abençoe, meu amigo, te abençoe! Seu timing é perfeito, preciso da adaga imediatamente! Por favor, posso ficar com a adaga? 
+02|50C1|0013|Eu tenho a adaga. 
 06|50E3|0415:01D7
 03|50EC|0C4C
 03|50EF|0C46
-02|50F4|001C|How are you today, Vividos? 
+02|50F4|001C|Como você está hoje, Vividos? 
 04|5115|0112
-02|5119|007B|Not well, I fear. Our problem still exists and Lothian nears her end. Have you managed to get the dagger away from Mordea? 
-02|51AB|000E|What problem? 
-02|51BD|0012|Is Lothian dying? 
-02|51D3|001D|No, I don't have the dagger. 
-02|51FE|001C|How are you today, Vividos? 
+02|5119|007B|Não está bem, temo. Nosso problema ainda existe e Lothian se aproxima do fim. Você conseguiu tirar a adaga de Mordea? 
+02|51AB|000E|Que problema? 
+02|51BD|0012|Lothian está morrendo? 
+02|51D3|001D|Não, eu não tenho a adaga. 
+02|51FE|001C|Como você está hoje, Vividos? 
 03|5227|0B0E
-02|522C|001D|No, I don't have the dagger. 
+02|522C|001D|Não, eu não tenho a adaga. 
 04|524E|0106
-02|5252|00C1|Oh. I was hoping that you had retrieved the dagger for me. I am terribly afraid of what may happen if I do not get it soon. You did promise to get the dagger. Please do so as soon as possible. 
-02|532A|001D|No, I don't have the dagger. 
+02|5252|00C1|Oh. Eu esperava que você tivesse recuperado a adaga para mim. Tenho muito medo do que pode acontecer se eu não conseguir logo. Você prometeu pegar a adaga. Por favor, faça isso o mais rápido possível. 
+02|532A|001D|Não, eu não tenho a adaga. 
 03|5354|09E1
-02|5359|000E|What problem? 
+02|5359|000E|Que problema? 
 04|536C|0178
-02|5370|00FF|Have you completely forgotten the discussion which we had when first we met? By the power of the Mountain King, man, how could you forget my plight when your own safety is at stake? Mordea has stolen our ceremonial dagger and you promised to retrieve it. 
-02|5486|0017|Oh yes, I do remember. 
-02|54A1|001A|I was but joking, friend. 
-02|54C9|000E|What problem? 
+02|5370|00FF|Você esqueceu completamente a discussão que tivemos quando nos conhecemos? Pelo poder do Rei da Montanha, cara, como você pôde esquecer minha situação quando sua própria segurança está em jogo? Mordea roubou nossa adaga cerimonial e você prometeu recuperá-la. 
+02|5486|0017|Ah, sim, eu me lembro. 
+02|54A1|001A|Eu só estava brincando, amigo. 
+02|54C9|000E|Que problema? 
 03|54E4|0851
-02|54E9|001A|I was but joking, friend. 
+02|54E9|001A|Eu só estava brincando, amigo. 
 04|5508|00F7
-02|550C|00B5|I do remember from our first meeting that you have a sharp wit, but to say such a thing is more cruel than funny. By Lithos' eyes, please hold your jests until our crisis has past. 
-02|55D8|001A|I was but joking, friend. 
+02|550C|00B5|Lembro-me do nosso primeiro encontro que você tem uma inteligência perspicaz, mas dizer uma coisa dessas é mais cruel do que engraçado. Aos olhos de Lithos, por favor, segurem suas brincadeiras até que nossa crise passe. 
+02|55D8|001A|Eu só estava brincando, amigo. 
 03|55FF|0736
-02|5604|0017|Oh yes, I do remember. 
+02|5604|0017|Ah, sim, eu me lembro. 
 04|5620|0123
-02|5624|00AC|How very nice of you to recall! Please listen closely, if you do not retrieve the dagger, I can not inter people. If I can not inter people, Lithos will become very upset. 
-02|56E7|002A|What will happen if Lithos becomes upset? 
-02|571F|0017|Oh yes, I do remember. 
+02|5624|00AC|Que gentileza sua lembrar! Por favor, ouça com atenção, se você não recuperar a adaga, não poderei entreter as pessoas. Se eu não conseguir interagir com as pessoas, Lithos ficará muito chateado. 
+02|56E7|002A|O que acontecerá se Lithos ficar chateado? 
+02|571F|0017|Ah, sim, eu me lembro. 
 03|5743|05F2
-02|5748|002A|What will happen if Lithos becomes upset? 
+02|5748|002A|O que acontecerá se Lithos ficar chateado? 
 04|5777|01D0
-02|577B|013C|I probably should not tell you this, since you are not a member of our order, but these are dire times. Lithos may rend the ground underneath our very feet. He may bring great landslides to destroy Tenebrae. He may create quakes that kill us all. Lithos is great and powerful and we do not want him to become upset. 
-02|58CE|0016|That sounds terrible. 
-02|58E8|001A|Could this really happen? 
-02|5910|002A|What will happen if Lithos becomes upset? 
+02|577B|013C|Eu provavelmente não deveria lhe contar isso, já que você não é membro da nossa ordem, mas estes são tempos difíceis. Lithos pode rasgar o chão sob nossos pés. Ele pode trazer grandes deslizamentos de terra para destruir Tenebrae. Ele pode criar terremotos que matem todos nós. Lithos é grande e poderoso e não queremos que ele fique chateado. 
+02|58CE|0016|Isso parece terrível. 
+02|58E8|001A|Isso poderia realmente acontecer? 
+02|5910|002A|O que acontecerá se Lithos ficar chateado? 
 03|5947|03EE
-02|594C|0016|That sounds terrible. 
+02|594C|0016|Isso parece terrível. 
 04|5967|00B1
-02|596B|0073|Of course it sounds terrible! This is why I am so frantic! Now please, go and retrieve the dagger as you promised! 
-02|59F5|0016|That sounds terrible. 
+02|596B|0073|Claro que parece terrível! É por isso que estou tão frenético! Agora, por favor, vá buscar a adaga como prometeu! 
+02|59F5|0016|Isso parece terrível. 
 03|5A18|031D
-02|5A1D|001A|Could this really happen? 
+02|5A1D|001A|Isso poderia realmente acontecer? 
 04|5A3C|00E6
-02|5A40|0091|I do not believe your questions! Is this another one of your jokes? Of course it could happen! Please leave me now. I am too un-nerved to speak. 
-02|5AE8|001A|Could this really happen? 
+02|5A40|0091|Eu não acredito em suas perguntas! Essa é mais uma de suas piadas? Claro que isso pode acontecer! Por favor, deixe-me agora. Estou muito nervoso para falar. 
+02|5AE8|001A|Isso poderia realmente acontecer? 
 06|5B12|057C:1090
 03|5B1F|0219
 03|5B22|0213
-02|5B27|0012|Is Lothian dying? 
+02|5B27|0012|Lothian está morrendo? 
 04|5B3E|0075
-02|5B42|003B|Yes, she's dying! I told you that when last you were here. 
-02|5B94|0012|Is Lothian dying? 
+02|5B42|003B|Sim, ela está morrendo! Eu te disse isso da última vez que você esteve aqui. 
+02|5B94|0012|Lothian está morrendo? 
 03|5BB3|0182
-02|5BB8|0013|Tell me of Lithos. 
+02|5BB8|0013|Conte-me sobre Lithos. 
 04|5BD0|0118
-02|5BD4|00DD|I am sorry friend, but I do not have time to tell you anything of the Mountain King that you can not already know. After you have retrieved the dagger for me, I will tell you in great length of our lord, the Earth Titan. 
-02|5CC8|0013|Tell me of Lithos. 
+02|5BD4|00DD|Sinto muito amigo, mas não tenho tempo para lhe contar nada sobre o Rei da Montanha que você já não possa saber. Depois que você recuperar a adaga para mim, contarei detalhadamente sobre nosso senhor, o Titã da Terra. 
+02|5CC8|0013|Conte-me sobre Lithos. 
 03|5CE8|004D
-02|5CEC|0037|Did you wish to continue this conversation, my friend? 
+02|5CEC|0037|Deseja continuar esta conversa, meu amigo? 
 03|5D38|C5A6
 01|5D41|5D41
-02|5D4B|0019|You are the Necromancer? 
-02|5D68|0019|You murdered that woman! 
+02|5D4B|0019|Você é o Necromante? 
+02|5D68|0019|Você assassinou aquela mulher! 
 04|5D90|01BE
-02|5D93|0014|Hello, Necromancer. 
+02|5D93|0014|Olá, Necromante. 
 04|5E37|003C
-02|5E3C|002E|I have brought you the reagents, Necromancer. 
+02|5E3C|002E|Eu trouxe os reagentes para você, Necromante. 
 04|5E80|002C
-02|5E85|001E|I have met the Mountain King. 
+02|5E85|001E|Eu conheci o Rei da Montanha. 
 04|5EB3|0034
-02|5EB8|0026|I have interred Lothian, Necromancer. 
+02|5EB8|0026|Enterrei Lothian, Necromante. 
 04|5EF4|001E
-02|5EF9|0010|What must I do? 
+02|5EF9|0010|O que devo fazer? 
 04|5F1C|0032
-02|5F1F|0027|I have seen the Birthplace of Moriens. 
-02|5F53|000A|Farewell. 
+02|5F1F|0027|Eu vi o local de nascimento de Moriens. 
+02|5F53|000A|Até a próxima. 
 04|5F63|4167
-02|5F68|000A|Farewell. 
-02|5F81|000A|Farewell. 
-02|5FB2|0019|You are the Necromancer? 
+02|5F68|000A|Até a próxima. 
+02|5F81|000A|Até a próxima. 
+02|5FB2|0019|Você é o Necromante? 
 04|5FD0|00EB
-02|5FD4|008B|I am now. With Lothian's passage, I step forward and take her place. As Lothian's Scion, I was next in the Necromantic line of succession. 
-02|6076|0011|What is a Scion? 
-02|6095|0019|You are the Necromancer? 
+02|5FD4|008B|Eu sou agora. Com a passagem de Lothian, dou um passo à frente e tomo o lugar dela. Como Herdeiro de Lothian, eu era o próximo na linha de sucessão Necromântica. 
+02|6076|0011|O que é um descendente? 
+02|6095|0019|Você é o Necromante? 
 03|60BB|400C
-02|60C0|0019|You murdered that woman! 
+02|60C0|0019|Você assassinou aquela mulher! 
 04|60DE|008F
-02|60E2|002D|I killed her, yes. But I did not murder her. 
-02|6124|001C|Well what's the difference? 
-02|6144|001E|Why did you have to stab her? 
+02|60E2|002D|Eu a matei, sim. Mas eu não a matei. 
+02|6124|001C|Bem, qual é a diferença? 
+02|6144|001E|Por que você teve que esfaqueá-la? 
 03|616D|3F5A
-02|6172|001E|Why did you have to stab her? 
+02|6172|001E|Por que você teve que esfaqueá-la? 
 04|6195|00BF
-02|6199|0079|Have you not heard a word that I have said? The Ceremony of Eternity is one of our most sacred rites. It is Lithos' law! 
-02|6229|001E|Why did you have to stab her? 
+02|6199|0079|Você não ouviu uma palavra do que eu disse? A Cerimônia da Eternidade é um dos nossos ritos mais sagrados. É a lei de Lithos! 
+02|6229|001E|Por que você teve que esfaqueá-la? 
 03|6254|3E73
-02|6259|0011|What is a Scion? 
+02|6259|0011|O que é um descendente? 
 04|626F|0131
-02|6273|00CF|A Scion is the Necromancer's chosen successor. It is normal for the Necromancer's first apprentice to be the Scion. It is sad to say, but I was Lothian's only apprentice. Now, I am in need of an apprentice. 
-02|6357|0022|Why were you the only apprentice? 
-02|637D|0018|You need an apprentice? 
+02|6273|00CF|Um Scion é o sucessor escolhido pelo Necromante. É normal que o primeiro aprendiz do Necromante seja o Scion. É triste dizer, mas fui o único aprendiz de Lothian. Agora estou precisando de um aprendiz. 
+02|6357|0022|Por que você foi o único aprendiz? 
+02|637D|0018|Você precisa de um aprendiz? 
 03|63A0|3D27
-02|63A5|001C|Well what's the difference? 
+02|63A5|001C|Bem, qual é a diferença? 
 04|63C6|0179
-02|63CA|00E1|Murdering some one is to take their life against their will. Lothian had known nearly her entire life that, when it was her time of passage, she would be killed in this fashion. The same will happen to me when it is my time. 
-02|64C2|0025|So that is the Ceremony of Eternity? 
-02|64EB|001D|The same will happen to you? 
-02|6516|001C|Well what's the difference? 
+02|63CA|00E1|Assassinar alguém é tirar sua vida contra sua vontade. Lothian sabia quase toda a sua vida que, quando chegasse a hora de sua passagem, ela seria morta dessa maneira. O mesmo acontecerá comigo quando chegar a minha hora. 
+02|64C2|0025|Então essa é a Cerimônia da Eternidade? 
+02|64EB|001D|O mesmo acontecerá com você? 
+02|6516|001C|Bem, qual é a diferença? 
 03|653F|3B88
-02|6544|0022|Why were you the only apprentice? 
+02|6544|0022|Por que você foi o único aprendiz? 
 04|656B|010C
-02|656F|009C|It is as I have said: many people fear us, and many more can not live so demanding and structured life as is necessary of one who serves the Mountain King. 
-02|6622|0018|Why do people fear you? 
-02|6648|0022|Why were you the only apprentice? 
+02|656F|009C|É como eu disse: muitas pessoas nos temem, e muitas outras não conseguem viver uma vida tão exigente e estruturada como é necessário para quem serve o Rei da Montanha. 
+02|6622|0018|Por que as pessoas temem você? 
+02|6648|0022|Por que você foi o único aprendiz? 
 03|6677|3A50
-02|667C|0018|Why do people fear you? 
+02|667C|0018|Por que as pessoas temem você? 
 04|6699|00D6
-02|669D|0096|Many people are ignorant and do not understand what we do. They think that we live with corpses and that we are diseased. All of this is foolishness. 
-02|674A|0018|Why do people fear you? 
+02|669D|0096|Muitas pessoas são ignorantes e não entendem o que fazemos. Acham que vivemos com cadáveres e que estamos doentes. Tudo isso é tolice. 
+02|674A|0018|Por que as pessoas temem você? 
 03|676F|3958
-02|6774|0025|So that is the Ceremony of Eternity? 
+02|6774|0025|Então essa é a Cerimônia da Eternidade? 
 04|679E|0185
-02|67A2|010C|Yes, the ceremony must be performed as Lithos has commanded. You see, as Lothian was Necromancer, she will be permitted into the Hall of Eternity. In order to be allowed into this most hallowed of places, the Necromancers must be prepared in the Ceremony of Eternity. 
-02|68C5|001E|What is the Hall of Eternity? 
-02|68F1|0025|So that is the Ceremony of Eternity? 
+02|67A2|010C|Sim, a cerimônia deve ser realizada conforme Lithos ordenou. Veja, como Lothian era Necromante, ela terá permissão para entrar no Salão da Eternidade. Para poder entrar neste lugar mais sagrado, os Necromantes devem estar preparados na Cerimônia da Eternidade. 
+02|68C5|001E|O que é o Salão da Eternidade? 
+02|68F1|0025|Então essa é a Cerimônia da Eternidade? 
 03|6923|37A4
-02|6928|0027|I have seen the Birthplace of Moriens. 
+02|6928|0027|Eu vi o local de nascimento de Moriens. 
 04|6954|0095
-02|6958|0046|That is well. I hope that your experience was as wonderful as my own. 
-02|69B5|0027|I have seen the Birthplace of Moriens. 
+02|6958|0046|Isso é bom. Espero que sua experiência tenha sido tão maravilhosa quanto a minha. 
+02|69B5|0027|Eu vi o local de nascimento de Moriens. 
 03|69E9|36DE
-02|69EE|001E|What is the Hall of Eternity? 
+02|69EE|001E|O que é o Salão da Eternidade? 
 04|6A11|0183
-02|6A15|0119|The Hall of Eternity is a special place within the City of the Dead. The City of the Dead is a place where only Necromancers are allowed. It is there that Lithos sits upon His throne and consults His Necromancers, and dispenses His judgement. The Hall is a most prestigious place. 
-02|6B45|0016|The City of the Dead? 
-02|6B69|001E|What is the Hall of Eternity? 
+02|6A15|0119|O Salão da Eternidade é um lugar especial na Cidade dos Mortos. A Cidade dos Mortos é um lugar onde apenas Necromantes são permitidos. É lá que Lithos se senta em Seu trono e consulta Seus Necromantes e distribui Seu julgamento. O Hall é um lugar de muito prestígio. 
+02|6B45|0016|A Cidade dos Mortos? 
+02|6B69|001E|O que é o Salão da Eternidade? 
 03|6B94|3533
-02|6B99|0016|The City of the Dead? 
+02|6B99|0016|A Cidade dos Mortos? 
 04|6BB4|00D8
-02|6BB8|009A|Yes, the heart of Lithos' realm. The City of the Dead is where all Necromancers who have been interred go and live on in death under Lithos' gentle rule. 
-02|6C69|0016|The City of the Dead? 
+02|6BB8|009A|Sim, o coração do reino de Lithos. A Cidade dos Mortos é para onde todos os Necromantes que foram enterrados vão e vivem na morte sob o governo gentil de Lithos. 
+02|6C69|0016|A Cidade dos Mortos? 
 03|6C8C|343B
-02|6C91|0018|You need an apprentice? 
+02|6C91|0018|Você precisa de um aprendiz? 
 04|6CAE|00F5
-02|6CB2|00AB|Sim eu faco. While we are on this subject, it occurs to me that you are a man of exceptional qualities, both physical and spiritual. Would you wish to become my apprentice? 
-02|6D72|0013|Yes, I am honored. 
-02|6D89|000F|No, thank you. 
+02|6CB2|00AB|Sim eu faço. Já que estamos neste assunto, ocorreu-me que você é um homem de qualidades excepcionais, tanto físicas como espirituais. Você gostaria de se tornar meu aprendiz? 
+02|6D72|0013|Sim, estou honrado. 
+02|6D89|000F|Não, obrigado. 
 03|6DA3|3324
-02|6DA8|0013|Yes, I am honored. 
+02|6DA8|0013|Sim, estou honrado. 
 04|6DC0|0131
-02|6DC4|00A3|Good, then it is so done. As my apprentice, I would have you begin your studies immediately. Much must be learned before one can wield the magic of a Necromancer. 
-02|6E7E|0010|What must I do? 
-02|6E92|0012|I'll learn magic? 
-02|6EB2|0013|Yes, I am honored. 
-02|6EC9|000F|No, thank you. 
+02|6DC4|00A3|Bom, então está feito. Como meu aprendiz, gostaria que você começasse seus estudos imediatamente. Muito deve ser aprendido antes que alguém possa exercer a magia de um Necromante. 
+02|6E7E|0010|O que devo fazer? 
+02|6E92|0012|Vou aprender magia? 
+02|6EB2|0013|Sim, estou honrado. 
+02|6EC9|000F|Não, obrigado. 
 03|6EF1|31D6
-02|6EF6|0010|What must I do? 
+02|6EF6|0010|O que devo fazer? 
 04|6F0B|019B
-02|6F0F|0128|First you must gather some reagents for me. Return them to me and I will teach you of their magical properties. There will be other tasks to follow. If you accomplish all of them correctly, then I shall make you my apprentice, and most likely, the Scion. After that, you shall make a pilgrimage. 
-02|704E|001B|What reagents do you need? 
-02|706D|000E|A pilgrimage? 
-02|7089|0010|What must I do? 
+02|6F0F|0128|Primeiro você deve reunir alguns reagentes para mim. Devolva-os para mim e eu lhe ensinarei suas propriedades mágicas. Haverá outras tarefas a seguir. Se você realizar todos eles corretamente, então farei de você meu aprendiz e, muito provavelmente, o Scion. Depois disso, você fará uma peregrinação. 
+02|704E|001B|Quais reagentes você precisa? 
+02|706D|000E|Uma peregrinação? 
+02|7089|0010|O que devo fazer? 
 03|70A6|3021
-02|70AB|000E|A pilgrimage? 
+02|70AB|000E|Uma peregrinação? 
 04|70BE|00B3
-02|70C2|007D|Do not concern yourself with that now. There is much that must be done before you may even think about your holy pilgrimage. 
-02|7156|000E|A pilgrimage? 
+02|70C2|007D|Não se preocupe com isso agora. Há muito que deve ser feito antes mesmo de você pensar em sua santa peregrinação. 
+02|7156|000E|Uma peregrinação? 
 03|7171|2F56
-02|7176|000F|No, thank you. 
+02|7176|000F|Não, obrigado. 
 04|718A|0121
-02|718E|00BB|This saddens me. I do think that you would make a fine apprentice, and eventually, Necromancer. Is your mind completely made up, are you certain that you do not wish to be my apprentice? 
-02|725E|0013|Yes, I am certain. 
-02|7275|002B|Well, perhaps I should be your apprentice. 
+02|718E|00BB|Isso me entristece. Eu realmente acho que você seria um ótimo aprendiz e, eventualmente, um Necromante. Você está completamente decidido, tem certeza de que não deseja ser meu aprendiz? 
+02|725E|0013|Sim, tenho certeza. 
+02|7275|002B|Bem, talvez eu devesse ser seu aprendiz. 
 03|72AB|2E1C
-02|72B0|0013|Yes, I am certain. 
+02|72B0|0013|Sim, tenho certeza. 
 04|72C8|0108
-02|72CC|00B2|Very well, I am sure you have good reason for your decision. I am, however, very busy and must get on with my duties. Thank you very much for your help, but I must be on my way. 
-02|7395|0013|Yes, I am certain. 
+02|72CC|00B2|Muito bem, tenho certeza de que você tem bons motivos para sua decisão. Estou, no entanto, muito ocupado e preciso continuar com meus deveres. Muito obrigado pela sua ajuda, mas devo ir embora. 
+02|7395|0013|Sim, tenho certeza. 
 06|73B8|057C:1090
 03|73CD|2CFD
 03|73D0|2CF7
-02|73D5|002B|Well, perhaps I should be your apprentice. 
+02|73D5|002B|Bem, talvez eu devesse ser seu aprendiz. 
 04|7405|0146
-02|7409|00A2|Good, then it is done. As my apprentice, I would have you begin your studies immediately. Much must be learned before one can wield the magic of the Necromancer. 
-02|74C2|0010|What must I do? 
-02|74D6|0012|I'll learn magic? 
-02|74FC|002B|Well, perhaps I should be your apprentice. 
-02|752B|0013|Yes, I am certain. 
+02|7409|00A2|Bom, então está feito. Como meu aprendiz, gostaria que você começasse seus estudos imediatamente. Muito deve ser aprendido antes que alguém possa exercer a magia do Necromante. 
+02|74C2|0010|O que devo fazer? 
+02|74D6|0012|Vou aprender magia? 
+02|74FC|002B|Bem, talvez eu devesse ser seu aprendiz. 
+02|752B|0013|Sim, tenho certeza. 
 03|754B|2B7C
-02|7550|0012|I'll learn magic? 
+02|7550|0012|Vou aprender magia? 
 04|7567|00EE
-02|756B|008E|Indeed you will, my apprentice. By the time that you have completed your studies, you will be capable of more than you ever dreamed possible. 
-02|7610|0018|There is much to learn. 
-02|7636|0012|I'll learn magic? 
+02|756B|008E|Certamente você irá, meu aprendiz. Quando terminar seus estudos, você será capaz de fazer mais do que jamais sonhou ser possível. 
+02|7610|0018|Há muito o que aprender. 
+02|7636|0012|Vou aprender magia? 
 03|7655|2A72
-02|765A|0018|There is much to learn. 
+02|765A|0018|Há muito o que aprender. 
 04|7677|011C
-02|767B|009C|Indeed there is, apprentice. That is why you must consult the library freely and often. There you will learn much of our order, our history, and our magic. 
-02|772E|0016|Where is the library? 
-02|7748|0018|Will you help me learn? 
-02|776E|0018|There is much to learn. 
+02|767B|009C|De fato existe, aprendiz. É por isso que você deve consultar a biblioteca livre e frequentemente. Lá você aprenderá muito sobre nossa ordem, nossa história e nossa magia. 
+02|772E|0016|Onde é a biblioteca? 
+02|7748|0018|Você vai me ajudar a aprender? 
+02|776E|0018|Há muito o que aprender. 
 03|7793|2934
-02|7798|0016|Where is the library? 
+02|7798|0016|Onde é a biblioteca? 
 04|77B3|00A3
-02|77B7|0065|It is located just upstairs. Feel free to use it at any time. I expect to see you there quite often. 
-02|7833|0016|Where is the library? 
+02|77B7|0065|Ele está localizado no andar de cima. Sinta-se à vontade para usá-lo a qualquer momento. Espero ver você lá com bastante frequência. 
+02|7833|0016|Onde é a biblioteca? 
 03|7856|2871
-02|785B|0018|Will you help me learn? 
+02|785B|0018|Você vai me ajudar a aprender? 
 04|7878|009A
-02|787C|005A|Yes, of course, my student. It is part of my responsibility to teach you all that I know. 
-02|78ED|0018|Will you help me learn? 
+02|787C|005A|Sim, claro, meu aluno. Faz parte da minha responsabilidade ensinar-lhes tudo o que sei. 
+02|78ED|0018|Você vai me ajudar a aprender? 
 03|7912|27B5
-02|7917|001B|What reagents do you need? 
+02|7917|001B|Quais reagentes você precisa? 
 04|7937|017F
-02|793B|0084|I need for you to bring me a sample of Executioner's Hood from a place of danger and fallen sticks from a place where spirits roam. 
-02|79D6|001B|These items are -magical-? 
-02|79F5|0028|What does Executioner's Hood look like? 
-02|7A21|0014|Where spirits roam? 
-02|7A43|001B|What reagents do you need? 
+02|793B|0084|Preciso que você me traga uma amostra do Capuz do Carrasco de um lugar perigoso e gravetos caídos de um lugar onde os espíritos vagam. 
+02|79D6|001B|Esses itens são -mágicos-? 
+02|79F5|0028|Qual é a aparência do Capuz do Carrasco? 
+02|7A21|0014|Onde os espíritos vagam? 
+02|7A43|001B|Quais reagentes você precisa? 
 03|7AB6|2611
-02|7ABB|0014|Where spirits roam? 
+02|7ABB|0014|Onde os espíritos vagam? 
 04|7AD4|00C2
-02|7AD8|0086|Yes, that is very important. Go to Western Tenebrae. There you will find the sticks, better known as `deadman's elbows,' that I need. 
-02|7B75|0014|Where spirits roam? 
+02|7AD8|0086|Sim, isso é muito importante. Vá para Tenebrae Ocidental. Lá você encontrará as varas, mais conhecidas como “cotovelos de homem morto”, que eu preciso. 
+02|7B75|0014|Onde os espíritos vagam? 
 03|7B96|2531
-02|7B9B|001B|These items are -magical-? 
+02|7B9B|001B|Esses itens são -mágicos-? 
 04|7BBB|011B
-02|7BBF|00D8|Each taken individually, the item's magical properties are inert. However, when blended together under the proper conditions and intonements, their magical qualities are unlocked. All of this you will learn in time. 
-02|7CAE|001B|These items are -magical-? 
+02|7BBF|00D8|Cada um considerado individualmente, as propriedades mágicas do item são inertes. No entanto, quando misturados sob as condições e entonações adequadas, suas qualidades mágicas são desbloqueadas. Tudo isso você aprenderá com o tempo. 
+02|7CAE|001B|Esses itens são -mágicos-? 
 03|7CD6|23F1
-02|7CDB|0028|What does Executioner's Hood look like? 
+02|7CDB|0028|Qual é a aparência do Capuz do Carrasco? 
 04|7D08|00EC
-02|7D0C|009C|It is a black, leafy plant. It grows nearby, between the Graveyard and Tenebrae. Look for the hood under a large tree. It is a rare plant, so look closely. 
-02|7DBF|0028|What does Executioner's Hood look like? 
+02|7D0C|009C|É uma planta preta e frondosa. Ela cresce nas proximidades, entre o Cemitério e Tenebrae. Procure o capô debaixo de uma grande árvore. É uma planta rara, então observe com atenção. 
+02|7DBF|0028|Qual é a aparência do Capuz do Carrasco? 
 03|7DF4|22D3
-02|7DF9|001D|The same will happen to you? 
+02|7DF9|001D|O mesmo acontecerá com você? 
 04|7E1B|0104
-02|7E1F|00BF|Of course. When my time comes to be sent to meet the Mountain King, my first apprentice will perform the Ceremony of Eternity and prepare me for my journey. It is the way of the Necromancer. 
-02|7EF5|001D|The same will happen to you? 
+02|7E1F|00BF|Claro. Quando chegar a hora de ser enviado ao encontro do Rei da Montanha, meu primeiro aprendiz realizará a Cerimônia da Eternidade e me preparará para minha jornada. É o caminho do Necromante. 
+02|7EF5|001D|O mesmo acontecerá com você? 
 03|7F1F|21A8
-02|7F24|002E|I have brought you the reagents, Necromancer. 
+02|7F24|002E|Eu trouxe os reagentes para você, Necromante. 
 04|7F57|02C7
-02|7F5B|0011|Give them to me. 
+02|7F5B|0011|Dê-os para mim. 
 06|7F9B|057C:091C
 06|7FB3|057C:091C
-02|8004|00E9|You have done well, my apprentice. For your efforts and your obvious learning, I have something for you. This is the Key of the Caretaker. It will allow you entry into the Upper Catacombs. There you must go to learn more of our art. 
-02|8102|001A|What is in the Catacombs? 
-02|8120|001F|Where are the upper catacombs? 
-02|8143|0022|What is the Key of the Caretaker? 
-02|8169|000A|Farewell. 
+02|8004|00E9|Você se saiu bem, meu aprendiz. Por seus esforços e seu óbvio aprendizado, tenho algo para você. Esta é a Chave do Zelador. Isso permitirá que você entre nas Catacumbas Superiores. Lá você deve ir para conhecer mais da nossa arte. 
+02|8102|001A|O que há nas Catacumbas? 
+02|8120|001F|Onde estão as catacumbas superiores? 
+02|8143|0022|Qual é a chave do zelador? 
+02|8169|000A|Até a próxima. 
 05|8189|0581:1EE2
-02|81CB|002E|I have brought you the reagents, Necromancer. 
-02|81FD|0014|Hello, Necromancer. 
+02|81CB|002E|Eu trouxe os reagentes para você, Necromante. 
+02|81FD|0014|Olá, Necromante. 
 03|821E|1EA9
-02|8223|0022|What is the Key of the Caretaker? 
+02|8223|0022|Qual é a chave do zelador? 
 04|824A|01BF
-02|824E|0175|The Key is an item of power which will allow you to cast the spells which you will learn in the Catacombs. In order to cast spells, you must place the proper reagents in a bag, close the bag, and then invoke the power of the key on the closed bag. When you open the bag, you will find a magic talisman within. When you invoke the magic of the talisman, you cast the spell. 
-02|83DA|0022|What is the Key of the Caretaker? 
+02|824E|0175|A Chave é um item de poder que lhe permitirá lançar os feitiços que aprenderá nas Catacumbas. Para lançar feitiços, você deve colocar os reagentes adequados em uma sacola, fechá-la e então invocar o poder da chave na sacola fechada. Ao abrir a bolsa, você encontrará um talismã mágico dentro dela. Ao invocar a magia do talismã, você lança o feitiço. 
+02|83DA|0022|Qual é a chave do zelador? 
 03|8409|1CBE
-02|840E|001A|What is in the Catacombs? 
+02|840E|001A|O que há nas Catacumbas? 
 04|842D|0144
-02|8431|00BD|There you will find the ancient Necromancers. Those who travelled the path of the Necromancer long before you or I. My  ancient ancestors will teach you what you need to know of our magic. 
-02|8505|0017|How am I to find them? 
-02|8520|001C|Can you not teach me magic? 
-02|854A|001A|What is in the Catacombs? 
+02|8431|00BD|Lá você encontrará os antigos Necromantes. Aqueles que percorreram o caminho do Necromante muito antes de você ou de mim. Meus ancestrais vão lhe ensinar o que você precisa saber sobre nossa magia. 
+02|8505|0017|Como posso encontrá-los? 
+02|8520|001C|Você não pode me ensinar magia? 
+02|854A|001A|O que há nas Catacumbas? 
 03|8571|1B56
-02|8576|0017|How am I to find them? 
+02|8576|0017|Como posso encontrá-los? 
 04|8592|00B9
-02|8596|007A|With good faith and a strong heart. Do not worry, apprentice. The Ancient Necromancers will make themselves known to you. 
-02|8627|0017|How am I to find them? 
+02|8596|007A|Com boa fé e coração forte. Não se preocupe, aprendiz. Os Antigos Necromantes se darão a conhecer a você. 
+02|8627|0017|Como posso encontrá-los? 
 03|864B|1A7C
-02|8650|001C|Can you not teach me magic? 
+02|8650|001C|Você não pode me ensinar magia? 
 04|8671|015C
-02|8675|0118|I can, and in years to come I will. However, the first level of spells you must learn from the ancient Necromancers. Those who first created the spells that you will learn will teach them to you. If you pass their tests, you will learn their magic. Then you must come back to me. 
-02|87A4|001C|Can you not teach me magic? 
+02|8675|0118|Eu posso, e nos próximos anos farei. No entanto, o primeiro nível de feitiços você deve aprender com os antigos Necromantes. Aqueles que primeiro criaram os feitiços que você aprenderá irão ensiná-los a você. Se você passar nos testes, aprenderá sua magia. Então você deve voltar para mim. 
+02|87A4|001C|Você não pode me ensinar magia? 
 03|87CD|18FA
-02|87D2|001F|Where are the upper catacombs? 
+02|87D2|001F|Onde estão as catacumbas superiores? 
 04|87F6|01C2
-02|87FA|0150|You will find the entrance to the catacombs through the very rock itself. You will need the Open Earth spell, which you can find in the library, and the Key of the Caretaker. Go you then just north of here. There you will find a small hall. Cast the Open Earth spell upon the rock face and you shall gain entrance to the the catacombs. 
-02|8961|001D|The spell is in the library? 
-02|898C|001F|Where are the upper catacombs? 
+02|87FA|0150|Você encontrará a entrada das catacumbas pela própria rocha. Você precisará do feitiço Terra Aberta, que pode encontrar na biblioteca, e da Chave do Zelador. Vá então ao norte daqui. Lá você encontrará um pequeno salão. Lance o feitiço Terra Aberta na face da rocha e você terá acesso às catacumbas. 
+02|8961|001D|O feitiço está na biblioteca? 
+02|898C|001F|Onde estão as catacumbas superiores? 
 03|89B8|170F
-02|89BD|001D|The spell is in the library? 
+02|89BD|001D|O feitiço está na biblioteca? 
 04|89DF|0119
-02|89E3|008F|Yes, there you find much that will help you. For in order that you may speak to the Necromancers, there is another spell which you must learn. 
-02|8A89|0021|What is there that will help me? 
-02|8AAE|0012|What other spell? 
-02|8ACE|001D|The spell is in the library? 
+02|89E3|008F|Sim, lá você encontra muitas coisas que irão ajudá-lo. Pois para que você possa falar com os Necromantes, há outro feitiço que você deve aprender. 
+02|8A89|0021|O que há que vai me ajudar? 
+02|8AAE|0012|Que outro feitiço? 
+02|8ACE|001D|O feitiço está na biblioteca? 
 03|8AF8|15CF
-02|8AFD|0012|What other spell? 
+02|8AFD|0012|Que outro feitiço? 
 04|8B14|0116
-02|8B18|00DC|As the Necromancers are, to be certain, dead, you must cast Death Speak upon their sacred corpses. Only then shall you hear the voices of wisdom from their lifeless mouths. This spell you shall also find in the library. 
-02|8C0B|0012|What other spell? 
+02|8B18|00DC|Como os Necromantes estão, com certeza, mortos, você deve lançar Death Speak sobre seus cadáveres sagrados. Só então você ouvirá as vozes da sabedoria saindo de suas bocas sem vida. Este feitiço você também encontrará na biblioteca. 
+02|8C0B|0012|Que outro feitiço? 
 03|8C2A|149D
-02|8C2F|0021|What is there that will help me? 
+02|8C2F|0021|O que há que vai me ajudar? 
 04|8C55|012B
-02|8C59|00E2|In the library, there are books of knowledge. Not only spells that you must learn, but also the history of our Necromantic order. In the library you will also find many reagents which you may use when learning to cast spells. 
-02|8D52|0021|What is there that will help me? 
+02|8C59|00E2|Na biblioteca, existem livros de conhecimento. Não apenas feitiços que você deve aprender, mas também a história da nossa ordem Necromântica. Na biblioteca você também encontrará muitos reagentes que poderá usar ao aprender a lançar feitiços. 
+02|8D52|0021|O que há que vai me ajudar? 
 03|8D80|1347
-02|8D85|001E|I have met the Mountain King. 
+02|8D85|001E|Eu conheci o Rei da Montanha. 
 04|8DA8|00F3
-02|8DAC|0095|And since you are still alive, I can see that He and His Ancient Necromancers did approve of you. Now, I have something else for you, my apprentice. 
-02|8E56|001B|The journey was difficult. 
-02|8E75|001B|You have something for me? 
+02|8DAC|0095|E como você ainda está vivo, posso ver que Ele e Seus Antigos Necromantes aprovaram você. Agora, tenho mais uma coisa para você, meu aprendiz. 
+02|8E56|001B|A jornada foi difícil. 
+02|8E75|001B|Você tem algo para mim? 
 03|8E9B|122C
-02|8EA0|001B|The journey was difficult. 
+02|8EA0|001B|A jornada foi difícil. 
 04|8EC0|00BD
-02|8EC4|007A|Yes, I remember when I met the Mountain King. I too found the journey most difficult. Yet, all has been worth the effort. 
-02|8F55|001B|The journey was difficult. 
+02|8EC4|007A|Sim, lembro-me de quando conheci o Rei da Montanha. Eu também achei a jornada muito difícil. No entanto, tudo valeu a pena o esforço. 
+02|8F55|001B|A jornada foi difícil. 
 03|8F7D|114A
-02|8F82|001B|You have something for me? 
+02|8F82|001B|Você tem algo para mim? 
 04|8FA2|00A0
-02|8FA6|005C|Not yet, my apprentice. Did Lithos tell you that there is one last task for you to perform? 
-02|9017|000D|Yes, he did. 
-02|9028|000F|No, he didn't. 
+02|8FA6|005C|Ainda não, meu aprendiz. Lithos lhe disse que há uma última tarefa para você realizar? 
+02|9017|000D|Sim ele fez. 
+02|9028|000F|Não, ele não fez isso. 
 03|9042|1085
-02|9047|000F|No, he didn't. 
+02|9047|000F|Não, ele não fez isso. 
 04|905B|0191
-02|905F|0139|He did not? I do not believe you. The Mountain King instructed me to ask you if He had told you what you must do. He told me He instructed you to inter Lothian. If you did not perform this task, you were to be expelled from His order. Now you lie to me. Therefore, you must go from here. Never return here again. 
-02|91AF|000F|No, he didn't. 
+02|905F|0139|Ele não fez? Eu não acredito em você. O Rei da Montanha me instruiu a perguntar se Ele havia lhe dito o que você deveria fazer. Ele me disse que instruiu você a enterrar Lothian. Se você não executasse esta tarefa, seria expulso de Sua ordem. Agora você mente para mim. Portanto, você deve sair daqui. Nunca mais volte aqui. 
+02|91AF|000F|Não, ele não fez isso. 
 06|91D4|057C:1090
 03|91E9|0EE1
 03|91EC|0EDB
-02|91F1|000D|Yes, he did. 
+02|91F1|000D|Sim ele fez. 
 04|9203|0050
-02|9207|0016|What did He tell you? 
-02|9232|0016|I must inter Lothian. 
+02|9207|0016|O que ele te falou? 
+02|9232|0016|Devo intervir em Lothian. 
 03|9253|0E74
-02|9258|0016|I must inter Lothian. 
+02|9258|0016|Devo intervir em Lothian. 
 04|9273|01E5
-02|9277|010F|That is correct, apprentice. Take this, the Key of the Scion. By touching this item to Lothian, you will make her body acceptable for interment, as commanded in our covenant with Lithos. Know that this Key will also permit access through many doors within the Catacombs. 
+02|9277|010F|Isso é correto, aprendiz. Pegue esta, a Chave do Scion. Ao tocar este item em Lothian, você tornará seu corpo aceitável para enterro, conforme ordenado em nosso pacto com Lithos. Saiba que esta Chave também permitirá o acesso através de muitas portas dentro das Catacumbas. 
 05|93A6|0581:1EE2
 04|93AE|0039
-02|93B4|0018|Thank you, Necromancer. 
+02|93B4|0018|Obrigado, Necromante. 
 03|93E7|0040
-02|93ED|0028|You did not give me a key, Necromancer. 
-02|942A|000D|Another key? 
-02|943B|0012|Where is Lothian? 
+02|93ED|0028|Você não me deu uma chave, Necromante. 
+02|942A|000D|Outra chave? 
+02|943B|0012|Onde se encontra Lothian? 
 03|9458|0C6F
-02|945D|0012|Where is Lothian? 
+02|945D|0012|Onde se encontra Lothian? 
 04|9474|00C7
-02|9478|008D|You will find her outside of the tomb, near the Northeast corner of the building. There her body awaits you to send it to the Mountain King. 
-02|951C|0012|Where is Lothian? 
+02|9478|008D|Você a encontrará fora da tumba, perto do canto nordeste do prédio. Lá o corpo dela espera por você para enviá-lo ao Rei da Montanha. 
+02|951C|0012|Onde se encontra Lothian? 
 03|953B|0B8C
-02|9540|000D|Another key? 
+02|9540|000D|Outra chave? 
 04|9552|00C6
-02|9556|0091|Yes, but as you have seen, these keys are not what one normally thinks of as a key. This is not so much a physical key as it is a spiritual one. 
-02|95FE|000D|Another key? 
+02|9556|0091|Sim, mas como você viu, essas chaves não são o que normalmente se considera uma chave. Esta não é tanto uma chave física, mas espiritual. 
+02|95FE|000D|Outra chave? 
 03|9618|0AAF
-02|961D|000A|Farewell. 
+02|961D|000A|Até a próxima. 
 04|962C|0098
 04|9633|002F
-02|9637|0016|Farewell, apprentice. 
+02|9637|0016|Adeus, aprendiz. 
 03|9662|002B
-02|9666|0015|Farewell, my friend. 
-02|9692|000A|Farewell. 
+02|9666|0015|Adeus, meu amigo. 
+02|9692|000A|Até a próxima. 
 06|96AC|057C:1090
 03|96C1|0A09
 03|96C4|0A03
-02|96C9|0026|I have interred Lothian, Necromancer. 
+02|96C9|0026|Enterrei Lothian, Necromante. 
 04|96F4|018C
-02|96F8|0100|You have done well, my apprentice. You have shown yourself well. You have served with bravery and great knowledge. I have decided to name you Scion and thereby officially name you my heir in the Necromatic line. Now, you are ready to make your pilgrimage. 
-02|980D|0018|Thank you, Necromancer. 
-02|9829|0017|Oh yes, my pilgrimage. 
-02|984D|0026|I have interred Lothian, Necromancer. 
+02|96F8|0100|Você se saiu bem, meu aprendiz. Você se mostrou bem. Você serviu com bravura e grande conhecimento. Decidi nomeá-lo Scion e, assim, nomeá-lo oficialmente como meu herdeiro na linha Necromática. Agora você está pronto para fazer sua peregrinação. 
+02|980D|0018|Obrigado, Necromante. 
+02|9829|0017|Ah, sim, minha peregrinação. 
+02|984D|0026|Enterrei Lothian, Necromante. 
 03|9880|0847
-02|9885|0014|Hello, Necromancer. 
+02|9885|0014|Olá, Necromante. 
 04|989E|00B2
-02|98A2|003B|Greetings to you, my apprentice. I trust that all is well? 
-02|98F4|0010|Yes, I am well. 
-02|9908|0019|No, things are not well. 
-02|992F|0014|Hello, Necromancer. 
+02|98A2|003B|Saudações a você, meu aprendiz. Confio que está tudo bem? 
+02|98F4|0010|Sim, estou bem. 
+02|9908|0019|Não, as coisas não estão bem. 
+02|992F|0014|Olá, Necromante. 
 03|9950|0777
-02|9955|0010|Yes, I am well. 
+02|9955|0010|Sim, estou bem. 
 04|996A|008D
-02|996E|0038|Good, good. Lithos does provide well for His followers. 
-02|99BD|0010|Yes, I am well. 
-02|99D1|0019|No, things are not well. 
+02|996E|0038|Bom Bom. Lithos fornece bem para Seus seguidores. 
+02|99BD|0010|Sim, estou bem. 
+02|99D1|0019|Não, as coisas não estão bem. 
 03|99F7|06D0
-02|99FC|0019|No, things are not well. 
+02|99FC|0019|Não, as coisas não estão bem. 
 04|9A1A|0089
-02|9A1E|0034|Well, trust in Lithos and everything will work out. 
-02|9A69|0010|Yes, I am well. 
-02|9A7D|0019|No, things are not well. 
+02|9A1E|0034|Bem, confie em Lithos e tudo dará certo. 
+02|9A69|0010|Sim, estou bem. 
+02|9A7D|0019|Não, as coisas não estão bem. 
 03|9AA3|0624
-02|9AA8|0017|Oh yes, my pilgrimage. 
+02|9AA8|0017|Ah, sim, minha peregrinação. 
 04|9AC4|0128
-02|9AC8|00AE|Yes, your pilgrimage. It is customary for the Scion to make a pilgrimage to the birthplace of Moriens. There, the Scion does pay homage to Moriens and hope for a visitation. 
-02|9B93|0015|Where is this place? 
-02|9BAC|000E|A visitation? 
-02|9BC8|0017|Oh yes, my pilgrimage. 
+02|9AC8|00AE|Sim, sua peregrinação. É costume que o Scion faça uma peregrinação ao local de nascimento de Moriens. Lá, o Scion presta homenagem a Moriens e espera uma visita. 
+02|9B93|0015|Onde é este lugar? 
+02|9BAC|000E|Uma visitação? 
+02|9BC8|0017|Ah, sim, minha peregrinação. 
 03|9BEC|04DB
-02|9BF1|000E|A visitation? 
+02|9BF1|000E|Uma visitação? 
 04|9C04|014E
-02|9C08|00E2|Yes, well do I remember my pilgrimage. Long did I travel, and such an adventure it was. And when I arrived at the holy birthplace, I did see a most magnificent thing. It was so wonderous that first I thought myself to be mad. 
-02|9D01|0012|Was it dangerous? 
-02|9D17|0012|What did you see? 
-02|9D37|000E|A visitation? 
+02|9C08|00E2|Sim, lembro-me bem da minha peregrinação. Viajei por muito tempo e foi uma aventura e tanto. E quando cheguei ao local sagrado do nascimento, vi uma coisa magnífica. Foi tão maravilhoso que a princípio pensei que estava louco. 
+02|9D01|0012|Foi perigoso? 
+02|9D17|0012|O que você viu? 
+02|9D37|000E|Uma visitação? 
 03|9D52|0375
-02|9D57|0012|What did you see? 
+02|9D57|0012|O que você viu? 
 04|9D6E|0121
-02|9D72|00E7|Perhaps it is best that I do not tell you. I would not wish to color your expectations. After all, everyone comes away from their pilgrimage with a different experience. But be certain that your experience shall be a profound one. 
-02|9E70|0012|What did you see? 
+02|9D72|00E7|Talvez seja melhor eu não lhe contar. Eu não gostaria de colorir suas expectativas. Afinal, cada um sai da sua peregrinação com uma experiência diferente. Mas tenha certeza de que sua experiência será profunda. 
+02|9E70|0012|O que você viu? 
 03|9E8F|0238
-02|9E94|0012|Was it dangerous? 
+02|9E94|0012|Foi perigoso? 
 04|9EAB|0091
-02|9EAF|0057|What kind of a question is that from a man who has already performed such great deeds? 
-02|9F1D|0012|Was it dangerous? 
+02|9EAF|0057|Que tipo de pergunta é essa vinda de um homem que já realizou feitos tão grandes? 
+02|9F1D|0012|Foi perigoso? 
 03|9F3C|018B
-02|9F41|0015|Where is this place? 
+02|9F41|0015|Onde é este lugar? 
 04|9F5B|0097
-02|9F5F|005A|You must return to the Upper Catacombs. Once there, seek out the signs that mark the way. 
-02|9FD0|0015|Where is this place? 
+02|9F5F|005A|Você deve retornar às Catacumbas Superiores. Uma vez lá, procure as placas que marcam o caminho. 
+02|9FD0|0015|Onde é este lugar? 
 03|9FF2|00D5
-02|9FF7|0018|Thank you, Necromancer. 
+02|9FF7|0018|Obrigado, Necromante. 
 04|A014|0071
-02|A018|0031|Say no more, Scion. You have earned your status. 
-02|A060|0018|Thank you, Necromancer. 
+02|A018|0031|Não diga mais nada, Herdeiro. Você conquistou seu status. 
+02|A060|0018|Obrigado, Necromante. 
 03|A085|0042
-02|A089|002C|Did you wish to continue this conversation? 
+02|A089|002C|Você deseja continuar esta conversa? 
 03|A0CA|BE84

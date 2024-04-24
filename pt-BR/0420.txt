@@ -9,56 +9,56 @@
 04|015E|0189
 04|016C|0065
 04|0174|0059
-02|0180|0026|You little thief! I will destroy you! 
+02|0180|0026|Seu pequeno ladrão! Eu irei destruí-lo! 
 03|01CD|0264
 03|01D1|FF98
 04|01DB|002F
-02|01EA|000B|Stop that. 
+02|01EA|000B|Pare com isso. 
 03|020A|00DA
 04|0214|003B
-02|0223|0017|Leave my things alone! 
+02|0223|0017|Deixe minhas coisas em paz! 
 03|024F|0095
 04|0259|003F
-02|0268|001B|This is your last warning! 
+02|0268|001B|Este é o seu último aviso! 
 03|0298|004C
-02|02A4|0019|That is all I will take! 
+02|02A4|0019|Isso é tudo que vou levar! 
 03|02E4|014D
 03|02E7|013A
 06|0305|058B:0080
 03|0314|011D
 04|0322|0047
-02|0331|0023|I represent the entire Cabal here. 
+02|0331|0023|Eu represento toda a Cabala aqui. 
 03|0369|00B8
 04|0373|003A
-02|0382|0016|Do you know who I am? 
+02|0382|0016|Você sabe quem eu sou? 
 03|03AD|0074
 04|03B7|0053
-02|03C6|002F|I will kill you if you diturb my things again. 
+02|03C6|002F|Eu vou te matar se você perturbar minhas coisas novamente. 
 06|0412|058B:0080
 06|0427|0420:06E5
 01|0436|0436
 04|044A|0069
 04|0456|0031
-02|045A|0018|Beren the late Sorcerer 
+02|045A|0018|Beren, o falecido feiticeiro 
 03|0487|0029
-02|048B|0013|Beren the Sorcerer 
+02|048B|0013|Beren, o Feiticeiro 
 03|04B3|0103
 04|04BA|0056
 04|04C6|002C
-02|04CA|0013|Beren the deceased 
+02|04CA|0013|Beren, o falecido 
 03|04F2|001B
-02|04F6|0005|Beren
+02|04F6|0005|Deles
 03|0510|00A6
 04|0517|0055
 04|0523|0027
-02|0527|000E|dead Sorcerer 
+02|0527|000E|Feiticeiro morto 
 03|054A|001F
-02|054E|0009|Sorcerer 
+02|054E|0009|Feiticeiro 
 03|056C|004A
 04|0578|0023
-02|057C|000A|dead mage 
+02|057C|000A|mago morto 
 03|059B|001B
-02|059F|0005|mage 
+02|059F|0005|mago 
 01|05BB|05BB
 05|05F9|0581:28F9
 06|061B|057C:143A
@@ -84,69 +84,69 @@
 03|087D|0A0E
 03|0880|0A0B
 04|0888|025F
-02|088C|0030|Greetings stranger. I am called Beren, and you? 
-02|08D7|000B|My name is 
+02|088C|0030|Saudações estranho. Meu nome é Beren e você? 
+02|08D7|000B|Meu nome é 
 02|08EC|0001|.
-02|08F8|0014|It does not matter. 
-02|0910|0013|I cannot tell you. 
+02|08F8|0014|Isso não importa. 
+02|0910|0013|Eu não posso te contar. 
 04|094C|0028
-02|094F|000A|Well met, 
+02|094F|000A|Oi, 
 02|0963|0002|. 
 03|0974|0132
-02|0979|0014|It does not matter. 
+02|0979|0014|Isso não importa. 
 04|0992|0038
-02|0995|002D|As you say. It does not matter to me either. 
+02|0995|002D|Como você diz. Isso também não importa para mim. 
 03|09CA|00DC
-02|09CF|0013|I cannot tell you. 
+02|09CF|0013|Eu não posso te contar. 
 04|09E7|0054
-02|09EA|0049|Interesting, you wish to remain a mystery. I like mysteries, to a point. 
+02|09EA|0049|Interessante, você deseja permanecer um mistério. Gosto de mistérios, até certo ponto. 
 03|0A3B|006B
-02|0A3E|0063|I see. Perhaps the question was a little too intellectual for you. Ah, well. It matters not to me. 
-02|0AAB|001C|And what do you seek of me? 
+02|0A3E|0063|Eu vejo. Talvez a pergunta tenha sido um pouco intelectual demais para você. Ah bem. Isso não importa para mim. 
+02|0AAB|001C|E o que você procura de mim? 
 03|0AE7|07A4
 04|0AFC|01DB
 04|0B03|00FC
 04|0B09|0039
-02|0B0C|0005|Yes, 
-02|0B1B|001E|, is there something you want?
+02|0B0C|0005|Sim, 
+02|0B1B|001E|, há algo que você quer?
 03|0B42|00BA
 04|0B4A|0050
-02|0B4D|0039|Alas, never to have a moment of peace. What do you want, 
+02|0B4D|0039|Infelizmente, nunca ter um momento de paz. O que você quer, 
 02|0B90|0001|?
 03|0B9A|0062
-02|0B9D|001A|Did you forget something, 
-02|0BC1|0035|? It does tend to happen when the mind is over-taxed.
+02|0B9D|001A|Você esqueceu alguma coisa, 
+02|0BC1|0035|? Isso tende a acontecer quando a mente está sobrecarregada.
 03|0BFF|00D5
 04|0C05|002D
-02|0C08|0022|Yes, is there something you want? 
+02|0C08|0022|Sim, há algo que você deseja? 
 03|0C32|00A2
 04|0C3A|0044
-02|0C3D|0039|Alas, never to have a moment of peace. What do you want? 
+02|0C3D|0039|Infelizmente, nunca ter um momento de paz. O que você quer? 
 03|0C7E|0056
-02|0C81|004E|Did you forget something? It does tend to happen when the mind is over-taxed. 
+02|0C81|004E|Você esqueceu alguma coisa? Isso tende a acontecer quando a mente está sobrecarregada. 
 03|0CD7|05A3
 04|0CE1|036D
 04|0CE8|01BA
 04|0CEE|0078
-02|0CF1|0061|I believe you have over-stayed your welcome. Unwanted guests are not treated with kindness here, 
+02|0CF1|0061|Eu acredito que você demorou demais para ser bem-vindo. Hóspedes indesejados não são tratados com gentileza aqui, 
 02|0D5C|0001|.
 03|0D66|0139
 04|0D6E|004B
-02|0D71|0040|My patience is at an end. Whatever you want, be quick about it. 
+02|0D71|0040|Minha paciência está no fim. O que você quiser, seja rápido. 
 03|0DB9|00E6
-02|0DBC|003D|This is unbearable. Have you never heard of polite behavior, 
-02|0E03|0096|? It has the wonderful benefit of allowing differing peoples to exist together harmoniously. The alternative is strife. You seem to choose the latter.
+02|0DBC|003D|Isso é insuportável. Você nunca ouviu falar de comportamento educado, 
+02|0E03|0096|? Tem o maravilhoso benefício de permitir que diferentes povos coexistam harmoniosamente. A alternativa é o conflito. Você parece escolher o último.
 03|0EA2|01A9
 04|0EA8|0076
-02|0EAB|006B|I believe you have over-stayed your welcome. Unwanted guests are not treated with kindness here, stranger. 
+02|0EAB|006B|Eu acredito que você demorou demais para ser bem-vindo. Convidados indesejados não são tratados com gentileza aqui, estranho. 
 03|0F1E|012D
 04|0F26|004B
-02|0F29|0040|My patience is at an end. Whatever you want, be quick about it. 
+02|0F29|0040|Minha paciência está no fim. O que você quiser, seja rápido. 
 03|0F71|00DA
-02|0F74|00D2|This is unbearable. Have you never heard of polite behavior? It has the wonderful benefit of allowing differing peoples to exist together harmoniously. The alternative is strife. You seem to choose the latter. 
+02|0F74|00D2|Isso é insuportável. Você nunca ouviu falar em comportamento educado? Tem o maravilhoso benefício de permitir que diferentes povos coexistam harmoniosamente. A alternativa é o conflito. Você parece escolher o último. 
 03|104E|022C
 04|1058|00A2
-02|105C|007C|I will now give you the most important lesson of your life. Learn it well, I'll only be able to teach it to you once, fool! 
+02|105C|007C|Agora vou lhe dar a lição mais importante da sua vida. Aprenda bem, só poderei te ensinar uma vez, idiota! 
 03|10F7|0194
 03|10FA|0180
 04|1101|0089
@@ -154,760 +154,760 @@
 02|110A|0004|Ah, 
 02|1118|0002|. 
 04|1128|002E
-02|112B|0016|Greetings once again, 
+02|112B|0016|Saudações mais uma vez, 
 02|114B|0002|. 
 03|1156|0031
-02|1159|0016|What brings you here, 
+02|1159|0016|O que te traz aqui, 
 02|117E|0002|? 
 03|118A|0084
 04|1190|0022
-02|1193|001A|Ah, the stranger returns. 
+02|1193|001A|Ah, o estranho retorna. 
 04|11BA|0021
-02|11BD|0016|Greetings once again. 
+02|11BD|0016|Saudações mais uma vez. 
 03|11DB|0033
-02|11DE|0016|What brings you here, 
-02|11FE|000A|stranger? 
+02|11DE|0016|O que te traz aqui, 
+02|11FE|000A|estranho? 
 04|121F|002A
-02|1224|001C|How may I be of assistance? 
+02|1224|001C|Como posso ajudar? 
 03|1249|0031
 04|1251|0029
-02|1256|001B|And what can I do for you? 
+02|1256|001B|E o que posso fazer por você? 
 01|1296|1296
 04|12B2|0293
 04|12B9|0158
 04|12BF|0051
-02|12C3|002C|Your manners could do with some refinement, 
+02|12C3|002C|Suas maneiras precisam de algum refinamento, 
 02|12F9|0001|.
 03|1310|00FE
 04|1318|0064
-02|131C|004B|I am a Sorcerer. If you cannot adress me as such, do not adress me at all. 
+02|131C|004B|Eu sou um Feiticeiro. Se você não pode se dirigir a mim dessa forma, não se dirija a mim de forma alguma. 
 03|137C|0092
-02|1380|0018|Until you can be civil, 
-02|13A2|0059|, I suggest that you do not speak to me. I have been known to lose my temper on occasion.
+02|1380|0018|Até que você possa ser civilizado, 
+02|13A2|0059|, sugiro que você não fale comigo. Sou conhecido por perder a paciência de vez em quando.
 03|1411|0131
 04|1417|0045
-02|141B|002C|Your manners could do with some refinement. 
+02|141B|002C|Suas maneiras precisam de algum refinamento. 
 03|145C|00E6
 04|1464|0064
-02|1468|004B|I am a Sorcerer. If you cannot adress me as such, do not adress me at all. 
+02|1468|004B|Eu sou um Feiticeiro. Se você não pode se dirigir a mim dessa forma, não se dirija a mim de forma alguma. 
 03|14C8|007A
-02|14CC|0064|Until you can be civil, I suggest that you do not speak to me. I have been known to lose my temper. 
+02|14CC|0064|Até que você seja civilizado, sugiro que não fale comigo. Sou conhecido por perder a paciência. 
 03|1545|050C
 04|154F|0348
 04|1556|01B5
 04|155C|005A
-02|1560|0022|You have a simple choice to make, 
-02|158C|0014|. Leave here or die.
+02|1560|0022|Você tem uma escolha simples a fazer, 
+02|158C|0014|. Saia daqui ou morra.
 03|15B6|0152
 04|15BE|007E
-02|15C2|003F|Do you seek death? If so, you are dealing with the right mage, 
-02|160B|001B|. I will gladly oblige you.
+02|15C2|003F|Você busca a morte? Se sim, você está lidando com o mago certo, 
+02|160B|001B|. Terei prazer em atendê-lo.
 03|163C|00CC
-02|1640|0030|You are like the torax, being led to slaughter, 
-02|167A|007B|. Except that you should have the reasoning to avoid it. I suggest that you think carefully before we resume our discourse.
+02|1640|0030|Você é como o tórax, sendo levado ao matadouro, 
+02|167A|007B|. Exceto que você deve ter o raciocínio para evitá-lo. Sugiro que você pense cuidadosamente antes de retomarmos nosso discurso.
 03|170B|0189
 04|1711|004E
-02|1715|0035|You have a simple choice to make. Leave here or die. 
+02|1715|0035|Você tem uma escolha simples a fazer. Saia daqui ou morra. 
 03|175F|0135
 04|1767|0072
-02|176B|0059|Do you seek death? If so, you are dealing with the right mage. I will gladly oblige you. 
+02|176B|0059|Você busca a morte? Se sim, você está lidando com o mago certo. Terei prazer em atendê-lo. 
 03|17D9|00BB
-02|17DD|00A5|You are like the torax, being led to slaughter. Except you should have the reasoning to avoid it. I suggest that you think carefully before we resume our discourse. 
+02|17DD|00A5|Você é como o tórax, sendo levado ao matadouro. Exceto que você deve ter o raciocínio para evitá-lo. Sugiro que você pense cuidadosamente antes de retomarmos nosso discurso. 
 03|1897|01BA
 04|189E|00ED
 04|18A4|002A
-02|18A7|000A|Farewell, 
+02|18A7|000A|Até a próxima, 
 02|18BB|0001|.
 03|18CE|00BA
 04|18D6|0050
-02|18DA|002B|I will see you anon. Fare well until then, 
+02|18DA|002B|Te vejo em breve. Passe bem até então, 
 02|190F|0001|.
 03|1926|0062
-02|192A|0040|Adeus! Que o Fogo de Pyros sempre queime intensamente dentro de voce, 
+02|192A|0040|Adeus. Que o Fogo de Pyros sempre queime intensamente dentro de você, 
 02|1974|0001|.
 03|198B|00C6
 04|1991|001E
-02|1994|000A|Farewell. 
+02|1994|000A|Até a próxima. 
 03|19AF|00A2
 04|19B7|0044
-02|19BB|002B|I will see you anon. Fare well until then. 
+02|19BB|002B|Vejo você em breve. Passe bem até então. 
 03|19FB|0056
-02|19FF|0040|Adeus! Que o Fogo de Pyros sempre queime intensamente dentro de voce. 
+02|19FF|0040|Adeus. Que o Fogo de Pyros sempre queime intensamente dentro de você. 
 01|1A56|1A56
 04|1A72|0149
 04|1A79|00AD
 04|1A7F|0048
-02|1A83|0023|I tire of our dicussion. Farewell, 
+02|1A83|0023|Estou cansado da nossa discussão. Até a próxima, 
 02|1AB0|0001|.
 03|1AC7|005C
 04|1ACF|0054
-02|1AD3|002F|Come back when you really wish to speak to me, 
+02|1AD3|002F|Volte quando você realmente quiser falar comigo, 
 02|1B0C|0001|.
 03|1B26|0092
 04|1B2C|003C
-02|1B30|0023|I tire of our dicussion. Farewell. 
+02|1B30|0023|Estou cansado da nossa discussão. Até a próxima. 
 03|1B68|0050
 04|1B70|0048
-02|1B74|002F|Come back when you really wish to speak to me. 
+02|1B74|002F|Volte quando realmente quiser falar comigo. 
 03|1BBB|0411
 04|1BC5|0275
 04|1BCC|0143
 04|1BD2|00A3
-02|1BD6|001E|Your perceptions are shallow, 
-02|1BFE|0061|, if you cannot see that you approach the point at which I will cease to tolerate your existence.
+02|1BD6|001E|Suas percepções são superficiais, 
+02|1BFE|0061|, se você não consegue perceber que está se aproximando do ponto em que deixarei de tolerar sua existência.
 03|1C75|0097
 04|1C7D|008F
-02|1C81|006A|If you were to die at this point, I do not believe there would be anyone to mourn your passing. Farewell, 
+02|1C81|006A|Se você morresse neste momento, não acredito que haveria alguém para lamentar sua morte. Até a próxima, 
 02|1CF5|0001|.
 03|1D0F|0128
 04|1D15|0097
-02|1D19|007E|Your perceptions are shallow, if you cannot see that you approach the point at which I will cease to tolerate your existence. 
+02|1D19|007E|Suas percepções são superficiais, se você não consegue perceber que está se aproximando do ponto em que deixarei de tolerar sua existência. 
 03|1DAC|008B
 04|1DB4|0083
-02|1DB8|006A|If you were to die at this point, I do not believe there would be anyone to mourn your passing. Farewell. 
+02|1DB8|006A|Se você morresse neste momento, não acredito que haveria alguém para lamentar sua morte. Até a próxima. 
 03|1E3A|0192
 04|1E41|00D3
 04|1E47|005A
-02|1E4B|0035|Please do return when you wish to discuss something, 
+02|1E4B|0035|Por favor, retorne quando desejar discutir algo, 
 02|1E8A|0001|.
 03|1EA1|0070
 04|1EA9|0068
-02|1EAD|002C|If I can be of assistance to you in future, 
-02|1EE3|0018|, don't hesitate to ask.
+02|1EAD|002C|Se eu puder ajudá-lo no futuro, 
+02|1EE3|0018|, não hesite em perguntar.
 03|1F14|00B8
 04|1F1A|004E
-02|1F1E|0035|Please do return when you wish to discuss something. 
+02|1F1E|0035|Por favor, retorne quando desejar discutir algo. 
 03|1F68|0064
 04|1F70|005C
-02|1F74|0043|If I can be of assistance to you in future, don't hesitate to ask. 
+02|1F74|0043|Se eu puder ajudá-lo no futuro, não hesite em perguntar. 
 01|1FD1|1FD1
-02|1FE6|0029|I am a stranger here, please forgive me. 
-02|2013|001B|Did I say something wrong? 
+02|1FE6|0029|Eu sou um estranho aqui, por favor, me perdoe. 
+02|2013|001B|Eu disse algo errado? 
 04|2040|003D
-02|2043|002B|If I want your opinion, I'll give you one. 
+02|2043|002B|Se eu quiser sua opinião, eu lhe darei uma. 
 03|207D|0053
 04|2087|002F
-02|208A|001D|You are beneath my contempt. 
+02|208A|001D|Você está abaixo do meu desprezo. 
 03|20CD|10E8
-02|20D3|000B|Nevermind. 
-02|20EF|000B|Nevermind. 
+02|20D3|000B|Deixa para lá. 
+02|20EF|000B|Deixa para lá. 
 04|2100|10B5
-02|211E|0029|I am a stranger here, please forgive me. 
+02|211E|0029|Eu sou um estranho aqui, por favor, me perdoe. 
 04|214C|0056
-02|2150|0024|Forgiven. What can I help you with? 
+02|2150|0024|Perdoado. Com o que posso ajudar? 
 06|2192|0420:3856
 03|219F|1016
 03|21A2|1010
-02|21A7|001B|Did I say something wrong? 
+02|21A7|001B|Eu disse algo errado? 
 04|21C7|0054
-02|21CB|0038|Did you say something right? Farewell, O' Confused One. 
+02|21CB|0038|Você disse algo certo? Adeus, ó Confuso. 
 03|2218|0F9D
 03|221B|0F97
-02|2220|001D|You are beneath my contempt. 
+02|2220|001D|Você está abaixo do meu desprezo. 
 04|2242|0136
-02|2246|0097|-Me-? Beneath -your- contempt? I don't believe I've ever been spoken to that way. How refreshing. But, I can't let this go unpunished, you understand. 
-02|22FD|0026|Get used to being spoken to that way. 
-02|2327|001C|I understand no such thing. 
-02|2347|0026|I'm sorry, I really meant no offense. 
+02|2246|0097|-Meu-? Por baixo do seu desprezo? Não acredito que já tenham falado assim comigo. Que refrescante. Mas não posso deixar isso impune, você entende. 
+02|22FD|0026|Acostume-se a ser falado dessa maneira. 
+02|2327|001C|Eu não entendo nada disso. 
+02|2347|0026|Me desculpe, eu realmente não quis ofender. 
 03|2378|0E3A
-02|237D|002B|If I want your opinion, I'll give you one. 
+02|237D|002B|Se eu quiser sua opinião, eu lhe darei uma. 
 04|23AD|009B
-02|23B1|0074|And if I want yours, I'll burn it out of you! If you ever speak to me again, I won't be responsible for my actions. 
+02|23B1|0074|E se eu quiser o seu, vou queimá-lo de você! Se você falar comigo novamente, não serei responsável por minhas ações. 
 03|2445|0D70
 03|2448|0D6A
-02|244D|0026|Get used to being spoken to that way. 
+02|244D|0026|Acostume-se a ser falado dessa maneira. 
 04|2478|00B1
-02|247C|008B|No, I don't think I ever will. And you won't get used to speaking to me that way, or any way, for that matter.* Now, be so kind as to die! 
+02|247C|008B|Não, acho que nunca irei. E você não vai se acostumar a falar comigo desse jeito, ou de qualquer jeito, aliás.* Agora, tenha a gentileza de morrer! 
 03|2526|0C8F
 03|2529|0C89
-02|252E|001C|I understand no such thing. 
+02|252E|001C|Eu não entendo nada disso. 
 04|254F|0093
-02|2553|006D|Well, with your limited understanding, I can see how that might be.*Nevertheless,... I must now destroy you. 
+02|2553|006D|Bem, com sua compreensão limitada, posso ver como isso pode ser.*No entanto,... devo agora destruir você. 
 03|25DF|0BD6
 03|25E2|0BD0
-02|25E7|0026|I'm sorry, I really meant no offense. 
+02|25E7|0026|Me desculpe, eu realmente não quis ofender. 
 04|2612|0182
-02|2616|00D9|What a shame. I am truly sorry for you. For I cannot allow your actions to remain unanswered. If I were to forgive this heinous crime, the people of Tenebrae would think us weak. We can't let that happen, now can we? 
-02|2704|0011|No, I guess not. 
-02|2719|000D|Yes! We can! 
-02|272A|002B|What crime? You -are- beneath my contempt. 
-02|2759|0030|You pitiful excuse for a mage! Kneel before me. 
+02|2616|00D9|Que pena. Eu realmente sinto muito por você. Pois não posso permitir que suas ações permaneçam sem resposta. Se eu perdoasse este crime hediondo, o povo de Tenebrae nos consideraria fracos. Não podemos deixar isso acontecer, não é mesmo? 
+02|2704|0011|Não, acho que não. 
+02|2719|000D|Sim! Pudermos! 
+02|272A|002B|Que crime? Você está abaixo do meu desprezo. 
+02|2759|0030|Sua desculpa lamentável para um mago! Ajoelhe-se diante de mim. 
 03|2794|0A1E
-02|2799|0011|No, I guess not. 
+02|2799|0011|Não, acho que não. 
 04|27AF|00FD
-02|27B3|007C|I'm glad to see that you're taking this so well. Strangely rational for you. Perhaps you're not such a bad sort, after all. 
-02|2844|0011|No. I really am. 
-02|2859|0017|Must we really battle? 
-02|2874|002D|Thank you. It is sad to have to die, though. 
+02|27B3|007C|Fico feliz em ver que você está aceitando isso tão bem. Estranhamente racional para você. Talvez você não seja tão ruim assim, afinal. 
+02|2844|0011|Não. Estou mesmo. 
+02|2859|0017|Devemos realmente lutar? 
+02|2874|002D|Obrigado. É triste ter que morrer, no entanto. 
 03|28AC|0906
-02|28B1|000D|Yes! We can! 
+02|28B1|000D|Sim! Pudermos! 
 04|28C3|00C0
-02|28C7|009A|No, I'm afraid we can't. And stop simpering like that. I just can't tolerate weakness in others.*Now then, It's time for your sad life to end... Goodbye. 
+02|28C7|009A|Não, receio que não possamos. E pare de sorrir assim. Eu simplesmente não consigo tolerar a fraqueza dos outros.* Agora, é hora de sua triste vida acabar... Adeus. 
 03|2980|0835
 03|2983|082F
-02|2988|002B|What crime? You -are- beneath my contempt. 
+02|2988|002B|Que crime? Você está abaixo do meu desprezo. 
 04|29B8|0051
-02|29BC|002B|And for that, you will pay with your life! 
+02|29BC|002B|E por isso você pagará com a vida! 
 03|2A06|07AF
 03|2A09|07A9
-02|2A0E|0030|You pitiful excuse for a mage! Kneel before me. 
+02|2A0E|0030|Sua desculpa lamentável para um mago! Ajoelhe-se diante de mim. 
 04|2A43|0045
-02|2A47|001F|Alright, that's it. -You- die! 
+02|2A47|001F|Tudo bem, é isso. -Você morre! 
 03|2A85|0730
 03|2A88|072A
-02|2A8D|0011|No. I really am. 
+02|2A8D|0011|Não. Estou mesmo. 
 04|2AA3|0098
-02|2AA7|0072|I am also glad to see that you face your death with some humor. I for one would not. Prepare yourself for battle! 
+02|2AA7|0072|Também fico feliz em ver que você enfrenta sua morte com algum humor. Eu, pelo menos, não faria isso. Prepare-se para a batalha! 
 03|2B38|067D
 03|2B3B|0677
-02|2B40|0017|Must we really battle? 
+02|2B40|0017|Devemos realmente lutar? 
 04|2B5C|003A
-02|2B60|0014|Yes, I'm afraid so. 
+02|2B60|0014|Sim, temo que sim. 
 03|2B93|0622
 03|2B96|061C
-02|2B9B|002D|Thank you. It is sad to have to die, though. 
+02|2B9B|002D|Obrigado. É triste ter que morrer, no entanto. 
 04|2BCD|00C0
-02|2BD1|0062|Perhaps you won't... It is possible, however unlikely, that you might defeat me. Don't you think? 
-02|2C48|0018|No, you are a Sorcerer. 
-02|2C64|001E|Yes, I suppose your're right! 
+02|2BD1|0062|Talvez você não consiga... É possível, embora improvável, que você me derrote. Você não acha? 
+02|2C48|0018|Não, você é um Feiticeiro. 
+02|2C64|001E|Sim, suponho que você esteja certo! 
 03|2C8D|0525
-02|2C92|0018|No, you are a Sorcerer. 
+02|2C92|0018|Não, você é um Feiticeiro. 
 04|2CAF|00DD
-02|2CB3|004B|I suppose you're right. Well, that's no challenge. What do you want of me? 
-02|2D13|001D|Aren't you going to kill me? 
-02|2D34|001A|Umm... Nothing right now. 
-02|2D52|0029|Wait, I thought we were going to battle! 
+02|2CB3|004B|Suponho que você esteja certo. Bem, isso não é um desafio. O que você quer de mim? 
+02|2D13|001D|Você não vai me matar? 
+02|2D34|001A|Hum... Nada agora. 
+02|2D52|0029|Espere, pensei que íamos lutar! 
 03|2D8C|0426
-02|2D91|001E|Yes, I suppose your're right! 
+02|2D91|001E|Sim, suponho que você esteja certo! 
 04|2DB4|00E7
-02|2DB8|0055|I have a habit of doing that. Being right I mean. Anyway, What did you want, anyway? 
-02|2E22|001D|Aren't you going to kill me? 
-02|2E43|001A|Umm... Nothing right now. 
-02|2E61|0029|Wait, I thought we were going to battle! 
+02|2DB8|0055|Eu tenho o hábito de fazer isso. Estar certo, quero dizer. Enfim, o que você queria, afinal? 
+02|2E22|001D|Você não vai me matar? 
+02|2E43|001A|Hum... Nada agora. 
+02|2E61|0029|Espere, pensei que íamos lutar! 
 03|2E9B|0317
-02|2EA0|001D|Aren't you going to kill me? 
+02|2EA0|001D|Você não vai me matar? 
 04|2EC2|01FA
-02|2EC6|0049|Well I was, but I have reconsidered. Unless you want me to, of course... 
+02|2EC6|0049|Bem, eu estava, mas reconsiderei. A menos que você queira, é claro... 
 06|2F2A|0581:1AD0
 04|2F40|0068
-02|2F44|003C|Very well, then. I grant your wish. Prepare for your death. 
+02|2F44|003C|Muito bem, então. Eu concedo seu desejo. Prepare-se para sua morte. 
 03|2FA5|0210
 03|2FA8|0111
 04|2FB0|0066
-02|2FB4|003A|I didn't think so. Now, then. With what may I assist you? 
+02|2FB4|003A|Eu não pensei assim. Agora, então. Em que posso ajudá-lo? 
 06|3006|0420:3856
 03|3013|01A2
 03|3016|00A3
-02|301A|007A|I do not like to be ignored, and if you're not ignoring me, you are slow-witted. I do not like slow-witted people either. 
+02|301A|007A|Não gosto de ser ignorado, e se você não está me ignorando, você é tolo. Também não gosto de pessoas de raciocínio lento. 
 03|30B9|00FC
 03|30BC|00F6
-02|30C1|0029|Wait, I thought we were going to battle! 
+02|30C1|0029|Espere, pensei que íamos lutar! 
 04|30EF|0045
-02|30F3|0019|So we were. Have at you! 
+02|30F3|0019|Então nós éramos. Tenha em você! 
 03|3131|0084
 03|3134|007E
-02|3139|001A|Umm... Nothing right now. 
+02|3139|001A|Hum... Nada agora. 
 06|315E|0420:1296
 03|316B|004A
 03|316E|0044
-02|3173|000A|Nevermind.
+02|3173|000A|Deixa para lá.
 06|31A5|0420:1A56
 03|31B5|EF35
 01|31C2|31C2
 05|31CE|0581:1A85
 04|31DF|024E
 04|31E7|0124
-02|31EB|010B|I know that you have no idea what you have done, but let me tell you. You have allowed Vardion to destroy one of the most powerful, resourceful, and beautiful Sorcerers this isle has ever known. I shall never forgive you for it, even though Malchir has. Leave me be. 
+02|31EB|010B|Eu sei que você não tem ideia do que fez, mas deixe-me contar. Você permitiu que Vardion destruísse um dos feiticeiros mais poderosos, engenhosos e belos que esta ilha já conheceu. Eu nunca vou te perdoar por isso, embora Malchir o tenha feito. Deixe-me em paz. 
 03|330B|0114
 04|3315|0071
-02|3319|0058|Go! You have killed my closest comrade! What else would you have of me? Leave me alone! 
+02|3319|0058|Ir! Você matou meu camarada mais próximo! O que mais você teria de mim? Me deixe em paz! 
 03|3386|0099
 04|3390|0085
-02|3394|006C|If you speak to me again, I shall allow you to feel the agony that you visited upon my lover! Leave or die! 
+02|3394|006C|Se você falar comigo novamente, permitirei que sinta a agonia que causou ao meu amante! Saia ou morra! 
 03|342D|0269
 04|3433|007A
-02|3437|0061|Now that you have joined us, you should busy yourself learning as much as you can about Sorcery. 
+02|3437|0061|Agora que você se juntou a nós, você deve se ocupar aprendendo o máximo que puder sobre Feitiçaria. 
 03|34AD|0184
 04|34B5|008C
-02|34B9|0073|I must commend you on destroying that lumbering torax, Vardion. He would have driven the Sorcerers into obscurity. 
+02|34B9|0073|Devo parabenizá-lo por destruir aquele tórax pesado, Vardion. Ele teria levado os Feiticeiros à obscuridade. 
 03|3541|00F0
 04|354B|0072
-02|354F|0059|I am sure that there is something you should be doing. Run along now, I have much to do. 
+02|354F|0059|Tenho certeza de que há algo que você deveria estar fazendo. Corra agora, tenho muito o que fazer. 
 03|35BD|0074
-02|35C1|005E|Prepare well for the Trials of the Obsidian Fortress. You cannot leave once you have entered. 
-02|3635|004F|I have no time to speak at the moment, matters press upon my time... Farewell. 
+02|35C1|005E|Prepare-se bem para as Provações da Fortaleza Obsidiana. Você não pode sair depois de entrar. 
+02|3635|004F|Não tenho tempo para falar no momento, os assuntos pressionam meu tempo... Adeus. 
 01|369B|369B
 06|36B3|057C:15E7
 04|36C7|00C5
-02|36CB|00A6|Whatever you need, Master, please take with my blessings. I will not disturb you unless you have need of my presence. Until then, I shall remain your humble servant. 
+02|36CB|00A6|Tudo o que você precisar, Mestre, por favor, leve com minhas bênçãos. Não vou incomodá-lo, a menos que precise da minha presença. Até então, continuarei sendo seu humilde servo. 
 03|378C|0091
-02|3790|007B|I would not presume to speak to you unless I had something worthy of discussion. As I do not, I will bother you no longer. 
+02|3790|007B|Eu não teria a pretensão de falar com você a menos que tivesse algo digno de discussão. Como não o faço, não vou mais incomodá-lo. 
 06|3828|0581:1C19
 06|3845|057C:15E7
 01|3856|3856
 04|3884|14D4
 03|3897|0011
-02|389A|0009|stranger 
-02|38AB|000A|Farewell. 
+02|389A|0009|estranho 
+02|38AB|000A|Até a próxima. 
 04|38C5|001F
-02|38C8|000D|Who are you? 
+02|38C8|000D|Quem é você? 
 03|38E4|0117
 04|38EC|0027
-02|38EF|0015|What do you do here? 
+02|38EF|0015|O que você faz aqui? 
 03|3913|00E8
 04|3925|00BA
-02|3929|0045|Now then. Where were we? Let's start from the top. Why are you here? 
-02|3983|0018|Why are any of us here? 
-02|399F|0016|Because I wish to be! 
-02|39B9|001B|I have been banished here. 
+02|3929|0045|Agora, então. Onde nós estávamos? Vamos começar do topo. Por quê você está aqui? 
+02|3983|0018|Por que algum de nós está aqui? 
+02|399F|0016|Porque eu desejo ser! 
+02|39B9|001B|Fui banido aqui. 
 03|39DF|001C
-02|39E2|000D|How are you? 
-02|3A00|000A|Farewell. 
+02|39E2|000D|Como vai você? 
+02|3A00|000A|Até a próxima. 
 04|3A10|1345
 05|3A15|0581:29B4
 04|3A22|00C7
-02|3A26|002A|If there is aught else you would discuss? 
-02|3A65|000A|Farewell. 
+02|3A26|002A|Se houver mais alguma coisa que você gostaria de discutir? 
+02|3A65|000A|Até a próxima. 
 04|3A7F|001F
-02|3A82|000D|Who are you? 
+02|3A82|000D|Quem é você? 
 03|3A9E|004B
 04|3AA6|0027
-02|3AA9|0015|What do you do here? 
+02|3AA9|0015|O que você faz aqui? 
 03|3ACD|001C
-02|3AD0|000D|How are you? 
-02|3AEC|000A|Farewell. 
+02|3AD0|000D|Como vai você? 
+02|3AEC|000A|Até a próxima. 
 05|3AFC|0581:3695
-02|3B27|000D|Who are you? 
+02|3B27|000D|Quem é você? 
 04|3B39|0309
 04|3B41|0269
-02|3B45|0020|My name is Beren. And yours is? 
-02|3B80|000C|I am called 
+02|3B45|0020|Meu nome é Berén. E o seu é? 
+02|3B80|000C|eu sou chamado 
 02|3B96|0001|.
-02|3BA2|0017|Call me what you like. 
-02|3BBD|0020|Nevermind that. What do you do? 
+02|3BA2|0017|Chame-me do que quiser. 
+02|3BBD|0020|Esqueça isso. O que você faz? 
 04|3C06|0050
-02|3C0A|000A|Well met, 
-02|3C1E|0013|. What do you want?
+02|3C0A|000A|Oi, 
+02|3C1E|0013|. O que você quer?
 03|3C56|0151
-02|3C5B|0017|Call me what you like. 
+02|3C5B|0017|Chame-me do que quiser. 
 04|3C77|0054
-02|3C7B|003B|Fine then. I shall call you... stranger. What do you want? 
+02|3C7B|003B|Tudo bem então. Vou te chamar de... estranho. O que você quer? 
 03|3CCB|00DC
-02|3CD0|0020|Nevermind that. What do you do? 
+02|3CD0|0020|Esqueça isso. O que você faz? 
 04|3CF5|009F
-02|3CF9|005E|Well, I can tell you one thing. I don't talk to nosy strangers who won't even give me a name. 
-02|3D6C|0009|Adeus 
+02|3CF9|005E|Bem, posso te dizer uma coisa. Não falo com estranhos intrometidos que nem sequer me dão um nome. 
+02|3D6C|0009|Adeus. 
 03|3D91|3B3F
 06|3D9A|0420:1A56
 03|3DA7|3B29
 03|3DAA|0028
-02|3DAE|0012|My name is Beren. 
-02|3DDD|000D|Who are you? 
+02|3DAE|0012|Meu nome é Berén. 
+02|3DDD|000D|Quem é você? 
 04|3DFC|0027
-02|3DFF|0015|What do you do here? 
+02|3DFF|0015|O que você faz aqui? 
 03|3E23|001C
-02|3E26|000D|How are you? 
+02|3E26|000D|Como vai você? 
 03|3E42|0EF7
-02|3E47|0015|What do you do here? 
+02|3E47|0015|O que você faz aqui? 
 04|3E61|0066
-02|3E65|000D|I am a mage. 
-02|3E89|0015|What do you do here? 
-02|3EAB|000D|How are you? 
+02|3E65|000D|Eu sou um mago. 
+02|3E89|0015|O que você faz aqui? 
+02|3EAB|000D|Como vai você? 
 03|3EC7|0E72
-02|3ECC|000D|How are you? 
+02|3ECC|000D|Como vai você? 
 04|3EDE|0400
 04|3EE6|031D
-02|3EEA|0052|I am fine. Now that you have asked your questions, it is my turn to ask you mine. 
+02|3EEA|0052|Estou bem. Agora que você fez suas perguntas, é a minha vez de fazer as minhas. 
 04|3F56|0220
-02|3F5A|0034|For what reason do you refuse to tell me your name? 
-02|3FA3|0010|No reason. I am 
+02|3F5A|0034|Por que motivo você se recusa a me dizer seu nome? 
+02|3FA3|0010|Sem motivo. Eu sou 
 02|3FBD|0001|.
-02|3FC9|0017|That is my own affair. 
-02|3FE4|0020|I don't talk to nosy strangers. 
+02|3FC9|0017|Esse é um assunto meu. 
+02|3FE4|0020|Não falo com estranhos intrometidos. 
 04|402D|006A
-02|4031|004B|Thank you. I appreciate your candor, even if it was not offered initially. 
+02|4031|004B|Obrigado. Agradeço sua franqueza, mesmo que não tenha sido oferecida inicialmente. 
 03|4097|00DF
-02|409C|0017|That is my own affair. 
+02|409C|0017|Esse é um assunto meu. 
 04|40B8|0053
-02|40BC|003A|I don't like your answer, but I will accept it, stranger. 
+02|40BC|003A|Não gosto da sua resposta, mas vou aceitá-la, estranho. 
 03|410B|006B
-02|4110|0020|I don't talk to nosy strangers. 
+02|4110|0020|Não falo com estranhos intrometidos. 
 04|4135|002E
-02|4138|000C|Then leave! 
+02|4138|000C|Então saia! 
 03|4160|3770
 06|4169|0420:1A56
 03|4176|375A
-02|417A|0012|Why are you here? 
-02|41A1|0018|Why are any of us here? 
-02|41BD|0016|Because I wish to be! 
-02|41D7|001B|I have been banished here. 
+02|417A|0012|Por quê você está aqui? 
+02|41A1|0018|Por que algum de nós está aqui? 
+02|41BD|0016|Porque eu desejo ser! 
+02|41D7|001B|Fui banido aqui. 
 03|4203|00D8
-02|4207|001C|As well as can be expected. 
-02|4239|007D|I really do have a lot on my mind. We have no business to conduct, so I see no reason why we should continue our discussion. 
+02|4207|001C|Tão bem quanto se pode esperar. 
+02|4239|007D|Eu realmente tenho muita coisa em mente. Não temos assuntos a tratar, por isso não vejo razão para continuarmos a nossa discussão. 
 06|42CE|0420:1296
 03|42DB|35F5
 03|42DE|0A5B
-02|42E3|0018|Why are any of us here? 
+02|42E3|0018|Por que algum de nós está aqui? 
 04|4300|0088
-02|4304|0048|Please. There is no reason for philosophizing. Just answer my question. 
-02|4363|0018|Why are any of us here? 
+02|4304|0048|Por favor. Não há razão para filosofar. Apenas responda minha pergunta. 
+02|4363|0018|Por que algum de nós está aqui? 
 03|4388|09B1
-02|438D|0016|Because I wish to be! 
+02|438D|0016|Porque eu desejo ser! 
 04|43A8|0091
-02|43AC|006A|Do not take that tone with me! Perhaps we will speak again when you can keep a civil tongue in your head. 
+02|43AC|006A|Não leve esse tom comigo! Talvez possamos conversar novamente quando você conseguir manter uma língua civilizada em sua cabeça. 
 03|4436|349A
 03|4439|0900
-02|443E|001B|I have been banished here. 
+02|443E|001B|Fui banido aqui. 
 04|445E|00AC
-02|4462|0026|Oh really? Who has banished you here? 
-02|449D|0020|An evil being of immense power. 
-02|44C1|0017|Why should I tell you? 
-02|44DC|0023|A big red guy called the Guardian. 
+02|4462|0026|Oh sério? Quem baniu você aqui? 
+02|449D|0020|Um ser maligno de imenso poder. 
+02|44C1|0017|Por que eu deveria te contar? 
+02|44DC|0023|Um grande cara ruivo chamado Guardião. 
 03|450A|082F
-02|450F|0020|An evil being of immense power. 
+02|450F|0020|Um ser maligno de imenso poder. 
 04|4534|00B9
-02|4538|0020|What is this evil being called? 
-02|456F|0020|An evil being of immense power. 
-02|4593|0023|A big red guy called the Guardian. 
-02|45C3|001B|He is called the Guardian. 
+02|4538|0020|Como é chamado esse mal? 
+02|456F|0020|Um ser maligno de imenso poder. 
+02|4593|0023|Um grande cara ruivo chamado Guardião. 
+02|45C3|001B|Ele é chamado de Guardião. 
 03|45ED|074C
-02|45F2|0017|Why should I tell you? 
+02|45F2|0017|Por que eu deveria te contar? 
 04|460E|0089
-02|4612|004A|Because, I hold your life in my hands like a kith holds its prey in silk. 
-02|4673|0017|Why should I tell you? 
+02|4612|004A|Porque eu seguro sua vida em minhas mãos como um kith segura sua presa em seda. 
+02|4673|0017|Por que eu deveria te contar? 
 03|4697|06A2
-02|469C|0023|A big red guy called the Guardian. 
+02|469C|0023|Um grande cara ruivo chamado Guardião. 
 04|46C4|00E5
-02|46C8|0081|If the Guardian has sent you here, then you are not banished, but blessed. The Guardian will protect you as he has protected us. 
-02|475E|0017|That's what scares me. 
-02|4779|001F|What do you mean by protected? 
+02|46C8|0081|Se o Guardião te enviou aqui, então você não está banido, mas abençoado. O Guardião protegerá você como nos protegeu. 
+02|475E|0017|Isso é o que me assusta. 
+02|4779|001F|O que você quer dizer com protegido? 
 03|47A9|0590
-02|47AE|001B|He is called the Guardian. 
+02|47AE|001B|Ele é chamado de Guardião. 
 04|47CE|00F6
-02|47D2|00A2|You speak blasphemy! The Guardian is the power that opposes the evil. When the Destroyer came, it was only through the Guardian's advice that we survived at all. 
-02|488B|001B|He is called the Guardian. 
+02|47D2|00A2|Você fala blasfêmia! O Guardião é o poder que se opõe ao mal. Quando o Destruidor chegou, foi apenas através do conselho do Guardião que sobrevivemos. 
+02|488B|001B|Ele é chamado de Guardião. 
 03|48C4|0475
-02|48C9|0017|That's what scares me. 
+02|48C9|0017|Isso é o que me assusta. 
 04|48E5|01EA
-02|48E9|0012|What did you say? 
-02|4912|0017|That's what scares me. 
-02|4936|0020|Do you think he cares about me. 
-02|495A|0014|Nothing, nevermind. 
-02|4994|0020|Do you think he cares about me. 
+02|48E9|0012|O que você disse? 
+02|4912|0017|Isso é o que me assusta. 
+02|4936|0020|Você acha que ele se importa comigo? 
+02|495A|0014|Nada, esquece. 
+02|4994|0020|Você acha que ele se importa comigo? 
 04|49B9|0084
-02|49BD|006B|Of course. The Guardian is the provider of all good things. It is he who protected us in our time of need. 
+02|49BD|006B|Claro. O Guardião é o provedor de todas as coisas boas. Foi ele quem nos protegeu em nossos momentos de necessidade. 
 03|4A3D|008F
-02|4A42|0014|Nothing, nevermind. 
+02|4A42|0014|Nada, esquece. 
 04|4A5B|005E
-02|4A5F|0045|I see. I could have sworn you said something, but it doesn't matter. 
+02|4A5F|0045|Eu vejo. Eu poderia jurar que você disse alguma coisa, mas não importa. 
 06|4ABF|0420:1A56
 03|4ACC|2E04
 03|4ACF|026A
-02|4AD4|001F|What do you mean by protected? 
+02|4AD4|001F|O que você quer dizer com protegido? 
 04|4AF8|01AE
 04|4AFF|0089
-02|4B03|0070|I am not a historian and since ours is dead, go to the library and search out the knowledge in the books there. 
+02|4B03|0070|Não sou historiador e como o nosso já morreu, vá até a biblioteca e busque o conhecimento nos livros de lá. 
 03|4B88|00ED
-02|4B8C|00D7|I am not a historian so I suggest you seek out Bentic, as he is very knowledgeable. Go to the library and search out the knowledge in the books there. I'm sure Bentic would just -love- to discuss the past with you. 
-02|4C7A|001F|What do you mean by protected? 
+02|4B8C|00D7|Não sou historiador, então sugiro que você procure Bentic, pois ele é muito conhecedor. Vá até a biblioteca e pesquise o conhecimento nos livros de lá. Tenho certeza de que Bentic adoraria discutir o passado com você. 
+02|4C7A|001F|O que você quer dizer com protegido? 
 03|4CA6|0093
-02|4CAB|000A|Farewell. 
+02|4CAB|000A|Até a próxima. 
 06|4CC0|0420:1296
 03|4CCD|006C
 02|4CD2|0000|
 04|4CD7|0025
 06|4CDD|0420:1A56
-02|4CEA|000A|Farewell. 
+02|4CEA|000A|Até a próxima. 
 03|4CFC|003D
-02|4D00|0027|I do not understand. What did you say? 
+02|4D00|0027|Eu não entendi. O que você disse? 
 04|4D40|0012
-02|4D43|000A|Farewell. 
+02|4D43|000A|Até a próxima. 
 03|4D55|ECA6
 03|4D58|2B78
-02|4D5B|000A|Farewell. 
+02|4D5B|000A|Até a próxima. 
 04|4D75|002D
-02|4D78|001E|What can you say of yourself? 
-02|4DA5|0017|Tell me of this place? 
-02|4DCD|000A|Farewell. 
+02|4D78|001E|O que você pode dizer de si mesmo? 
+02|4DA5|0017|Conte-me sobre esse lugar? 
+02|4DCD|000A|Até a próxima. 
 04|4DDD|2AF3
 05|4DE2|0581:29B4
 04|4DEF|00FF
-02|4DF3|0079|If there is naught else you would discuss, I would return to my studies... Is there anything you would speak on further? 
-02|4E81|000A|Farewell. 
+02|4DF3|0079|Se não houver mais nada que você queira discutir, eu voltarei aos meus estudos... Há mais alguma coisa que você gostaria de falar? 
+02|4E81|000A|Até a próxima. 
 04|4E9B|002D
-02|4E9E|001E|What can you say of yourself? 
-02|4ECB|0017|Tell me of this place? 
-02|4EF1|000A|Farewell. 
+02|4E9E|001E|O que você pode dizer de si mesmo? 
+02|4ECB|0017|Conte-me sobre esse lugar? 
+02|4EF1|000A|Até a próxima. 
 05|4F01|0581:3695
-02|4F2C|001E|What can you say of yourself? 
+02|4F2C|001E|O que você pode dizer de si mesmo? 
 04|4F4F|0CEB
-02|4F53|007A|I could as well ask you that question,... but I shall speak first. I am a Sorcerer, Acolyte of the Cabal. What do you do? 
-02|4FE2|000A|Farewell. 
+02|4F53|007A|Eu poderia muito bem fazer-lhe essa pergunta... mas falarei primeiro. Eu sou um Feiticeiro, Acólito da Cabala. O que você faz? 
+02|4FE2|000A|Até a próxima. 
 04|4FFA|0023
-02|4FFD|0014|What is a Sorcerer? 
-02|5020|0019|Tell me of the Acolytes. 
-02|503D|0019|The Cabal. What is that? 
-02|506B|0010|I am a warrior. 
-02|507F|001C|I seek to leave this place. 
-02|509F|0016|I cannot reveal that. 
-02|50DB|0010|I am a warrior. 
+02|4FFD|0014|O que é um Feiticeiro? 
+02|5020|0019|Conte-me sobre os Acólitos. 
+02|503D|0019|A Cabala. O que é aquilo? 
+02|506B|0010|Eu sou um guerreiro. 
+02|507F|001C|Procuro sair deste lugar. 
+02|509F|0016|Não posso revelar isso. 
+02|50DB|0010|Eu sou um guerreiro. 
 04|50F0|03C1
-02|50F4|0071|I could tell by the marks on your hands that you were familiar with weapons. Have you also an interest in magic? 
-02|517A|000B|Aye, I do. 
-02|5189|000F|Nay, I do not. 
-02|519C|001C|What magic do you speak of? 
-02|51C5|0006|Done. 
+02|50F4|0071|Pude perceber pelas marcas em suas mãos que você estava familiarizado com armas. Você também tem interesse em magia? 
+02|517A|000B|Sim, eu quero. 
+02|5189|000F|Não, eu não. 
+02|519C|001C|De que magia você fala? 
+02|51C5|0006|Feito. 
 04|51D1|02DD
-02|51EF|000B|Aye, I do. 
+02|51EF|000B|Sim, eu quero. 
 04|51FF|011C
-02|5203|0096|Then you have come to the right place to learn. I suggest you seek out Bane. She is the most knowledgeable Sorcerer I have had the privilege to know. 
+02|5203|0096|Então você veio ao lugar certo para aprender. Eu sugiro que você procure Bane. Ela é a Feiticeira mais experiente que tive o privilégio de conhecer. 
 04|52B1|0059
 04|52B9|0031
-02|52BC|001F|Who is this Bane you speak of? 
+02|52BC|001F|Quem é esse Bane de quem você fala? 
 03|52EA|0020
-02|52ED|0011|I have met Bane. 
-02|530D|0006|Done. 
+02|52ED|0011|Eu conheci Bane. 
+02|530D|0006|Feito. 
 03|531B|0190
-02|5320|000F|Nay, I do not. 
+02|5320|000F|Não, eu não. 
 04|5334|004D
-02|5338|0026|'Tis your loss then. More's the pity. 
-02|5373|0006|Done. 
+02|5338|0026|A perda é sua então. Mais é uma pena. 
+02|5373|0006|Feito. 
 03|5381|012A
-02|5386|001C|What magic do you speak of? 
+02|5386|001C|De que magia você fala? 
 04|53A7|00D4
-02|53AB|0070|Sorcery, of course. As a practitioner of the craft, I know of its immense power. Would you learn of it as well? 
-02|5430|0011|What is Sorcery? 
-02|5452|001C|What magic do you speak of? 
+02|53AB|0070|Feitiçaria, é claro. Como praticante do ofício, conheço seu imenso poder. Você aprenderia sobre isso também? 
+02|5430|0011|O que é feitiçaria? 
+02|5452|001C|De que magia você fala? 
 03|547B|0030
 06|5481|0420:1A56
-02|548E|0006|Done. 
-02|549C|000A|Farewell. 
+02|548E|0006|Feito. 
+02|549C|000A|Até a próxima. 
 03|54AE|FD12
 03|54B1|0786
-02|54B6|001C|I seek to leave this place. 
+02|54B6|001C|Procuro sair deste lugar. 
 04|54D7|0618
-02|54DB|0037|Do you? Why? Does our land or people displease you so? 
-02|5527|0017|Your people are cruel. 
-02|5542|001A|This land is unforgiving. 
-02|5560|0013|Both are contrary. 
-02|5577|002C|No, I would return to -my- land and people. 
-02|55C9|0017|Your people are cruel. 
+02|54DB|0037|Você? Por que? Nossa terra ou nosso povo te desagradam tanto? 
+02|5527|0017|Seu povo é cruel. 
+02|5542|001A|Esta terra é implacável. 
+02|5560|0013|Ambos são contrários. 
+02|5577|002C|Não, eu voltaria para minha terra e meu povo. 
+02|55C9|0017|Seu povo é cruel. 
 04|55E5|0051
-02|55E9|0038|The times are hard. I pray, do not judge us so harshly. 
+02|55E9|0038|Os tempos são difíceis. Eu oro para que não nos julgue tão severamente. 
 03|5636|04B6
-02|563B|001A|This land is unforgiving. 
+02|563B|001A|Esta terra é implacável. 
 04|565A|004B
-02|565E|0032|'Tis true, but we manage to survive, nonetheless. 
+02|565E|0032|'É verdade, mas mesmo assim conseguimos sobreviver. 
 03|56A5|0447
-02|56AA|0013|Both are contrary. 
+02|56AA|0013|Ambos são contrários. 
 04|56C2|009A
-02|56C6|0081|The times are hard. I pray, do not judge us so harshly. And as for the land... well, you are right. But we survive, nonetheless. 
+02|56C6|0081|Os tempos são difíceis. Eu oro para que não nos julgue tão severamente. E quanto à terra... bem, você está certo. Mas sobrevivemos, mesmo assim. 
 03|575C|0390
-02|5761|002C|No, I would return to -my- land and people. 
+02|5761|002C|Não, eu voltaria para minha terra e meu povo. 
 04|5792|0338
-02|5796|003E|An honorable goal. Perhaps we Sorcerers can be of assistance. 
-02|57E9|0008|How so? 
-02|57F5|000D|I think not. 
-02|5806|0019|I do not need your help. 
-02|5845|0008|How so? 
+02|5796|003E|Um gol honroso. Talvez nós, Feiticeiros, possamos ajudar. 
+02|57E9|0008|Como assim? 
+02|57F5|000D|Eu acho que não. 
+02|5806|0019|Eu não preciso de sua ajuda. 
+02|5845|0008|Como assim? 
 04|5852|00CD
-02|5856|0055|Seek out Bane. She will be able to help you. She is the most intellectual of us all. 
+02|5856|0055|Procure Bane. Ela poderá ajudá-lo. Ela é a mais intelectual de todos nós. 
 04|58C3|0059
 04|58CB|0031
-02|58CE|001F|Who is this Bane you speak of? 
+02|58CE|001F|Quem é esse Bane de quem você fala? 
 03|58FC|0020
-02|58FF|0011|I have met Bane. 
+02|58FF|0011|Eu conheci Bane. 
 03|591F|0107
-02|5924|000D|I think not. 
+02|5924|000D|Eu acho que não. 
 04|5936|00F0
-02|593A|0058|Give us a chance. I am sure that Bane can help you. She is wise in the ways of Sorcery. 
+02|593A|0058|Dê-nos uma chance. Tenho certeza de que Bane pode ajudá-lo. Ela é sábia nos caminhos da feitiçaria. 
 04|59AA|0059
 04|59B2|0031
-02|59B5|001F|Who is this Bane you speak of? 
+02|59B5|001F|Quem é esse Bane de quem você fala? 
 03|59E3|0020
-02|59E6|0011|I have met Bane. 
-02|5A06|0011|What is Sorcery? 
-02|5A2B|0019|I do not need your help. 
+02|59E6|0011|Eu conheci Bane. 
+02|5A06|0011|O que é feitiçaria? 
+02|5A2B|0019|Eu não preciso de sua ajuda. 
 04|5A49|005C
-02|5A4D|0026|Then you shall not have it. Farewell. 
-02|5A93|000A|Farewell. 
+02|5A4D|0026|Então você não o terá. Até a próxima. 
+02|5A93|000A|Até a próxima. 
 03|5AA5|0022
 06|5AAB|0420:1A56
-02|5AB8|000A|Farewell. 
+02|5AB8|000A|Até a próxima. 
 03|5ACA|0022
 06|5AD0|0420:1A56
-02|5ADD|000A|Farewell. 
+02|5ADD|000A|Até a próxima. 
 03|5AEF|0148
-02|5AF4|0016|I cannot reveal that. 
+02|5AF4|0016|Não posso revelar isso. 
 04|5B0F|0106
 04|5B17|009B
-02|5B1B|0082|Ah, so the mystery deepens. I ask only out of curiosity. But then I can curb my curiosity, as well as the information I give you. 
+02|5B1B|0082|Ah, então o mistério se aprofunda. Pergunto apenas por curiosidade. Mas então posso refrear a minha curiosidade, bem como as informações que lhe dou. 
 03|5BB2|0060
-02|5BB6|004A| Interesting, you wish to remain a mystery. I like mysteries, to a point. 
+02|5BB6|004A| Interessante, você deseja permanecer um mistério. Gosto de mistérios, até certo ponto. 
 03|5C15|0022
 06|5C1B|0420:1A56
-02|5C28|000A|Farewell. 
+02|5C28|000A|Até a próxima. 
 03|5C3A|1C7A
-02|5C3F|0017|Tell me of this place? 
+02|5C3F|0017|Conte-me sobre esse lugar? 
 04|5C5B|0106
-02|5C5F|0061|Of course. This is the Sorcerer's Enclave. It sits in Daemon's Crag, upon the isle of Morgaelin. 
-02|5CD5|0021|What can you say of the Enclave? 
+02|5C5F|0061|Claro. Este é o Enclave do Feiticeiro. Fica em Daemon's Crag, na ilha de Morgaelin. 
+02|5CD5|0021|O que você pode dizer do Enclave? 
 04|5D04|0023
-02|5D07|0014|What is a Sorcerer? 
-02|5D2A|0028|Tell me of Daemon's Crag and Morgaelin. 
+02|5D07|0014|O que é um Feiticeiro? 
+02|5D2A|0028|Conte-me sobre Daemon's Crag e Morgaelin. 
 03|5D61|1B53
-02|5D66|0014|What is a Sorcerer? 
+02|5D66|0014|O que é um Feiticeiro? 
 04|5D7F|0111
-02|5D83|005D|A Sorcerer is a practitioner of the magic of Sorcery. I am an Acolyte Sorcerer of the Cabal. 
-02|5DF5|000A|Farewell. 
+02|5D83|005D|Um Feiticeiro é um praticante da magia da Feitiçaria. Eu sou um Feiticeiro Acólito da Cabala. 
+02|5DF5|000A|Até a próxima. 
 04|5E0D|0020
-02|5E10|0011|What is Sorcery? 
+02|5E10|0011|O que é feitiçaria? 
 04|5E33|0028
-02|5E36|0019|Tell me of the Acolytes. 
+02|5E36|0019|Conte-me sobre os Acólitos. 
 04|5E61|0028
-02|5E64|0019|The Cabal. What is that? 
+02|5E64|0019|A Cabala. O que é aquilo? 
 03|5E90|1A24
-02|5E95|0019|Tell me of the Acolytes. 
+02|5E95|0019|Conte-me sobre os Acólitos. 
 04|5EB3|01E3
-02|5EB7|00B8|Well, there are four of us... Vardion, First Acolyte, Gorgrond, his faithful pet, Bane the Red, and myself. We are the ones that Master Malchir calls upon to aid in his great rituals. 
-02|5F84|000A|Farewell. 
+02|5EB7|00B8|Bem, somos quatro... Vardion, Primeiro Acólito, Gorgrond, seu fiel animal de estimação, Bane, o Vermelho, e eu. Somos nós que Mestre Malchir convoca para auxiliar em seus grandes rituais. 
+02|5F84|000A|Até a próxima. 
 04|5F9C|0034
-02|5F9F|0025|Tell me of Vardion and his position. 
-02|5FD3|0011|Who is Gorgrond. 
+02|5F9F|0025|Conte-me sobre Vardion e sua posição. 
+02|5FD3|0011|Quem é Gorgrond. 
 04|5FF6|0059
 04|5FFE|0031
-02|6001|001F|Who is this Bane you speak of? 
+02|6001|001F|Quem é esse Bane de quem você fala? 
 03|602F|0020
-02|6032|0011|I have met Bane. 
-02|6052|0017|Who is Master Malchir? 
-02|606D|001A|What rituals do you mean? 
+02|6032|0011|Eu conheci Bane. 
+02|6052|0017|Quem é Mestre Malchir? 
+02|606D|001A|Que rituais você quer dizer? 
 03|6096|181E
-02|609B|0019|The Cabal. What is that? 
+02|609B|0019|A Cabala. O que é aquilo? 
 04|60B9|0060
-02|60BD|001F|It is all Sorcerers, combined. 
-02|60F3|0019|The Cabal. What is that? 
+02|60BD|001F|São todos Feiticeiros, combinados. 
+02|60F3|0019|A Cabala. O que é aquilo? 
 03|6119|179B
-02|611E|001F|Who is this Bane you speak of? 
+02|611E|001F|Quem é esse Bane de quem você fala? 
 04|6142|00E4
-02|6146|0099|She is my mentor. I was taught of my power by her tender hand. It is to her that you should go for answers. I am a mere shadow of her abilities and wit. 
-02|61F6|001F|Who is this Bane you speak of? 
+02|6146|0099|Ela é minha mentora. Fui ensinado sobre meu poder por sua mão terna. É a ela que você deve buscar respostas. Sou uma mera sombra de suas habilidades e inteligência. 
+02|61F6|001F|Quem é esse Bane de quem você fala? 
 03|6226|168E
-02|622B|0011|I have met Bane. 
+02|622B|0011|Eu conheci Bane. 
 04|6241|00B8
-02|6245|007B|Ah, then you know of her intelligence, her beauty, and her power. She is like a guiding beacon in a dark and stormy night. 
-02|62D7|0011|I have met Bane. 
+02|6245|007B|Ah, então você conhece sua inteligência, sua beleza e seu poder. Ela é como um farol em uma noite escura e tempestuosa. 
+02|62D7|0011|Eu conheci Bane. 
 03|62F9|15BB
-02|62FE|0011|What is Sorcery? 
+02|62FE|0011|O que é feitiçaria? 
 04|6314|011A
-02|6318|00B2|Sorcery is the art and craft of Fire. The Element that I have come here to study. Pyros, the Lord of Flame, is a powerful force in this world, and I would partake of that power. 
-02|63DF|001D|Element of Fire. What is it? 
-02|6400|001F|Tell me of this Lord of Flame. 
+02|6318|00B2|A feitiçaria é a arte e o ofício do Fogo. O Elemento que vim estudar aqui. Pyros, o Senhor da Chama, é uma força poderosa neste mundo, e eu participaria desse poder. 
+02|63DF|001D|Elemento Fogo. O que é? 
+02|6400|001F|Conte-me sobre este Senhor da Chama. 
 03|642E|1486
-02|6433|0021|What can you say of the Enclave? 
+02|6433|0021|O que você pode dizer do Enclave? 
 04|6459|0076
-02|645D|002D|Naught of great import. It is where we live. 
-02|64A1|0021|What can you say of the Enclave? 
+02|645D|002D|Nada de grande importância. É onde moramos. 
+02|64A1|0021|O que você pode dizer do Enclave? 
 03|64CF|13E5
-02|64D4|0028|Tell me of Daemon's Crag and Morgaelin. 
+02|64D4|0028|Conte-me sobre Daemon's Crag e Morgaelin. 
 04|6501|0BA7
-02|6505|0086|Very well. Daemon's Crag is a lava-filled ravine, that flows from Mt. Morgaelin. This volcano is what the island takes its name from. 
-02|65A1|004D|There is a tale that tells of the forming of the volcano. Would you hear it? 
+02|6505|0086|Muito bem. Daemon's Crag é uma ravina cheia de lava que flui do Monte. Morgaelin. Este vulcão é o nome da ilha. 
+02|65A1|004D|Há uma história que conta a formação do vulcão. Você ouviria isso? 
 06|6609|0581:1AD0
 04|661F|0A03
-02|6623|00C7|Long ago, it is written, before Pagans warred with Zealans, a voice came to our people. He named himself the Guardian, and spoke of a time when a great Destroyer would come, bringing despair to all. 
-02|6700|00D3|The Guardian showed our ancestors how to make our Elements into Titanic forces that could defeat this Destroyer. They sacrificed and gave adoration to the Elements at a temple built on the top of this mountain. 
-02|67E9|010C|A great black obelisk was built there, and the Elements grew in power. At long last, the day came... The Day of the Destroyer. The Guardian warned our people that they must leave the temple. That the battle between the Destroyer and the Titans would take place there. 
-02|690B|00D5|So they fled into the forests around. Huge, glowing yellow eyes appeared in the sky above the mountain then. Surrounding them, a face of red. Manlike in form, his body came into being, but red as his face it was. 
-02|69F6|00B9|He stood upon the mountain, and roared out his challenge to our world. It was met by the shaking of the Earth, the lashing of the Air, the rising of the Water, and the burning of Fire. 
-02|6AC5|00BF|When the sky once again cleared somewhat, most of my people were dead. The sea had taken some, fire others, the land swallowed yet more... But we survived! Only by the grace of the Guardian. 
-02|6B99|001E|Your ancestors were deceived. 
-02|6BBB|001B|Quite an interesting tale. 
-02|6BFC|001E|Your ancestors were deceived. 
+02|6623|00C7|Há muito tempo, está escrito, antes dos pagãos guerrearem com os zealianos, uma voz veio ao nosso povo. Ele se autodenominou Guardião e falou de uma época em que um grande Destruidor viria, trazendo desespero para todos. 
+02|6700|00D3|O Guardião mostrou aos nossos ancestrais como transformar nossos Elementos em forças do Titanic que poderiam derrotar este Destruidor. Eles sacrificaram e adoraram os Elementos em um templo construído no topo desta montanha. 
+02|67E9|010C|Um grande obelisco negro foi construído lá, e os Elementos cresceram em poder. Finalmente chegou o dia... O Dia do Destruidor. O Guardião alertou nosso povo que eles deveriam deixar o templo. Que a batalha entre o Destruidor e os Titãs aconteceria ali. 
+02|690B|00D5|Então eles fugiram para as florestas ao redor. Enormes olhos amarelos brilhantes apareceram no céu acima da montanha. Ao redor deles, um rosto vermelho. De forma humana, seu corpo surgiu, mas vermelho como seu rosto era. 
+02|69F6|00B9|Ele ficou na montanha e rugiu seu desafio ao nosso mundo. Foi recebido pelo tremor da Terra, pelo açoite do Ar, pela subida da Água e pela queima do Fogo. 
+02|6AC5|00BF|Quando o céu clareou um pouco mais uma vez, a maior parte do meu povo estava morta. O mar levou alguns, o fogo outros, a terra engoliu ainda mais... Mas sobrevivemos! Somente pela graça do Guardião. 
+02|6B99|001E|Seus ancestrais foram enganados. 
+02|6BBB|001B|Um conto bastante interessante. 
+02|6BFC|001E|Seus ancestrais foram enganados. 
 04|6C1F|0347
-02|6C23|001B|What?... What do you mean? 
-02|6C53|0014|Nothing. Nevermind. 
-02|6C6B|0015|The Titans are evil. 
-02|6C84|001F|The Guardian is the Destroyer. 
-02|6CC9|0015|The Titans are evil. 
+02|6C23|001B|O que? Como assim? 
+02|6C53|0014|Nada. Deixa para lá. 
+02|6C6B|0015|Os Titãs são maus. 
+02|6C84|001F|O Guardião é o Destruidor. 
+02|6CC9|0015|Os Titãs são maus. 
 04|6CE3|007A
-02|6CE7|0061|No, not evil, just... independent. But we have come to terms with them, each in a different way. 
+02|6CE7|0061|Não, não é mau, apenas... independente. Mas chegamos a um acordo com eles, cada um de uma maneira diferente. 
 03|6D5D|0206
-02|6D62|001F|The Guardian is the Destroyer. 
+02|6D62|001F|O Guardião é o Destruidor. 
 04|6D86|01A2
-02|6D8A|003E|You know not of what you speak. I will hear no more about it. 
-02|6DDD|0017|But where I am from... 
-02|6DF8|0019|You do not understand... 
-02|6E15|001E|Wait. You must hear me out... 
+02|6D8A|003E|Você não sabe do que fala. Não ouvirei mais nada sobre isso. 
+02|6DDD|0017|Mas de onde eu sou... 
+02|6DF8|0019|Você não entende... 
+02|6E15|001E|Espere. Você deve me ouvir... 
 02|6E59|0000|
 04|6E5E|005C
-02|6E62|0043|Thank you for respecting my wishes. What else can I help you with? 
+02|6E62|0043|Obrigado por respeitar meus desejos. Em que mais posso ajudá-lo? 
 03|6EBA|006B
-02|6EBE|0055|I said I would hear no more on the subject. Is there anything else you would ask me? 
+02|6EBE|0055|Eu disse que não ouviria mais nada sobre o assunto. Há mais alguma coisa que você gostaria de me perguntar? 
 03|6F28|003B
-02|6F2C|0025|Very well. What else would you know? 
+02|6F2C|0025|Muito bem. O que mais você saberia? 
 03|6F66|00B9
-02|6F6B|001B|Quite an interesting tale. 
+02|6F6B|001B|Um conto bastante interessante. 
 04|6F8B|003E
-02|6F8F|0025|Thank you. What else would you know? 
+02|6F8F|0025|Obrigado. O que mais você saberia? 
 03|6FC9|0056
-02|6FCD|0040|I hope this tale has entertained you. What else would you know? 
+02|6FCD|0040|Espero que esta história tenha divertido você. O que mais você saberia? 
 03|7022|004C
 04|702A|0044
-02|702E|002B|I see. Ah, well. What else would you know? 
-02|7073|0028|Tell me of Daemon's Crag and Morgaelin. 
+02|702E|002B|Eu vejo. Ah bem. O que mais você saberia? 
+02|7073|0028|Conte-me sobre Daemon's Crag e Morgaelin. 
 03|70A8|080C
-02|70AD|0025|Tell me of Vardion and his position. 
+02|70AD|0025|Conte-me sobre Vardion e sua posição. 
 04|70D7|0105
-02|70DB|00B4|Vardion is a petty overlord. He is loathe to give up any of his power to those better suited to run certain details. He cannot seem to delegate his authority, therefore we suffer. 
-02|71A6|0025|Tell me of Vardion and his position. 
+02|70DB|00B4|Vardion é um suserano mesquinho. Ele detesta ceder qualquer parte de seu poder àqueles mais adequados para comandar certos detalhes. Ele parece não conseguir delegar sua autoridade, por isso sofremos. 
+02|71A6|0025|Conte-me sobre Vardion e sua posição. 
 03|71DC|06D8
-02|71E1|0011|Who is Gorgrond. 
+02|71E1|0011|Quem é Gorgrond. 
 04|71F7|00BD
-02|71FB|0084|An Acolyte of no consequence. He is strong in magical resource, but his mental shortcomings more than belittle his magical prowess. 
-02|7296|0011|Who is Gorgrond. 
+02|71FB|0084|Um Acólito sem importância. Ele é forte em recursos mágicos, mas suas deficiências mentais mais do que menosprezam suas proezas mágicas. 
+02|7296|0011|Quem é Gorgrond. 
 03|72B4|0600
-02|72B9|0017|Who is Master Malchir? 
+02|72B9|0017|Quem é Mestre Malchir? 
 04|72D5|010D
-02|72D9|0094|He leads us in all things. Well,... he would if he were around more often. He remains busy with his own studies, leaving Vardion to lead us poorly. 
-02|7384|0017|Who is Master Malchir? 
+02|72D9|0094|Ele nos guia em todas as coisas. Bem,... ele faria isso se estivesse por perto com mais frequência. Ele continua ocupado com seus próprios estudos, deixando Vardion nos liderando mal. 
+02|7384|0017|Quem é Mestre Malchir? 
 04|73AB|0034
-02|73AE|0025|Tell me of Vardion and his position. 
+02|73AE|0025|Conte-me sobre Vardion e sua posição. 
 03|73E2|04D2
-02|73E7|001A|What rituals do you mean? 
+02|73E7|001A|Que rituais você quer dizer? 
 04|7406|0116
-02|740A|0075|That is a subject best left to discuss if you become one of us. Speak to Bane. She will assist you in these matters. 
-02|7496|001A|What rituals do you mean? 
+02|740A|0075|Esse é um assunto que é melhor deixar para discutir se você se tornar um de nós. Fale com Bane. Ela irá ajudá-lo nesses assuntos. 
+02|7496|001A|Que rituais você quer dizer? 
 04|74C0|0059
 04|74C8|0031
-02|74CB|001F|Who is this Bane you speak of? 
+02|74CB|001F|Quem é esse Bane de quem você fala? 
 03|74F9|0020
-02|74FC|0011|I have met Bane. 
+02|74FC|0011|Eu conheci Bane. 
 03|751C|0398
-02|7521|001D|Element of Fire. What is it? 
+02|7521|001D|Elemento Fogo. O que é? 
 04|7543|009D
-02|7547|0058|Are you daft? It is flame itself. It runs through the land as blood does in your veins. 
-02|75B6|001D|Element of Fire. What is it? 
+02|7547|0058|Você é maluco? É a própria chama. Ele corre pela terra como o sangue corre em suas veias. 
+02|75B6|001D|Elemento Fogo. O que é? 
 03|75E0|02D4
-02|75E5|001F|Tell me of this Lord of Flame. 
+02|75E5|001F|Conte-me sobre este Senhor da Chama. 
 04|7609|0129
-02|760D|00C2|Pyros was the last Titan to be brought to terms. He was bound by my kind, long ago and is now at the beck and call of Master Malchir. A dangerous servant, to be sure, but a servant nonetheless. 
-02|76E6|001F|Tell me of this Lord of Flame. 
-02|7712|0011|What is a Titan. 
+02|760D|00C2|Pyros foi o último Titã a ser levado a um acordo. Ele foi vinculado à minha espécie há muito tempo e agora está às ordens do Mestre Malchir. Um servo perigoso, com certeza, mas mesmo assim um servo. 
+02|76E6|001F|Conte-me sobre este Senhor da Chama. 
+02|7712|0011|O que é um Titã. 
 03|7732|0182
-02|7737|0011|What is a Titan. 
+02|7737|0011|O que é um Titã. 
 04|774D|00D4
-02|7751|009B|A Titan is the personification of one of the four Elements. They are Earth, Water, Air, and of course Fire. I know little of the others, and Fire I study. 
-02|7803|0011|What is a Titan. 
+02|7751|009B|Um Titã é a personificação de um dos quatro Elementos. Eles são Terra, Água, Ar e, claro, Fogo. Conheço pouco dos outros, e Fire eu estudo. 
+02|7803|0011|O que é um Titã. 
 03|7821|0093
-02|7826|000A|Farewell. 
+02|7826|000A|Até a próxima. 
 06|783B|0420:1296
 03|7848|006C
 02|784D|0000|
 04|7852|0025
 06|7858|0420:1A56
-02|7865|000A|Farewell. 
+02|7865|000A|Até a próxima. 
 03|7877|003D
-02|787B|0027|I do not understand. What did you say? 
+02|787B|0027|Eu não entendi. O que você disse? 
 04|78BB|0012
-02|78BE|000A|Farewell. 
+02|78BE|000A|Até a próxima. 
 03|78D0|D4F8

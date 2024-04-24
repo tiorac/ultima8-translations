@@ -2,10 +2,10 @@
 06|0090|0574:084D
 01|00A1|00A1
 04|00B5|0027
-02|00B9|000E|dead Sorcerer 
+02|00B9|000E|Feiticeiro morto 
 03|00DC|001F
-02|00E0|0009|Sorcerer 
+02|00E0|0009|Feiticeiro 
 01|0100|0100
 04|0124|0063
 04|0133|004A
-02|0137|0034|You will not steal my spell! I will kill you first! 
+02|0137|0034|Você não vai roubar meu feitiço! Eu vou te matar primeiro! 

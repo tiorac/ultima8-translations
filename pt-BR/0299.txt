@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|000C|rain barrel 
+02|008C|000C|barril de chuva 

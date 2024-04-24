@@ -1,188 +1,188 @@
 01|0080|0080
 04|0097|0026
-02|009B|000D|template book
+02|009B|000D|livro de modelos
 03|00BD|0D89
 04|00CC|0020
-02|00D0|0007|diary  
+02|00D0|0007|diário  
 03|00EC|0D5A
 04|00FB|0021
-02|00FF|0008|journal 
+02|00FF|0008|Diário 
 03|011C|0D2A
 04|012B|0025
-02|012F|000C|cheesy book 
+02|012F|000C|livro cafona 
 03|0150|0CF6
 04|015F|0039
-02|0163|0020|The History of Necromancy Vol.I 
+02|0163|0020|A História da Necromancia Vol.I 
 03|0198|0CAE
 04|01A7|003A
-02|01AB|0021|The History of Necromancy Vol.II 
+02|01AB|0021|A História da Necromancia Vol.II 
 03|01E1|0C65
 04|01F0|002B
-02|01F4|0012|On Sorcerous Ways 
+02|01F4|0012|Em caminhos mágicos 
 03|021B|0C2B
 04|022A|002A
-02|022E|0011|The Art of Flame 
+02|022E|0011|A Arte da Chama 
 03|0254|0BF2
 04|0263|002D
-02|0267|0014|The Tongue of Flame 
+02|0267|0014|A Língua de Chama 
 03|0290|0BB6
 04|029F|002A
-02|02A3|0011|Ignite spellbook 
+02|02A3|0011|Acender livro de feitiços 
 03|02C9|0B7D
 04|02D8|002E
-02|02DC|0015|Extinguish spellbook 
+02|02DC|0015|Extinguir livro de feitiços 
 03|0306|0B40
 04|0315|0029
-02|0319|0010|Flash spellbook 
+02|0319|0010|Livro de feitiços flash 
 03|033E|0B08
 04|034D|002E
-02|0351|0015|Flame Bolt spellbook 
+02|0351|0015|Livro de feitiços do Raio Flamejante 
 03|037B|0ACB
 04|038A|002F
-02|038E|0016|Endure Heat spellbook 
+02|038E|0016|Livro de feitiços Suportar Calor 
 03|03B9|0A8D
 04|03C8|002F
-02|03CC|0016|Fire Shield spellbook 
+02|03CC|0016|Livro de feitiços do Escudo de Fogo 
 03|03F7|0A4F
 04|0406|0033
-02|040A|001A|Armor of Flames spellbook 
+02|040A|001A|Livro de feitiços da Armadura de Chamas 
 03|0439|0A0D
 04|0448|002F
-02|044C|0016|Create Fire spellbook 
+02|044C|0016|Criar livro de feitiços de fogo 
 03|0477|09CF
 04|0486|002D
-02|048A|0014|Explosion spellbook 
+02|048A|0014|Livro de feitiços de explosão 
 03|04B3|0993
 04|04C2|0031
-02|04C6|0018|Summon Daemon spellbook 
+02|04C6|0018|Livro de feitiços de invocar Daemon 
 03|04F3|0953
 04|0502|0031
-02|0506|0018|Banish Daemon spellbook 
+02|0506|0018|Livro de feitiços de banir Daemon 
 03|0533|0913
 04|0542|0031
-02|0546|0018|Conflagration spellbook 
+02|0546|0018|Livro de feitiços de conflagração 
 03|0573|08D3
 04|0582|0037
-02|0586|001E|The Destruction of the Temple 
+02|0586|001E|A Destruição do Templo 
 03|05B9|088D
 04|05C8|0027
-02|05CC|000E|Earthen Magic 
+02|05CC|000E|Magia Terrestre 
 03|05EF|0857
 04|05FE|0024
-02|0602|000B|Honor Lost 
+02|0602|000B|Honra perdida 
 03|0622|0824
 04|0631|0021
-02|0635|0008|Journal 
+02|0635|0008|Diário 
 03|0652|07F4
 04|0661|0024
-02|0665|000B|Kith Venom 
+02|0665|000B|Kith Veneno 
 03|0685|07C1
 04|0694|001F
 02|0698|0006|Rhian 
 03|06B3|0793
 04|06C2|0020
-02|06C6|0007|Voices 
+02|06C6|0007|Vozes 
 03|06E2|0764
 04|06F1|0021
-02|06F5|0008|The Eye 
+02|06F5|0008|O olho 
 03|0712|0734
 04|0721|001E
-02|0725|0005|Book 
+02|0725|0005|Livro 
 03|073F|0707
 04|074E|0027
-02|0752|000E|the Grim Book 
+02|0752|000E|o livro sombrio 
 03|0775|06D1
 04|0784|002F
-02|0788|0016|Journeys through Hell 
+02|0788|0016|Jornadas pelo Inferno 
 03|07B3|0693
 04|07C2|003E
-02|07C6|0025|Moriens: Necromancer, Prophet, Hero. 
+02|07C6|0025|Morrendo: Necromante, Profeta, Herói. 
 03|0800|0646
 04|080F|0022
-02|0813|0009|Read me. 
+02|0813|0009|Leia-me. 
 03|0831|0615
 04|0840|0022
-02|0844|0009|Read me. 
+02|0844|0009|Leia-me. 
 03|0862|05E4
 04|0871|0022
-02|0875|0009|Read me. 
+02|0875|0009|Leia-me. 
 03|0893|05B3
 04|08A2|0022
-02|08A6|0009|Read me. 
+02|08A6|0009|Leia-me. 
 03|08C4|0582
 04|08D3|0042
-02|08D7|0029|Dispelling Myths: The Truth About Magic. 
+02|08D7|0029|Dissipando mitos: a verdade sobre a magia. 
 03|0915|0531
 04|0924|002E
-02|0928|0015|Saga of Bone Crusher 
+02|0928|0015|Saga do Triturador de Ossos 
 03|0952|04F4
 04|0961|002D
-02|0965|0014|Enemies of Tenebrae 
+02|0965|0014|Inimigos das Trevas 
 03|098E|04B8
 04|099D|002F
-02|09A1|0016|What the Fish Tell Me 
+02|09A1|0016|O que os peixes me dizem 
 03|09CC|047A
 04|09DB|0024
-02|09DF|000B|Divination 
+02|09DF|000B|Adivinhação 
 03|09FF|0447
 04|0A0E|0027
-02|0A12|000E|Healing Touch 
+02|0A12|000E|Toque de cura 
 03|0A35|0411
 04|0A44|0028
-02|0A48|000F|Aerial Servant 
+02|0A48|000F|Servo Aéreo 
 03|0A6C|03DA
 04|0A7B|0020
-02|0A7F|0007|Reveal 
+02|0A7F|0007|Revelar 
 03|0A9B|03AB
 04|0AAA|0025
-02|0AAE|000C|Restoration 
+02|0AAE|000C|Restauração 
 03|0ACF|0377
 04|0ADE|0029
-02|0AE2|0010|Fade From Sight 
+02|0AE2|0010|Desaparecer da vista 
 03|0B07|033F
 04|0B16|0022
-02|0B1A|0009|Air Walk 
+02|0B1A|0009|Andar no ar 
 03|0B38|030E
 04|0B47|0024
-02|0B4B|000B|Hear Truth 
+02|0B4B|000B|Ouça a verdade 
 03|0B6B|02DB
 04|0B7A|0026
-02|0B7E|000D|Intervention 
+02|0B7E|000D|Intervenção 
 03|0BA0|02A6
 04|0BAF|0026
-02|0BB3|000D|Resurrection 
+02|0BB3|000D|Ressurreição 
 03|0BD5|0271
 04|0BE4|0035
-02|0BE8|001C|Journal of Veras the Healer 
+02|0BE8|001C|Diário de Veras, o Curandeiro 
 03|0C19|022D
 04|0C28|0029
-02|0C2C|0010|Confusion Blast 
+02|0C2C|0010|Explosão de confusão 
 03|0C51|01F5
 04|0C60|0027
-02|0C64|000E|Meteor Shower 
+02|0C64|000E|Chuva de meteoros 
 03|0C87|01BF
 04|0C96|0029
-02|0C9A|0010|Summon Creature 
+02|0C9A|0010|Invocar Criatura 
 03|0CBF|0187
 04|0CCE|002A
-02|0CD2|0011|Call Destruction 
+02|0CD2|0011|Destruição de chamadas 
 03|0CF8|014E
 04|0D07|0025
-02|0D0B|000C|Devastation 
+02|0D0B|000C|Devastação 
 03|0D2C|011A
 04|0D3B|0029
-02|0D3F|0010|Ethereal Travel 
+02|0D3F|0010|Viagem Etérea 
 03|0D64|00E2
 04|0D73|0031
-02|0D77|0018|Reagents of Thaumaturgy 
+02|0D77|0018|Reagentes de Taumaturgia 
 03|0DA4|00A2
 04|0DB3|003D
-02|0DB7|0024|The Mythology of the Zealan Deities 
+02|0DB7|0024|A Mitologia das Divindades Zelanesas 
 03|0DF0|0056
 04|0DFF|002C
-02|0E03|0013|The Final Sunlight 
+02|0E03|0013|A última luz solar 
 03|0E2B|001B
-02|0E2F|0005|book 
+02|0E2F|0005|livro 
 01|0E4B|0E4B
 06|0E76|0593:0080
 06|0E98|0593:02A6

@@ -1,10 +1,10 @@
 01|0080|0080
 06|00A8|0581:1C19
-02|00BA|0020|There will be only one Tempest! 
-02|00F2|0013|Then let it be so! 
+02|00BA|0020|Haverá apenas uma Tempestade! 
+02|00F2|0013|Então que assim seja! 
 06|0122|057C:15E7
 06|0137|0581:29D8
-02|0144|000C|Die, Devon! 
+02|0144|000C|Morra, Devon! 
 06|0174|0581:1C19
 05|0188|0581:2A56
 06|0198|057C:15E7
@@ -22,7 +22,7 @@
 05|033D|0581:2A56
 05|0349|0581:2A56
 06|0359|057C:15E7
-02|036A|001C|Your evil must end, Mordea! 
+02|036A|001C|Seu mal deve acabar, Mordea! 
 06|039F|0581:1C19
 06|03BF|057C:15E7
 06|03D7|057C:15E7
@@ -33,7 +33,7 @@
 06|048A|057C:15E7
 05|049E|0581:2A56
 06|04AD|0581:1C19
-02|04BE|0011|I will kill you! 
+02|04BE|0011|Eu vou te matar! 
 06|04E9|057C:15E7
 06|0501|057C:15E7
 06|051A|0581:29D8
@@ -61,9 +61,9 @@
 06|0736|057C:15E7
 06|074E|0581:1C19
 06|07AA|0581:1C19
-02|07CE|0037|May the Lurker welcome you... as she has your victims. 
+02|07CE|0037|Que a Lurker receba você... assim como recebe suas vítimas. 
 06|0822|0581:1C19
-02|0833|000D|Oh, my head! 
+02|0833|000D|Ah, minha cabeça! 
 06|085B|057C:091C
 06|086F|057C:15E7
 06|0887|057C:15E7
@@ -85,16 +85,16 @@
 06|0A06|057C:15E7
 06|0A1E|057C:15E7
 06|0A36|057C:15E7
-02|0A48|0036|Avatar! At long last Mordea's tyranical rule is over! 
-02|0A96|001C|Now, I must be the Tempest. 
-02|0ACA|003A|I must use my powers to undo the evils of Mordea's reign. 
-02|0B1C|003A|I make it my duty to bring prosperity to all of Tenebrae. 
-02|0B6E|0042|Thanks to your efforts our fair city is free from her oppression. 
-02|0BC8|0058|Though I know your destiny lies elsewhere, you will always be welcome here in Tenebrae. 
+02|0A48|0036|Avatar! Finalmente o governo tirânico de Mordea acabou! 
+02|0A96|001C|Agora, devo ser a Tempestade. 
+02|0ACA|003A|Devo usar os meus poderes para desfazer os males do reinado de Mordea. 
+02|0B1C|003A|Assumo como meu dever trazer prosperidade a toda Tenebrae. 
+02|0B6E|0042|Graças aos seus esforços, nossa bela cidade está livre de sua opressão. 
+02|0BC8|0058|Embora eu saiba que seu destino está em outro lugar, você sempre será bem-vindo aqui em Tenebrae. 
 06|0C40|057C:091C
-02|0C52|005A|Now I must leave. I need time away from Tenebrae to contemplate all of the recent events. 
-02|0CC4|0047|I will return when the time is right and take my place as the Tempest. 
-02|0D23|002F|Adeus, meu amigo. Que nossos caminhos cruzem novamente. 
+02|0C52|005A|Agora devo ir embora. Preciso de um tempo longe de Tenebrae para contemplar todos os acontecimentos recentes. 
+02|0CC4|0047|Voltarei quando chegar a hora certa e assumirei meu lugar como a Tempestade. 
+02|0D23|002F|Adeus meu amigo. Que nossos caminhos se cruzem novamente. 
 06|0D94|0581:1C6D
 06|0DAC|057C:15E7
 06|0DC4|057C:15E7

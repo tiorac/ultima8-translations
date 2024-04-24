@@ -3,4 +3,4 @@
 01|00AC|00AC
 03|00D3|004A
 04|00E2|0031
-02|00E6|0018|Nao perturbe meu descanso! 
+02|00E6|0018|Não perturbe meu descanso! 

@@ -1,22 +1,22 @@
 01|0080|0080
-02|008C|0007|potion 
+02|008C|0007|poção 
 01|00AA|00AA
 04|00C5|0026
-02|00CB|000E|it's empty... 
+02|00CB|000E|está vazio... 
 04|00F3|00A4
 04|0110|003E
-02|012A|0006|Augh! 
+02|012A|0006|Ai! 
 03|014B|044B
 03|014E|0049
-02|0153|0014|I feel much better! 
+02|0153|0014|Eu me sinto muito melhor! 
 04|019F|00B1
 04|01CD|0045
-02|01D2|0017|I have regained power! 
+02|01D2|0017|Eu recuperei o poder! 
 03|0212|0034
-02|022F|0009|Yummm... 
+02|022F|0009|Hummm... 
 04|0258|008D
 03|02A1|003A
-02|02A6|000F|I feel better! 
+02|02A6|000F|Eu me sinto melhor! 
 05|030D|057C:0080
 06|0328|02FE:059B
 04|0336|024D
@@ -41,7 +41,7 @@
 06|0590|02FE:0687
 01|059B|059B
 06|05C5|0581:29D8
-02|05D2|0016|I feel like fighting! 
+02|05D2|0016|Estou com vontade de lutar! 
 06|060B|057C:15E7
 06|063D|0581:1C19
 06|0670|0581:29D8

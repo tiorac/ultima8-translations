@@ -2,7 +2,7 @@
 04|00A2|01BD
 06|00D3|0581:1C6D
 06|00E5|0050:0DDB
-02|00F3|0042|Do not be so foolish as to think you have the power to defeat me! 
+02|00F3|0042|Não seja tão tolo a ponto de pensar que tem o poder de me derrotar! 
 06|014D|0050:12B0
 06|0162|0581:1C8B
 06|01F3|0581:1C19

@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|0017|blue field passage gem 
+02|008C|0017|gema de passagem de campo azul 

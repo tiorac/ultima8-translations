@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|000C|magic armor 
+02|008C|000C|armadura mágica 

@@ -1,6 +1,6 @@
 01|0080|0080
-02|008C|0009|skeleton 
+02|008C|0009|esqueleto 
 01|00AC|00AC
 03|00D3|004F
 04|00E2|0036
-02|00E6|001D|Disturb my rest not, mortal! 
+02|00E6|001D|Não perturbe meu descanso, mortal! 

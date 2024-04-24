@@ -2,6 +2,6 @@
 04|0099|0166
 04|00B7|0146
 06|00E5|0581:1C6D
-02|00F5|007B|Who is foolish enough to disturb the sanctity of Khumash-Gor? Come you seeking treasure? Well, it is death you have found! 
+02|00F5|007B|Quem é tolo o suficiente para perturbar a santidade de Khumash-Gor? Você vem em busca de um tesouro? Bem, foi a morte que você encontrou! 
 06|018D|0581:1C8B
 03|01FD|FEB7

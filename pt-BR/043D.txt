@@ -1,8 +1,8 @@
 01|0080|0080
 04|0094|0028
-02|0098|000F|dead guardsman 
+02|0098|000F|guarda morto 
 03|00BC|0020
-02|00C0|000A|guardsman 
+02|00C0|000A|guarda 
 01|00E1|00E1
 06|0122|057C:15E7
 01|0133|0133
@@ -10,47 +10,47 @@
 06|017C|057C:133F
 01|018D|018D
 04|01E7|0032
-02|01EB|000D|Stop! Thief! 
+02|01EB|000D|Parar! Ladrão! 
 06|0211|058B:0080
 01|021E|021E
-02|022B|000B|Guardsman! 
+02|022B|000B|Guarda! 
 06|024A|057C:0BCF
 06|025F|0581:1C19
 05|0273|0581:2A56
 04|0286|0026
-02|028A|000D|Now what...? 
+02|028A|000D|O que agora...? 
 03|02AC|002B
-02|02B0|0015|What do you want...? 
-02|02DA|000D|Who are you? 
-02|02EB|0013|What is your duty? 
-02|0302|000C|Where am I? 
-02|0312|0008|goodbye 
-02|0327|0008|goodbye 
+02|02B0|0015|O que você quer...? 
+02|02DA|000D|Quem é você? 
+02|02EB|0013|Qual é o seu dever? 
+02|0302|000C|Onde estou? 
+02|0312|0008|adeus 
+02|0327|0008|adeus 
 04|0335|02C1
-02|0353|000D|Who are you? 
+02|0353|000D|Quem é você? 
 04|0365|0090
-02|036A|000D|Who are you? 
-02|0385|001C|Who are you to ask me such? 
-02|03B7|0029|'Tis I who should demand your name, cur! 
+02|036A|000D|Quem é você? 
+02|0385|001C|Quem é você para me perguntar isso? 
+02|03B7|0029|'Sou eu quem deveria exigir seu nome, cur! 
 03|03F5|01FE
-02|03FA|0013|What is your duty? 
+02|03FA|0013|Qual é o seu dever? 
 04|0412|0074
-02|0417|0013|What is your duty? 
-02|0438|0039|My job is to guard to watch out for odds folks like you. 
+02|0417|0013|Qual é o seu dever? 
+02|0438|0039|Meu trabalho é ficar atento às probabilidades de pessoas como você. 
 03|0486|016D
-02|048B|000C|Where am I? 
+02|048B|000C|Onde estou? 
 04|049C|010D
-02|04A1|000C|Where am I? 
+02|04A1|000C|Onde estou? 
 04|04BE|003B
-02|04C2|0022|You are in the palace, of course! 
+02|04C2|0022|Você está no palácio, é claro! 
 03|04F9|00AD
-02|04FD|0038|What makes you think I have time for this kind of talk? 
-02|054B|0036|Continue on your way before I decide to put you away. 
+02|04FD|0038|O que faz você pensar que tenho tempo para esse tipo de conversa? 
+02|054B|0036|Continue seu caminho antes que eu decida prendê-lo. 
 06|0599|057C:1090
 03|05A6|0050
 03|05A9|004A
-02|05AE|0008|goodbye 
+02|05AE|0008|adeus 
 04|05BB|0038
-02|05BF|000C|About time. 
+02|05BF|000C|Estava na hora. 
 06|05E3|057C:1090
 03|05F6|FD2C

@@ -1,76 +1,76 @@
 01|0080|0080
 04|0094|0028
-02|0098|000F|dead guardsman 
+02|0098|000F|guarda morto 
 03|00BC|0020
-02|00C0|000A|guardsman 
+02|00C0|000A|guarda 
 01|00E1|00E1
 06|017A|023E:095B
 01|0185|0185
 01|01C6|01C6
-02|01D1|0014|Guardsmen, to arms! 
+02|01D1|0014|Guardas, às armas! 
 01|01F8|01F8
 04|0224|0070
 04|0233|005D
 06|0244|0581:1C19
-02|0254|0021|Away! I will not speak with you. 
+02|0254|0021|Ausente! Eu não vou falar com você. 
 03|0290|06C2
 03|0294|FF8D
-02|029B|000B|Guardsman! 
+02|029B|000B|Guarda! 
 06|02BA|057C:0BCF
 05|02CC|0581:2A56
 04|02DF|0030
-02|02E3|0017|What can I do for you? 
+02|02E3|0017|O que posso fazer para você? 
 03|030F|0032
-02|0313|001C|How may I be of assistance? 
-02|0344|000D|Who are you? 
-02|0355|0013|What is your duty? 
-02|036C|0004|Bye 
-02|037D|0004|Bye 
+02|0313|001C|Como posso ajudar? 
+02|0344|000D|Quem é você? 
+02|0355|0013|Qual é o seu dever? 
+02|036C|0004|Tchau 
+02|037D|0004|Tchau 
 04|0387|05CB
-02|03A5|000D|Who are you? 
+02|03A5|000D|Quem é você? 
 04|03B7|00E8
-02|03BC|000D|Who are you? 
+02|03BC|000D|Quem é você? 
 04|03DA|007B
-02|03DE|0030|I am a guardsman in the service of our Tempest. 
-02|0424|001C|Proud am I to to serve him. 
+02|03DE|0030|Sou um guarda a serviço da nossa Tempestade. 
+02|0424|001C|Tenho orgulho de servi-lo. 
 03|0455|0047
-02|0459|0031|I am a guardsman in the service of her ladyship. 
+02|0459|0031|Sou um guarda a serviço de Sua Senhoria. 
 03|049F|04B0
-02|04A4|0013|What is your duty? 
+02|04A4|0013|Qual é o seu dever? 
 04|04BC|02DB
-02|04C1|0013|What is your duty? 
+02|04C1|0013|Qual é o seu dever? 
 04|04E5|0115
 04|04F4|00A0
-02|04F8|0020|My duty is to protect Tenebrae. 
-02|052E|0051|I have sworn to die in defense of our city against any horde that should attact. 
+02|04F8|0020|Meu dever é proteger Tenebrae. 
+02|052E|0051|Jurei morrer em defesa de nossa cidade contra qualquer horda que atacasse. 
 03|0594|0063
-02|0598|004D|My duty is to insure the peace and tranquility of Tenebrea is not disturbed. 
+02|0598|004D|Meu dever é garantir que a paz e a tranquilidade de Tenebrea não sejam perturbadas. 
 03|05FA|019A
 04|0609|006F
-02|060D|0056|My duty is to control the populus, to insure that the peace is kept for her ladyship. 
+02|060D|0056|O meu dever é controlar o populus, garantir que a paz seja mantida para Sua Senhoria. 
 03|0678|011C
-02|067C|0026|Why are you asking so many questions? 
-02|06B8|0020|Did Mordea send you to test me? 
+02|067C|0026|Por que você está fazendo tantas perguntas? 
+02|06B8|0020|Mordea enviou você para me testar? 
 06|06F5|0581:1C19
-02|0705|001F|I'd best be about my duties... 
+02|0705|001F|É melhor eu cuidar dos meus deveres... 
 06|073C|057C:1090
 06|076B|057C:091C
 03|077A|01D8
 03|0794|01BE
 03|0797|01B8
-02|079C|0004|Bye 
+02|079C|0004|Tchau 
 04|07A5|01AA
 04|07AC|00DA
 04|07BB|007E
-02|07BF|0016|Nice taling with you. 
-02|07EB|0039|In your travels take care you do not step on any ghouls. 
+02|07BF|0016|Foi bom conversar com você. 
+02|07EB|0039|Em suas viagens tome cuidado para não pisar em nenhum ghoul. 
 03|0839|004A
-02|083D|0034|Join me in a drink at Orlok's later if you stop by. 
+02|083D|0034|Junte-se a mim para uma bebida no Orlok's mais tarde, se você passar por aqui. 
 03|0886|0068
 04|0895|0033
-02|0898|001F|Fine. I must get back to work. 
+02|0898|001F|Multar. Devo voltar ao trabalho. 
 03|08C8|0026
-02|08CB|0015|Stay out of trouble! 
+02|08CB|0015|Fique longe de problemas! 
 06|08F4|057C:1090
 06|0923|057C:091C
 03|0952|FA26
@@ -84,27 +84,27 @@
 06|0A17|057C:091C
 06|0A34|057C:15E7
 04|0A4F|0032
-02|0A53|0019|No fighting around here! 
+02|0A53|0019|Nada de brigas por aqui! 
 03|0A81|0025
-02|0A85|000F|Stop, or else! 
+02|0A85|000F|Pare, ou então! 
 06|0AB7|057C:15E7
 06|0ACF|057C:091C
 03|0ADF|FEEC
 04|0B04|0027
-02|0B08|000E|Move along... 
+02|0B08|000E|Siga em frente... 
 03|0B2B|017F
 04|0B33|0030
-02|0B37|0017|Stay out of trouble... 
+02|0B37|0017|Fique longe de problemas... 
 03|0B63|0147
 04|0B6B|002D
-02|0B6F|0014|Watch for undead... 
+02|0B6F|0014|Cuidado com os mortos-vivos... 
 03|0B98|0112
 04|0BA0|0034
-02|0BA4|001B|Curse these tight boots... 
+02|0BA4|001B|Malditas sejam essas botas apertadas... 
 03|0BD4|00D6
 04|0BDC|0072
 06|0BED|057C:15E7
-02|0BFD|001F|Boy, this weapon gets heavy... 
+02|0BFD|001F|Rapaz, essa arma fica pesada... 
 06|0C3F|057C:15E7
 06|0C67|057C:15E7
 06|0C7E|0581:1C19

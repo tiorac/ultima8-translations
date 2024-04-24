@@ -2,7 +2,7 @@
 04|00A3|01A4
 06|00D4|0581:1C6D
 06|00EB|0581:1C19
-02|00FB|004C|Wicked wicked child! You have tried my patience and now I shall punish you! 
+02|00FB|004C|Criança perversa e perversa! Você testou minha paciência e agora vou puni-lo! 
 06|016C|0581:1C8B
 06|0234|0581:1C19
 03|0247|FE59

@@ -1,9 +1,9 @@
 01|0080|0080
 01|00C1|00C1
 04|00D5|0024
-02|00D9|000B|dead child 
+02|00D9|000B|criança morta 
 03|00F9|001C
-02|00FD|0006|child 
+02|00FD|0006|criança 
 01|011A|011A
 06|0146|0581:1C19
 04|016B|007B
@@ -11,93 +11,93 @@
 06|0184|0581:1C19
 04|019C|004A
 04|01AB|001B
-02|01AE|0007|Mommy! 
+02|01AE|0007|Mamãe! 
 03|01C6|0020
-02|01C9|000F|Ahhh! Bad man! 
+02|01C9|000F|Ahhh! Homem mal! 
 01|01EB|01EB
-02|01F6|0005|I am 
+02|01F6|0005|Eu sou 
 02|0205|0001|.
 05|0216|0581:2A56
 05|0224|0581:2A56
 04|0237|001F
-02|023C|0009|Hello... 
+02|023C|0009|Olá... 
 03|0256|0020
-02|025B|000D|Greetings... 
+02|025B|000D|Saudações... 
 06|027C|057C:0BCF
 06|0291|0581:1C19
 05|02A5|0581:2A56
 04|02B8|00E7
-02|02BC|0012|I don't know you. 
-02|02E4|002E|My mommie told me never to talk to strangers. 
-02|0328|0013|You're a stranger. 
-02|0351|0015|I can't talk to you. 
+02|02BC|0012|Eu não te conheço. 
+02|02E4|002E|Minha mãe me disse para nunca falar com estranhos. 
+02|0328|0013|Você é um estranho. 
+02|0351|0015|Eu não posso falar com você. 
 06|037E|057C:1090
 03|039C|0665
 03|039F|0641
-02|03A3|0013|What is your name? 
-02|03CB|0011|I am the Avatar! 
-02|03EB|0005|Bye! 
+02|03A3|0013|Qual o seu nome? 
+02|03CB|0011|Eu sou o Avatar! 
+02|03EB|0005|Tchau! 
 04|03F6|05EA
-02|0414|0011|I am the Avatar! 
+02|0414|0011|Eu sou o Avatar! 
 04|0430|0083
-02|0434|0006|Yeah? 
-02|0450|0018|Where do you come from? 
-02|047D|0014|From another world. 
-02|0495|0013|From another town. 
+02|0434|0006|Sim? 
+02|0450|0018|De onde você vem? 
+02|047D|0014|De outro mundo. 
+02|0495|0013|De outra cidade. 
 03|04B3|052A
-02|04B8|0014|From another world. 
-02|04D3|0013|From another town. 
+02|04B8|0014|De outro mundo. 
+02|04D3|0013|De outra cidade. 
 04|04EC|0092
-02|04F0|0006|Yeah? 
-02|050C|0017|What did you do there? 
-02|0538|0013|I fought monsters! 
-02|054F|0011|I helped people. 
-02|0564|000F|I baked bread. 
+02|04F0|0006|Sim? 
+02|050C|0017|O que você fez lá? 
+02|0538|0013|Eu lutei contra monstros! 
+02|054F|0011|Eu ajudei pessoas. 
+02|0564|000F|Assei pão. 
 03|057E|045F
-02|0583|0013|I fought monsters! 
-02|059D|0011|I helped people. 
-02|05B6|000F|I baked bread. 
+02|0583|0013|Eu lutei contra monstros! 
+02|059D|0011|Eu ajudei pessoas. 
+02|05B6|000F|Assei pão. 
 04|05CB|0084
-02|05CF|0006|Yeah? 
-02|05EB|0015|Why are you so tall? 
-02|0615|0015|I was born this way. 
-02|062E|0016|A troll stretched me! 
+02|05CF|0006|Sim? 
+02|05EB|0015|Por que você é tão alto? 
+02|0615|0015|Eu nasci assim. 
+02|062E|0016|Um troll me esticou! 
 03|064F|038E
-02|0654|0015|I was born this way. 
-02|0670|0016|A troll stretched me! 
+02|0654|0015|Eu nasci assim. 
+02|0670|0016|Um troll me esticou! 
 04|068C|0093
-02|0690|0006|Yeah? 
-02|06AC|0016|How did you get here? 
-02|06D7|000A|I walked. 
-02|06E5|0010|I came by boat. 
-02|06F9|001B|A big red hand dropped me. 
+02|0690|0006|Sim? 
+02|06AC|0016|Como você chegou aqui? 
+02|06D7|000A|Eu andei. 
+02|06E5|0010|Eu vim de barco. 
+02|06F9|001B|Uma grande mão vermelha me derrubou. 
 03|071F|02BE
-02|0724|000A|I walked. 
-02|0735|0010|I came by boat. 
-02|074D|001B|A big red hand dropped me. 
+02|0724|000A|Eu andei. 
+02|0735|0010|Eu vim de barco. 
+02|074D|001B|Uma grande mão vermelha me derrubou. 
 04|076E|00BC
-02|0772|0006|Yeah? 
-02|078E|0027|Do you always wear that silly costume? 
-02|07CA|000B|Sim eu faco. 
-02|07D9|000E|Nao, eu nao. 
-02|07EB|0014|What silly costume? 
-02|0803|001C|You ask too many questions. 
+02|0772|0006|Sim? 
+02|078E|0027|Você sempre usa aquela fantasia boba? 
+02|07CA|000B|Sim eu faço. 
+02|07D9|000E|Não, eu não. 
+02|07EB|0014|Que fantasia boba? 
+02|0803|001C|Você faz muitas perguntas. 
 03|082A|01B3
-02|082F|000B|Sim eu faco. 
-02|0841|000E|Nao, eu nao. 
-02|0857|0014|What silly costume? 
-02|0873|001C|You ask too many questions. 
+02|082F|000B|Sim eu faço. 
+02|0841|000E|Não, eu não. 
+02|0857|0014|Que fantasia boba? 
+02|0873|001C|Você faz muitas perguntas. 
 04|0895|0087
-02|0899|0006|Yeah? 
-02|08B5|001F|Why are Toraxes big and brown? 
-02|08E9|0005|Bye! 
-02|08F2|001F|Why are they not blue and red? 
+02|0899|0006|Sim? 
+02|08B5|001F|Por que os Toraxes são grandes e marrons? 
+02|08E9|0005|Tchau! 
+02|08F2|001F|Por que eles não são azuis e vermelhos? 
 03|091C|00C1
-02|0921|001F|Why are they not blue and red? 
+02|0921|001F|Por que eles não são azuis e vermelhos? 
 04|0945|0098
-02|0949|0021|Because then they would be kith. 
-02|0982|0006|Yeah? 
-02|099E|0006|Yeah! 
+02|0949|0021|Porque então eles seriam amigos. 
+02|0982|0006|Sim? 
+02|099E|0006|Sim! 
 06|09BC|057C:1090
 03|09E0|FA06
 06|09E6|057C:1090

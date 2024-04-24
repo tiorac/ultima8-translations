@@ -11,11 +11,11 @@
 06|01E1|006D:20A1
 06|01F8|0581:1C19
 06|020A|006D:17FE
-02|0218|002D|I am impressed with your impudence, manling! 
+02|0218|002D|Estou impressionado com seu atrevimento, homem! 
 06|024B|006D:00B8
 06|0264|0581:1C19
 06|0276|006D:1914
-02|0284|0033|You shall be rewarded with an eternity of torment! 
+02|0284|0033|Você será recompensado com uma eternidade de tormento! 
 06|02BD|006D:00B8
 06|02D1|006D:17FE
 06|02E3|0491:0548

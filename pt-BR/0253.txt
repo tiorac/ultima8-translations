@@ -1,17 +1,17 @@
 01|0080|0080
 04|00A1|0023
-02|00A5|000A|quill pen 
+02|00A5|000A|caneta de pena 
 03|00C4|00E4
 04|00D2|0024
-02|00D6|000B|ink bottle 
+02|00D6|000B|frasco de tinta 
 03|00F6|00B2
 04|0104|001E
-02|0108|0005|seal 
+02|0108|0005|selo 
 03|0122|0086
 04|0130|0023
-02|0134|000A|parchment 
+02|0134|000A|pergaminho 
 03|0153|0055
 04|015B|0027
-02|015F|000E|balance scale 
+02|015F|000E|escala de equilíbrio 
 03|0182|0026
-02|0186|0010|office supplies 
+02|0186|0010|material de escritório 

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TioRAC.U8GT": {
+      "commandName": "Project",
+      "commandLineArgs": "-o ..\\..\\..\\..\\..\\pt-BR -a"
+    }
+  }
+}

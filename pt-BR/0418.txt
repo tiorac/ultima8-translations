@@ -1,21 +1,21 @@
 01|0080|0080
 04|0094|0058
 04|009B|002D
-02|009F|0014|the corpse of Jenna 
+02|009F|0014|o cadáver de Jenna 
 03|00C8|0021
-02|00CC|000B|dead woman 
+02|00CC|000B|mulher morta 
 03|00EC|00A3
 04|00F8|002B
-02|00FC|0012|Jenna the barmaid 
+02|00FC|0012|Jenna, a garçonete 
 03|0123|006C
 04|012A|001E
 02|012E|0005|Jenna
 03|0148|0047
 04|014F|0024
-02|0153|0008|barmaid 
+02|0153|0008|garçonete 
 03|0170|001F
 03|0173|001C
-02|0177|0006|woman 
+02|0177|0006|mulher 
 01|0194|0194
 06|01C8|0418:0321
 01|01D3|01D3
@@ -29,9 +29,9 @@
 06|02AA|058B:0080
 04|02BF|005D
 04|02CE|0029
-02|02D2|0010|Help me, Beren! 
+02|02D2|0010|Ajude-me, Ursos! 
 03|02F7|0025
-02|02FB|000F|Town Sorcerer! 
+02|02FB|000F|Feiticeiro da cidade! 
 01|0321|0321
 06|038C|0418:0B16
 06|039F|0418:0BA9
@@ -49,572 +49,572 @@
 04|0514|0320
 04|0527|008A
 06|053C|057C:091C
-02|054C|001F|Excuse me, I'm trying to work. 
+02|054C|001F|Com licença, estou tentando trabalhar. 
 06|058E|057C:15E7
 06|05A5|0581:1C19
 04|05B9|009A
 06|05CE|057C:091C
 04|05E2|002C
-02|05E6|0010|Need something? 
+02|05E6|0010|Preciso de algo? 
 03|060B|0506
 03|060E|0028
-02|0612|000F|Need something?
+02|0612|000F|Preciso de algo?
 03|0636|04DB
 06|0647|057C:15E7
 04|065B|011F
 06|0670|057C:091C
 04|0684|0088
-02|0688|0024|If you want something, take a seat! 
+02|0688|0024|Se você quiser alguma coisa, sente-se! 
 06|06CF|057C:15E7
-02|06DF|0015|I said, take a seat! 
+02|06DF|0015|Eu disse, sente-se! 
 03|0709|0408
 03|070C|003A
-02|0710|0021|The Torax ribs look great today. 
+02|0710|0021|As costelas Torax estão ótimas hoje. 
 03|0746|03CB
 06|0757|057C:15E7
 06|076E|0581:1C19
 04|0782|00AF
 06|0797|057C:091C
-02|07A7|001C|I think the ribs are ready. 
+02|07A7|001C|Acho que as costelas estão prontas. 
 06|07E6|057C:15E7
 06|07FD|0581:1C19
-02|080D|0012|I'd better check. 
+02|080D|0012|É melhor eu verificar. 
 03|0834|02DD
 06|0852|057C:091C
 04|0866|007A
 06|0877|057C:15E7
-02|0887|0027|That table needs another round of ale. 
+02|0887|0027|Aquela mesa precisa de outra rodada de cerveja. 
 03|08C3|024E
 06|08D4|057C:15E7
 04|08E8|0056
-02|08EC|0009|Hmmmm... 
+02|08EC|0009|Hummm... 
 03|090A|0207
 06|091B|057C:15E7
 06|0932|0581:1C19
 04|0946|0039
-02|094A|0020|I'd rather be out, adventuring. 
+02|094A|0020|Prefiro sair, me aventurar. 
 03|097F|0192
 04|0987|0051
-02|098B|0024|This sword can sure get in the way. 
+02|098B|0024|Esta espada pode certamente atrapalhar. 
 06|09CC|0581:1C19
 04|09E0|0096
-02|09E4|0028|Oh no, Orlok's telling that tale again! 
+02|09E4|0028|Ah, não, Orlok está contando essa história de novo! 
 06|0A2F|057C:15E7
-02|0A3F|0025|I've heard that one a hundred times. 
+02|0A3F|0025|Já ouvi isso centenas de vezes. 
 04|0A7E|005C
 06|0A8F|057C:15E7
-02|0A9F|0026|By the Titans! What a mess they left! 
+02|0A9F|0026|Pelos Titãs! Que bagunça eles deixaram! 
 03|0ADA|0037
 04|0AE2|002F
-02|0AE6|0019|I really need a day off. 
+02|0AE6|0019|Eu realmente preciso de um dia de folga. 
 01|0B16|0B16
 04|0B47|005D
 06|0B5C|057C:091C
-02|0B6C|0012|Why is this open? 
+02|0B6C|0012|Por que isso está aberto? 
 06|0B98|0044:08B4
 01|0BA9|0BA9
 04|0BDA|005F
 06|0BEF|057C:091C
-02|0BFF|0014|Who left this open? 
+02|0BFF|0014|Quem deixou isso aberto? 
 06|0C2D|0044:08B4
 01|0C3E|0C3E
-02|0C48|0050|We have Tenebraean Ale, Blackwine, Hurricanes, Breath O'Spirit and Cloven Hoof. 
-02|0CAD|000F|Tenebraean Ale 
-02|0CC0|000B|Black Wine 
-02|0CCF|000A|Hurricane 
-02|0CDD|0010|Breath O'Spirit 
-02|0CF1|000C|Cloven Hoof 
-02|0D01|0014|Nothing, thank you. 
-02|0D3B|000F|Tenebraean Ale 
+02|0C48|0050|Temos Tenebraean Ale, Blackwine, Hurricanes, Breath O'Spirit e Cloven Hoof. 
+02|0CAD|000F|Cerveja Tenebraiana 
+02|0CC0|000B|Vinho Preto 
+02|0CCF|000A|Furacão 
+02|0CDD|0010|Respiração do Espírito 
+02|0CF1|000C|Casco Fendido 
+02|0D01|0014|Nada, obrigado. 
+02|0D3B|000F|Cerveja Tenebraiana 
 04|0D4F|0061
-02|0D53|0040|Our Tenebraean ale is the finest. It'll costs one glassy black. 
+02|0D53|0040|Nossa cerveja Tenebraean é a melhor. Custa um preto vítreo. 
 03|0DB0|02BD
-02|0DB5|000B|Black Wine 
+02|0DB5|000B|Vinho Preto 
 04|0DC5|0059
-02|0DC9|0038|The Blackwine is my favorite. It costs three obsidians. 
+02|0DC9|0038|O Blackwine é o meu favorito. Custa três obsidianas. 
 03|0E1E|024F
-02|0E23|000A|Hurricane 
+02|0E23|000A|Furacão 
 04|0E32|006C
-02|0E36|004B|Don't drink too many of these, they're quite potent. One costs two ladies. 
+02|0E36|004B|Não beba muitos destes, eles são bastante potentes. Um custa duas senhoras. 
 03|0E9E|01CF
-02|0EA3|0010|Breath O'Spirit 
+02|0EA3|0010|Respiração do Espírito 
 04|0EB8|0081
-02|0EBC|0060|Oh, I think Breath O'Spirit is really an aquired taste. But if you insist, it'll be two ladies. 
+02|0EBC|0060|Oh, acho que Breath O'Spirit é realmente um gosto adquirido. Mas se insistir, serão duas senhoras. 
 03|0F39|0134
-02|0F3E|000C|Cloven Hoof 
+02|0F3E|000C|Casco Fendido 
 04|0F4F|0085
-02|0F53|0064|Ah, the finest in the house. I see you have good taste. Our Cloven Hoof is five smooth black chips. 
+02|0F53|0064|Ah, o melhor da casa. Vejo que você tem bom gosto. Nosso Casco Fendido consiste em cinco lascas pretas lisas. 
 03|0FD4|0099
-02|0FD9|0014|Nothing, thank you. 
+02|0FD9|0014|Nada, obrigado. 
 04|0FF2|0040
-02|0FF6|0024|Well, call if you change your mind. 
+02|0FF6|0024|Bem, ligue se mudar de ideia. 
 03|102F|02B2
 03|1032|003B
-02|1036|0022|Can't make up your mind? Oh well. 
+02|1036|0022|Não consegue se decidir? Ah bem. 
 03|106D|0274
-02|1070|0014|Here is the amount. 
-02|1088|0017|Never mind, thank you. 
-02|10C5|0014|Here is the amount. 
+02|1070|0014|Aqui está o valor. 
+02|1088|0017|Não importa, obrigado. 
+02|10C5|0014|Aqui está o valor. 
 04|10DE|014F
 05|10EC|0581:1EE2
 04|10F4|00B7
 05|1102|0581:20B8
 04|110A|002B
-02|110E|000F|Thanks. Enjoy. 
+02|110E|000F|Obrigado. Aproveitar. 
 03|1132|01AF
 03|1135|0073
-02|1139|0048|Why, you haven't enough stone! Sorry, come back when you've more money. 
+02|1139|0048|Ora, você não tem pedra suficiente! Desculpe, volte quando tiver mais dinheiro. 
 05|11A1|0581:20B8
 03|11A8|0139
 03|11AB|007F
-02|11AF|0057|Hmmm, you can't take this. Your hands are full. I'll just hold it until you are ready. 
+02|11AF|0057|Hmmm, você não pode aceitar isso. Suas mãos estão ocupadas. Vou apenas segurar até que você esteja pronto. 
 05|1226|0581:1EE2
 03|122D|003E
-02|1231|0025|Let me know if you change your mind. 
+02|1231|0025|Deixe-me saber se você mudar de ideia. 
 03|126B|0076
 02|1270|0000|
 04|1275|006C
-02|1279|0053|Well, I don't have time to stand here all day. If you want something, let me know. 
+02|1279|0053|Bem, não tenho tempo para ficar aqui o dia todo. Se você quiser alguma coisa, me avise. 
 01|12EA|12EA
-02|12F4|007A|Well, we have a good kitchen here. We serve fish, Toraxen Jerky, Kith filet, bread, mushrooms, tubers and Toraxen cheese. 
-02|1383|0005|fish 
-02|138C|000E|Toraxen jerky 
-02|139E|000B|Kith filet 
-02|13AD|0006|bread 
-02|13B7|000A|mushrooms 
-02|13C5|0007|tubers 
-02|13D0|000F|Toraxen cheese 
-02|1405|0005|fish 
+02|12F4|007A|Bem, temos uma boa cozinha aqui. Servimos peixe, Toraxen Jerky, filé de Kith, pão, cogumelos, tubérculos e queijo Toraxen. 
+02|1383|0005|peixe 
+02|138C|000E|Peito espasmódico 
+02|139E|000B|Filé de Kith 
+02|13AD|0006|pão 
+02|13B7|000A|cogumelos 
+02|13C5|0007|tubérculos 
+02|13D0|000F|Queijo de castanha 
+02|1405|0005|peixe 
 04|140F|007E
-02|1413|0058|It's very fresh. Kilandra just brought it in today. It will cost you only one obsidian. 
+02|1413|0058|É muito fresco. Kilandra trouxe hoje. Custará apenas uma obsidiana. 
 03|148D|0473
-02|1492|000E|Toraxen jerky 
+02|1492|000E|Peito espasmódico 
 04|14A5|007E
-02|14A9|0058|Hmmm, planning a long trip? It's a bit tough, but travels well. It is 3 stones a pound. 
+02|14A9|0058|Hmmm, planejando uma viagem longa? É um pouco difícil, mas viaja bem. São 3 pedras por quilo. 
 03|1523|03DD
-02|1528|000B|Kith filet 
+02|1528|000B|Filé de Kith 
 04|1538|0087
-02|153C|0061|Ah, you do have good taste. Our filet of Kith is the finest in the land. It only costs 8 blacks. 
+02|153C|0061|Ah, você tem bom gosto. Nosso filé de Kith é o melhor do país. Custa apenas 8 negros. 
 03|15BF|0341
-02|15C4|000A|mushrooms 
+02|15C4|000A|cogumelos 
 04|15D3|00C7
-02|15D7|00A1|The Blue Mushrooms are my favorite. We can only serve them at this time because this is the only time they are in season. They will cost you only a single coin. 
+02|15D7|00A1|Os Cogumelos Azuis são os meus favoritos. Só podemos atendê-los neste horário porque é o único horário em que estão na temporada. Eles custarão apenas uma moeda. 
 03|169A|0266
-02|169F|0006|bread 
+02|169F|0006|pão 
 04|16AA|0069
-02|16AE|0043|It was baked fresh just today. You can have a serving for 1 stone. 
+02|16AE|0043|Foi assado fresco hoje mesmo. Você pode comer uma porção por 1 pedra. 
 03|1713|01ED
-02|1718|0007|tubers 
+02|1718|0007|tubérculos 
 04|1724|00A5
-02|1728|007F|I don't know if I would eat them alone. They are very good with the filet. But if you wish, you may have them for one glassie. 
+02|1728|007F|Não sei se os comeria sozinho. Eles ficam muito bons com o filé. Mas se desejar, você pode tê-los por um copo. 
 03|17C9|0137
-02|17CE|000F|Toraxen cheese 
+02|17CE|000F|Queijo de castanha 
 04|17E2|0083
-02|17E6|005D|Not everyone likes Toraxen cheese. It has a bit of a pungent flavor. It costs 1 black stone. 
+02|17E6|005D|Nem todo mundo gosta de queijo Toraxen. Tem um sabor um pouco picante. Custa 1 pedra negra. 
 03|1865|009B
-02|186A|0014|Nothing, thank you. 
+02|186A|0014|Nada, obrigado. 
 04|1883|0042
-02|1887|0026|If you change your mind, let me know. 
+02|1887|0026|Se você mudar de ideia, me avise. 
 03|18C2|022C
 03|18C5|003B
-02|18C9|0022|Can't make up your mind? Oh well. 
+02|18C9|0022|Não consegue se decidir? Ah bem. 
 03|1900|01EE
-02|1903|0014|Here is the amount. 
-02|191B|0017|Never mind, thank you. 
-02|1958|0014|Here is the amount. 
+02|1903|0014|Aqui está o valor. 
+02|191B|0017|Não importa, obrigado. 
+02|1958|0014|Aqui está o valor. 
 04|1971|013F
 05|197F|0581:20B8
 04|1987|00C5
 05|1994|0581:1EE2
 04|199C|002B
-02|19A0|000F|Thanks. Enjoy. 
+02|19A0|000F|Obrigado. Aproveitar. 
 03|19C4|012A
 03|19C7|0082
-02|19CB|0057|Hmmm, you can't take this. Your hands are full. I'll just hold it until you are ready. 
+02|19CB|0057|Hmmm, você não pode aceitar isso. Suas mãos estão ocupadas. Vou apenas segurar até que você esteja pronto. 
 05|1A42|0581:1EE2
 03|1A49|00A5
 03|1A4C|0061
-02|1A50|0048|Why, you haven't enough stone! Sorry, come back when you've more money. 
+02|1A50|0048|Ora, você não tem pedra suficiente! Desculpe, volte quando tiver mais dinheiro. 
 03|1AAD|0041
 03|1AB0|003E
-02|1AB4|0025|Let me know if you change your mind. 
+02|1AB4|0025|Deixe-me saber se você mudar de ideia. 
 01|1AF7|1AF7
 06|1B05|057C:0BCF
-02|1B12|000B|My name is 
+02|1B12|000B|Meu nome é 
 02|1B27|0001|.
 04|1B35|004E
-02|1B39|0012|What do you want? 
-02|1B60|0018|Good day to you, Jenna. 
+02|1B39|0012|O que você quer? 
+02|1B60|0018|Bom dia para você, Jenna. 
 03|1B83|01D1
 04|1B8B|0044
-02|1B8F|0007|Hello. 
-02|1BB1|0013|What is your name? 
+02|1B8F|0007|Olá. 
+02|1BB1|0013|Qual o seu nome? 
 03|1BCF|0185
 04|1BD6|0081
-02|1BDA|0031|You're lucky I don't skewer you where you stand. 
-02|1C20|001B|I am sorry if I upset you. 
-02|1C3F|000D|Just try it! 
+02|1BDA|0031|Você tem sorte de eu não te espetar onde você está. 
+02|1C20|001B|Me desculpe se eu te chateei. 
+02|1C3F|000D|Apenas tente! 
 03|1C57|00FD
 05|1C5C|0581:1A85
 04|1C6B|0061
 04|1C72|002C
-02|1C76|0013|Well, hello again, 
+02|1C76|0013|Bem, olá de novo, 
 03|1C9E|002B
-02|1CA2|0015|Good to see, friend. 
+02|1CA2|0015|É bom ver, amigo. 
 03|1CCC|006C
 04|1CD3|0036
-02|1CD7|0011|Good to see you, 
+02|1CD7|0011|Bom te ver, 
 02|1CF2|0001|.
 03|1D09|002F
-02|1D0D|0019|Good to see you, friend. 
-02|1D3D|000E|Hello, Jenna. 
+02|1D0D|0019|Que bom ver você, amigo. 
+02|1D3D|000E|Olá, Jenna. 
 04|1D5B|002C
-02|1D60|001E|What strange weather this is. 
-02|1D8C|0004|bye 
+02|1D60|001E|Que tempo estranho é esse. 
+02|1D8C|0004|tchau 
 04|1D96|343C
-02|1D9B|0004|bye 
-02|1DAE|0004|bye 
-02|1DD9|000E|Hello, Jenna. 
+02|1D9B|0004|tchau 
+02|1DAE|0004|tchau 
+02|1DD9|000E|Olá, Jenna. 
 04|1DEC|0100
-02|1DF0|0014|How can I help you? 
-02|1E1B|000E|Hello, Jenna. 
-02|1E36|001A|Why do you carry a sword? 
-02|1E54|0010|What do you do? 
-02|1E68|0025|I'd like something to drink, please. 
-02|1E91|001B|I'd like something to eat. 
+02|1DF0|0014|Como posso ajudá-lo? 
+02|1E1B|000E|Olá, Jenna. 
+02|1E36|001A|Por que você carrega uma espada? 
+02|1E54|0010|O que você faz? 
+02|1E68|0025|Gostaria de algo para beber, por favor. 
+02|1E91|001B|Eu gostaria de comer alguma coisa. 
 04|1EBF|002A
-02|1EC4|001C|Orlok sure likes his tales. 
+02|1EC4|001C|Orlok com certeza gosta de seus contos. 
 03|1EEC|32E3
-02|1EF1|001C|Orlok sure likes his tales. 
+02|1EF1|001C|Orlok com certeza gosta de seus contos. 
 04|1F12|00F4
-02|1F16|00B0|You don't have to tell me. I've heard every one of them at least a thousand times. And let me tell you, they get bigger with each telling. Did he tell you the ghost story yet? 
-02|1FDB|000D|Yes, he has. 
-02|1FEC|000F|No, he hasn't. 
+02|1F16|00B0|Você não precisa me contar. Já ouvi cada um deles pelo menos mil vezes. E deixe-me dizer, eles ficam maiores a cada narrativa. Ele já te contou a história do fantasma? 
+02|1FDB|000D|Sim ele tem. 
+02|1FEC|000F|Não, ele não tem. 
 03|2006|31C9
-02|200B|000D|Yes, he has. 
+02|200B|000D|Sim ele tem. 
 04|201D|01D7
-02|2021|011E|You know, of all his tales, that one is the only one that never changes when he tells it. I always wondered if there wasn't a grain of truth in it. Why, just the other night I heard my father, Darion, asking Orlok about that story. I don't know why, though. Anyway, what can I get you? 
-02|2156|000D|Yes, he has. 
-02|2167|000F|No, he hasn't. 
-02|2183|0025|I'd like something to drink, please. 
-02|21AC|001B|I'd like something to eat. 
-02|21CB|0014|Nothing, thank you. 
+02|2021|011E|Você sabe, de todas as suas histórias, essa é a única que nunca muda quando a conta. Sempre me perguntei se não havia um fundo de verdade nisso. Ora, outra noite ouvi meu pai, Darion, perguntando a Orlok sobre essa história. Eu não sei por que, no entanto. De qualquer forma, o que posso oferecer para você? 
+02|2156|000D|Sim ele tem. 
+02|2167|000F|Não, ele não tem. 
+02|2183|0025|Gostaria de algo para beber, por favor. 
+02|21AC|001B|Eu gostaria de algo para comer. 
+02|21CB|0014|Nada, obrigado. 
 03|21F4|2FDB
-02|21F9|000F|No, he hasn't. 
+02|21F9|000F|Não, ele não tem. 
 04|220D|00E8
-02|2211|0068|Well, don't you worry, he will. He always does. It's one of his favorites. Now, what can I get for you? 
-02|228E|0025|I'd like something to drink, please. 
-02|22B7|001B|I'd like something to eat. 
-02|22D6|0014|Nothing, thank you. 
+02|2211|0068|Bem, não se preocupe, ele vai. Ele sempre faz isso. É um dos seus favoritos. Agora, o que posso oferecer para você? 
+02|228E|0025|Gostaria de algo para beber, por favor. 
+02|22B7|001B|Eu gostaria de comer alguma coisa. 
+02|22D6|0014|Nada, obrigado. 
 03|22F5|2EDA
-02|22FA|001E|What strange weather this is. 
+02|22FA|001E|Que tempo estranho é esse. 
 04|231D|0175
-02|2321|00C1|I can't believe it. I've heard some fool somehow released Hydros and now our Tempest has no power to control the weather. It's even been said that Hydros is going to try to wash away the town! 
-02|23F7|0019|Do they know who did it? 
-02|2414|0013|I released Hydros. 
-02|242B|0025|I'd like something to drink, please. 
-02|2454|001B|I'd like something to eat. 
-02|2473|0014|Nothing, thank you. 
+02|2321|00C1|Eu não posso acreditar. Ouvi dizer que algum idiota liberou Hydros de alguma forma e agora nossa Tempest não tem poder para controlar o clima. Já foi dito que Hydros vai tentar destruir a cidade! 
+02|23F7|0019|Eles sabem quem fez isso? 
+02|2414|0013|Eu liberei Hydros. 
+02|242B|0025|Gostaria de algo para beber, por favor. 
+02|2454|001B|Eu gostaria de algo para comer. 
+02|2473|0014|Nada, obrigado. 
 03|2492|2D3D
-02|2497|0019|Do they know who did it? 
+02|2497|0019|Eles sabem quem fez isso? 
 04|24B5|0121
-02|24B9|00A1|They are not sure. But when they do find out, it's going to be ugly. They probably will design some hideous torture for that person! Anyway, what can I get you? 
-02|256F|0025|I'd like something to drink, please. 
-02|2598|001B|I'd like something to eat. 
-02|25B7|0014|Nothing, thank you. 
+02|24B9|00A1|Eles não têm certeza. Mas quando descobrirem, vai ser feio. Eles provavelmente criarão alguma tortura horrível para essa pessoa! De qualquer forma, o que posso oferecer para você? 
+02|256F|0025|Gostaria de algo para beber, por favor. 
+02|2598|001B|Eu gostaria de comer alguma coisa. 
+02|25B7|0014|Nada, obrigado. 
 03|25D6|2BF9
-02|25DB|0013|I released Hydros. 
+02|25DB|0013|Eu liberei Hydros. 
 04|25F3|0118
-02|25F7|0098|Ha, ha, ha! I'm sorry, but I don't think -you- are the type to release a -Titan-! The thought is rather funny. Ha, ha, ha! Now, what can I get for you? 
-02|26A4|0025|I'd like something to drink, please. 
-02|26CD|001B|I'd like something to eat. 
-02|26EC|0014|Nothing, thank you. 
+02|25F7|0098|Ha, ha, ha! Sinto muito, mas não acho que -você- seja do tipo que libera um -Titã-! O pensamento é bastante engraçado. Ha, ha, ha! Agora, o que posso oferecer para você? 
+02|26A4|0025|Gostaria de algo para beber, por favor. 
+02|26CD|001B|Eu gostaria de algo para comer. 
+02|26EC|0014|Nada, obrigado. 
 03|270B|2AC4
-02|2710|001F|May I have something to drink? 
-02|2736|0025|I'd like something to drink, please. 
+02|2710|001F|Posso beber alguma coisa? 
+02|2736|0025|Gostaria de algo para beber, por favor. 
 04|2761|006A
-02|2766|001F|May I have something to drink? 
-02|2789|0025|I'd like something to drink, please. 
+02|2766|001F|Posso beber alguma coisa? 
+02|2789|0025|Gostaria de algo para beber, por favor. 
 06|27BE|0418:0C3E
 03|27CB|2A04
-02|27D0|0013|What is your name? 
+02|27D0|0013|Qual o seu nome? 
 04|27E8|00E8
-02|27F2|001D|My name is Jenna, and yours? 
-02|2824|0016|That's a pretty name. 
-02|283E|0010|What do you do? 
-02|2852|001A|Why do you carry a sword? 
-02|287F|0013|What is your name? 
+02|27F2|001D|Meu nome é Jenna e o seu? 
+02|2824|0016|É um nome bonito. 
+02|283E|0010|O que você faz? 
+02|2852|001A|Por que você carrega uma espada? 
+02|287F|0013|Qual o seu nome? 
 04|28A3|002A
-02|28A8|001C|Orlok sure likes his tales. 
+02|28A8|001C|Orlok com certeza gosta de seus contos. 
 03|28D0|28FF
 04|28D8|0042
-02|28E2|000A|Well met, 
+02|28E2|000A|Oi, 
 02|28F6|0001|.
 03|291A|28B5
-02|291F|001A|Why do you carry a sword? 
+02|291F|001A|Por que você carrega uma espada? 
 04|293E|00C8
-02|2942|0045|Because it is mine, and I'll have you know I'm not afraid to use it. 
-02|299C|001D|You know how to use a sword? 
-02|29BD|001F|May I have something to drink? 
-02|29E0|001B|I'd like something to eat. 
+02|2942|0045|Porque é meu e quero que você saiba que não tenho medo de usá-lo. 
+02|299C|001D|Você sabe usar uma espada? 
+02|29BD|001F|Posso beber alguma coisa? 
+02|29E0|001B|Eu gostaria de comer alguma coisa. 
 03|2A06|27C9
-02|2A0B|001D|You know how to use a sword? 
+02|2A0B|001D|Você sabe usar uma espada? 
 04|2A2D|00C1
-02|2A31|0041|Yes, this blade has sent more than one man running for his life! 
-02|2A89|0015|You have killed men? 
-02|2AA2|0014|It is a nice blade. 
-02|2AC4|001D|You know how to use a sword? 
+02|2A31|0041|Sim, esta lâmina fez com que mais de um homem fugisse para salvar sua vida! 
+02|2A89|0015|Você matou homens? 
+02|2AA2|0014|É uma bela lâmina. 
+02|2AC4|001D|Você sabe usar uma espada? 
 03|2AEE|26E1
-02|2AF3|0015|You have killed men? 
+02|2AF3|0015|Você matou homens? 
 04|2B0D|0093
-02|2B11|0030|Only one or two. Most know to stay clear of me. 
-02|2B58|0018|Why do they stay clear? 
-02|2B7E|0015|You have killed men? 
+02|2B11|0030|Apenas um ou dois. A maioria sabe que deve ficar longe de mim. 
+02|2B58|0018|Por que eles ficam claros? 
+02|2B7E|0015|Você matou homens? 
 03|2BA0|262F
-02|2BA5|0018|Why do they stay clear? 
+02|2BA5|0018|Por que eles ficam claros? 
 04|2BC2|010F
-02|2BC6|006B|They stay clear because I do not want them around. My father calls them 'suitors', I call them a nuisance. 
-02|2C48|0018|Why do they stay clear? 
-02|2C6F|0009|Suitors? 
+02|2BC6|006B|Eles ficam afastados porque não os quero por perto. Meu pai os chama de 'pretendentes', eu os chamo de incômodo. 
+02|2C48|0018|Por que eles ficam claros? 
+02|2C6F|0009|Pretendentes? 
 04|2C88|0024
-02|2C8D|0013|I met your father. 
+02|2C8D|0013|Eu conheci seu pai. 
 03|2CAC|0022
-02|2CB1|0014|Who is your father? 
+02|2CB1|0014|Quem é o teu pai? 
 03|2CD1|24FE
-02|2CD6|0009|Suitors? 
+02|2CD6|0009|Pretendentes? 
 04|2CE4|00F3
-02|2CE8|007B|You know, male callers. They show up here and hang around like mooncalves. One in particular was bad. His name was Cyrrus. 
-02|2D7A|0009|Suitors? 
+02|2CE8|007B|Você sabe, chamadores do sexo masculino. Eles aparecem aqui e andam por aí como bezerros lunares. Um em particular era ruim. Seu nome era Ciro. 
+02|2D7A|0009|Pretendentes? 
 04|2D94|001F
-02|2D99|000E|I met Cyrrus. 
+02|2D99|000E|Eu conheci Ciro. 
 03|2DB3|0021
-02|2DB8|0013|Tell me of Cyrrus. 
+02|2DB8|0013|Conte-me sobre Ciro. 
 03|2DD7|23F8
-02|2DDC|000E|I met Cyrrus. 
+02|2DDC|000E|Eu conheci Ciro. 
 04|2DEF|0134
-02|2DF3|00D3|Oh, he is a dull thing, isn't he? All he ever used to talk about were those darn torax. He wanted me to marry him and live in the hills and be a herdsman's wife. I was certainly glad when he went to Argentrock. 
-02|2EDD|000E|I met Cyrrus. 
-02|2EFA|001D|Why did he go to Argentrock? 
+02|2DF3|00D3|Ah, ele é uma coisa chata, não é? Ele só falava sobre aqueles malditos tórax. Ele queria que eu me casasse com ele, morasse nas colinas e fosse esposa de um pastor. Certamente fiquei feliz quando ele foi para Argentrock. 
+02|2EDD|000E|Eu conheci Ciro. 
+02|2EFA|001D|Por que ele foi para Argentrock? 
 03|2F23|22AC
-02|2F28|0015|Where is Argentrock? 
+02|2F28|0015|Onde se encontra Argentrock? 
 04|2F42|00AE
-02|2F46|0071|It is quite a way from here. I'm not exactly sure, but I know you must travel through the cemetary to get there. 
-02|2FCE|0015|Where is Argentrock? 
+02|2F46|0071|É bem longe daqui. Não tenho certeza, mas sei que você deve passar pelo cemitério para chegar lá. 
+02|2FCE|0015|Onde se encontra Argentrock? 
 03|2FF0|21DF
-02|2FF5|0013|Tell me of Cyrrus. 
+02|2FF5|0013|Conte-me sobre Ciro. 
 04|300D|014C
-02|3011|00CD|He was a herdsman's son. He wanted to marry me and live in the hills tending torax. Now torax may be wonderful to him, but I think they are stupid and they smell. I was so glad when he went to Argentrock. 
-02|30F5|0013|Tell me of Cyrrus. 
-02|3117|001D|Why did he go to Argentrock? 
-02|3138|0015|Where is Argentrock? 
+02|3011|00CD|Ele era filho de um pastor. Ele queria se casar comigo e viver nas colinas cuidando do tórax. Agora, o torax pode ser maravilhoso para ele, mas acho que são estúpidos e cheiram mal. Fiquei tão feliz quando ele foi para Argentrock. 
+02|30F5|0013|Conte-me sobre Ciro. 
+02|3117|001D|Por que ele foi para Argentrock? 
+02|3138|0015|Onde se encontra Argentrock? 
 03|3159|2076
-02|315E|001D|Why did he go to Argentrock? 
+02|315E|001D|Por que ele foi para Argentrock? 
 04|3180|013B
-02|3184|00F6|They say he has some talent for healing. He always did feel closer to Stratos than he did to Hydros, though he didn't tell his family that. They would have been very angry. Well, I don't know if he ever became a healer, I'm just glad he is gone. 
-02|3291|001D|Why did he go to Argentrock? 
+02|3184|00F6|Dizem que ele tem algum talento para curar. Ele sempre se sentiu mais próximo de Stratos do que de Hydros, embora não tenha contado isso à família. Eles teriam ficado muito zangados. Bem, não sei se ele alguma vez se tornou um curandeiro, só estou feliz que ele tenha partido. 
+02|3291|001D|Por que ele foi para Argentrock? 
 03|32BB|1F14
-02|32C0|0013|I met your father. 
+02|32C0|0013|Eu conheci seu pai. 
 04|32D8|00D4
-02|32DC|007E|Yes, he is quite a man. He tries to marry me off to everyone who comes through town. He's afraid I'm going to be an old maid. 
-02|3371|0013|I met your father. 
-02|3393|000D|An old maid? 
+02|32DC|007E|Sim, ele é um homem e tanto. Ele tenta me casar com todo mundo que passa pela cidade. Ele tem medo que eu me torne uma solteirona. 
+02|3371|0013|Eu conheci seu pai. 
+02|3393|000D|Uma solteirona? 
 03|33AC|1E23
-02|33B1|0014|Who is your father? 
+02|33B1|0014|Quem é o teu pai? 
 04|33CA|00FD
-02|33CE|00A6|Darion, the Arms Master and Captain of the Palace Guard, is my father. He thinks I am going to be an old maid and tries to marry me off to everyone who comes around. 
-02|348B|0014|Who is your father? 
-02|34AE|000D|An old maid? 
+02|33CE|00A6|Darion, o Mestre das Armas e Capitão da Guarda do Palácio, é meu pai. Ele acha que vou ser uma solteirona e tenta me casar com todo mundo que aparece. 
+02|348B|0014|Quem é o teu pai? 
+02|34AE|000D|Uma solteirona? 
 03|34C7|1D08
-02|34CC|000D|An old maid? 
+02|34CC|000D|Uma solteirona? 
 04|34DE|00D6
-02|34E2|00A4|I am NOT an old maid! How dare you say that?! You are just like my father! I can't kill him, but I can you and I just might. Now, get out while I still feel civil! 
+02|34E2|00A4|Eu NÃO sou uma solteirona! Como você ousa dizer aquilo?! Você é igual ao meu pai! Não posso matá-lo, mas posso, você e talvez. Agora, saia enquanto ainda me sinto civilizado! 
 06|35A4|057C:1090
 03|35B1|1C31
 03|35B4|1C1B
-02|35B9|0014|It is a nice blade. 
+02|35B9|0014|É uma bela lâmina. 
 04|35D2|0097
-02|35D6|0045|Yes, it is a fine blade, a wondrous blade. Have you ever seen finer? 
-02|3632|0014|It is a nice blade. 
-02|3653|0004|yes 
-02|365B|0003|no 
+02|35D6|0045|Sim, é uma lâmina fina, uma lâmina maravilhosa. Você já viu algo melhor? 
+02|3632|0014|É uma bela lâmina. 
+02|3653|0004|sim 
+02|365B|0003|não 
 03|3669|1B66
-02|366E|0003|no 
+02|366E|0003|não 
 04|3676|00E9
-02|367A|0086|It's all I have left from my grandfather. Before he died, he gave me this sword and told me to wear it with pride. And I always have. 
-02|3717|0004|yes 
-02|371F|0003|no 
-02|372F|0021|Where did you learn to wield it? 
+02|367A|0086|É tudo o que me resta do meu avô. Antes de morrer, ele me deu esta espada e me disse para usá-la com orgulho. E eu sempre fiz isso. 
+02|3717|0004|sim 
+02|371F|0003|não 
+02|372F|0021|Onde você aprendeu a manejá-lo? 
 03|375F|1A70
-02|3764|0021|Where did you learn to wield it? 
+02|3764|0021|Onde você aprendeu a manejá-lo? 
 04|378A|00C8
-02|378E|007F|My father taught me. He always wanted a son, but all he got was me. So he taught me. He is determined to marry me off, though. 
-02|3824|0021|Where did you learn to wield it? 
+02|378E|007F|Meu pai me ensinou. Ele sempre quis um filho, mas tudo que ele conseguiu fui eu. Então ele me ensinou. Ele está determinado a me casar, no entanto. 
+02|3824|0021|Onde você aprendeu a manejá-lo? 
 03|3852|197D
-02|3857|0004|yes 
+02|3857|0004|sim 
 04|3860|00F9
-02|3864|00AD|You wretch! How dare you insult my grandfather's memory? You will pay for your disrespect! Now get out of my sight, before I decide to show you just how fine this blade is! 
-02|3928|0004|yes 
-02|3930|0003|no 
+02|3864|00AD|Seu desgraçado! Como ousa insultar a memória do meu avô? Você vai pagar pelo seu desrespeito! Agora saia da minha frente, antes que eu decida mostrar como esta lâmina é boa! 
+02|3928|0004|sim 
+02|3930|0003|não 
 06|3949|057C:1090
 03|3956|188C
 03|3959|1876
-02|395E|0010|What do you do? 
+02|395E|0010|O que você faz? 
 04|3973|00F7
-02|397D|0048|Well, for now I'm a barmaid. Can I get you a drink or something to eat? 
-02|39DA|0025|I'd like something to drink, please. 
-02|3A03|001B|I'd like something to eat. 
-02|3A22|0014|Nothing, thank you. 
+02|397D|0048|Bem, por enquanto sou garçonete. Posso pegar uma bebida ou algo para você comer? 
+02|39DA|0025|Gostaria de algo para beber, por favor. 
+02|3A03|001B|Eu gostaria de comer alguma coisa. 
+02|3A22|0014|Nada, obrigado. 
 04|3A46|0021
-02|3A4B|0013|A barmaid for now? 
+02|3A4B|0013|Uma garçonete por enquanto? 
 03|3A6A|1765
-02|3A6F|0013|A barmaid for now? 
+02|3A6F|0013|Uma garçonete por enquanto? 
 04|3A87|0122
-02|3A91|00BC|Yes. It was the only job I could find at short notice. What I really want to do is go adventuring, like you. Oh, how I would like to see something of the world beyond this smelly village. 
-02|3B62|0010|Smelly village? 
-02|3B76|0015|Job at short notice? 
-02|3B8F|000F|See the world? 
+02|3A91|00BC|Sim. Foi o único emprego que consegui encontrar em curto prazo. O que eu realmente quero fazer é me aventurar, como você. Ah, como eu gostaria de ver algo do mundo além desta vila fedorenta. 
+02|3B62|0010|Vila fedorenta? 
+02|3B76|0015|Trabalho em cima da hora? 
+02|3B8F|000F|Ver o mundo? 
 03|3BA9|1626
-02|3BAE|0010|Smelly village? 
+02|3BAE|0010|Vila fedorenta? 
 04|3BC3|0100
-02|3BC7|00C8|Yes, ugh. Can you not smell it? The rancid odor of fish combined with the nasty smell of those stupid torax. Sometimes I think that even if I left the smell would still be in my blood. It's terrible. 
-02|3CA6|0010|Smelly village? 
+02|3BC7|00C8|Sim, ah. Você não consegue sentir o cheiro? O odor rançoso do peixe combinava com o cheiro desagradável daqueles estúpidos torax. Às vezes penso que mesmo que eu fosse embora o cheiro ainda estaria no meu sangue. É terrível. 
+02|3CA6|0010|Vila fedorenta? 
 03|3CC3|150C
-02|3CC8|0015|Job at short notice? 
+02|3CC8|0015|Trabalho em cima da hora? 
 04|3CE2|013B
-02|3CE6|00FE|Well, see, my father wanted me married. He seems to think that a woman can't support herself. She must have a husband to make her a complete person. Well, just to prove to him I could do it, I got this job. It's not much, but it got me out of the house. 
-02|3DFB|0015|Job at short notice? 
+02|3CE6|00FE|Bem, veja, meu pai queria que eu me casasse. Ele parece pensar que uma mulher não consegue se sustentar. Ela deve ter um marido para torná-la uma pessoa completa. Bem, só para provar a ele que eu conseguiria, consegui esse emprego. Não é muito, mas me tirou de casa. 
+02|3DFB|0015|Trabalho em cima da hora? 
 03|3E1D|13B2
-02|3E22|000F|See the world? 
+02|3E22|000F|Ver o mundo? 
 04|3E36|00AA
-02|3E3A|0035|Ah, what I wouldn't give to see it all, but I can't. 
-02|3E86|000F|See the world? 
-02|3EA4|0016|What is there to see? 
-02|3EBE|0016|Why can't you see it? 
+02|3E3A|0035|Ah, o que eu não daria para ver tudo, mas não posso. 
+02|3E86|000F|Ver o mundo? 
+02|3EA4|0016|O que há para ver? 
+02|3EBE|0016|Por que você não consegue ver isso? 
 03|3EE0|12EF
-02|3EE5|0016|What is there to see? 
+02|3EE5|0016|O que há para ver? 
 04|3F00|0108
-02|3F04|00CA|Why, just the whole world. I've heard there are sorcerers who can call up the forces of fire and ancient ruins where hordes of treasure await anyone brave enough to fight the evil creature guarding it. 
-02|3FE5|0016|What is there to see? 
+02|3F04|00CA|Ora, apenas o mundo inteiro. Ouvi dizer que existem feiticeiros que podem invocar as forças do fogo e ruínas antigas onde hordas de tesouros aguardam qualquer um corajoso o suficiente para lutar contra a criatura maligna que os guarda. 
+02|3FE5|0016|O que há para ver? 
 03|4008|11C7
-02|400D|0016|Why can't you see it? 
+02|400D|0016|Por que você não consegue ver isso? 
 04|4028|008C
-02|402C|0023|Because I am a woman, so they say. 
-02|4066|0016|Why can't you see it? 
-02|408B|001D|Why can't a woman adventure? 
+02|402C|0023|Porque sou mulher, é o que dizem. 
+02|4066|0016|Por que você não consegue ver isso? 
+02|408B|001D|Por que uma mulher não pode se aventurar? 
 03|40B4|111B
-02|40B9|001D|Why can't a woman adventure? 
+02|40B9|001D|Por que uma mulher não pode se aventurar? 
 04|40DB|018C
-02|40DF|010C|There are those who say only young men are interested in adventuring, and women are only interested in cooking and shopping. Well, I say they are wrong! There mayn't be many of us, but we are here. Maybe someday they will realize it. Until then, how about that drink? 
-02|4200|0025|I'd like something to drink, please. 
-02|4229|001B|I'd like something to eat. 
-02|4248|0014|Nothing, thank you. 
+02|40DF|010C|Há quem diga que só os rapazes se interessam por aventuras e as mulheres só se interessam por cozinhar e fazer compras. Bem, eu digo que eles estão errados! Talvez não sejamos muitos, mas estamos aqui. Talvez um dia eles percebam isso. Até lá, que tal aquela bebida? 
+02|4200|0025|Gostaria de algo para beber, por favor. 
+02|4229|001B|Eu gostaria de algo para comer. 
+02|4248|0014|Nada, obrigado. 
 03|4267|0F68
-02|426C|0020|Yes, what do you have to drink? 
+02|426C|0020|Sim, o que você tem para beber? 
 06|4297|0418:0C3E
 03|42A4|0F2B
-02|42A9|0014|Nothing, thank you. 
-02|42C4|000F|No, thank you. 
+02|42A9|0014|Nada, obrigado. 
+02|42C4|000F|Não, obrigado. 
 04|42D9|0085
-02|42DD|0031|Well, If you change your mind, just let me know. 
-02|4323|001A|Why do you carry a sword? 
-02|4341|0012|Do you live here? 
+02|42DD|0031|Bem, se você mudar de ideia, é só me avisar. 
+02|4323|001A|Por que você carrega uma espada? 
+02|4341|0012|Você mora aqui? 
 03|435E|0E71
-02|4363|001B|I'd like something to eat. 
+02|4363|001B|Eu gostaria de comer alguma coisa. 
 04|4383|003D
-02|4388|001B|I'd like something to eat. 
+02|4388|001B|Eu gostaria de algo para comer. 
 06|43B3|0418:12EA
 03|43C0|0E0F
-02|43C5|0012|Do you live here? 
+02|43C5|0012|Você mora aqui? 
 04|43DC|00ED
-02|43E0|0038|Yes, all my life. I was born not far from the cemetery. 
-02|442D|001C|Tell me about the cemetery. 
-02|444D|0011|How old are you? 
-02|4462|0025|I'd like something to drink, please. 
-02|448B|001B|I'd like something to eat. 
-02|44AA|0014|Nothing, thank you. 
+02|43E0|0038|Sim, toda a minha vida. Nasci não muito longe do cemitério. 
+02|442D|001C|Conte-me sobre o cemitério. 
+02|444D|0011|Quantos anos você tem? 
+02|4462|0025|Gostaria de algo para beber, por favor. 
+02|448B|001B|Eu gostaria de comer alguma coisa. 
+02|44AA|0014|Nada, obrigado. 
 03|44C9|0D06
-02|44CE|0011|How old are you? 
+02|44CE|0011|Quantos anos você tem? 
 04|44E4|00C1
-02|44E8|008F|What a question! Why, I'm old enough to know how to use this sword! And I might be tempted to use it on you if you don't learn better manners! 
+02|44E8|008F|Que pergunta! Ora, tenho idade suficiente para saber como usar esta espada! E posso ficar tentado a usá-lo em você se não aprender boas maneiras! 
 06|4595|057C:1090
 03|45A2|0C40
 03|45A5|0C2A
-02|45AA|001C|Tell me about the cemetery. 
+02|45AA|001C|Conte-me sobre o cemitério. 
 04|45CB|0094
-02|45CF|0027|I do not like the place. 'Tis haunted. 
-02|460B|000D|Where is it? 
-02|461C|0009|Haunted? 
-02|4636|001C|Tell me about the cemetery. 
+02|45CF|0027|Eu não gosto do lugar. 'É assombrado. 
+02|460B|000D|Cadê? 
+02|461C|0009|Assombrada? 
+02|4636|001C|Conte-me sobre o cemitério. 
 03|465F|0B70
-02|4664|000D|Where is it? 
+02|4664|000D|Cadê? 
 04|4676|0140
-02|467A|00B1|It is on the other side of Tenebrae. You will have to head east from here, going right past the Tempest's keep, through the east side of town, then down a long, dangerous road. 
-02|4741|0023|I wouldn't go there if I were you. 
-02|477B|000D|Where is it? 
-02|4795|0012|Why not go there? 
+02|467A|00B1|Está do outro lado de Tenebrae. Você terá que seguir para o leste daqui, passando pela fortaleza da Tempestade, passando pelo lado leste da cidade e depois por uma estrada longa e perigosa. 
+02|4741|0023|Eu não iria lá se fosse você. 
+02|477B|000D|Cadê? 
+02|4795|0012|Por que não ir para lá? 
 03|47B6|0A19
-02|47BB|0009|Haunted? 
+02|47BB|0009|Assombrada? 
 04|47C9|0064
-02|47CD|0033|Yes, with the ghosts of those horrid Necromancers. 
-02|4817|0009|Haunted? 
+02|47CD|0033|Sim, com os fantasmas daqueles horríveis Necromantes. 
+02|4817|0009|Assombrada? 
 03|482D|09A2
-02|4832|0012|Why not go there? 
+02|4832|0012|Por que não ir para lá? 
 04|4849|01A0
-02|484D|00E0|It's a terrible place, a frightening place. The Necromancers used to be there. Terrible people they are, study dead bodies. Some say they even eat them! Only one person I know of travels there willingly and that is Mythran. 
-02|4942|0020|Tell me about the Necromancers. 
-02|4966|0018|They study dead bodies? 
-02|4982|0014|Tell me of Mythran. 
-02|499A|0025|I'd like something to drink, please. 
-02|49C3|001B|I'd like something to eat. 
+02|484D|00E0|É um lugar terrível, um lugar assustador. Os Necromantes costumavam estar lá. Eles são pessoas terríveis, estudam cadáveres. Alguns dizem que até os comem! Apenas uma pessoa que conheço viaja para lá de boa vontade e essa pessoa é Mythran. 
+02|4942|0020|Conte-me sobre os Necromantes. 
+02|4966|0018|Eles estudam cadáveres? 
+02|4982|0014|Conte-me sobre Mythran. 
+02|499A|0025|Gostaria de algo para beber, por favor. 
+02|49C3|001B|Eu gostaria de algo para comer. 
 03|49E9|07E6
-02|49EE|0014|Tell me of Mythran. 
+02|49EE|0014|Conte-me sobre Mythran. 
 04|4A07|0112
-02|4A0B|00BF|Mythran is an old hermit that lives on the Plateau. Some call him a sage, but I think he wields magic. Occasionally he comes into town. I guess he buys things for all those scrolls he makes. 
-02|4AE1|0014|Tell me of Mythran. 
-02|4B04|0009|Scrolls? 
+02|4A0B|00BF|Mythran é um velho eremita que vive no Planalto. Alguns o chamam de sábio, mas acho que ele exerce magia. De vez em quando ele vem à cidade. Acho que ele compra coisas por todos os pergaminhos que faz. 
+02|4AE1|0014|Conte-me sobre Mythran. 
+02|4B04|0009|Pergaminhos? 
 03|4B19|06B6
-02|4B1E|0009|Scrolls? 
+02|4B1E|0009|Pergaminhos? 
 04|4B2C|0113
-02|4B30|00DC|Magical scrolls, I think. Why, once I saw him read from one and unlock the door to the palace when I KNEW it was locked. I don't know what he was doing in there, and I didn't ask. Best to just keep quiet, if you ask me. 
-02|4C23|0009|Scrolls? 
+02|4B30|00DC|Pergaminhos mágicos, eu acho. Ora, uma vez eu o vi ler um deles e destrancar a porta do palácio quando SABIA que estava trancada. Não sei o que ele estava fazendo lá e não perguntei. Melhor ficar quieto, se você me perguntar. 
+02|4C23|0009|Pergaminhos? 
 03|4C3F|0590
-02|4C44|0020|Tell me about the Necromancers. 
+02|4C44|0020|Conte-me sobre os Necromantes. 
 04|4C69|0096
-02|4C6D|004E|Great power they have, power over life and death. I shiver to think about it. 
-02|4CD2|0020|Tell me about the Necromancers. 
+02|4C6D|004E|Eles têm um grande poder, poder sobre a vida e a morte. Estremeço só de pensar nisso. 
+02|4CD2|0020|Conte-me sobre os Necromantes. 
 03|4CFF|04D0
-02|4D04|0018|They study dead bodies? 
+02|4D04|0018|Eles estudam cadáveres? 
 04|4D21|00D3
-02|4D25|0093|That's why they live in the cemetery, so they always have a fresh supply. I think the ghosts of their victims are there, looking for their bodies. 
-02|4DCF|0018|They study dead bodies? 
+02|4D25|0093|É por isso que eles moram no cemitério, para terem sempre um suprimento novo. Acho que os fantasmas das suas vítimas estão lá, à procura dos seus corpos. 
+02|4DCF|0018|Eles estudam cadáveres? 
 03|4DF4|03DB
-02|4DF9|0016|That's a pretty name. 
+02|4DF9|0016|É um nome bonito. 
 04|4E14|00A2
-02|4E18|0064|If it is a lady's company you are after, then I am afraid you have come to the wrong establishment. 
-02|4E93|0016|That's a pretty name. 
+02|4E18|0064|Se você procura a companhia de uma senhora, receio que tenha vindo ao estabelecimento errado. 
+02|4E93|0016|É um nome bonito. 
 03|4EB6|0319
-02|4EBB|001B|I am sorry if I upset you. 
+02|4EBB|001B|Me desculpe se eu te chateei. 
 04|4EDB|00F8
-02|4EDF|0062|I have a long memory for slights. It is only out of respect for Orlok that I will hold my temper. 
-02|4F58|001B|I am sorry if I upset you. 
-02|4F80|0025|I'd like something to drink, please. 
-02|4FA9|001B|I'd like something to eat. 
+02|4EDF|0062|Tenho uma longa memória para desrespeitos. É apenas por respeito a Orlok que vou controlar a minha calma. 
+02|4F58|001B|Me desculpe se eu te chateei. 
+02|4F80|0025|Gostaria de algo para beber, por favor. 
+02|4FA9|001B|Eu gostaria de algo para comer. 
 03|4FD3|01FC
-02|4FD8|000D|Just try it! 
+02|4FD8|000D|Apenas tente! 
 04|4FEA|0088
-02|4FEE|005C|You animal! I will not disgrace Orlok's trust in me by fighting in his tavern. Now get out! 
+02|4FEE|005C|Seu animal! Não desonrarei a confiança que Orlok deposita em mim lutando em sua taverna. Agora saia! 
 06|5062|057C:1090
 03|506F|0173
 03|5072|015D
-02|5077|0018|Good day to you, Jenna. 
+02|5077|0018|Bom dia para você, Jenna. 
 04|5094|00F0
-02|5098|00BE|What do you mean, 'good day'?! Can you not see what is happening? The dead have left their graves and are walking the streets of Tenebrae! Darion needs my sword, I have no time to chat now! 
+02|5098|00BE|O que você quer dizer com 'bom dia'?! Você não consegue ver o que está acontecendo? Os mortos deixaram seus túmulos e estão andando pelas ruas de Tenebrae! Darion precisa da minha espada, não tenho tempo para conversar agora! 
 06|516E|057C:1090
 03|5181|0061
 03|5184|004B
-02|5189|0004|bye 
+02|5189|0004|tchau 
 04|5192|003D
-02|5196|0011|Good day to you. 
+02|5196|0011|Bom dia para você. 
 06|51BF|057C:1090
 03|51D2|CBB5
 06|51D8|057C:1090

@@ -1,5 +1,5 @@
 01|0080|0080
-02|008C|0012|floating platform 
+02|008C|0012|plataforma flutuante 
 01|00B5|00B5
 06|00D7|02AF:0136
 01|00E2|00E2

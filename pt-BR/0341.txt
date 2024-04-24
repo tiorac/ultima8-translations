@@ -1,31 +1,31 @@
 01|0080|0080
-02|008C|000C|recall item 
+02|008C|000C|item de recall 
 01|00AF|00AF
 03|013C|0283
 05|013F|0581:36E7
 04|0166|0259
-02|016A|001A|What is your destination? 
+02|016A|001A|Qual é o seu destino? 
 04|019D|001F
-02|01A2|0011|Central Tenebrae 
+02|01A2|0011|Escuridão Central 
 04|01C3|0016
-02|01C8|0008|Plateau 
+02|01C8|0008|Platô 
 04|01E0|001E
-02|01E5|0010|Upper Catacombs 
+02|01E5|0010|Catacumbas Superiores 
 04|0205|0028
-02|020A|001A|Hall of the Mountain King 
+02|020A|001A|Salão do Rei da Montanha 
 04|0234|001E
-02|0239|0010|Argentrock Isle 
+02|0239|0010|Ilha Argentrock 
 04|0259|001B
-02|025E|000D|Carthax Lake 
+02|025E|000D|Lago Cartax 
 04|027B|001C
-02|0280|000E|Daemon's Crag 
-02|029C|0008|Nowhere 
-02|02CF|0011|Central Tenebrae 
-02|02EE|0008|Plateau 
-02|0304|0010|Upper Catacombs 
-02|0322|001A|Hall of the Mountain King 
-02|034A|0010|Argentrock Isle 
-02|0368|000D|Carthax Lake 
-02|0391|000E|Daemon's Crag 
+02|0280|000E|Penhasco do Daemon 
+02|029C|0008|Em lugar nenhum 
+02|02CF|0011|Escuridão Central 
+02|02EE|0008|Platô 
+02|0304|0010|Catacumbas Superiores 
+02|0322|001A|Salão do Rei da Montanha 
+02|034A|0010|Ilha Argentrock 
+02|0368|000D|Lago Cartax 
+02|0391|000E|Penhasco do Daemon 
 06|03B7|0341:03C8
 01|03C8|03C8

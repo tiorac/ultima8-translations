@@ -6,7 +6,7 @@
 06|0141|01B1:09B2
 06|0157|0581:1C19
 06|0168|01B1:0D3C
-02|0172|003B|You have betrayed me, live one, and for that you must die! 
+02|0172|003B|Você me traiu, viva um, e por isso você deve morrer! 
 06|01C5|01B1:0DDC
 06|01DE|0581:1C8B
 06|01FC|0586:11F0

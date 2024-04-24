@@ -1,5 +1,5 @@
 01|0080|0080
-02|0084|0006|Cardas
+02|0084|0006|Cartas
 03|009B|00A7
 03|009E|009E
 02|00A3|0006|Daemos
@@ -16,7 +16,7 @@
 03|011B|0021
 02|0120|0008|Emrichol
 01|0147|0147
-02|014B|0006|Cardas
+02|014B|0006|Cartas
 03|0162|00A7
 03|0165|009E
 02|016A|0006|Daemos
@@ -33,7 +33,7 @@
 03|01E2|0021
 02|01E7|0008|Emrichol
 01|020E|020E
-02|0212|0006|Cardas
+02|0212|0006|Cartas
 03|0229|00A7
 03|022C|009E
 02|0231|0006|Daemos
@@ -50,7 +50,7 @@
 03|02A9|0021
 02|02AE|0008|Emrichol
 01|02D5|02D5
-02|02D9|0006|Cardas
+02|02D9|0006|Cartas
 03|02F0|00A7
 03|02F3|009E
 02|02F8|0006|Daemos
@@ -67,7 +67,7 @@
 03|0370|0021
 02|0375|0008|Emrichol
 01|039C|039C
-02|03AB|0006|Cardas
+02|03AB|0006|Cartas
 03|03CB|00BC
 02|03D0|0006|Daemos
 03|03F0|0097
@@ -80,26 +80,26 @@
 02|0465|0008|Emrichol
 04|048F|0065
 04|049B|002F
-02|04A1|0013|, the late Sorcerer
+02|04A1|0013|, o falecido Feiticeiro
 03|04CA|0027
-02|04D0|000E|, the Sorcerer
+02|04D0|000E|, o feiticeiro
 03|04F4|00F3
 04|04F9|004A
 04|0505|002A
-02|050B|000E|, the deceased
+02|050B|000E|, o falecido
 03|0543|00A4
 04|0548|0055
 04|0554|0027
-02|0558|000E|dead Sorcerer 
+02|0558|000E|Feiticeiro morto 
 03|057B|001F
-02|057F|0009|Sorcerer 
+02|057F|0009|Feiticeiro 
 03|059D|004A
 04|05A9|0023
-02|05AD|000A|dead mage 
+02|05AD|000A|mago morto 
 03|05CC|001B
-02|05D0|0005|mage 
+02|05D0|0005|mago 
 01|05EC|05EC
-02|060D|0006|Cardas
+02|060D|0006|Cartas
 03|0633|00DA
 02|0638|0006|Daemos
 03|065E|00AF
@@ -115,22 +115,22 @@
 04|0758|0231
 05|075D|0581:1A85
 04|076A|00AD
-02|076E|0094|Tis a horrible way to go, consumed by a daemon. I am not so sure I should have started down the Burning Path. Forgive me. I cannot speak right now. 
+02|076E|0094|É uma maneira horrível de morrer, consumido por um daemon. Não tenho tanta certeza se deveria ter começado a trilhar o Caminho Ardente. Me perdoe. Não posso falar agora. 
 03|0817|015C
 04|081F|0087
-02|0823|006E|I shall have to learn how to banish daemons as soon as possible. I suggest you do the same. Farewell for now. 
+02|0823|006E|Terei que aprender como banir demônios o mais rápido possível. Eu sugiro que você faça o mesmo. Adeus por enquanto. 
 03|08A6|00CD
-02|08AA|00B7|I wonder what happens when a Sorcerer summons a daemon to fight another daemon. Perhaps that is the best defense against a daemon attack. I must go now. Perhaps we shall speak later. 
+02|08AA|00B7|Eu me pergunto o que acontece quando um Feiticeiro convoca um daemon para lutar contra outro daemon. Talvez essa seja a melhor defesa contra um ataque de daemon. Preciso ir agora. Talvez falemos mais tarde. 
 06|0979|057C:1090
 03|0986|11D6
 03|0989|0214
 04|0997|0206
 06|09A8|057C:15E7
 04|09BA|00BD
-02|09BE|0094|Pyros below! The Master! I am just a lowly Disciple. I did not mean to arouse your wrath. If you will permit me to live, I will bother you no more. 
+02|09BE|0094|Pyros abaixo! O mestre! Eu sou apenas um humilde discípulo. Eu não tive a intenção de despertar sua ira. Se você me permitir viver, não vou mais incomodá-lo. 
 05|0A6B|0575:0080
 03|0A77|00DC
-02|0A7B|00C6|Since there is no reason why you would want to speak to me, I must assume that you wish to punish me. I do not know what I have done to deserve your punishment, but I submit myself to your justice. 
+02|0A7B|00C6|Como não há razão para você querer falar comigo, devo presumir que deseja me punir. Não sei o que fiz para merecer o seu castigo, mas submeto-me à sua justiça. 
 06|0B5E|0581:1C19
 06|0B7B|057C:15E7
 06|0B8D|057C:1090
@@ -138,147 +138,147 @@
 04|0BA3|00B9
 05|0BA8|0581:1A85
 04|0BB5|0040
-02|0BB9|0027|Greetings, stranger. What do you want? 
+02|0BB9|0027|Saudações, estranho. O que você quer? 
 03|0BF5|0064
 04|0BFD|002A
-02|0C01|0011|Yes. What is it? 
+02|0C01|0011|Sim. O que é? 
 03|0C27|0032
-02|0C2B|001C|What do you need, stranger. 
+02|0C2B|001C|O que você precisa, estranho. 
 03|0C5C|00BA
 05|0C61|0581:1A85
 04|0C6E|0042
-02|0C72|000B|Greetings, 
-02|0C87|0013|. What do you want?
+02|0C72|000B|Saudações, 
+02|0C87|0013|. O que você quer?
 03|0CB0|0066
 04|0CB8|002A
-02|0CBC|0011|Yes? What is it? 
+02|0CBC|0011|Sim? O que é? 
 03|0CE2|0034
-02|0CE6|0012|What do you need, 
+02|0CE6|0012|O que você precisa, 
 02|0D02|0001|?
-02|0D19|0017|Tell me of this place. 
+02|0D19|0017|Conte-me sobre este lugar. 
 04|0D3E|0023
-02|0D43|0015|What are you called? 
+02|0D43|0015|Como você é chamado? 
 04|0D67|001E
-02|0D6C|0010|What do you do? 
+02|0D6C|0010|O que você faz? 
 02|0D88|0000|
-02|0D92|000A|Farewell. 
+02|0D92|000A|Até a próxima. 
 04|0DA2|0DAA
 05|0DA7|0581:29B4
 04|0DB4|00B2
-02|0DB8|002D|Is there something else you would ask about? 
-02|0DFA|0017|Tell me of this place. 
+02|0DB8|002D|Há mais alguma coisa que você gostaria de perguntar? 
+02|0DFA|0017|Conte-me sobre este lugar. 
 04|0E1F|0023
-02|0E24|0015|What are you called? 
+02|0E24|0015|Como você é chamado? 
 04|0E48|001E
-02|0E4D|0010|What do you do? 
-02|0E69|000A|Farewell. 
+02|0E4D|0010|O que você faz? 
+02|0E69|000A|Até a próxima. 
 05|0E79|0581:3695
-02|0EA4|0017|Tell me of this place. 
+02|0EA4|0017|Conte-me sobre este lugar. 
 04|0EC0|0154
-02|0EC4|009F|Well... as a Disciple, it is not my place to inform newcomers of this place. Suffice it to say, it is called Sorcerer's Enclave, and it sits in Daemon's Crag. 
-02|0F78|001D|Why is it called an enclave? 
-02|0F99|001A|Tell me of Daemon's Crag. 
+02|0EC4|009F|Bem... como discípulo, não é minha função informar os recém-chegados sobre este lugar. Basta dizer que é chamado de Enclave do Feiticeiro e fica em Daemon’s Crag. 
+02|0F78|001D|Por que é chamado de enclave? 
+02|0F99|001A|Conte-me sobre Daemon's Crag. 
 04|0FC1|0023
-02|0FC4|0014|What is a Sorcerer? 
+02|0FC4|0014|O que é um Feiticeiro? 
 04|0FEA|0027
-02|0FED|0018|Disciple? What is that? 
+02|0FED|0018|Discípulo? O que é aquilo? 
 03|1014|0B35
-02|1019|0015|What are you called? 
+02|1019|0015|Como você é chamado? 
 04|1033|0093
-02|1036|000B|My name is 
+02|1036|000B|Meu nome é 
 02|1048|0001|.
-02|1054|000E| And you are? 
+02|1054|000E| E você é? 
 05|1080|0575:0147
-02|108C|0005|I am 
+02|108C|0005|Eu sou 
 02|109B|0001|.
-02|10A7|0014|It does not matter. 
+02|10A7|0014|Isso não importa. 
 03|10C6|0A83
-02|10CB|0010|What do you do? 
+02|10CB|0010|O que você faz? 
 04|10E0|00CA
-02|10E4|002C|I am a Sorcerer. A Disciple to be specific. 
+02|10E4|002C|Eu sou um Feiticeiro. Um discípulo para ser específico. 
 04|1128|0023
-02|112B|0014|What is a Sorcerer? 
+02|112B|0014|O que é um Feiticeiro? 
 04|1151|0027
-02|1154|0018|Disciple? What is that? 
-02|117D|0010|What do you do? 
+02|1154|0018|Discípulo? O que é aquilo? 
+02|117D|0010|O que você faz? 
 05|119E|0575:020E
 03|11AA|099F
 04|11B2|0064
-02|11B6|000A|Well met, 
+02|11B6|000A|Oi, 
 02|11CA|0001|.
 05|11E5|0575:02D5
-02|11F5|0014|It does not matter. 
+02|11F5|0014|Isso não importa. 
 03|1216|0933
-02|121B|0014|It does not matter. 
+02|121B|0014|Isso não importa. 
 04|1234|009D
-02|1238|005F|True enough. I do like to know who I am speaking to, but it doesn't really matter who you are. 
-02|12B0|0014|It does not matter. 
+02|1238|005F|É verdade. Gosto de saber com quem estou falando, mas realmente não importa quem você é. 
+02|12B0|0014|Isso não importa. 
 03|12D1|0878
-02|12D6|001D|Why is it called an enclave? 
+02|12D6|001D|Por que é chamado de enclave? 
 04|12F8|0141
-02|12FC|00DB|There was a time when we Sorcerers were feared by the others. Our kind were outcasts amongst them. And so, many ages ago, the Cabal made the enclave to protect ourselves... as well as the others from misunderstandings. 
-02|13EE|001D|Why is it called an enclave? 
-02|141A|0013|What is the Cabal. 
+02|12FC|00DB|Houve um tempo em que nós, Feiticeiros, éramos temidos pelos outros. Nossa espécie era pária entre eles. E assim, há muitos anos, a Cabala criou o enclave para nos protegermos... bem como aos outros, de mal-entendidos. 
+02|13EE|001D|Por que é chamado de enclave? 
+02|141A|0013|O que é a Cabala. 
 03|1439|0710
-02|143E|001A|Tell me of Daemon's Crag. 
+02|143E|001A|Conte-me sobre Daemon's Crag. 
 04|145D|00BC
-02|1461|0057|I don't know very much about it. My studies of Sorcery preclude much outside research. 
-02|14CF|001A|Tell me of Daemon's Crag. 
-02|14F8|0015|What use is Sorcery? 
+02|1461|0057|Eu não sei muito sobre isso. Meus estudos de Feitiçaria impedem muitas pesquisas externas. 
+02|14CF|001A|Conte-me sobre Daemon's Crag. 
+02|14F8|0015|Para que serve a feitiçaria? 
 03|1519|0630
-02|151E|0014|What is a Sorcerer? 
+02|151E|0014|O que é um Feiticeiro? 
 04|1537|00CB
-02|153B|0061|A Sorcerer... strange that you should ask. Nevermind. A Sorcerer is a mage who studies the Fire. 
-02|15B3|0014|What is a Sorcerer? 
+02|153B|0061|Um Feiticeiro... estranho que você pergunte. Deixa para lá. Um Feiticeiro é um mago que estuda o Fogo. 
+02|15B3|0014|O que é um Feiticeiro? 
 04|15D7|0024
-02|15DA|0015|Tell me of the Fire. 
+02|15DA|0015|Conte-me sobre o Fogo. 
 03|1602|0547
-02|1607|0018|Disciple? What is that? 
+02|1607|0018|Discípulo? O que é aquilo? 
 04|1624|00D7
-02|1628|0069|A Disciple is a follower of the Burning Path. And before you ask, the Burning Path is the study of Fire. 
-02|16A8|0018|Disciple? What is that? 
+02|1628|0069|Um Discípulo é um seguidor do Caminho Ardente. E antes que você pergunte, o Caminho Ardente é o estudo do Fogo. 
+02|16A8|0018|Discípulo? O que é aquilo? 
 04|16D0|0024
-02|16D3|0015|Tell me of the Fire. 
+02|16D3|0015|Conte-me sobre o Fogo. 
 03|16FB|044E
-02|1700|0013|What is the Cabal. 
+02|1700|0013|O que é a Cabala. 
 04|1718|0066
-02|171C|002B|That is the word we use for all Sorcerers. 
-02|175E|0013|What is the Cabal. 
+02|171C|002B|Essa é a palavra que usamos para todos os Feiticeiros. 
+02|175E|0013|O que é a Cabala. 
 03|177E|03CB
-02|1783|0015|What use is Sorcery? 
+02|1783|0015|Para que serve a feitiçaria? 
 04|179D|0099
-02|17A1|005C|If you have to ask that, it will never be of use to you. And so, my answer wouldn't either. 
-02|1814|0015|What use is Sorcery? 
+02|17A1|005C|Se você tiver que perguntar isso, nunca será útil para você. E então, minha resposta também não. 
+02|1814|0015|Para que serve a feitiçaria? 
 03|1836|0313
-02|183B|0015|Tell me of the Fire. 
+02|183B|0015|Conte-me sobre o Fogo. 
 04|1855|00E7
-02|1859|00A6|I cannot... it fills my being. I sleep and it washes over my dreams, I wake and it is all around me. It is my desire to command and serve it for the rest of my days. 
-02|1916|0015|Tell me of the Fire. 
+02|1859|00A6|Não consigo... isso preenche meu ser. Eu durmo e isso toma conta dos meus sonhos, eu acordo e isso está ao meu redor. É meu desejo comandá-lo e servi-lo pelo resto dos meus dias. 
+02|1916|0015|Conte-me sobre o Fogo. 
 03|193C|020D
-02|1941|000A|Farewell. 
+02|1941|000A|Até a próxima. 
 04|1950|008F
 05|1955|0581:1A85
 04|1962|0022
-02|1966|0009|Adeus 
+02|1966|0009|Adeus. 
 03|1984|0058
 04|198C|0023
-02|1990|000A|Farewell. 
+02|1990|000A|Até a próxima. 
 03|19AF|002D
-02|19B3|0017|Until we meet again... 
+02|19B3|0017|Até nos encontrarmos novamente... 
 03|19DF|016A
 02|19E4|0000|
 04|19E9|0123
 05|19EE|0581:1A85
 04|19FB|0042
-02|19FF|0029|Come again when you truly wish to speak. 
+02|19FF|0029|Volte quando você realmente desejar falar. 
 03|1A3D|00BA
 04|1A45|0043
-02|1A49|002A|This is like talking to a torax. Goodbye. 
+02|1A49|002A|Isto é como falar com um tórax. Adeus. 
 03|1A88|006F
-02|1A8C|0059|When you wish to talk, you may seek me out. I must return to what I was doing. Farewell. 
-02|1AFA|000A|Farewell. 
+02|1A8C|0059|Quando quiser conversar, você pode me procurar. Devo voltar ao que estava fazendo. Até a próxima. 
+02|1AFA|000A|Até a próxima. 
 03|1B0C|003D
-02|1B10|0027|I do not understand. What did you say? 
+02|1B10|0027|Eu não entendi. O que você disse? 
 03|1B4C|F241
 06|1B52|057C:1090
 01|1B69|1B69
@@ -295,111 +295,111 @@
 06|1C39|0581:1C19
 03|1C48|02E9
 04|1C50|0060
-02|1C54|0038|So these two Sorcerers walk into the Shattered Skull... 
+02|1C54|0038|Então esses dois Feiticeiros entram na Caveira Despedaçada... 
 06|1C97|0575:1B69
 03|1CB0|0281
 04|1CB8|0042
-02|1CBC|001A|What were those runes...? 
+02|1CBC|001A|O que eram aquelas runas...? 
 06|1CE1|0575:1B69
 03|1CFA|0237
 04|1D02|004C
-02|1D06|0023|Where did I put that spellbook...? 
+02|1D06|0023|Onde eu coloquei aquele livro de feitiços...? 
 06|1D34|0575:1B69
 03|1D4E|01E3
 04|1D56|003B
-02|1D5A|0013|Armor of Flames... 
+02|1D5A|0013|Armadura de Chamas... 
 06|1D78|0575:1B69
 03|1D91|01A0
 04|1D99|004A
-02|1D9D|0022|Explosion... flame is released... 
+02|1D9D|0022|Explosão... chama é liberada... 
 06|1DCA|0575:1B69
 03|1DE3|014E
 04|1DEB|0047
-02|1DEF|0027|I'll never make it through the Trials. 
+02|1DEF|0027|Nunca conseguirei passar pelas Provas. 
 06|1E21|0575:1B69
 03|1E32|00FF
 04|1E3A|00B0
 06|1E51|0581:1C19
 06|1E71|057C:15E7
-02|1E80|0010|In Sanct An Por.
+02|1E80|0010|Em Sant An Por.
 06|1E9B|0575:1B69
 06|1EB6|057C:15E7
 06|1ED3|057C:15E7
 03|1EEA|0047
-02|1EEE|002A|Fire is the way. Follow the Burning Path. 
+02|1EEE|002A|O fogo é o caminho. Siga o Caminho Ardente. 
 06|1F23|0575:1B69
 03|1F34|0639
 04|1F3C|004F
-02|1F40|0024|In Vas Kal... No, that's not right. 
+02|1F40|0024|Em Vas Kal... Não, isso não está certo. 
 06|1F6F|0575:1B69
 03|1F8B|05E2
 04|1F93|0061
-02|1F97|0038|Vas Kal Flam Por. That's it. Now I just need brimstone. 
+02|1F97|0038|Vas Kal Flam Por. É isso. Agora só preciso de enxofre. 
 06|1FDA|0575:1B69
 03|1FF4|0579
 04|1FFC|004B
-02|2000|0022|I suppose I'll never find it now. 
+02|2000|0022|Suponho que nunca o encontrarei agora. 
 06|202D|0575:1B69
 03|2047|0526
 04|204F|003C
-02|2053|0011|Vas Sanct Flam...
+02|2053|0011|Você vai para Santa Flam...
 06|206F|0575:1B69
 03|208B|04E2
 04|2093|0049
-02|2097|0020|And a rod will hold the energy. 
+02|2097|0020|E uma vara reterá a energia. 
 06|20C2|0575:1B69
 03|20DC|0491
 04|20E4|004C
-02|20E8|0021|...shooting forth, unerringly... 
+02|20E8|0021|...disparando, infalivelmente... 
 06|2114|0575:1B69
 03|2130|043D
 04|2138|004C
-02|213C|0021|Upon reaching its destination... 
+02|213C|0021|Ao chegar ao seu destino... 
 06|2168|0575:1B69
 03|2184|03E9
 04|218C|0048
-02|2190|001D|...caught within it's range. 
+02|2190|001D|... apanhado dentro do seu alcance. 
 06|21B8|0575:1B69
 03|21D4|0399
 04|21DC|004D
-02|21E0|0024|Brimstone... I need more brimstone. 
+02|21E0|0024|Enxofre... Preciso de mais enxofre. 
 06|220F|0575:1B69
 03|2229|0344
 04|2231|003B
-02|2235|0010|Yes, that's it. 
+02|2235|0010|Sim é isso. 
 06|2250|0575:1B69
 03|226C|0301
 04|2274|0049
-02|2278|0020|I know I shall be accepted now. 
+02|2278|0020|Eu sei que serei aceito agora. 
 06|22A3|0575:1B69
 03|22BD|02B0
 04|22C5|0044
-02|22C9|0019|One says to the other... 
+02|22C9|0019|Um diz para o outro... 
 06|22ED|0575:1B69
 03|2309|0264
 04|2311|0063
-02|2315|0038|What is the difference between a torax and a Theurgist? 
+02|2315|0038|Qual é a diferença entre um torax e um teurgo? 
 06|2358|0575:1B69
 03|2374|01F9
 04|237C|0043
-02|2380|0018|The other says... What? 
+02|2380|0018|O outro diz... O quê? 
 06|23A3|0575:1B69
 03|23BF|01AE
 04|23C7|0040
-02|23CB|0015|The first replies... 
+02|23CB|0015|As primeiras respostas... 
 06|23EB|0575:1B69
 03|2407|0166
 04|240F|015E
 05|2414|0581:1A85
 04|241C|004C
-02|2420|002C|Damn! I never can remember that punch line. 
+02|2420|002C|Droga! Nunca consigo me lembrar dessa piada. 
 06|2457|0575:1B69
 03|2468|00F9
-02|246C|0046|One is a slow-witted beast of burden, and the other is a herd animal. 
+02|246C|0046|Um é um animal de carga de raciocínio lento e o outro é um animal de rebanho. 
 06|24BD|0575:1B69
 06|24DC|057C:15E7
 06|24F3|0581:1C19
-02|2503|0028|Thank you. No applause. Just obsidians. 
+02|2503|0028|Obrigado. Sem aplausos. Apenas obsidianas. 
 06|2536|0575:1B69
 06|2555|057C:15E7
 06|2578|0581:1C19

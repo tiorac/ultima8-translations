@@ -2,41 +2,41 @@
 01|00B2|00B2
 06|00DE|0581:29D8
 03|00FF|3211
-02|0106|0004|Demo
-02|010E|000A|Spell Book
-02|011C|000B|Information
-02|012B|000C|Enemy Caster
-02|013B|0004|Time
-02|0143|0003|Key
-02|014A|0005|Staff
-02|0153|000B|Call Guards
-02|0162|0008|Blow up!
-02|016E|0007|Kill me
-02|0179|0007|EndGame
-02|0184|000B|Jump ahead.
-02|0193|0004|Done
-02|01A4|0004|Done
+02|0106|0004|Demonstração
+02|010E|000A|Livro de feitiços
+02|011C|000B|Informação
+02|012B|000C|Conjurador Inimigo
+02|013B|0004|Tempo
+02|0143|0003|Chave
+02|014A|0005|Funcionários
+02|0153|000B|Chame os guardas
+02|0162|0008|Explodir!
+02|016E|0007|Me mata
+02|0179|0007|Fim do jogo
+02|0184|000B|Vá em frente.
+02|0193|0004|Feito
+02|01A4|0004|Feito
 04|01AE|3162
-02|01CC|0006|Create
+02|01CC|0006|Criar
 04|01D7|01FC
-02|01DB|0025|Enter type number. (2-851 are valid) 
-02|0228|0014|Enter frame number. 
-02|0264|001E|Default quality and quantity? 
+02|01DB|0025|Insira o número do tipo. (2-851 são válidos) 
+02|0228|0014|Insira o número do quadro. 
+02|0264|001E|Qualidade e quantidade padrão? 
 06|029D|0581:1AD0
 03|02B7|006F
-02|02BB|000F|Enter quality. 
-02|02F2|0010|Enter quantity. 
+02|02BB|000F|Insira qualidade. 
+02|02F2|0010|Insira a quantidade. 
 04|032E|00A5
-02|0332|0023|Select target to create item near. 
+02|0332|0023|Selecione o alvo para criar o item próximo. 
 05|03A5|0581:24A7
 04|03AE|0025
-02|03B2|000F|Create failed. 
-02|03D8|0007|EndGame
+02|03B2|000F|Falha na criação. 
+02|03D8|0007|Fim do jogo
 04|03E4|0381
-02|03E7|001A|Create Blackrock Fragments
-02|0405|001A|Create Energized Fragments
-02|0423|0009|Nevermind
-02|0452|001A|Create Blackrock Fragments
+02|03E7|001A|Crie Fragmentos de Rocha Negra
+02|0405|001A|Crie fragmentos energizados
+02|0423|0009|Deixa para lá
+02|0452|001A|Crie Fragmentos de Rocha Negra
 05|048B|0581:1A96
 05|04A2|0581:1A96
 05|04CF|0581:1A96
@@ -49,7 +49,7 @@
 05|05B2|0581:1A96
 03|05C8|2D48
 03|05CB|0197
-02|05D0|001A|Create Energized Fragments
+02|05D0|001A|Crie fragmentos energizados
 05|0609|0581:1A96
 05|0620|0581:1A96
 05|064D|0581:1A96
@@ -62,140 +62,140 @@
 05|0730|0581:1A96
 03|0746|2BCA
 03|0749|0019
-02|074E|0009|Nevermind
+02|074E|0009|Deixa para lá
 03|075F|2BB1
 03|0765|2BAB
-02|076A|0004|Demo
+02|076A|0004|Demonstração
 04|0773|0A79
-02|0776|0009|Run Pyros
-02|0783|000A|Run Daemon
-02|0791|000C|After Daemon
-02|07A1|000C|Make Symbols
-02|07B1|0005|Pyros
-02|07BA|000D|Malchir Death
-02|07CB|0007|Stratos
-02|07D6|0009|Execution
-02|07E3|0007|Casting
-02|07EE|0008|Guardian
-02|07FA|0009|Nevermind
-02|0829|000D|Malchir Death
+02|0776|0009|Execute Pyros
+02|0783|000A|Execute o Daemon
+02|0791|000C|Depois do Daemon
+02|07A1|000C|Faça Símbolos
+02|07B1|0005|pirotécnico
+02|07BA|000D|Morte de Malchir
+02|07CB|0007|Estratos
+02|07D6|0009|Execução
+02|07E3|0007|Fundição
+02|07EE|0008|Guardião
+02|07FA|0009|Deixa para lá
+02|0829|000D|Morte de Malchir
 03|085C|0816
-02|0861|000C|Make Symbols
+02|0861|000C|Faça Símbolos
 05|08A2|0581:24A7
 03|08A9|2A67
 03|08AC|07C6
-02|08B1|0008|Guardian
+02|08B1|0008|Guardião
 04|08BE|0077
 04|08C7|0068
-02|08CB|0025|Choose the Guardian speech. (0 exits)
+02|08CB|0025|Escolha o discurso do Guardião. (0 saídas)
 06|08F9|057C:087D
 06|0920|0401:39C1
 03|092F|FF93
 03|0932|29DE
 03|0935|073D
-02|093A|0007|Casting
+02|093A|0007|Fundição
 04|0946|043D
 04|095B|002A
-02|095F|0011|Item is invalid. 
+02|095F|0011|O item é inválido. 
 03|0985|298B
 04|0992|002D
-02|0996|0014|Item is not an Npc. 
+02|0996|0014|O item não é um Npc. 
 03|09BF|2951
 05|09C8|057C:1220
 04|09D9|002C
-02|09DD|0013|Npc is not a mage. 
+02|09DD|0013|Npc não é um mago. 
 03|0A05|290B
-02|0A08|000A|Enter Cast
-02|0A16|0004|Turn
-02|0A1E|0004|Done
-02|0A2D|0005|North
-02|0A36|0009|Northeast
-02|0A43|0004|East
-02|0A4B|0009|Southeast
-02|0A58|0005|South
-02|0A61|0009|Southwest
-02|0A6E|0004|West
-02|0A76|0009|Northwest
-02|0A8C|0004|Done
+02|0A08|000A|Entrar no elenco
+02|0A16|0004|Vez
+02|0A1E|0004|Feito
+02|0A2D|0005|Norte
+02|0A36|0009|Nordeste
+02|0A43|0004|Leste
+02|0A4B|0009|Sudeste
+02|0A58|0005|Sul
+02|0A61|0009|Sudoeste
+02|0A6E|0004|Oeste
+02|0A76|0009|Noroeste
+02|0A8C|0004|Feito
 04|0A96|02E7
-02|0AB4|000A|Enter Cast
+02|0AB4|000A|Entrar no elenco
 04|0AC3|005A
 06|0AD4|057C:15E7
-02|0AE3|0009|Exit Cast
-02|0AF0|0008|Cast One
-02|0AFC|0008|Cast Two
-02|0B08|000A|Cast Three
+02|0AE3|0009|Sair do elenco
+02|0AF0|0008|Elenco Um
+02|0AFC|0008|Elenco Dois
+02|0B08|000A|Elenco Três
 03|0B1D|025D
-02|0B22|0008|Cast One
+02|0B22|0008|Elenco Um
 06|0B40|057C:15E7
 03|0B4F|022B
-02|0B54|0008|Cast Two
+02|0B54|0008|Elenco Dois
 06|0B72|057C:15E7
 06|0B89|0581:1C19
 06|0BA6|057C:15E7
 03|0BB5|01C5
-02|0BBA|000A|Cast Three
+02|0BBA|000A|Elenco Três
 06|0BDA|057C:15E7
 06|0BF1|0581:1C19
 06|0C0E|057C:15E7
 03|0C1D|015D
-02|0C22|0009|Exit Cast
+02|0C22|0009|Sair do elenco
 04|0C30|0062
 06|0C41|057C:15E7
 06|0C5E|057C:15E7
-02|0C6D|000A|Enter Cast
-02|0C7B|0004|Turn
-02|0C83|0004|Done
+02|0C6D|000A|Entrar no elenco
+02|0C7B|0004|Vez
+02|0C83|0004|Feito
 03|0C92|00E8
-02|0C97|0004|Turn
+02|0C97|0004|Vez
 04|0CA0|00DA
-02|0CBE|0005|North
-02|0CD1|0009|Northeast
-02|0CE8|0004|East
-02|0CFA|0009|Southeast
-02|0D11|0005|South
-02|0D24|0009|Southwest
-02|0D3B|0004|West
-02|0D4D|0009|Northwest
+02|0CBE|0005|Norte
+02|0CD1|0009|Nordeste
+02|0CE8|0004|Leste
+02|0CFA|0009|Sudeste
+02|0D11|0005|Sul
+02|0D24|0009|Sudoeste
+02|0D3B|0004|Oeste
+02|0D4D|0009|Noroeste
 06|0D6B|057C:091C
 03|0D7D|FD0A
 03|0D80|2590
 03|0D83|02EF
-02|0D88|0009|Run Pyros
+02|0D88|0009|Execute Pyros
 04|0D96|00E7
-02|0D9E|0009|Bane dead
-02|0DAB|000C|Vardion dead
-02|0DDD|0009|Bane dead
+02|0D9E|0009|Bane morto
+02|0DAB|000C|Vardion morto
+02|0DDD|0009|Bane morto
 05|0E26|057C:0113
 05|0E33|057C:0113
 06|0E67|006D:247C
 03|0E7A|2496
 03|0E7D|01F5
-02|0E82|000C|After Daemon
+02|0E82|000C|Depois do Daemon
 04|0E93|00E9
-02|0E96|0009|Bane won.
-02|0EA3|000C|Vardion won.
+02|0E96|0009|Bane venceu.
+02|0EA3|000C|Vardion venceu.
 02|0EBA|0000|
 02|0EC4|0000|
 04|0EC9|0079
-02|0EE7|0009|Bane won.
-02|0F14|000C|Vardion won.
+02|0EE7|0009|Bane venceu.
+02|0F14|000C|Vardion venceu.
 03|0F42|FF7D
-02|0F5E|0006|Done! 
+02|0F5E|0006|Feito! 
 03|0F79|2397
 03|0F7C|00F6
-02|0F81|000A|Run Daemon
+02|0F81|000A|Execute o Daemon
 04|0F90|0054
-02|0FC6|0006|Done! 
+02|0FC6|0006|Feito! 
 03|0FE1|232F
 03|0FE4|008E
-02|0FE9|0005|Pyros
+02|0FE9|0005|pirotécnico
 03|1008|006A
-02|100D|0007|Stratos
+02|100D|0007|Estratos
 03|102E|0044
-02|1033|0009|Execution
+02|1033|0009|Execução
 03|1056|001C
-02|105B|0009|Nevermind
+02|105B|0009|Deixa para lá
 03|106C|22A4
 03|1072|229E
 06|10B3|057C:15E7
@@ -208,32 +208,32 @@
 06|11BF|0581:1C19
 06|11D5|057C:15E7
 03|11EC|2124
-02|11F1|0007|Destroy
+02|11F1|0007|Destruir
 04|11FD|00DE
-02|1201|0027|Select the Avatar to exit delete mode. 
+02|1201|0027|Selecione o Avatar para sair do modo de exclusão. 
 04|1242|0096
 04|1256|004F
 03|126E|0034
-02|1272|001E|Destroy failed : item is Npc. 
+02|1272|001E|Falha na destruição: o item é Npc. 
 03|12A5|0030
-02|12A9|001A|Destroy failed : No item. 
+02|12A9|001A|Falha na destruição: Nenhum item. 
 03|12D8|FF62
 03|12DB|2035
-02|12E0|000C|Enemy Caster
+02|12E0|000C|Conjurador Inimigo
 04|12F1|054A
-02|12F5|0015|Select spell caster. 
+02|12F5|0015|Selecione o lançador de feitiços. 
 06|1313|057C:087D
 04|133D|0039
-02|1341|001D|Spell caster must be an Npc. 
+02|1341|001D|O lançador de feitiços deve ser um Npc. 
 03|1373|1F9D
 03|1376|0097
 04|1380|0040
-02|1384|0024|Spell caster may not be the Avatar. 
+02|1384|0024|O lançador de feitiços pode não ser o Avatar. 
 03|13BD|1F53
 03|13C0|004D
 05|13C5|057C:1220
 04|13D0|003D
-02|13D4|0021|Spell caster must be a Sorcerer. 
+02|13D4|0021|O lançador de feitiços deve ser um Feiticeiro. 
 03|140A|1F06
 05|1415|0581:2A56
 05|1421|0581:2A56
@@ -241,473 +241,473 @@
 05|1439|0581:2A56
 06|144E|057C:15E7
 06|146E|057C:091C
-02|149A|0006|Ignite
-02|14A4|000A|Extinguish
-02|14B2|000A|Flame Bolt
-02|14C0|000B|Endure Heat
-02|14CF|000B|Fire Shield
-02|14DE|000F|Armor Of Flames
-02|14F1|000B|Create Fire
-02|1500|0009|Explosion
-02|150D|000D|Summon Daemon
-02|151E|000D|Banish Daemon
-02|152F|000D|Conflagration
-02|1540|0004|Done
+02|149A|0006|Acender
+02|14A4|000A|Extinguir
+02|14B2|000A|Raio de Chama
+02|14C0|000B|Suportar o calor
+02|14CF|000B|Escudo de Fogo
+02|14DE|000F|Armadura de Chamas
+02|14F1|000B|Criar Fogo
+02|1500|0009|Explosão
+02|150D|000D|Convocar Daemon
+02|151E|000D|Banir Daemon
+02|152F|000D|Conflagração
+02|1540|0004|Feito
 02|154F|0000|
-02|1559|0004|Done
+02|1559|0004|Feito
 04|1563|02D8
-02|1581|0006|Ignite
+02|1581|0006|Acender
 06|1594|0583:059A
 06|15AB|0581:1C19
 03|15BA|027E
-02|15BF|000A|Extinguish
+02|15BF|000A|Extinguir
 06|15D6|0583:0AF5
 06|15ED|0581:1C19
 03|15FC|023C
-02|1601|000A|Flame Bolt
+02|1601|000A|Raio de Chama
 06|1618|0583:110F
 06|162F|0581:1C19
 03|163E|01FA
-02|1643|000B|Fire Shield
+02|1643|000B|Escudo de Fogo
 06|1658|0583:12DF
 03|1661|1CAF
 03|1664|01D4
-02|1669|000B|Create Fire
+02|1669|000B|Criar Fogo
 06|1681|0583:195D
 06|1698|0581:1C19
 03|16A7|0191
-02|16AC|000B|Endure Heat
+02|16AC|000B|Suportar o calor
 06|16C1|0583:177A
 03|16CA|1C46
 03|16CD|016B
-02|16D2|0009|Explosion
+02|16D2|0009|Explosão
 06|16E8|0583:1AFE
 06|16FF|0581:1C19
 03|170E|012A
-02|1713|000F|Armor Of Flames
+02|1713|000F|Armadura de Chamas
 06|172C|0583:1CEB
 03|1735|1BDB
 03|1738|0100
-02|173D|000D|Summon Daemon
+02|173D|000D|Convocar Daemon
 06|1756|0589:0080
 03|1761|1BAF
 03|1764|00D4
-02|1769|000D|Banish Daemon
+02|1769|000D|Banir Daemon
 05|17A3|0581:1D62
 05|17B5|0581:1D62
 06|17D5|0589:0AD8
 03|17E0|1B30
 03|17E3|0055
-02|17E8|000D|Conflagration
+02|17E8|000D|Conflagração
 06|1800|0589:122E
 06|1815|0581:1C19
 03|1824|0014
-02|1829|0004|Done
+02|1829|0004|Feito
 03|1835|1ADB
 03|183B|FD19
-02|1840|000A|Spell Book
+02|1840|000A|Livro de feitiços
 04|184F|0D02
-02|1856|0005|Earth
-02|185F|0003|Air
-02|1866|0004|Fire
-02|186E|0005|Ether
-02|1877|0004|Done
+02|1856|0005|Terra
+02|185F|0003|Ar
+02|1866|0004|Fogo
+02|186E|0005|Éter
+02|1877|0004|Feito
 02|1886|0000|
-02|1890|0004|Done
+02|1890|0004|Feito
 04|189A|0CB7
-02|18B8|0005|Earth
+02|18B8|0005|Terra
 04|18C2|0335
-02|18C5|000B|Death Speak
-02|18D4|000D|Mask of Death
-02|18E5|000A|Rock Flesh
-02|18F3|000D|Summon Undead
-02|1904|000B|Open Ground
-02|1913|000C|Create Golem
-02|1923|000F|Withstand Death
-02|1936|000B|Grant Peace
-02|1945|000A|Call Quake
-02|1953|000D|Meteor Shower
-02|1964|0004|Done
+02|18C5|000B|Fala da Morte
+02|18D4|000D|Máscara da Morte
+02|18E5|000A|Carne de rocha
+02|18F3|000D|Convocar Mortos-vivos
+02|1904|000B|Terreno aberto
+02|1913|000C|Criar Golem
+02|1923|000F|Resistir à Morte
+02|1936|000B|Conceda Paz
+02|1945|000A|Chamar terremoto
+02|1953|000D|Chuva de meteoros
+02|1964|0004|Feito
 02|1973|0000|
-02|197D|0004|Done
+02|197D|0004|Feito
 04|1987|0270
-02|19A5|000B|Death Speak
+02|19A5|000B|Fala da Morte
 06|19BC|0586:0080
 03|19C7|1949
 03|19CA|022A
-02|19CF|000D|Mask of Death
+02|19CF|000D|Máscara da Morte
 06|19E6|0586:01AF
 03|19EF|1921
 03|19F2|0202
-02|19F7|000A|Rock Flesh
+02|19F7|000A|Carne de rocha
 06|1A0C|0586:02BF
 06|1A21|0581:1C19
 03|1A30|01C4
-02|1A35|000D|Summon Undead
+02|1A35|000D|Convocar Mortos-vivos
 06|1A50|0586:0379
 06|1A67|0581:1C19
 03|1A76|017E
-02|1A7B|000B|Open Ground
+02|1A7B|000B|Terreno aberto
 06|1A91|0586:0AF8
 06|1AA6|0581:1C19
 03|1AB5|013F
-02|1ABA|000C|Create Golem
+02|1ABA|000C|Criar Golem
 06|1AD3|0586:0E57
 06|1AEA|0581:1C19
 03|1AF9|00FB
-02|1AFE|000F|Withstand Death
+02|1AFE|000F|Resistir à Morte
 06|1B18|0586:0FC9
 06|1B2D|0581:1C19
 03|1B3C|00B8
-02|1B41|000B|Grant Peace
+02|1B41|000B|Conceda Paz
 06|1B57|0586:107D
 06|1B6C|0581:1C19
 03|1B7B|0079
-02|1B80|000A|Call Quake
+02|1B80|000A|Chamar terremoto
 06|1B96|0586:112D
 06|1BA9|0581:1C19
 03|1BB8|003C
-02|1BBD|000D|Meteor Shower
+02|1BBD|000D|Chuva de meteoros
 06|1BD4|0585:01CE
 03|1BDD|1733
 03|1BE0|0014
-02|1BE5|0004|Done
+02|1BE5|0004|Feito
 03|1BF1|171F
 03|1BF7|FD81
-02|1BFC|0005|Water
-02|1C0B|0003|Air
+02|1BFC|0005|Água
+02|1C0B|0003|Ar
 04|1C13|029B
-02|1C16|000A|Divination
-02|1C24|000D|Healing Touch
-02|1C35|000E|Aerial Servant
-02|1C47|000C|Restortation
-02|1C57|000F|Fade From Sight
-02|1C6A|0008|Air Walk
-02|1C76|000A|Hear Truth
-02|1C84|000C|Intervention
-02|1C94|0006|Reveal
-02|1C9E|0004|Done
+02|1C16|000A|Adivinhação
+02|1C24|000D|Toque de cura
+02|1C35|000E|Servo Aéreo
+02|1C47|000C|Restauração
+02|1C57|000F|Desaparecer da vista
+02|1C6A|0008|Andar no ar
+02|1C76|000A|Ouça a verdade
+02|1C84|000C|Intervenção
+02|1C94|0006|Revelar
+02|1C9E|0004|Feito
 02|1CAD|0000|
-02|1CB7|0004|Done
+02|1CB7|0004|Feito
 04|1CC1|01ED
-02|1CDF|000A|Divination
+02|1CDF|000A|Adivinhação
 06|1CF4|0596:00CF
 03|1D01|01AA
-02|1D06|000D|Healing Touch
+02|1D06|000D|Toque de cura
 06|1D20|0596:0BEB
 03|1D2F|017C
-02|1D34|000E|Aerial Servant
+02|1D34|000E|Servo Aéreo
 06|1D4D|0596:11AA
 03|1D5A|0151
-02|1D5F|000C|Restortation
+02|1D5F|000C|Restauração
 06|1D78|0596:1E4B
 03|1D87|0124
-02|1D8C|000F|Fade From Sight
+02|1D8C|000F|Desaparecer da vista
 06|1DA5|0596:2506
 06|1DB7|0581:1C19
 03|1DC6|00E5
-02|1DCB|0008|Air Walk
+02|1DCB|0008|Andar no ar
 06|1DDD|0596:27ED
 06|1DEF|0581:1C19
 03|1DFE|00AD
-02|1E03|000A|Hear Truth
+02|1E03|000A|Ouça a verdade
 06|1E17|0596:2CC0
 06|1E29|0581:1C19
 03|1E38|0073
-02|1E3D|000C|Intervention
+02|1E3D|000C|Intervenção
 06|1E53|0596:2F00
 06|1E65|0581:1C19
 03|1E74|0037
-02|1E79|0006|Reveal
+02|1E79|0006|Revelar
 06|1E8A|0596:314A
 03|1E97|0014
-02|1E9C|0004|Done
+02|1E9C|0004|Feito
 03|1EA8|1468
 03|1EAE|FE04
-02|1EB3|0004|Fire
+02|1EB3|0004|Fogo
 04|1EBC|04B4
-02|1EBF|0007|Offense
-02|1ECA|0011|Defense and Other
-02|1EDF|0004|Done
+02|1EBF|0007|Ofensa
+02|1ECA|0011|Defesa e Outros
+02|1EDF|0004|Feito
 02|1EEE|0000|
-02|1EF8|0004|Done
+02|1EF8|0004|Feito
 04|1F02|046E
-02|1F20|0007|Offense
+02|1F20|0007|Ofensa
 04|1F2C|023D
-02|1F2F|000A|Flame Bolt
-02|1F3D|000B|Create Fire
-02|1F4C|0009|Explosion
-02|1F59|000D|Summon Daemon
-02|1F6A|000D|Banish Daemon
-02|1F7B|000D|Conflagration
-02|1F8C|0009|Nevermind
+02|1F2F|000A|Raio de Chama
+02|1F3D|000B|Criar Fogo
+02|1F4C|0009|Explosão
+02|1F59|000D|Convocar Daemon
+02|1F6A|000D|Banir Daemon
+02|1F7B|000D|Conflagração
+02|1F8C|0009|Deixa para lá
 02|1FA0|0000|
-02|1FAA|0009|Nevermind
+02|1FAA|0009|Deixa para lá
 04|1FB9|01AD
-02|1FD7|000A|Flame Bolt
+02|1FD7|000A|Raio de Chama
 06|1FEE|0583:110F
 06|2005|0581:1C19
 03|2014|014F
-02|2019|000B|Create Fire
+02|2019|000B|Criar Fogo
 06|2031|0583:195D
 06|2048|0581:1C19
 03|2057|010C
-02|205C|000D|Summon Daemon
+02|205C|000D|Convocar Daemon
 06|2076|0589:0080
 06|208D|0581:1C19
 03|209C|00C7
-02|20A1|000D|Banish Daemon
+02|20A1|000D|Banir Daemon
 06|20BB|0589:0AD8
 06|20D2|0581:1C19
 03|20E1|0082
-02|20E6|0009|Explosion
+02|20E6|0009|Explosão
 06|20FC|0583:1AFE
 06|2113|0581:1C19
 03|2122|0041
-02|2127|000D|Conflagration
+02|2127|000D|Conflagração
 06|213F|0589:122E
 06|2154|0581:1C19
 03|2166|FE3F
 03|2169|0204
-02|216E|0011|Defense and Other
+02|216E|0011|Defesa e Outros
 04|2184|01D5
-02|2187|000B|Endure Heat
-02|2196|000B|Fire Shield
-02|21A5|000F|Armor Of Flames
-02|21B8|0006|Ignite
-02|21C2|000A|Extinguish
-02|21D0|0005|Flash
-02|21D9|0009|Nevermind
+02|2187|000B|Suportar o calor
+02|2196|000B|Escudo de Fogo
+02|21A5|000F|Armadura de Chamas
+02|21B8|0006|Acender
+02|21C2|000A|Extinguir
+02|21D0|0005|Clarão
+02|21D9|0009|Deixa para lá
 02|21ED|0000|
-02|21F7|0009|Nevermind
+02|21F7|0009|Deixa para lá
 04|2206|0150
-02|2224|0006|Ignite
+02|2224|0006|Acender
 06|2237|0583:059A
 06|224E|0581:1C19
 03|225D|00F6
-02|2262|000A|Extinguish
+02|2262|000A|Extinguir
 06|2279|0583:0AF5
 06|2290|0581:1C19
 03|229F|00B4
-02|22A4|0005|Flash
+02|22A4|0005|Clarão
 06|22B7|0583:0E47
 06|22CE|0581:1C19
 03|22DD|0076
-02|22E2|000B|Fire Shield
+02|22E2|000B|Escudo de Fogo
 06|22F7|0583:12DF
 03|2300|1010
 03|2303|0050
-02|2308|000B|Endure Heat
+02|2308|000B|Suportar o calor
 06|231D|0583:177A
 03|2326|0FEA
 03|2329|002A
-02|232E|000F|Armor Of Flames
+02|232E|000F|Armadura de Chamas
 06|2347|0583:1CEB
 03|2350|0FC0
 03|2356|FE9C
 03|2359|0014
-02|235E|0004|Done
+02|235E|0004|Feito
 03|236A|0FA6
 03|2370|FB83
-02|2375|0005|Ether
+02|2375|0005|Éter
 04|237F|01CF
-02|2382|000F|Confusion Blast
-02|2395|000F|Summon Creature
-02|23A8|000B|Death Blast
-02|23B7|0010|Call Destruction
-02|23CB|000F|Etherial Travel
-02|23DE|000B|Devastation
-02|23ED|0004|Done
+02|2382|000F|Explosão de confusão
+02|2395|000F|Invocar Criatura
+02|23A8|000B|Explosão Mortal
+02|23B7|0010|Destruição de chamadas
+02|23CB|000F|Viagem Etérea
+02|23DE|000B|Devastação
+02|23ED|0004|Feito
 02|23FC|0000|
-02|2406|0004|Done
+02|2406|0004|Feito
 04|2410|013E
-02|242E|000F|Confusion Blast
+02|242E|000F|Explosão de confusão
 06|244A|0585:0080
 03|2459|00F2
-02|245E|000F|Summon Creature
+02|245E|000F|Invocar Criatura
 06|247B|0585:0225
 03|248A|00C1
-02|248F|000B|Death Blast
+02|248F|000B|Explosão Mortal
 06|24A7|0585:0C2D
 03|24B6|0095
-02|24BB|0010|Call Destruction
+02|24BB|0010|Destruição de chamadas
 06|24D6|0585:078C
 03|24E3|0068
-02|24E8|000F|Etherial Travel
+02|24E8|000F|Viagem Etérea
 06|2502|0585:0821
 03|250F|003C
-02|2514|000B|Devastation
+02|2514|000B|Devastação
 06|252A|0585:09DD
 03|2537|0014
-02|253C|0004|Done
+02|253C|0004|Feito
 03|2548|0DC8
 03|254E|FEB3
 03|2551|F33A
-02|2556|0004|Give
+02|2556|0004|Dar
 04|255F|022A
-02|2563|0013|Enter type number. 
-02|259E|0014|Enter frame number. 
-02|25DA|001E|Default quality and quantity? 
+02|2563|0013|Insira o número do tipo. 
+02|259E|0014|Insira o número do quadro. 
+02|25DA|001E|Qualidade e quantidade padrão? 
 06|2613|0581:1AD0
 03|262D|006F
-02|2631|000F|Enter quality. 
-02|2668|0010|Enter quantity. 
-02|26A0|0025|Select container to give item(s) to. 
+02|2631|000F|Insira qualidade. 
+02|2668|0010|Insira a quantidade. 
+02|26A0|0025|Selecione o contêiner para o qual fornecer os itens. 
 04|26F8|006A
 05|2705|0581:1EE2
 04|270D|0028
-02|2711|000F|Item(s) given. 
+02|2711|000F|Itens fornecidos. 
 03|2735|002A
-02|2739|0014|Can't give item(s). 
+02|2739|0014|Não é possível fornecer itens. 
 03|2762|0027
-02|2766|0011|Not a container. 
-02|278E|0008|Contents
+02|2766|0011|Não é um contêiner. 
+02|278E|0008|Conteúdo
 04|279B|0126
 02|279F|0008|Avatar: 
 04|27C7|0085
 02|27DE|0001| 
 04|27FF|0049
 04|281B|002D
-02|281F|0017|Backpack not equipped! 
+02|281F|0017|Mochila não equipada! 
 03|284C|FF78
 04|285E|0063
-02|2862|000A|Backpack: 
+02|2862|000A|Mochila: 
 04|288C|0033
 02|28A3|0001| 
 03|28BF|FFCA
-02|28C6|0004|Take
+02|28C6|0004|Pegar
 04|28CF|022C
-02|28D3|0013|Enter type number. 
-02|290E|0014|Enter frame number. 
-02|294A|001E|Default quality and quantity? 
+02|28D3|0013|Insira o número do tipo. 
+02|290E|0014|Insira o número do quadro. 
+02|294A|001E|Qualidade e quantidade padrão? 
 06|2983|0581:1AD0
 03|299D|006F
-02|29A1|000F|Enter quality. 
-02|29D8|0010|Enter quantity. 
-02|2A10|0027|Select container to take item(s) from. 
+02|29A1|000F|Insira qualidade. 
+02|29D8|0010|Insira a quantidade. 
+02|2A10|0027|Selecione o contêiner do qual retirar os itens. 
 04|2A6A|006A
 05|2A77|0581:20B8
 04|2A7F|0028
-02|2A83|000F|Item(s) taken. 
+02|2A83|000F|Itens levados. 
 03|2AA7|002A
-02|2AAB|0014|Can't take item(s). 
+02|2AAB|0014|Não é possível pegar itens. 
 03|2AD4|0027
-02|2AD8|0011|Not a container. 
-02|2B00|000B|Information
+02|2AD8|0011|Não é um contêiner. 
+02|2B00|000B|Informação
 04|2B10|0209
 04|2B24|01CD
-02|2B34|000C|Map number: 
+02|2B34|000C|Número do mapa: 
 02|2B5A|0004|~X: 
-02|2B80|0005|,~Y: 
+02|2B80|0005|, ~ E: 
 02|2BA7|0005|,~Z: 
-02|2BCE|000C|,*Type num: 
+02|2BCE|000C|,*Digite número: 
 04|2C06|002E
-02|2C0B|000C|,~Egg type: 
+02|2C0B|000C|,~Tipo de ovo: 
 04|2C43|002A
 02|2C48|0008|,~Qual: 
 04|2C7C|002A
 02|2C81|0008|,~Quan: 
-02|2CAB|0009|,~Frame: 
+02|2CAB|0009|,~Quadro: 
 02|2CD6|0001| 
 03|2CF1|0028
-02|2CF5|0012|Not a valid item. 
-02|2D1E|0004|Time
+02|2CF5|0012|Não é um item válido. 
+02|2D1E|0004|Tempo
 04|2D27|0117
 05|2D2A|0581:28F9
 04|2D37|0024
-02|2D3B|000B|Bloodwatch 
+02|2D3B|000B|Vigilância de Sangue 
 03|2D5B|00D2
 04|2D63|0022
-02|2D67|0009|Firstebb 
+02|2D67|0009|Primeiro ebb 
 03|2D85|00A8
 04|2D8D|0021
-02|2D91|0008|Daytide 
+02|2D91|0008|Maré diurna 
 03|2DAE|007F
 04|2DB6|0024
-02|2DBA|000B|Threemoons 
+02|2DBA|000B|Três Luas 
 03|2DDA|0053
 04|2DE2|0021
-02|2DE6|0008|Lastebb 
+02|2DE6|0008|Doca de carregamento 
 03|2E03|002A
 04|2E0B|0022
-02|2E0F|0009|Eventide 
+02|2E0F|0009|Tarde da noite 
 03|2E3E|04D2
-02|2E43|0003|Key
+02|2E43|0003|Chave
 04|2E4B|0085
 04|2E52|0042
-02|2E67|001C|You no longer have the key. 
+02|2E67|001C|Você não tem mais a chave. 
 03|2E94|0039
-02|2EA9|0016|You now have the key. 
+02|2EA9|0016|Agora você tem a chave. 
 03|2ED0|0440
-02|2ED5|0005|Staff
+02|2ED5|0005|Funcionários
 04|2EDF|0085
 04|2EE9|003F
-02|2EED|0020|You haven't returned the staff. 
+02|2EED|0020|Você não devolveu o cajado. 
 03|2F28|0039
-02|2F32|001D|You have returned the staff. 
+02|2F32|001D|Você devolveu o cajado. 
 03|2F64|03AC
-02|2F69|000B|Call Guards
+02|2F69|000B|Chame os guardas
 04|2F79|01C7
 04|2F94|01AC
-02|2F9C|0017|Did I kill the person? 
+02|2F9C|0017|Eu matei a pessoa? 
 06|2FCE|0581:1AD0
 07|2FE4|0401:00B2|2F59
 06|2FFA|057C:15E7
 01|300B|300B
 03|301C|0086
-02|3020|0017|Did I steal something? 
+02|3020|0017|Eu roubei alguma coisa? 
 06|3052|0581:1AD0
-02|30A5|000E|Help! Guards! 
+02|30A5|000E|Ajuda! Guardas! 
 06|30CC|0581:1C19
 06|30E0|058B:0080
 04|30F2|004B
 06|30FD|0581:1C19
-02|310D|001E|No one can hear your screams. 
+02|310D|001E|Ninguém pode ouvir seus gritos. 
 03|3140|01D0
-02|3145|0008|Blow up!
+02|3145|0008|Explodir!
 06|3158|0594:0080
 03|3165|01AB
-02|316A|0007|Kill me
+02|316A|0007|Me mata
 04|3176|0090
 04|318A|0050
 03|31B5|0022
-02|31B9|000C|Not an Npc. 
+02|31B9|000C|Não é um Npc. 
 03|31DA|0029
-02|31DE|0013|Not an valid item. 
+02|31DE|0013|Não é um item válido. 
 03|3206|010A
-02|320B|000B|Jump ahead.
+02|320B|000B|Vá em frente.
 04|321B|00F2
 06|322B|0401:331F
 03|3238|0039
 04|3242|002F
-02|3246|0016|Been there. Done that.
-02|3274|0004|Demo
-02|327C|000A|Spell Book
-02|328A|000B|Information
-02|3299|000C|Enemy Caster
-02|32A9|0004|Time
-02|32B1|0003|Key
-02|32B8|0005|Staff
-02|32C1|000B|Call Guards
-02|32D0|0008|Blow up!
-02|32DC|0007|Kill me
-02|32E7|0007|EndGame
-02|32F2|000B|Jump ahead.
-02|3301|0004|Done
+02|3246|0016|Esteve lá. Fiz isso.
+02|3274|0004|Demonstração
+02|327C|000A|Livro de feitiços
+02|328A|000B|Informação
+02|3299|000C|Conjurador Inimigo
+02|32A9|0004|Tempo
+02|32B1|0003|Chave
+02|32B8|0005|Funcionários
+02|32C1|000B|Chame os guardas
+02|32D0|0008|Explodir!
+02|32DC|0007|Me mata
+02|32E7|0007|Fim do jogo
+02|32F2|000B|Vá em frente.
+02|3301|0004|Feito
 03|3310|CE8F
 01|331F|331F
-02|3328|0004|gorf
+02|3328|0004|corpo
 02|3330|0005|qwlep
-02|3339|0006|zmeket
-02|3343|0007|drewmor
+02|3339|0006|meu
+02|3343|0007|desenhoumor
 02|334E|0005|nwats
 02|3357|0005|ginaf
-02|3360|0006|yzurov
-02|336A|0005|igran
-02|3373|0007|bledyup
-02|337E|0007|bokchoi
-02|3389|000A|Nevermind!
-02|33A0|000A|Nevermind!
+02|3360|0006|Yuzurov
+02|336A|0005|jogado
+02|3373|0007|sangrando
+02|337E|0007|bok choy
+02|3389|000A|Deixa para lá!
+02|33A0|000A|Deixa para lá!
 04|33B0|02AD
 02|33CE|0005|ginaf
 05|34B8|0581:24A7
@@ -722,19 +722,19 @@
 05|3563|0581:24A7
 05|3576|0581:24A7
 05|358A|0581:24A7
-02|3593|0004|gorf
+02|3593|0004|corpo
 02|359E|0005|qwlep
-02|35AB|0006|zmeket
-02|35B9|0007|drewmor
+02|35AB|0006|meu
+02|35B9|0007|desenhoumor
 02|35C8|0005|nwats
-02|35D5|0006|yzurov
-02|35E3|0005|igran
-02|35F0|0007|bledyup
-02|35FF|0007|bokchoi
+02|35D5|0006|Yuzurov
+02|35E3|0005|jogado
+02|35F0|0007|sangrando
+02|35FF|0007|bok choi
 04|360C|0037
-02|3610|001E|Bzzzzt! Thank you for playing!
+02|3610|001E|Bzzzzt! Obrigado por jogar!
 03|3643|001A
-02|3648|000A|Nevermind!
+02|3648|000A|Deixa para lá!
 03|365D|FD3E
 01|3666|3666
 06|369F|0581:1C19
@@ -750,70 +750,70 @@
 01|38CC|38CC
 01|39C1|39C1
 04|3BBC|0047
-02|3BC0|002E|I -really- do appreciate your plight, Avatar. 
+02|3BC0|002E|Eu realmente aprecio sua situação, Avatar. 
 03|3C03|06DE
 04|3C0B|0053
-02|3C0F|003A|Ah, Avatar, the thrill of conquest is so... invigorating. 
+02|3C0F|003A|Ah, Avatar, a emoção da conquista é tão... revigorante. 
 03|3C5E|0683
 04|3C66|003E
-02|3C6A|0025|Enjoying your stay on Pagan, Avatar? 
+02|3C6A|0025|Está gostando da sua estadia em Pagan, Avatar? 
 03|3CA4|063D
 04|3CAC|004D
-02|3CB0|0034|Hark! Is that the sweet song of lamentation I hear? 
+02|3CB0|0034|Ouça! É essa a doce canção de lamentação que ouço? 
 03|3CF9|05E8
 04|3D01|003D
-02|3D05|0024|I do so enjoy the cries of torment. 
+02|3D05|0024|Eu gosto muito dos gritos de tormento. 
 03|3D3E|05A3
 04|3D46|0037
-02|3D4A|001E|Yes, Avatar, seek a way home. 
+02|3D4A|001E|Sim, Avatar, procure um caminho para casa. 
 03|3D7D|0564
 04|3D85|0040
-02|3D89|0027|There is no escape from -this- prison! 
+02|3D89|0027|Não há como escapar desta prisão! 
 03|3DC5|051C
 04|3DCD|006F
-02|3DD1|0056|Hurry, Avatar. After all, you have only -all- -of- -eternity- to complete your tasks. 
+02|3DD1|0056|Depressa, Avatar. Afinal, você tem apenas -toda-a-eternidade- para completar suas tarefas. 
 03|3E3C|04A5
 04|3E44|003A
-02|3E48|0021|Nystul sends his best, Avatar... 
+02|3E48|0021|Nystul envia suas lembranças, Avatar... 
 03|3E7E|0463
 04|3E86|0045
-02|3E8A|002C|You should hear the pleas for help, Avatar. 
+02|3E8A|002C|Você deveria ouvir os pedidos de ajuda, Avatar. 
 03|3ECB|0416
 04|3ED3|003F
-02|3ED7|0026|At this very moment, Britannia burns. 
+02|3ED7|0026|Neste exato momento, Britannia queima. 
 03|3F12|03CF
 04|3F1A|0070
-02|3F1E|0057|One world lies in ruin, nothing more than a charred shell. The other will soon follow. 
+02|3F1E|0057|Um mundo está em ruínas, nada mais do que uma casca carbonizada. O outro seguirá em breve. 
 03|3F8A|0357
 04|3F92|003B
-02|3F96|0022|Perhaps I should destroy you now. 
+02|3F96|0022|Talvez eu devesse destruir você agora. 
 03|3FCD|0314
 04|3FD5|0046
-02|3FD9|002D|Care you no more for your own world, Avatar? 
+02|3FD9|002D|Você não se importa mais com seu próprio mundo, Avatar? 
 03|401B|02C6
 04|4023|0042
-02|4027|0029|Will your precious Earth fall so easily? 
+02|4027|0029|Sua preciosa Terra cairá tão facilmente? 
 03|4065|027C
 04|406D|00AF
-02|4071|0096|Soon I shall be able to call Britannia mine. It seems, Avatar, that you are missed here. Why, I believe I hear Lord British crying out for you now... 
+02|4071|0096|Em breve poderei chamar Britannia de minha. Parece, Avatar, que você fez falta aqui. Ora, creio ter ouvido Lord British clamando por você agora... 
 03|411C|01C5
 04|4124|0065
-02|4128|004C|Your treasured Britannia succumbs easily. Soon -all- the land will be mine. 
+02|4128|004C|Sua preciosa Britannia sucumbe facilmente. Em breve -toda- a terra será minha. 
 03|4189|0158
 04|4191|003E
-02|4195|0025|Ouch! -That- must have hurt, Avatar! 
+02|4195|0025|Ai! -Isso- deve ter doído, Avatar! 
 03|41CF|0112
 04|41D7|0038
-02|41DB|001F|Do not go near -that-, Avatar. 
+02|41DB|001F|Não chegue perto disso, Avatar. 
 03|420F|00D2
 04|4217|0025
 02|421B|000C|ha hahahaha 
 03|423C|00A5
 04|4244|0025
-02|4248|000C|he he he he 
+02|4248|000C|ele ele ele ele 
 03|4269|0078
 04|4271|0028
-02|4275|000F|Feel my wrath! 
+02|4275|000F|Sinta minha ira! 
 03|4299|0048
 04|42A1|0040
-02|42A5|0027|Let the darkness come for you, Avatar. 
+02|42A5|0027|Deixe a escuridão vir até você, Avatar. 

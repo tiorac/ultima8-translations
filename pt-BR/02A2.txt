@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|0010|burned out fire 
+02|008C|0010|queimou o fogo 

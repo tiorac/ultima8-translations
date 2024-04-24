@@ -1,7 +1,7 @@
 01|0080|0080
-02|008C|0011|Bentic's journal 
+02|008C|0011|Diário de Bentic 
 01|00B4|00B4
-02|00C9|0397|Bentic's Journal: ~~In my investigations of the royal bloodline I have uncovered many facts---facts have lead me to more questions. ~~Keldan the farmer, son of Treal. Forced to marry Lord Kean's daughter, Celidia. Why would royalty want such a simple man? ~~Keldan and Ariel... Did Celidia ever know? If so, when did she find out? And how? ~~Ariel had a child, a son. Did Keldan send her away to protect them from Celidia, or did Celidia order it?~~ ~Celidia demanded a child. Mordea is born with the powers of Tempestry. Yet Lord Kean was no Tempest, nor was his wife... ~~But where is Keldan and Ariel's son? Both mother and child sent to live with the fishermen... ~~Devon knows not his own father... Could Devon be a Tempest?!!? ~~If so, by his being the first birth, his powers would be stronger than Mordea's! ~~I must investigate this further, though if Mordea should uncover my quest, my life will be forfeit...
+02|00C9|0397|Diário de Bentic: ~~Em minhas investigações sobre a linhagem real, descobri muitos fatos – os fatos me levaram a mais perguntas. ~~ Keldan, o fazendeiro, filho de Treal. Forçado a se casar com a filha de Lord Kean, Celidia. Por que a realeza iria querer um homem tão simples? ~~Keldan e Ariel... Celidia alguma vez soube? Se sim, quando ela descobriu? E como? ~~Ariel teve um filho, um filho. Keldan a mandou embora para protegê-los de Celidia, ou Celidia ordenou isso? ~~ ~ Celidia exigiu um filho. Mordea nasce com os poderes de Tempestry. No entanto, Lord Kean não era Tempest, nem sua esposa... ~~Mas onde está o filho de Keldan e Ariel? Mãe e filho enviados para viver com os pescadores... ~~Devon não conhece seu próprio pai... Poderia Devon ser uma Tempestade?!!? ~~Se assim for, por ser o primeiro nascimento, seus poderes seriam mais fortes que os de Mordea! ~~Devo investigar isso mais a fundo, mas se Mordea descobrir minha missão, minha vida estará perdida...
 03|0490|068E
 05|0493|0581:36E7
 06|04DC|025F:0D3C
@@ -16,23 +16,23 @@
 06|05F6|025F:0C82
 05|060A|0581:2A56
 04|0616|00D2
-02|061A|0027|Swine! You have cheated to this point! 
-02|0657|0033|If I allow you to continue you will ruin the game! 
-02|06A0|0024|You must not be allowed to do so... 
+02|061A|0027|Suínos! Você trapaceou até este ponto! 
+02|0657|0033|Se eu permitir que você continue, você vai estragar o jogo! 
+02|06A0|0024|Você não deve ter permissão para fazer isso... 
 06|06DD|058B:0080
 03|06E8|0436
-02|06EC|002A|Thief! I knew you were not to be trusted! 
-02|072C|002C|Will you come quietly...? ~Or in pieces...? 
-02|076D|0011|I'll go quietly. 
-02|0782|0010|Try to take me! 
+02|06EC|002A|Ladrão! Eu sabia que você não era confiável! 
+02|072C|002C|Você virá em silêncio...? ~Ou em pedaços...? 
+02|076D|0011|Eu irei tranquilamente. 
+02|0782|0010|Tente me levar! 
 04|07A0|02F7
-02|07BE|0011|I'll go quietly. 
+02|07BE|0011|Eu irei tranquilamente. 
 04|07D4|0078
 06|07DE|057C:15E7
-02|07EE|0023|We will escort you to Lady Mordea. 
+02|07EE|0023|Iremos acompanhá-lo até Lady Mordea. 
 06|0832|0581:1C19
 03|084C|0248
-02|0851|0010|Try to take me! 
+02|0851|0010|Tente me levar! 
 06|087C|057C:15E7
 06|0892|057C:15E7
 06|08AA|057C:15E7

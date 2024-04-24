@@ -1,2 +1,2 @@
 01|0080|0080
-02|008E|0022|I'm in a fantasy-type bar setting!
+02|008E|0022|Estou em um ambiente de bar tipo fantasia!

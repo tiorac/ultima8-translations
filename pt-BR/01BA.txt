@@ -1,29 +1,29 @@
 01|0080|0080
 04|009B|0025
-02|009F|000C|obelisk tip 
+02|009F|000C|ponta do obelisco 
 03|00C0|00D2
 04|00C8|002C
-02|00CC|0013|the Heart of Earth 
+02|00CC|0013|o Coração da Terra 
 03|00F4|009E
 04|00FC|002E
-02|0100|0015|the Tear of the Seas 
+02|0100|0015|a lágrima dos mares 
 03|012A|0068
 04|0132|002B
-02|0136|0012|the Breath of Air 
+02|0136|0012|a respiração do ar 
 03|015D|0035
 04|0165|002D
-02|0169|0014|the Tongue of Flame 
+02|0169|0014|a Língua de Chama 
 01|0197|0197
 03|01C5|0AB9
 04|0209|011F
 04|025F|00C9
 06|02CF|0581:1C19
-02|02FE|0018|I feel very powerful... 
+02|02FE|0018|Me sinto muito poderoso... 
 04|0337|0203
 03|034D|0931
 03|035F|091F
 06|03C7|006D:1914
-02|040E|001A|No! This is not possible! 
+02|040E|001A|Não! Isso não é possível! 
 06|043E|006D:20A1
 06|04CF|0581:1C19
 03|0537|0747
@@ -31,7 +31,7 @@
 04|054A|02B3
 03|0560|071E
 03|0572|070C
-02|0651|005E|No! I have been defeated! No mortal could defeat me. I shall return and destroy you live one! 
+02|0651|005E|Não! Eu fui derrotado! Nenhum mortal poderia me derrotar. Eu retornarei e destruirei você, vivo! 
 06|06D1|0581:1C19
 06|06F7|01B1:0CCD
 06|078A|0581:1C19
@@ -41,9 +41,9 @@
 03|081B|0463
 03|082D|0451
 04|083E|0021
-02|0844|0006|Hmm...
+02|0844|0006|Hum...
 03|085F|041F
-02|08BA|001A|You will regret this day! 
+02|08BA|001A|Você vai se arrepender deste dia! 
 06|08E8|0050:0F0F
 06|091C|0050:10EE
 06|0952|0050:124F
@@ -53,7 +53,7 @@
 04|0A5E|0220
 03|0A70|020E
 03|0A7F|01FF
-02|0B19|0045|What have you done, oh ungrateful child, your greed breaks my heart! 
+02|0B19|0045|O que você fez, ó criança ingrata, sua ganância parte meu coração! 
 06|0C13|0581:1C19
 01|0C83|0C83
 06|0D19|0585:0821

@@ -27,7 +27,7 @@
 01|0610|0610
 01|0676|0676
 04|06BB|0037
-02|06C1|000D|Bye bye!!!!! 
+02|06C1|000D|Bye Bye!!!!! 
 06|06E9|0594:0080
 05|0857|0581:1A96
 01|087D|087D
@@ -66,11 +66,11 @@
 04|0CB3|0105
 04|0CC2|006C
 06|0CCD|0581:1C19
-02|0CDD|001B|Thought I heard someone... 
-02|0D0E|000B|Oh well... 
+02|0CDD|001B|Pensei ter ouvido alguém... 
+02|0D0E|000B|Ah bem... 
 03|0D2E|004B
-02|0D32|000A|Hello...? 
-02|0D52|0015|Is someone there...? 
+02|0D32|000A|Olá...? 
+02|0D52|0015|Tem alguém aí...? 
 06|0D84|0581:1C19
 05|0DB1|0581:2A56
 05|0DC1|0581:1D62
@@ -88,11 +88,11 @@
 04|0EF4|0105
 04|0F03|006C
 06|0F0E|0581:1C19
-02|0F1E|001B|Thought I heard someone... 
-02|0F4F|000B|Oh well... 
+02|0F1E|001B|Pensei ter ouvido alguém... 
+02|0F4F|000B|Ah bem... 
 03|0F6F|004B
-02|0F73|000A|Hello...? 
-02|0F93|0015|Is someone there...? 
+02|0F73|000A|Olá...? 
+02|0F93|0015|Tem alguém aí...? 
 06|0FC5|0581:1C19
 05|0FF2|0581:2A56
 05|1002|0581:1D62

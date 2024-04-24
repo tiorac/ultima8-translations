@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|000A|axe blade 
+02|008C|000A|lâminas de machado 

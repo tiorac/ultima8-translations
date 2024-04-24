@@ -2,7 +2,7 @@
 04|008F|001E
 02|0093|0005|Tarna
 03|00AD|001C
-02|00B1|0006|guard 
+02|00B1|0006|guarda 
 01|00CE|00CE
 05|00F1|0581:28F9
 05|010F|0581:28F9
@@ -18,275 +18,275 @@
 03|020E|2BDC
 06|0214|057C:0BCF
 04|0254|007A
-02|0258|004E|Run, you fool! The Titans have been angered. No one is safe from their wrath. 
+02|0258|004E|Corra, seu idiota! Os Titãs ficaram irritados. Ninguém está a salvo de sua ira. 
 06|02BE|057C:1090
 03|02CB|2B1F
 03|02CE|0091
 04|02D5|008A
-02|02D9|005E|Be off with you. There is no time for conversation when the walking dead march upon the city! 
+02|02D9|005E|Estou desligada de voce. Não há tempo para conversa quando os mortos-vivos marcham sobre a cidade! 
 06|034F|057C:1090
 03|035C|2A8E
-02|0362|0009|Adeus 
+02|0362|0009|Adeus. 
 06|0383|0408:2DF7
 03|0390|2A5A
 03|0393|00EC
 04|039D|00E2
 04|03AC|0073
 04|03B4|0068
-02|03B8|003F|I told you to move along! Bother me with your questions later. 
+02|03B8|003F|Eu disse para você seguir em frente! Incomode-me com suas perguntas mais tarde. 
 06|040F|057C:1090
 03|041C|29CE
 03|041F|005D
 04|0426|001F
-02|042B|000E|Hello, Tarna. 
+02|042B|000E|Olá, Tarna. 
 03|0445|0037
 04|044D|002F
-02|0452|0007|Hello. 
-02|045D|0013|What is your name? 
+02|0452|0007|Olá. 
+02|045D|0013|Qual o seu nome? 
 04|0486|003F
-02|0489|000B|Greetings, 
+02|0489|000B|Saudações, 
 02|04AA|0001|.
 03|04C5|0021
-02|04C9|000B|Greetings. 
-02|04EB|0009|Adeus 
+02|04C9|000B|Saudações. 
+02|04EB|0009|Adeus. 
 04|04FA|28F0
 04|0508|002F
-02|050D|0009|Adeus 
-02|0525|0009|Adeus 
-02|0555|0013|What is your name? 
+02|050D|0009|Adeus. 
+02|0525|0009|Adeus. 
+02|0555|0013|Qual o seu nome? 
 04|056D|0156
-02|0571|0079|I am Tarna, guardswoman of Tenebrae. Please tell me what it is you wish to know so that I might get on with my business. 
+02|0571|0079|Sou Tarna, guarda de Tenebrae. Por favor, diga-me o que você deseja saber para que eu possa prosseguir com meus negócios. 
 04|0604|0027
-02|0607|0018|Tell me about your job. 
-02|0630|0013|What is your name? 
+02|0607|0018|Me conte sobre seu trabalho. 
+02|0630|0013|Qual o seu nome? 
 04|0655|0027
-02|0658|0018|Tell me about Tenebrae. 
-02|0681|0007|Hello. 
-02|0697|0008|A chat. 
-02|06A3|000D|Information. 
+02|0658|0018|Conte-me sobre a escuridão. 
+02|0681|0007|Olá. 
+02|0697|0008|Um bate-papo. 
+02|06A3|000D|Informação. 
 03|06C3|2724
-02|06C8|000E|Hello, Tarna. 
-02|06DD|0007|Hello. 
+02|06C8|000E|Olá, Tarna. 
+02|06DD|0007|Olá. 
 04|06EA|0148
-02|06EF|000E|Hello, Tarna. 
-02|0701|0007|Hello. 
+02|06EF|000E|Olá, Tarna. 
+02|0701|0007|Olá. 
 04|0719|0059
-02|071D|0034|You are, of course, staying out of trouble I trust, 
+02|071D|0034|Você está, é claro, ficando longe de problemas, eu confio, 
 02|075B|0001|.
 03|0772|004A
-02|0776|0034|You are, of course, staying out of trouble I trust. 
-02|07C0|0035|Have you stopped me to chat or for more information? 
-02|080A|0008|A chat. 
-02|0816|000D|Information. 
+02|0776|0034|Você está, é claro, ficando longe de problemas, eu confio. 
+02|07C0|0035|Você me parou para conversar ou para obter mais informações? 
+02|080A|0008|Um bate-papo. 
+02|0816|000D|Informação. 
 03|0832|25B5
 02|0837|0000|
 04|083C|008E
 04|0844|0057
-02|0848|003A|Waste not my time! If you have need to speak, then do so. 
+02|0848|003A|Não perca meu tempo! Se você precisar falar, faça-o. 
 03|089B|002C
-02|089E|0008|Be off! 
+02|089E|0008|Vá embora! 
 06|08BA|057C:1090
 03|08C7|2523
 03|08CA|251D
-02|08CF|0008|A chat. 
+02|08CF|0008|Um bate-papo. 
 04|08DC|0087
-02|08E1|0008|A chat. 
-02|08F7|0044|I am sorry but I have not the time for such pleasantries. Good day. 
+02|08E1|0008|Um bate-papo. 
+02|08F7|0044|Sinto muito, mas não tenho tempo para tais gentilezas. Bom dia. 
 06|0953|057C:1090
 03|0960|248A
 03|0963|2484
-02|0968|000D|Information. 
+02|0968|000D|Informação. 
 04|097A|0379
-02|097F|000D|Information. 
+02|097F|000D|Informação. 
 04|099D|00BA
-02|09A1|008E|I have no time to talk. Now that the Theurgists have lost their healing powers, the guards are on extra duty to insure no trouble breaks out. 
+02|09A1|008E|Não tenho tempo para conversar. Agora que os Teurgistas perderam seus poderes de cura, os guardas estão em serviço extra para garantir que nenhum problema aconteça. 
 06|0A47|057C:1090
 03|0A54|2396
 03|0A57|0282
 04|0A5E|0090
-02|0A62|0064|I am sorry, but with the change in rule, I am too busy dealing with Devon to answer your questions. 
+02|0A62|0064|Sinto muito, mas com a mudança nas regras, estou muito ocupado lidando com Devon para responder às suas perguntas. 
 06|0ADE|057C:1090
 03|0AEB|22FF
 03|0AEE|01EB
 04|0AFA|002E
-02|0AFD|0018|Tell me about Tenebrae. 
+02|0AFD|0018|Conte-me sobre a Escuridão. 
 04|0B30|002E
-02|0B33|0018|Tell me about your job. 
+02|0B33|0018|Me conte sobre seu trabalho. 
 04|0B66|0024
-02|0B69|000E|Who is Orlok? 
+02|0B69|000E|Quem é Orlok? 
 04|0B92|0070
-02|0B96|0044|I am sorry but I have not the time for such pleasantries. Good day. 
+02|0B96|0044|Sinto muito, mas não tenho tempo para tais gentilezas. Bom dia. 
 06|0BF2|057C:1090
 03|0BFF|21EB
 03|0C02|00D7
-02|0C06|00C1|What information would you like? Surely by now you have seen enough of the city to have learned where everything is. Or was the Shattered Skull too busy for Orlok to tell you one of his tales? 
-02|0CDE|0008|A chat. 
+02|0C06|00C1|Quais informações você gostaria? Certamente você já viu a cidade o suficiente para saber onde está tudo. Ou o Caveira Despedaçada estava muito ocupado para que Orlok lhe contasse uma de suas histórias? 
+02|0CDE|0008|Um bate-papo. 
 03|0CF3|20F4
-02|0CF8|000E|Who is Orlok? 
+02|0CF8|000E|Quem é Orlok? 
 04|0D0B|01A1
-02|0D10|000E|Who is Orlok? 
-02|0D2C|012F|Orlok is the bartender at the tavern. Though his stories are rather long on time and short on truth, they are quite entertaining. And, better yet, he fills his tankards to the top. However, watch how many you have. If you cause too much trouble, you might get thrown out -- if not by Jenna, then by me. 
-02|0E70|0015|Where is the tavern? 
-02|0E89|000E|Who is Jenna? 
+02|0D10|000E|Quem é Orlok? 
+02|0D2C|012F|Orlok é o barman da taverna. Embora suas histórias sejam bastante longas e carentes de verdade, elas são bastante divertidas. E, melhor ainda, ele enche suas canecas até o topo. No entanto, observe quantos você tem. Se você causar muitos problemas, poderá ser expulso – se não por Jenna, então por mim. 
+02|0E70|0015|Onde fica a taberna? 
+02|0E89|000E|Quem é Jenna? 
 03|0EAC|1F3B
-02|0EB1|0015|Where is the tavern? 
+02|0EB1|0015|Onde fica a taberna? 
 04|0ECB|00A3
-02|0ED0|0015|Where is the tavern? 
-02|0EE9|000E|Who is Jenna? 
-02|0F05|0054|It is in the Southwest part of town. 'Tis hard to miss, it's such a large building. 
+02|0ED0|0015|Onde fica a taberna? 
+02|0EE9|000E|Quem é Jenna? 
+02|0F05|0054|Fica na parte sudoeste da cidade. É difícil não notar, é um edifício tão grande. 
 03|0F6E|1E79
-02|0F73|000E|Who is Jenna? 
+02|0F73|000E|Quem é Jenna? 
 04|0F86|0114
-02|0F8B|0015|Where is the tavern? 
-02|0FA4|000E|Who is Jenna? 
-02|0FC0|00C5|The barmaid? She is the daughter of the Captain of the Guard. She is feisty -- more like her father than he would care to admit. Judging the likes of you, she would come out the better in a fight. 
+02|0F8B|0015|Onde fica a taberna? 
+02|0FA4|000E|Quem é Jenna? 
+02|0FC0|00C5|A garçonete? Ela é filha do Capitão da Guarda. Ela é agressiva - mais parecida com o pai do que ele gostaria de admitir. A julgar por gente como você, ela sairia melhor em uma briga. 
 03|109A|1D4D
-02|109F|0018|Tell me about Tenebrae. 
+02|109F|0018|Conte-me sobre a escuridão. 
 04|10BC|01C5
-02|10C0|013B|I suppose that should not be too difficult, since I have lived here my entire life. Some say Tenebrae does not need to be anything more than a bastion of security, since there is no other measure of civilization around, but I disagree. Give me my home and my blade and I'll protect her -- Tenebrae -- with my life. 
-02|1218|0018|Tell me about Tenebrae. 
-02|123D|001F|Bastion of security from what? 
-02|1260|0012|No other measure? 
+02|10C0|013B|Suponho que isso não deveria ser muito difícil, já que morei aqui toda a minha vida. Alguns dizem que Tenebrae não precisa ser nada mais do que um bastião de segurança, já que não existe outra medida de civilização por aí, mas eu discordo. Dê-me minha casa e minha lâmina e eu protegerei ela – Tenebrae – com minha vida. 
+02|1218|0018|Conte-me sobre a escuridão. 
+02|123D|001F|Bastião da segurança de quê? 
+02|1260|0012|Nenhuma outra medida? 
 03|1281|1B66
-02|1286|001F|Bastion of security from what? 
+02|1286|001F|Bastião da segurança de quê? 
 04|12AA|0382
 04|12B1|018C
-02|12B5|0173|Well, initially, from the Zealans. That is why the city is divided into three sections. The rulers wanted addition defenses for the palace should the outer walls be breached.  Now, however, the walls are little more than divisions between the decent people and	the Necromancers. Not to, ah, imply that you or the Necromancers are -indecent- or any such thing, of course. 
+02|12B5|0173|Bem, inicialmente, dos Zelanos. É por isso que a cidade está dividida em três seções. Os governantes queriam defesas adicionais para o palácio caso as paredes externas fossem violadas. Agora, porém, os muros são pouco mais que divisões entre as pessoas decentes e os Necromantes. Não quero, ah, sugerir que você ou os Necromantes são -indecentes- ou algo assim, é claro. 
 03|143D|0191
-02|1441|0131|Well, initially, from the Zealans. That is why the city is divided into three sections. The rulers wanted additional defenses for the palace should the outer walls be breached. Now, however, the walls are nothing more than divisions between the classes and boundaries for the weather... and the cemetery. 
-02|1587|001A|Boundary for the weather? 
-02|15A5|0019|What about the cemetery? 
-02|15D3|001F|Bastion of security from what? 
+02|1441|0131|Bem, inicialmente, dos Zelanos. É por isso que a cidade está dividida em três seções. Os governantes queriam defesas adicionais para o palácio caso as paredes externas fossem violadas. Agora, porém, os muros nada mais são do que divisões entre as classes e limites para o clima... e para o cemitério. 
+02|1587|001A|Limite para o clima? 
+02|15A5|0019|E o cemitério? 
+02|15D3|001F|Bastião da segurança de quê? 
 04|1604|0025
-02|1607|0009|Zealans? 
-02|1614|0009|Adeus 
+02|1607|0009|Zelanos? 
+02|1614|0009|Adeus. 
 03|162C|17BB
-02|1631|0009|Zealans? 
+02|1631|0009|Zelanos? 
 04|163F|0201
-02|1643|015E|Indeed, you are a stranger not to know of the despicable Zealans. They are, or -were-, an insane collection of people who were too blind to recognize the power of the Titans. They foolishly and tenaciously held on to an archaic set of beliefs, and when the Titans demonstrated their might and authority, the Zealans refused to acknowledge the truth. 
-02|17BE|0009|Zealans? 
-02|17D4|0019|What about the cemetery? 
-02|17F8|0009|Adeus 
+02|1643|015E|Na verdade, você é um estranho por não conhecer os desprezíveis zelanos. Eles são, ou eram, um grupo insano de pessoas cegas demais para reconhecer o poder dos Titãs. Eles tola e tenazmente se apegaram a um conjunto arcaico de crenças, e quando os Titãs demonstraram seu poder e autoridade, os Zealanos se recusaram a reconhecer a verdade. 
+02|17BE|0009|Zelanos? 
+02|17D4|0019|E o cemitério? 
+02|17F8|0009|Adeus. 
 04|1815|0028
-02|181A|001A|Boundary for the weather? 
+02|181A|001A|Limite para o clima? 
 03|1840|15A7
-02|1845|001A|Boundary for the weather? 
+02|1845|001A|Limite para o clima? 
 04|1864|0197
-02|1868|0155|As long as we show proper reverence for The Lady Mordea, she shall bless us with skies of peace and calm. Cross her, however, and she shall call upon the might of Hydros, raining down upon the people a tempest the likes of which have never been felt before. Yet the Lady does not extend her kindness without the city walls, traveler beware. 
-02|19D4|001A|Boundary for the weather? 
+02|1868|0155|Contanto que demonstremos a devida reverência por Lady Mordea, ela nos abençoará com céus de paz e calma. Atravesse-a, no entanto, e ela invocará o poder de Hydros, fazendo chover sobre o povo uma tempestade como nunca foi sentida antes. No entanto, a Senhora não estende a sua bondade fora das muralhas da cidade, cuidado viajante. 
+02|19D4|001A|Limite para o clima? 
 03|19FB|13EC
-02|1A00|0019|What about the cemetery? 
+02|1A00|0019|E o cemitério? 
 04|1A1E|014F
-02|1A22|00D0|'Tis home to more than the dead it is. In accordance with our pact, we bring the lifeless corpses of our friends and brethren to the Necromancers there, and only they and Lithos know what happens after that. 
-02|1B09|0019|What about the cemetery? 
-02|1B2F|000B|What pact? 
-02|1B3E|0020|Tell me about the Necromancers. 
+02|1A22|00D0|É o lar de mais do que apenas mortos. De acordo com nosso pacto, levamos os cadáveres sem vida de nossos amigos e irmãos para os Necromantes de lá, e somente eles e Lithos sabem o que acontece depois disso. 
+02|1B09|0019|E o cemitério? 
+02|1B2F|000B|Que pacto? 
+02|1B3E|0020|Conte-me sobre os Necromantes. 
 03|1B6D|127A
-02|1B72|000B|What pact? 
+02|1B72|000B|Que pacto? 
 04|1B82|0194
-02|1B86|0124|Eons ago, our forebears formed a covenant with Lithos. He would cease his angry rumblings if we agreed to send our dead to him. There, deep in the heart of Pagan, the dead exist solely to serve the Mountain King's very wishes. And sometimes, Lithos has them wander the surface world as well! 
-02|1CC1|000B|What pact? 
-02|1CD9|001A|How do you send the dead? 
-02|1CF7|0010|Wander up here? 
+02|1B86|0124|Éons atrás, nossos antepassados formaram um pacto com Lithos. Ele cessaria seus rumores furiosos se concordássemos em enviar nossos mortos para ele. Lá, no fundo do coração de Pagan, os mortos existem apenas para servir aos desejos do Rei da Montanha. E às vezes, Lithos os faz vagar pelo mundo da superfície também! 
+02|1CC1|000B|Que pacto? 
+02|1CD9|001A|Como você envia os mortos? 
+02|1CF7|0010|Passear por aqui? 
 03|1D16|10D1
-02|1D1B|0010|Wander up here? 
+02|1D1B|0010|Passear por aqui? 
 04|1D30|0134
-02|1D34|00FC|Aye, in the cemetery the undead wander, doing the bidding of the Necromancers, always ready to take the living down to the very depths of the Mountain King's domain. I would avoid the cemetery at all costs, I would.  Keep your business far from there. 
-02|1E47|0010|Wander up here? 
+02|1D34|00FC|Sim, no cemitério os mortos-vivos vagam, obedecendo às ordens dos Necromantes, sempre prontos para levar os vivos até as profundezas do domínio do Rei da Montanha. Eu evitaria o cemitério a todo custo, eu evitaria. Mantenha seu negócio longe de lá. 
+02|1E47|0010|Passear por aqui? 
 03|1E64|0F83
-02|1E69|001A|How do you send the dead? 
+02|1E69|001A|Como você envia os mortos? 
 04|1E88|00AA
-02|1E8C|0068|How in the blazes do you expect me to know? Burying them does it I suppose.  Why not ask a Necromancer? 
-02|1F0B|001A|How do you send the dead? 
+02|1E8C|0068|Como diabos você espera que eu saiba? Enterrá-los, suponho. Por que não perguntar a um Necromante? 
+02|1F0B|001A|Como você envia os mortos? 
 03|1F32|0EB5
-02|1F37|0020|Tell me about the Necromancers. 
+02|1F37|0020|Conte-me sobre os Necromantes. 
 04|1F5C|0170
-02|1F60|0128|I'll tell you what I can. They say Necromancers deal with death. Well, I say that is not true -- Necromancers -are- death as far as I am concerned! I suppose someone must be responsible for maintaining our end of the pact, but how anyone can choose to do so willingly is beyond my comprehension. 
-02|209F|0020|Tell me about the Necromancers. 
+02|1F60|0128|Eu direi o que puder. Dizem que os Necromantes lidam com a morte. Bem, eu digo que isso não é verdade – Necromantes são a morte, no que me diz respeito! Suponho que alguém deva ser responsável por manter a nossa parte do pacto, mas como alguém pode escolher fazê-lo voluntariamente está além da minha compreensão. 
+02|209F|0020|Conte-me sobre os Necromantes. 
 03|20CC|0D1B
-02|20D1|0012|No other measure? 
+02|20D1|0012|Nenhuma outra medida? 
 04|20E8|00A1
-02|20EC|004D|Well, we've seen neither hide nor hair of another community, save the mages. 
-02|2150|0012|No other measure? 
-02|216F|000B|The mages? 
+02|20EC|004D|Bem, não vimos nem pele nem cabelo de outra comunidade, exceto os magos. 
+02|2150|0012|Nenhuma outra medida? 
+02|216F|000B|Os magos? 
 03|2189|0C5E
-02|218E|000B|The mages? 
+02|218E|000B|Os magos? 
 04|219E|00A4
-02|21A2|0024|Aye. The healers and the Sorcerers! 
-02|21DD|000B|The mages? 
-02|21F5|0016|Describe the healers. 
-02|220F|0010|What Sorcerers? 
-02|222A|0009|Adeus 
+02|21A2|0024|Sim. Os curandeiros e os Feiticeiros! 
+02|21DD|000B|Os magos? 
+02|21F5|0016|Descreva os curadores. 
+02|220F|0010|Que Feiticeiros? 
+02|222A|0009|Adeus. 
 03|2242|0BA5
-02|2247|0016|Describe the healers. 
+02|2247|0016|Descreva os curadores. 
 04|2262|01B5
-02|2266|014A|They call themselves Theurgists -- whatever -that- means. All I know is that they provide a valuable service to us here in the city, so I care not how it is done. I am grateful they do not require that we head to their home, Argentrock Isle, for such help. I consider it only too kind that the healers are willing to travel here. 
-02|23C7|0016|Describe the healers. 
-02|23EA|001E|How do the Theurgists arrive? 
+02|2266|014A|Eles se autodenominam Teurgistas – seja lá o que isso signifique. Tudo o que sei é que eles nos prestam um serviço valioso aqui na cidade, por isso não me importa como isso é feito. Sou grato por eles não exigirem que vamos até sua casa, a Ilha Argentrock, para obter essa ajuda. Considero muito gentil que os curandeiros estejam dispostos a viajar para cá. 
+02|23C7|0016|Descreva os curadores. 
+02|23EA|001E|Como chegam os teurgos? 
 03|2417|09D0
-02|241C|001E|How do the Theurgists arrive? 
+02|241C|001E|Como chegam os teurgos? 
 04|243F|00FE
-02|2443|00B8|A good question, that one, and one for which I have no answer. Rumor tells of magical devices that permit all the mages to teleport about Pagan, but I have seen no such thing, myself. 
-02|2512|001E|How do the Theurgists arrive? 
+02|2443|00B8|Uma boa pergunta, essa, e para a qual não tenho resposta. Rumores falam de dispositivos mágicos que permitem que todos os magos se teletransportem sobre Pagan, mas eu mesmo não vi tal coisa. 
+02|2512|001E|Como chegam os teurgos? 
 03|253D|08AA
-02|2542|0010|What Sorcerers? 
+02|2542|0010|Que Feiticeiros? 
 04|2557|0165
-02|255B|012D|Ah, the black ones, followers of the Lord of Flame. The Necromancers may deal with death, but oft times I wonder whether the followers of Pyros are not the true representatives of evil. I do know this: Ask not too many questions of the Town Sorcerer, Beren, for our peace with him is tenuous at best. 
-02|269F|0010|What Sorcerers? 
+02|255B|012D|Ah, os negros, seguidores do Senhor da Chama. Os Necromantes podem lidar com a morte, mas muitas vezes me pergunto se os seguidores de Pyros não são os verdadeiros representantes do mal. Eu sei disso: não faça muitas perguntas ao Feiticeiro da Cidade, Beren, pois nossa paz com ele é, na melhor das hipóteses, tênue. 
+02|269F|0010|Que Feiticeiros? 
 03|26BC|072B
-02|26C1|0018|Tell me about your job. 
+02|26C1|0018|Me conte sobre seu trabalho. 
 04|26DE|0178
-02|26E2|00DF|I see. Very well, 'tis my lot to take care of my fellow Tenebraens, though I suspect that would include you as well, so long as you stay out of trouble. I keep the peace within and the war without, if you know what I mean. 
-02|27DE|0018|Tell me about your job. 
-02|2803|0011|The war without? 
-02|2818|001B|What about the executions? 
-02|283E|0009|Adeus 
+02|26E2|00DF|Eu vejo. Muito bem, cabe a mim cuidar dos meus companheiros Tenebraens, embora eu suspeite que isso incluiria você também, desde que fique longe de problemas. Eu mantenho a paz interior e a guerra exterior, se é que você me entende. 
+02|27DE|0018|Me conte sobre seu trabalho. 
+02|2803|0011|A guerra sem? 
+02|2818|001B|E as execuções? 
+02|283E|0009|Adeus. 
 03|2856|0591
-02|285B|0011|The war without? 
+02|285B|0011|A guerra sem? 
 04|2871|01CF
-02|2875|011C|Well, I suppose that would seem a bit obscure -now-. However, 'twas not that long ago when the Zealans still attempted to scale our walls. Of course, the raids actually ceased nearly a century ago, but defending the city from invaders is still an integral part of a guard's training! 
-02|29A8|0011|The war without? 
+02|2875|011C|Bem, suponho que isso pareceria um pouco obscuro -agora-. No entanto, não faz muito tempo que os zelanos ainda tentavam escalar as nossas muralhas. É claro que os ataques cessaram há quase um século, mas defender a cidade dos invasores ainda é parte integrante do treinamento de um guarda! 
+02|29A8|0011|A guerra sem? 
 04|29CA|003E
-02|29CD|0018|Tell me about Tenebrae. 
-02|29F0|0009|Adeus 
+02|29CD|0018|Conte-me sobre a Escuridão. 
+02|29F0|0009|Adeus. 
 03|2A08|0035
-02|2A0B|0012|What are Zealans? 
-02|2A28|0009|Adeus 
+02|2A0B|0012|O que são Zelanos? 
+02|2A28|0009|Adeus. 
 03|2A40|03A7
-02|2A45|001B|What about the executions? 
+02|2A45|001B|E as execuções? 
 04|2A65|0130
-02|2A6A|001B|What about the executions? 
+02|2A6A|001B|E as execuções? 
 04|2A96|0085
-02|2A9A|006C|They were part of maintaining order under Mordea's iron grip. I am glad there are fewer under Devon's rule. 
+02|2A9A|006C|Eles faziam parte da manutenção da ordem sob o domínio férreo de Mordea. Fico feliz que haja menos sob o governo de Devon. 
 03|2B1B|0077
-02|2B1F|0061|What about them? They are a necessary part of maintaining order. Nothing more, but nothing less. 
+02|2B1F|0061|E eles? Eles são uma parte necessária para manter a ordem. Nada mais, mas nada menos. 
 03|2B95|0252
-02|2B9A|0012|What are Zealans? 
+02|2B9A|0012|O que são Zelanos? 
 04|2BB1|01F5
-02|2BB5|015E|Indeed, you are a stranger not to know of the despicable Zealans. They are, or -were-, an insane collection of people who were too blind to recognize the power of the Titans. They foolishly and tenaciously held on to an archaic set of beliefs, and when the Titans demonstrated their might and authority, the Zealans refused to acknowledge the truth. 
-02|2D30|0012|What are Zealans? 
+02|2BB5|015E|Na verdade, você é um estranho por não conhecer os desprezíveis zelanos. Eles são, ou eram, um grupo insano de pessoas cegas demais para reconhecer o poder dos Titãs. Eles tola e tenazmente se apegaram a um conjunto arcaico de crenças, e quando os Titãs demonstraram seu poder e autoridade, os Zealanos se recusaram a reconhecer a verdade. 
+02|2D30|0012|O que são Zelanos? 
 04|2D54|0037
-02|2D57|0018|Tell me about Tenebrae. 
-02|2D73|0009|Adeus 
+02|2D57|0018|Conte-me sobre a Escuridão. 
+02|2D73|0009|Adeus. 
 03|2D8B|0018
-02|2D8E|0009|Adeus 
+02|2D8E|0009|Adeus. 
 03|2DA6|0041
-02|2DAB|0009|Adeus 
+02|2DAB|0009|Adeus. 
 04|2DB9|002E
 06|2DBF|057C:1090
-02|2DCE|0009|Adeus 
+02|2DCE|0009|Adeus. 
 03|2DEA|D6FC
 01|2DF7|2DF7
-02|2E02|005F|Halt! I have never seen you before, stranger. Identify yourself and your business in Tenebrae. 
-02|2E76|0008|I go by 
+02|2E02|005F|Pare! Eu nunca te vi antes, estranho. Identifique você e sua empresa em Tenebrae. 
+02|2E76|0008|Eu vou por 
 02|2E94|0001|.
-02|2E9E|0019|What just happened here? 
-02|2EC4|0009|Adeus 
+02|2E9E|0019|O que aconteceu aqui? 
+02|2EC4|0009|Adeus. 
 04|2ED3|15B7
-02|2EF1|0019|What just happened here? 
+02|2EF1|0019|O que aconteceu aqui? 
 04|2F0F|01F9
-02|2F14|0019|What just happened here? 
-02|2F3B|0078|The execution is none of your business. Just be glad that a treasonous, despicable criminal has been properly punished. 
+02|2F14|0019|O que aconteceu aqui? 
+02|2F3B|0078|A execução não é da sua conta. Fique feliz porque um criminoso traiçoeiro e desprezível foi devidamente punido. 
 06|2FD3|057C:091C
 06|2FEB|057C:15E7
 06|3005|057C:091C
@@ -294,162 +294,162 @@
 06|3035|057C:15E7
 06|3058|057C:091C
 06|3079|057C:15E7
-02|3089|0019|Now answer the question! 
-02|30B9|0011|I come in peace. 
-02|30CE|0018|My business, not yours. 
-02|30EA|0013|I do not remember. 
+02|3089|0019|Agora responda a pergunta! 
+02|30B9|0011|Eu venho em paz. 
+02|30CE|0018|Meu negócio, não seu. 
+02|30EA|0013|Não me lembro. 
 03|3108|137F
 04|3110|019A
 04|3115|003E
-02|3119|0028|Well now, that's a little more like it. 
-02|3156|000A|Well met, 
+02|3119|0028|Bem, agora é um pouco mais parecido. 
+02|3156|000A|Oi, 
 02|316F|0001|.
-02|318C|001C|And where do you hail from? 
-02|31C7|0011|I come in peace. 
-02|31DC|0018|My business, not yours. 
-02|31F8|0013|I do not remember. 
-02|3218|000B|The beach. 
-02|3227|0012|A place far away. 
-02|323D|000F|Another world. 
+02|318C|001C|E de onde você vem? 
+02|31C7|0011|Eu venho em paz. 
+02|31DC|0018|Meu negócio, não seu. 
+02|31F8|0013|Não me lembro. 
+02|3218|000B|A praia. 
+02|3227|0012|Um lugar distante. 
+02|323D|000F|Outro mundo. 
 04|325D|001C
-02|3262|0005|Yes. 
-02|326B|0004|No. 
+02|3262|0005|Sim. 
+02|326B|0004|Não. 
 04|327E|0029
-02|3283|001A|I said, not your concern! 
+02|3283|001A|Eu disse, não é da sua conta! 
 03|32AA|11DD
-02|32AF|0011|I come in peace. 
+02|32AF|0011|Eu venho em paz. 
 04|32C5|01DF
 04|32CA|003E
-02|32CE|0028|Well now, that's a little more like it. 
-02|330C|0061|'Tis good to hear, stranger. I am certain that will not change. Do not prove me wrong, stranger. 
-02|3383|0025|Now tell me, where do you hail from? 
-02|33C1|0011|I come in peace. 
-02|33D6|0018|My business, not yours. 
-02|33F2|0013|I do not remember. 
-02|3412|000B|The beach. 
-02|3421|0012|A place far away. 
-02|3437|000F|Another world. 
+02|32CE|0028|Bem, agora é um pouco mais parecido. 
+02|330C|0061|É bom ouvir isso, estranho. Tenho certeza de que isso não mudará. Não prove que estou errado, estranho. 
+02|3383|0025|Agora me diga, de onde você é? 
+02|33C1|0011|Eu venho em paz. 
+02|33D6|0018|Meu negócio, não seu. 
+02|33F2|0013|Não me lembro. 
+02|3412|000B|A praia. 
+02|3421|0012|Um lugar distante. 
+02|3437|000F|Outro mundo. 
 04|3457|001C
-02|345C|0005|Yes. 
-02|3465|0004|No. 
+02|345C|0005|Sim. 
+02|3465|0004|Não. 
 04|3478|0029
-02|347D|001A|I said, not your concern! 
+02|347D|001A|Eu disse, não é da sua conta! 
 03|34A4|0FE3
-02|34A9|0018|My business, not yours. 
+02|34A9|0018|Meu negócio, não seu. 
 04|34C6|01BE
-02|34CA|00F2|If you truly believe that, then you are sadly mistaken. For every moment you spend in Tenebrae, what you are doing and where you are doing it is exactly my business as guard of the royal household! Now I repeat, state your name and business. 
-02|35D9|0011|I come in peace. 
-02|35EE|0018|My business, not yours. 
-02|360A|0013|I do not remember. 
-02|362E|0011|I come in peace. 
-02|3643|001A|I said, not your concern! 
-02|3661|0013|I do not remember. 
+02|34CA|00F2|Se você realmente acredita nisso, então você está redondamente enganado. Para cada momento que você passa em Tenebrae, o que você está fazendo e onde está fazendo é exatamente da minha conta como guarda da casa real! Agora repito, diga seu nome e empresa. 
+02|35D9|0011|Eu venho em paz. 
+02|35EE|0018|Meu negócio, não seu. 
+02|360A|0013|Não me lembro. 
+02|362E|0011|Eu venho em paz. 
+02|3643|001A|Eu disse, não é da sua conta! 
+02|3661|0013|Não me lembro. 
 03|3684|0E03
-02|3689|001A|I said, not your concern! 
+02|3689|001A|Eu disse, não é da sua conta! 
 04|36A8|00E5
-02|36AC|0083|You won't last long here with an attitude like that. For the final time, will you tell me your name and business here in Tenebrae? 
-02|3746|001A|I said, not your concern! 
-02|376D|0005|Yes. 
-02|3776|0004|No. 
+02|36AC|0083|Você não vai durar muito aqui com uma atitude dessas. Pela última vez, você poderia me dizer seu nome e empresa aqui em Tenebrae? 
+02|3746|001A|Eu disse, não é da sua conta! 
+02|376D|0005|Sim. 
+02|3776|0004|Não. 
 03|378D|0CFA
-02|3792|0005|Yes. 
+02|3792|0005|Sim. 
 04|379C|0055
-02|37A0|0017|Well, what is it then? 
-02|37CE|0005|Yes. 
-02|37D7|0004|No. 
+02|37A0|0017|Bem, o que é então? 
+02|37CE|0005|Sim. 
+02|37D7|0004|Não. 
 03|37F1|0C96
-02|37F6|0004|No. 
+02|37F6|0004|Não. 
 04|37FF|006F
-02|3804|0004|No. 
-02|3816|0024|Then prepare to answer to my blade! 
+02|3804|0004|Não. 
+02|3816|0024|Então prepare-se para responder à minha lâmina! 
 06|3852|057C:1090
 03|386B|0C1F
 03|386E|0C19
-02|3873|0013|I do not remember. 
+02|3873|0013|Não me lembro. 
 04|388B|0201
 04|3890|003E
-02|3894|0028|Well now, that's a little more like it. 
-02|38D2|0083|Had a bit too much of Orlok's brew, eh? Well, you just watch yourself and stay out of trouble, and we'll have no quarrel with you. 
-02|396B|0025|Now tell me, where do you hail from? 
+02|3894|0028|Bem, agora é um pouco mais parecido. 
+02|38D2|0083|Bebi um pouco demais da bebida de Orlok, hein? Bem, tome cuidado e fique longe de problemas, e não discutiremos com você. 
+02|396B|0025|Agora me diga, de onde você é? 
 04|39A7|001C
-02|39AC|0005|Yes. 
-02|39B5|0004|No. 
+02|39AC|0005|Sim. 
+02|39B5|0004|Não. 
 04|39C8|0029
-02|39CD|001A|I said, not your concern! 
-02|39F8|0011|I come in peace. 
-02|3A0D|0018|My business, not yours. 
-02|3A29|0013|I do not remember. 
-02|3A49|000B|The beach. 
-02|3A58|0012|A place far away. 
-02|3A6E|000F|Another world. 
+02|39CD|001A|Eu disse, não é da sua conta! 
+02|39F8|0011|Eu venho em paz. 
+02|3A0D|0018|Meu negócio, não seu. 
+02|3A29|0013|Não me lembro. 
+02|3A49|000B|A praia. 
+02|3A58|0012|Um lugar distante. 
+02|3A6E|000F|Outro mundo. 
 03|3A8C|09FB
-02|3A91|000B|The beach. 
+02|3A91|000B|A praia. 
 04|3AA1|013C
-02|3AA5|0083|A fisherman, then? You do not dress like one who makes his living pulling nets from the sea. Then your business in the city is...? 
-02|3B3F|000B|The beach. 
-02|3B4E|0012|A place far away. 
-02|3B64|000F|Another world. 
-02|3B82|000F|I do not know. 
-02|3B95|0010|To return home. 
-02|3BA9|0015|To leave this place. 
-02|3BC2|000F|To make money. 
+02|3AA5|0083|Pescador, então? Você não se veste como alguém que ganha a vida puxando redes do mar. Então o seu negócio na cidade é...? 
+02|3B3F|000B|A praia. 
+02|3B4E|0012|Um lugar distante. 
+02|3B64|000F|Outro mundo. 
+02|3B82|000F|Não sei. 
+02|3B95|0010|Para voltar para casa. 
+02|3BA9|0015|Para sair deste lugar. 
+02|3BC2|000F|Fazer dinheiro. 
 03|3BDD|08AA
-02|3BE2|0012|A place far away. 
+02|3BE2|0012|Um lugar distante. 
 04|3BF9|0182
-02|3BFD|00C9|Another island? I admit your clothing is unusual, but I was not aware there were other cities. Well, I suggest you quickly learn the laws and customs of -this- city. What is your business in the city? 
-02|3CDD|000B|The beach. 
-02|3CEC|0012|A place far away. 
-02|3D02|000F|Another world. 
-02|3D20|000F|I do not know. 
-02|3D33|0010|To return home. 
-02|3D47|0015|To leave this place. 
-02|3D60|000F|To make money. 
+02|3BFD|00C9|Outra ilha? Admito que suas roupas são incomuns, mas não sabia que havia outras cidades. Bem, sugiro que você aprenda rapidamente as leis e costumes desta cidade. Qual é o seu negócio na cidade? 
+02|3CDD|000B|A praia. 
+02|3CEC|0012|Um lugar distante. 
+02|3D02|000F|Outro mundo. 
+02|3D20|000F|Não sei. 
+02|3D33|0010|Para voltar para casa. 
+02|3D47|0015|Para sair deste lugar. 
+02|3D60|000F|Fazer dinheiro. 
 03|3D7B|070C
-02|3D80|000F|Another world. 
+02|3D80|000F|Outro mundo. 
 04|3D94|01B1
-02|3D98|00F8|I may appear to be just a simple guard to you, but I outgrew such fairytales years ago. I suggest you change your tone with me or I will see your worthless hide resting on the inside of a jail! Now, if you would, tell me your business in the city. 
-02|3EA7|000B|The beach. 
-02|3EB6|0012|A place far away. 
-02|3ECC|000F|Another world. 
-02|3EEA|000F|I do not know. 
-02|3EFD|0010|To return home. 
-02|3F11|0015|To leave this place. 
-02|3F2A|000F|To make money. 
+02|3D98|00F8|Posso parecer apenas um simples guarda para você, mas superei esses contos de fadas anos atrás. Sugiro que você mude de tom comigo ou verei sua pele inútil descansando dentro de uma prisão! Agora, por favor, conte-me o seu negócio na cidade. 
+02|3EA7|000B|A praia. 
+02|3EB6|0012|Um lugar distante. 
+02|3ECC|000F|Outro mundo. 
+02|3EEA|000F|Não sei. 
+02|3EFD|0010|Para voltar para casa. 
+02|3F11|0015|Para sair deste lugar. 
+02|3F2A|000F|Fazer dinheiro. 
 03|3F45|0542
-02|3F4A|000F|I do not know. 
+02|3F4A|000F|Não sei. 
 04|3F5E|01DB
-02|3F63|000F|I do not know. 
-02|3F76|0010|To return home. 
-02|3F8A|0015|To leave this place. 
-02|3FA3|000F|To make money. 
+02|3F63|000F|Não sei. 
+02|3F76|0010|Para voltar para casa. 
+02|3F8A|0015|Para sair deste lugar. 
+02|3FA3|000F|Fazer dinheiro. 
 04|3FC3|0065
-02|3FC7|001C|Well you had best find out, 
-02|3FED|0025|. We do not like trouble in the city.
+02|3FC7|001C|Bem, é melhor você descobrir, 
+02|3FED|0025|. Não gostamos de problemas na cidade.
 03|4028|0060
-02|402C|004A|Well you had best find out, stranger. We do not like trouble in the city. 
-02|408C|007F|You may go about your business. Please move along and do not disturb the widow until after I have escorted her from the docks. 
+02|402C|004A|Bem, é melhor você descobrir, estranho. Não gostamos de problemas na cidade. 
+02|408C|007F|Você pode cuidar de seus negócios. Por favor, siga em frente e não perturbe a viúva até que eu a acompanhe desde as docas. 
 06|4129|057C:1090
 03|4136|0354
 03|4139|034E
-02|413E|0010|To return home. 
-02|4155|0015|To leave this place. 
+02|413E|0010|Para voltar para casa. 
+02|4155|0015|Para sair deste lugar. 
 04|4170|018C
-02|4175|000F|I do not know. 
-02|4188|0010|To return home. 
-02|419C|0015|To leave this place. 
-02|41B5|000F|To make money. 
-02|41D2|0067|Then what in the Lady's name are you doing wandering around here? I suggest you quickly find your way. 
-02|424F|007F|You may go about your business. Please move along and do not disturb the widow until after I have escorted her from the docks. 
+02|4175|000F|Não sei. 
+02|4188|0010|Para voltar para casa. 
+02|419C|0015|Para sair deste lugar. 
+02|41B5|000F|Fazer dinheiro. 
+02|41D2|0067|Então o que, em nome da Senhora, você está fazendo vagando por aqui? Eu sugiro que você encontre seu caminho rapidamente. 
+02|424F|007F|Você pode cuidar de seus negócios. Por favor, siga em frente e não perturbe a viúva até que eu a acompanhe desde as docas. 
 06|42EC|057C:1090
 03|42F9|0191
 03|42FC|018B
-02|4301|000F|To make money. 
+02|4301|000F|Fazer dinheiro. 
 04|4315|0172
-02|431A|000F|I do not know. 
-02|432D|0010|To return home. 
-02|4341|0015|To leave this place. 
-02|435A|000F|To make money. 
-02|4377|004D|Whose business is not? While you are at it, buy yourself some better attire. 
-02|43DA|007F|You may go about your business. Please move along and do not disturb the widow until after I have escorted her from the docks. 
+02|431A|000F|Não sei. 
+02|432D|0010|Para voltar para casa. 
+02|4341|0015|Para sair deste lugar. 
+02|435A|000F|Fazer dinheiro. 
+02|4377|004D|Cujo negócio não é? Enquanto você está nisso, compre um traje melhor. 
+02|43DA|007F|Você pode cuidar de seus negócios. Por favor, siga em frente e não perturbe a viúva até que eu a acompanhe desde as docas. 
 06|4477|057C:1090
 03|448A|EA35

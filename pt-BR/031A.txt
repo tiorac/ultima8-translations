@@ -1,5 +1,5 @@
 01|0080|0080
-02|008C|000C|fire shroom 
+02|008C|000C|cogumelo de fogo 
 01|00AF|00AF
 06|00FF|057C:0676
 01|010C|010C

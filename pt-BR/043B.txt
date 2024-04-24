@@ -1,8 +1,8 @@
 01|0080|0080
 04|0096|0028
-02|009A|000F|dead guardsman 
+02|009A|000F|guarda morto 
 03|00BE|0020
-02|00C2|000A|guardsman 
+02|00C2|000A|guarda 
 01|00E3|00E3
 06|0106|057C:091C
 06|011C|057C:15E7
@@ -12,146 +12,146 @@
 01|0187|0187
 06|0195|057C:0BCF
 04|01D5|0055
-02|01D9|0029|Run for cover. The Titans have gone mad! 
+02|01D9|0029|Corra para se proteger. Os Titãs enlouqueceram! 
 06|021A|057C:1090
 03|0227|143E
 03|022A|008D
 04|0231|0086
-02|0235|005A|Run for your very life -- the ground shakes and the dead have come to the claim the city! 
+02|0235|005A|Corra para salvar sua vida - o chão treme e os mortos vêm reivindicar a cidade! 
 06|02A7|057C:1090
 03|02B4|13B1
 04|02D1|0084
 06|02F5|057C:15E7
 04|0308|0024
-02|030C|000B|Hold, you! 
+02|030C|000B|Agarrar-te! 
 03|032C|0026
-02|0330|0010|Hold, stranger! 
+02|0330|0010|Espere, estranho! 
 03|0355|007F
-02|035B|000B|Guardsman! 
+02|035B|000B|Guarda! 
 04|037F|0030
-02|0383|0017|Aye. What do you want? 
+02|0383|0017|Sim. O que você quer? 
 03|03AF|0025
-02|03B3|000F|Aye, stranger? 
+02|03B3|000F|Sim, estranho? 
 04|03EE|0029
-02|03F1|0015|What is the problem? 
+02|03F1|0015|Qual é o problema? 
 03|0417|005D
-02|041A|0013|What is your name? 
-02|0431|001B|Where does this road lead? 
-02|0450|0013|What do you guard? 
-02|0467|0005|Bye. 
-02|0479|0005|Bye. 
+02|041A|0013|Qual o seu nome? 
+02|0431|001B|Aonde essa estrada leva? 
+02|0450|0013|O que você guarda? 
+02|0467|0005|Tchau. 
+02|0479|0005|Tchau. 
 04|0484|11E1
-02|04A2|0015|What is the problem? 
+02|04A2|0015|Qual é o problema? 
 04|04BC|00B1
-02|04C0|004B|That is what I wish to ask you! What do you know about Bentic the Scholar? 
-02|0524|0010|We have spoken. 
-02|0538|0009|Nothing. 
-02|0545|001D|What concern is it of yours? 
+02|04C0|004B|É isso que eu quero te perguntar! O que você sabe sobre Bentic, o Erudito? 
+02|0524|0010|Nós conversamos. 
+02|0538|0009|Nada. 
+02|0545|001D|Qual é a sua preocupação? 
 03|056D|10F5
-02|0572|0010|We have spoken. 
+02|0572|0010|Nós conversamos. 
 04|0587|0186
-02|058B|011B|Then know this: For conducting forbidden research, Bentic's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Know also that as his confidant all of your actions are under observation. Now answer this: What do you know of the fisherman named Devon? 
-02|06BF|0010|I have met him. 
-02|06D3|000E|Who is Devon? 
-02|06E5|001D|What concern is it of yours? 
+02|058B|011B|Então saiba disso: por conduzir pesquisas proibidas, a cabeça de Bentic repousa nas profundezas do reino do Luker sob o comando de Lady Mordea. Saiba também que, como seu confidente, todas as suas ações estão sob observação. Agora responda: O que você sabe sobre o pescador chamado Devon? 
+02|06BF|0010|Eu o conheci. 
+02|06D3|000E|Quem é Devon? 
+02|06E5|001D|Qual é a sua preocupação? 
 03|070D|0F55
-02|0712|0009|Nothing. 
-02|0722|001A|I know nothing of Bentic. 
+02|0712|0009|Nada. 
+02|0722|001A|Não sei nada sobre Bentic. 
 04|0742|02B5
 04|0749|0160
-02|074D|0143|You lie! You have been seen speaking to him. Know this: For conducting forbidden research, Bentic's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Know also that as his confidant all of your actions are under observation. Now answer this: What do you know of the fisherman named Devon? 
+02|074D|0143|Você mente! Você foi visto falando com ele. Saiba isto: por conduzir pesquisas proibidas, a cabeça de Bentic repousa nas profundezas do reino do Luker sob o comando de Lady Mordea. Saiba também que, como seu confidente, todas as suas ações estão sob observação. Agora responda: O que você sabe sobre o pescador chamado Devon? 
 03|08A9|00F9
-02|08AD|00E3|Then know this and be warned: For conducting forbidden research, the scholar's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Now answer this: What do you know of the fisherman named Devon? 
-02|09A9|0010|I have met him. 
-02|09BD|000E|Who is Devon? 
-02|09CF|001D|What concern is it of yours? 
+02|08AD|00E3|Então saiba disso e esteja avisado: por conduzir pesquisas proibidas, a cabeça do estudioso repousa nas profundezas do reino do Luker sob o comando de Lady Mordea. Agora responda: O que você sabe sobre o pescador chamado Devon? 
+02|09A9|0010|Eu o conheci. 
+02|09BD|000E|Quem é Devon? 
+02|09CF|001D|Qual é a sua preocupação? 
 03|09F7|0C6B
-02|09FC|0010|I have met him. 
+02|09FC|0010|Eu o conheci. 
 04|0A11|0113
-02|0A15|00C5|Then let me also inform you that he has been placed under arrest and imprisoned. For your association with him you are also under suspicion. Be very careful whom you choose as friends from now on. 
-02|0AEF|0018|Why was Devon arrested? 
-02|0B0B|000E|May I go now? 
+02|0A15|00C5|Então deixe-me também informá-lo que ele foi detido e encarcerado. Pela sua associação com ele você também está sob suspeita. Tenha muito cuidado com quem você escolherá como amigo a partir de agora. 
+02|0AEF|0018|Por que Devon foi preso? 
+02|0B0B|000E|Eu devo ir agora? 
 03|0B24|0B3E
-02|0B29|0018|Why was Devon arrested? 
+02|0B29|0018|Por que Devon foi preso? 
 04|0B46|006E
-02|0B4B|0018|Why was Devon arrested? 
-02|0B71|002E|I do not have such answers. Ask him yourself! 
+02|0B4B|0018|Por que Devon foi preso? 
+02|0B71|002E|Eu não tenho essas respostas. Pergunte a ele você mesmo! 
 03|0BB4|0AAE
-02|0BB9|000E|Who is Devon? 
+02|0BB9|000E|Quem é Devon? 
 04|0BCC|0175
 04|0BD1|002B
-02|0BD5|0015|Again you lie to me! 
-02|0C00|00F7|Others have seen you with him, so do not pretend you have forgotten the fisherman. He has been placed under arrest and imprisoned. For your association with him you are also under suspicion. Be very careful whom you	choose as friends from now on. 
-02|0D0C|0018|Why was Devon arrested? 
-02|0D28|000E|May I go now? 
+02|0BD5|0015|Mais uma vez você mente para mim! 
+02|0C00|00F7|Outros viram você com ele, então não finja que esqueceu o pescador. Ele foi colocado sob prisão e encarcerado. Pela sua associação com ele você também está sob suspeita. Tenha muito cuidado com quem você escolherá como amigo a partir de agora. 
+02|0D0C|0018|Por que Devon foi preso? 
+02|0D28|000E|Eu devo ir agora? 
 03|0D41|0921
-02|0D46|001D|What concern is it of yours? 
+02|0D46|001D|Qual é a sua preocupação? 
 04|0D68|00E4
-02|0D6C|004D|Do not risk your worthless life with such boldness. Now answer the question! 
+02|0D6C|004D|Não arrisque sua vida inútil com tanta ousadia. Agora responda a pergunta! 
 04|0DD0|0044
-02|0DD3|0010|We have spoken. 
-02|0DE7|001A|I know nothing of Bentic. 
-02|0E05|0004|No! 
+02|0DD3|0010|Nós conversamos. 
+02|0DE7|001A|Não sei nada sobre Bentic. 
+02|0E05|0004|Não! 
 03|0E14|0035
-02|0E17|0010|I have met him. 
-02|0E2B|000E|Who is Devon? 
-02|0E3D|0004|No! 
+02|0E17|0010|Eu o conheci. 
+02|0E2B|000E|Quem é Devon? 
+02|0E3D|0004|Não! 
 03|0E4C|0816
-02|0E51|0004|No! 
+02|0E51|0004|Não! 
 04|0E5A|0065
-02|0E5E|001D|Then die for your insolence! 
+02|0E5E|001D|Então morra pela sua insolência! 
 06|0E93|057C:1090
 03|0EBC|07A9
 03|0EBF|07A3
-02|0EC4|0013|What is your name? 
+02|0EC4|0013|Qual o seu nome? 
 04|0EDC|0113
-02|0EE1|0013|What is your name? 
+02|0EE1|0013|Qual o seu nome? 
 04|0F05|005F
-02|0F09|0046|Never you mind such things. Better to be worried about your own hide. 
+02|0F09|0046|Nunca se importe com essas coisas. Melhor se preocupar com sua própria pele. 
 03|0F64|0088
-02|0F68|0072|What an odd question. 'Tis not -my- name that is important. You should be more concerned about your own business. 
+02|0F68|0072|Que pergunta estranha. 'Não é meu nome que é importante. Você deveria estar mais preocupado com seu próprio negócio. 
 03|0FEF|0673
-02|0FF4|0013|What do you guard? 
+02|0FF4|0013|O que você guarda? 
 04|100C|00F0
-02|1011|0013|What do you guard? 
+02|1011|0013|O que você guarda? 
 04|1035|0043
-02|1039|002D|What a peculiar mind for questions you have. 
+02|1039|002D|Que mente peculiar para perguntas você tem. 
 04|107F|003C
-02|1083|0023|I guard Devon and city, of course. 
+02|1083|0023|Eu guardo Devon e a cidade, é claro. 
 03|10BB|003E
-02|10BF|0028|I guard her Ladyship Mordea, of course! 
+02|10BF|0028|Eu protejo sua Senhoria Mordea, é claro! 
 03|10FC|0566
-02|1101|001B|Where does this road lead? 
+02|1101|001B|Aonde essa estrada leva? 
 04|1121|0207
-02|1126|001B|Where does this road lead? 
+02|1126|001B|Aonde essa estrada leva? 
 04|1152|009E
-02|1156|0046|We have already discussed that, now haven't we. Do not waste my time. 
+02|1156|0046|Já discutimos isso, não é? Não desperdice meu tempo. 
 06|11CE|057C:15E7
 06|11E0|057C:1090
 03|11ED|0478
 03|11F0|0135
 04|11FD|00B5
-02|1201|009C|You should know. I have seen you on your way to the cemetery. An eerie place, if you ask me, but your business is your own as long as you cause no trouble. 
+02|1201|009C|Você deveria saber. Eu vi você a caminho do cemitério. Um lugar estranho, se você me perguntar, mas seu negócio é seu, desde que você não cause problemas. 
 03|12B2|0053
-02|12B6|003D|To the east lies the cemetery. An eerie place if you ask me. 
-02|130A|0012|Eerie? How eerie? 
+02|12B6|003D|A leste fica o cemitério. Um lugar estranho, se você me perguntar. 
+02|130A|0012|Estranho? Que estranho? 
 03|1328|033A
-02|132D|0012|Eerie? How eerie? 
+02|132D|0012|Estranho? Que estranho? 
 04|1344|01B9
-02|1349|0012|Eerie? How eerie? 
-02|1369|017F|'Tis not safe for sane men to be there. The cemetery is where the Necromancers inter the dead. Lithos may demand it, but I think it takes a twisted mind to perform the tasks they do. Some say that Lithos lets the Necromancers keep a few of the dead around to serve them. And late at night, I, myself, have often heard sounds that would freeze your bones. Beware to any who go there. 
+02|1349|0012|Estranho? Que estranho? 
+02|1369|017F|Não é seguro que homens sãos estejam lá. O cemitério é onde os Necromantes enterram os mortos. Lithos pode exigir isso, mas acho que é preciso ter uma mente distorcida para realizar as tarefas que executa. Alguns dizem que Lithos permite que os Necromantes mantenham alguns mortos para servi-los. E tarde da noite, eu mesmo ouvi muitas vezes sons que congelariam seus ossos. Cuidado com quem vai lá. 
 03|14FD|0165
-02|1502|000E|May I go now? 
+02|1502|000E|Eu devo ir agora? 
 04|1515|00C0
-02|151A|000E|May I go now? 
-02|1536|004B|Yes, I have no more questions. Be off with you, and stay clear of trouble! 
+02|151A|000E|Eu devo ir agora? 
+02|1536|004B|Sim, não tenho mais perguntas. Vá embora e fique longe de problemas! 
 06|15B3|057C:15E7
 06|15C5|057C:1090
 03|15D2|0093
 03|15D5|008D
-02|15DA|0005|Bye. 
+02|15DA|0005|Tchau. 
 04|15E4|007E
-02|15E8|0020|Aye. Enough of these questions. 
+02|15E8|0020|Sim. Chega dessas perguntas. 
 06|1640|057C:15E7
 06|1652|057C:1090
 03|1665|EE0F

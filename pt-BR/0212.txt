@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|000B|arm guards 
+02|008C|000B|protetores de braço 

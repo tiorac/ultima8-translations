@@ -1,8 +1,8 @@
 01|0080|0080
 04|0094|0025
-02|0098|000C|dead beggar 
+02|0098|000C|mendigo morto 
 03|00B9|001D
-02|00BD|0007|beggar 
+02|00BD|0007|implorando 
 01|00DB|00DB
 06|0105|0344:0B53
 01|0110|0110
@@ -13,79 +13,79 @@
 06|01B6|0581:1C19
 04|01D6|0069
 04|01E5|002F
-02|01E8|001B|Help! I'm being oppressed! 
+02|01E8|001B|Ajuda! Estou sendo oprimido! 
 03|0214|002B
-02|0217|001A|Argh! I'm being attacked! 
+02|0217|001A|Argh! Estou sendo atacado! 
 01|0244|0244
 03|025A|08F4
 05|0264|0581:2A56
 05|0272|0581:2A56
 04|0285|001F
-02|028A|0009|Hello... 
+02|028A|0009|Olá... 
 03|02A4|0020
-02|02A9|000D|Greetings... 
+02|02A9|000D|Saudações... 
 06|02CA|057C:0E4F
 06|02DF|0581:1C19
 05|02F3|0581:2A56
 06|0307|057C:15E7
 04|031E|0043
-02|0322|002A|Do you have any old coins you don't want? 
+02|0322|002A|Você tem alguma moeda antiga que não quer? 
 03|0361|003E
-02|0365|0028|How's about helpin' out a poor cripple? 
+02|0365|0028|Que tal ajudar um pobre aleijado? 
 06|03A8|0581:1AD0
 04|03BA|067E
 04|03EA|0590
 04|0400|0503
 05|040E|0581:20B8
-02|0418|000D|Here you go. 
+02|0418|000D|Aqui você vai. 
 04|043F|0446
 05|0444|0581:1A85
-02|044F|0016|Thank you, my friend. 
-02|047B|002B|And, as a word of warning remember this... 
+02|044F|0016|Obrigado, meu amigo. 
+02|047B|002B|E, como uma palavra de advertência, lembre-se disso... 
 04|04C0|0071
-02|04C4|0025|Always look for traps within chests. 
-02|04FF|0020|No treasure is worth dying for. 
+02|04C4|0025|Sempre procure armadilhas dentro dos baús. 
+02|04FF|0020|Nenhum tesouro vale a pena morrer. 
 04|0539|0087
-02|053D|0033|Do not use healing spells when you do not need to. 
-02|0586|0028|They will do you more damage than good. 
+02|053D|0033|Não use feitiços de cura quando não for necessário. 
+02|0586|0028|Eles farão mais mal do que bem. 
 04|05C8|00A7
-02|05CC|003A|Remember that sword is a friend in times of great danger, 
-02|061C|0041|but a well placed boot can also bring down an undead stranger... 
+02|05CC|003A|Lembre-se que a espada é uma amiga em tempos de grande perigo, 
+02|061C|0041|mas uma bota bem colocada também pode derrubar um estranho morto-vivo... 
 04|0677|009F
-02|067B|0039|Exploring the catacombs may be dangerous to your health. 
-02|06CA|003A|Take care to map your route, lest you seal your own doom! 
+02|067B|0039|Explorar as catacumbas pode ser perigoso para a saúde. 
+02|06CA|003A|Tome cuidado para mapear sua rota, para não selar sua própria destruição! 
 04|071E|0055
-02|0722|003F|Never try to kill a skeleton, for they are already the undead. 
+02|0722|003F|Nunca tente matar um esqueleto, pois eles já são mortos-vivos. 
 04|077B|00C5
-02|077F|004D|Yellow shrooms with spots of green are very bad for your kidneys and spleen. 
-02|07E2|004C|But yellow shrooms with spots of red will bring you back when you are dead. 
+02|077F|004D|Cogumelos amarelos com manchas verdes são muito ruins para os rins e o baço. 
+02|07E2|004C|Mas cogumelos amarelos com manchas vermelhas o trarão de volta quando você estiver morto. 
 04|0848|003A
-02|084C|0024|Children should be seen, not heard. 
+02|084C|0024|As crianças devem ser vistas e não ouvidas. 
 03|0885|0068
-02|0889|001C|Thank you kindly, stranger. 
-02|08BB|0020|May Hydros find favor with you. 
+02|0889|001C|Obrigado gentilmente, estranho. 
+02|08BB|0020|Que Hydros encontre o favor de você. 
 06|08F3|057C:1090
 03|0900|024E
 03|0903|0074
-02|0909|0020|Sorry, I do not have any money. 
-02|093F|0013|Maybe next time... 
+02|0909|0020|Desculpe, não tenho dinheiro. 
+02|093F|0013|Talvez na próxima vez... 
 06|096A|057C:1090
 03|0977|01D7
 03|097A|00BB
-02|0980|0008|Oooops! 
-02|09A0|0020|Sorry, I do not have any money. 
-02|09D6|0013|Maybe next time... 
-02|09FF|0011|Thanks anyway... 
+02|0980|0008|Ops! 
+02|09A0|0020|Desculpe, não tenho dinheiro. 
+02|09D6|0013|Talvez na próxima vez... 
+02|09FF|0011|Obrigado de qualquer maneira... 
 06|0A28|057C:1090
 03|0A35|0119
 03|0A38|0106
-02|0A3E|0009|Peasant! 
+02|0A3E|0009|Camponês! 
 04|0A6C|002E
-02|0A70|0018|May the Lurker take ya! 
+02|0A70|0018|Que o Luker te leve! 
 04|0AA2|0051
-02|0AA6|003B|May the minions of Lithos suck the marrow from your bones! 
+02|0AA6|003B|Que os asseclas de Lithos sugem a medula de seus ossos! 
 04|0AFB|0043
-02|0AFF|002D|May you roast in Pyros' flames for all time! 
+02|0AFF|002D|Que você possa assar nas chamas de Pyros para sempre! 
 06|0B44|057C:1090
 01|0B53|0B53
 06|0B66|0581:1C19
@@ -94,19 +94,19 @@
 04|0BCB|0180
 06|0BDB|057C:15E7
 04|0BEB|003A
-02|0BEF|0007|Hey... 
+02|0BEF|0007|Ei... 
 06|0C19|057C:15E7
 04|0C2D|0040
-02|0C31|000D|Over here... 
+02|0C31|000D|Por aqui... 
 06|0C61|057C:15E7
 04|0C75|003C
 06|0C86|057C:15E7
-02|0C96|0009|Pssst... 
+02|0C96|0009|Pssiu... 
 04|0CB9|005F
-02|0CBD|0008|You...! 
+02|0CBD|0008|Você...! 
 06|0CE8|057C:15E7
-02|0CF8|000E|Come here...! 
+02|0CF8|000E|Venha aqui...! 
 04|0D20|0028
-02|0D24|0012|Get over here...! 
+02|0D24|0012|Venha pra cá...! 
 06|0D5C|057C:15E7
 03|0D6B|FE07

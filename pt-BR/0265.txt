@@ -1,224 +1,224 @@
 01|0080|0080
 04|0097|002F
-02|009B|0016|WHAT THE FISH TELL ME 
+02|009B|0016|O QUE OS PEIXES ME DIZ 
 03|00C6|10CC
 04|00D5|001F
-02|00D9|0006|diary 
+02|00D9|0006|diário 
 03|00F4|109E
 04|0103|0021
-02|0107|0008|journal 
+02|0107|0008|Diário 
 03|0124|106E
 04|0133|0025
-02|0137|000C|cheesy book 
+02|0137|000C|livro cafona 
 03|0158|103A
 04|0167|003A
-02|016B|0021|The History of Necromancy Vol. I 
+02|016B|0021|A História da Necromancia Vol. EU 
 03|01A1|0FF1
 04|01B0|003B
-02|01B4|0022|The History of Necromancy Vol. II 
+02|01B4|0022|A História da Necromancia Vol. II 
 03|01EB|0FA7
 04|01FA|002B
-02|01FE|0012|On Sorcerous Ways 
+02|01FE|0012|Em caminhos mágicos 
 03|0225|0F6D
 04|0234|002A
-02|0238|0011|The Art of Flame 
+02|0238|0011|A Arte da Chama 
 03|025E|0F34
 04|026D|002D
-02|0271|0014|The Tongue of Flame 
+02|0271|0014|A Língua de Chama 
 03|029A|0EF8
 04|02A9|002A
-02|02AD|0011|Ignite spellbook 
+02|02AD|0011|Acender livro de feitiços 
 03|02D3|0EBF
 04|02E2|002E
-02|02E6|0015|Extinguish spellbook 
+02|02E6|0015|Extinguir livro de feitiços 
 03|0310|0E82
 04|031F|0029
-02|0323|0010|Flash spellbook 
+02|0323|0010|Livro de feitiços flash 
 03|0348|0E4A
 04|0357|002E
-02|035B|0015|Flame Bolt spellbook 
+02|035B|0015|Livro de feitiços do Raio Flamejante 
 03|0385|0E0D
 04|0394|002F
-02|0398|0016|Endure Heat spellbook 
+02|0398|0016|Livro de feitiços Suportar Calor 
 03|03C3|0DCF
 04|03D2|002F
-02|03D6|0016|Fire Shield spellbook 
+02|03D6|0016|Livro de feitiços do Escudo de Fogo 
 03|0401|0D91
 04|0410|0033
-02|0414|001A|Armor of Flames spellbook 
+02|0414|001A|Livro de feitiços da Armadura de Chamas 
 03|0443|0D4F
 04|0452|002F
-02|0456|0016|Create Fire spellbook 
+02|0456|0016|Criar livro de feitiços de fogo 
 03|0481|0D11
 04|0490|002D
-02|0494|0014|Explosion spellbook 
+02|0494|0014|Livro de feitiços de explosão 
 03|04BD|0CD5
 04|04CC|0031
-02|04D0|0018|Summon Daemon spellbook 
+02|04D0|0018|Livro de feitiços de invocar Daemon 
 03|04FD|0C95
 04|050C|0031
-02|0510|0018|Banish Daemon spellbook 
+02|0510|0018|Livro de feitiços de banir Daemon 
 03|053D|0C55
 04|054C|0031
-02|0550|0018|Conflagration spellbook 
+02|0550|0018|Livro de feitiços de conflagração 
 03|057D|0C15
 04|058C|0037
-02|0590|001E|The Destruction of the Temple 
+02|0590|001E|A Destruição do Templo 
 03|05C3|0BCF
 04|05D2|0027
-02|05D6|000E|Earthen Magic 
+02|05D6|000E|Magia Terrestre 
 03|05F9|0B99
 04|0608|0024
-02|060C|000B|Honor Lost 
+02|060C|000B|Honra perdida 
 03|062C|0B66
 04|063B|0021
-02|063F|0008|Journal 
+02|063F|0008|Diário 
 03|065C|0B36
 04|066B|0024
-02|066F|000B|Kith Venom 
+02|066F|000B|Veneno Kith 
 03|068F|0B03
 04|069E|001F
 02|06A2|0006|Rhian 
 03|06BD|0AD5
 04|06CC|0020
-02|06D0|0007|Voices 
+02|06D0|0007|Vozes 
 03|06EC|0AA6
 04|06FB|0021
-02|06FF|0008|The Eye 
+02|06FF|0008|O olho 
 03|071C|0A76
 04|072B|002A
-02|072F|0011|captains journal 
+02|072F|0011|diário dos capitães 
 03|0755|0A3D
 04|0764|001E
-02|0768|0005|Book 
+02|0768|0005|Livro 
 03|0782|0A10
 04|0791|0027
-02|0795|000E|the Grim Book 
+02|0795|000E|o livro sombrio 
 03|07B8|09DA
 04|07C7|002F
-02|07CB|0016|Journeys through Hell 
+02|07CB|0016|Jornadas pelo Inferno 
 03|07F6|099C
 04|0805|0026
-02|0809|000D|Ancient Book 
+02|0809|000D|Livro Antigo 
 03|082B|0967
 04|083A|0043
-02|083E|002A|My Rival, My Love : A Shadowy Jester Book 
+02|083E|002A|Meu rival, meu amor: um livro sombrio do bobo da corte 
 03|087D|0915
 04|088C|003E
-02|0890|0025|Moriens: Necromancer, Prophet, Hero. 
+02|0890|0025|Morrendo: Necromante, Profeta, Herói. 
 03|08CA|08C8
 04|08D9|0022
-02|08DD|0009|Read me. 
+02|08DD|0009|Leia-me. 
 03|08FB|0897
 04|090A|0022
-02|090E|0009|Read me. 
+02|090E|0009|Leia-me. 
 03|092C|0866
 04|093B|0022
-02|093F|0009|Read me. 
+02|093F|0009|Leia-me. 
 03|095D|0835
 04|096C|0022
-02|0970|0009|Read me. 
+02|0970|0009|Leia-me. 
 03|098E|0804
 04|099D|0042
-02|09A1|0029|Dispelling Myths: The Truth About Magic. 
+02|09A1|0029|Dissipando mitos: a verdade sobre a magia. 
 03|09DF|07B3
 04|09EE|002E
-02|09F2|0015|Saga of Bone Crusher 
+02|09F2|0015|Saga do Triturador de Ossos 
 03|0A1C|0776
 04|0A2B|002D
-02|0A2F|0014|Enemies of Tenebrae 
+02|0A2F|0014|Inimigos das Trevas 
 03|0A58|073A
 04|0A67|002F
-02|0A6B|0016|What the Fish Tell Me 
+02|0A6B|0016|O que os peixes me dizem 
 03|0A96|06FC
 04|0AA5|0024
-02|0AA9|000B|Divination 
+02|0AA9|000B|Adivinhação 
 03|0AC9|06C9
 04|0AD8|0027
-02|0ADC|000E|Healing Touch 
+02|0ADC|000E|Toque de cura 
 03|0AFF|0693
 04|0B0E|0028
-02|0B12|000F|Aerial Servant 
+02|0B12|000F|Servo Aéreo 
 03|0B36|065C
 04|0B45|0020
-02|0B49|0007|Reveal 
+02|0B49|0007|Revelar 
 03|0B65|062D
 04|0B74|0025
-02|0B78|000C|Restoration 
+02|0B78|000C|Restauração 
 03|0B99|05F9
 04|0BA8|0029
-02|0BAC|0010|Fade From Sight 
+02|0BAC|0010|Desaparecer da vista 
 03|0BD1|05C1
 04|0BE0|0022
-02|0BE4|0009|Air Walk 
+02|0BE4|0009|Andar no ar 
 03|0C02|0590
 04|0C11|0024
-02|0C15|000B|Hear Truth 
+02|0C15|000B|Ouça a verdade 
 03|0C35|055D
 04|0C44|0026
-02|0C48|000D|Intervention 
+02|0C48|000D|Intervenção 
 03|0C6A|0528
 04|0C79|0026
-02|0C7D|000D|Resurrection 
+02|0C7D|000D|Ressurreição 
 03|0C9F|04F3
 04|0CAE|0035
-02|0CB2|001C|Journal of Veras the Healer 
+02|0CB2|001C|Diário de Veras, o Curandeiro 
 03|0CE3|04AF
 04|0CF2|002C
-02|0CF6|0013|Chronicle of Pagan 
+02|0CF6|0013|Crônica de Pagão 
 03|0D1E|0474
 04|0D2D|0029
-02|0D31|0010|Confusion Blast 
+02|0D31|0010|Explosão de confusão 
 03|0D56|043C
 04|0D65|0027
-02|0D69|000E|Meteor Shower 
+02|0D69|000E|Chuva de meteoros 
 03|0D8C|0406
 04|0D9B|0029
-02|0D9F|0010|Summon Creature 
+02|0D9F|0010|Invocar Criatura 
 03|0DC4|03CE
 04|0DD3|002A
-02|0DD7|0011|Call Destruction 
+02|0DD7|0011|Destruição de chamadas 
 03|0DFD|0395
 04|0E0C|0025
-02|0E10|000C|Devastation 
+02|0E10|000C|Devastação 
 03|0E31|0361
 04|0E40|0029
-02|0E44|0010|Ethereal Travel 
+02|0E44|0010|Viagem Etérea 
 03|0E69|0329
 04|0E78|0031
-02|0E7C|0018|Reagents of Thaumaturgy 
+02|0E7C|0018|Reagentes de Taumaturgia 
 03|0EA9|02E9
 04|0EB8|003D
-02|0EBC|0024|The Mythology of the Zealan Deities 
+02|0EBC|0024|A Mitologia das Divindades Zelanesas 
 03|0EF5|029D
 04|0F04|002C
-02|0F08|0013|The Final Sunlight 
+02|0F08|0013|A última luz solar 
 03|0F30|0262
 04|0F3F|0038
-02|0F43|001F|The Objective History of Pagan 
+02|0F43|001F|A História Objetiva do Pagão 
 03|0F77|021B
 04|0F86|0031
-02|0F8A|0018|The Mysteries of Lithos 
+02|0F8A|0018|Os mistérios de Lithos 
 03|0FB7|01DB
 04|0FC6|0039
-02|0FCA|0020|Raising Your Children Correctly 
+02|0FCA|0020|Criando Seus Filhos Corretamente 
 03|0FFF|0193
 04|100E|0037
-02|1012|001E|Finding the Wisdom of Stratos 
+02|1012|001E|Encontrando a Sabedoria de Stratos 
 03|1045|014D
 04|1054|0047
-02|1058|002E|Parables from the Teachings of Stratos, Vol I 
+02|1058|002E|Parábolas dos Ensinamentos de Stratos, Vol I 
 03|109B|00F7
 04|10AA|0048
-02|10AE|002F|Parables from the Teachings of Stratos, Vol II 
+02|10AE|002F|Parábolas dos Ensinamentos de Stratos, Vol II 
 03|10F2|00A0
 04|1101|0032
-02|1105|0019|A Letter to New Acolytes 
+02|1105|0019|Uma Carta aos Novos Acólitos 
 03|1133|005F
 04|1142|0035
-02|1146|001C|The Warrior and the Acolyte 
+02|1146|001C|O Guerreiro e o Acólito 
 03|1177|001B
-02|117B|0005|book 
+02|117B|0005|livro 
 01|1197|1197
 06|11C2|0593:0080
 06|11E4|0593:02A6

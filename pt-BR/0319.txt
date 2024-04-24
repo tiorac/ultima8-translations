@@ -1,16 +1,16 @@
 01|0080|0080
 04|009B|002D
-02|009F|0014|glowing obelisk tip 
+02|009F|0014|ponta de obelisco brilhante 
 03|00C8|00E3
 04|00D0|0030
-02|00D4|0017|glowing Heart of Earth 
+02|00D4|0017|Coração brilhante da Terra 
 03|0100|00AB
 04|0108|0032
-02|010C|0019|glowing Tear of the Seas 
+02|010C|0019|Lágrima dos Mares brilhante 
 03|013A|0071
 04|0142|0030
-02|0146|0017|glowing Breath of Wind 
+02|0146|0017|Brilhante Sopro de Vento 
 03|0172|0039
 04|017A|0031
-02|017E|0018|glowing Tongue of Flame 
+02|017E|0018|Língua de Chama brilhante 
 01|01B0|01B0

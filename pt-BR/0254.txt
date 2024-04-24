@@ -1,26 +1,26 @@
 01|0080|0080
 04|009B|0027
-02|009F|000E|gemstone ring 
+02|009F|000E|anel de pedras preciosas 
 03|00C2|016C
 04|00CA|002B
-02|00CE|0012|gemstone necklace 
+02|00CE|0012|colar de pedras preciosas 
 03|00F5|0139
 04|00FD|0026
-02|0101|000D|amethyst gem 
+02|0101|000D|gema de ametista 
 03|0123|010B
 04|012B|0026
-02|012F|000D|dark diamond 
+02|012F|000D|diamante escuro 
 03|0151|00DD
 04|0159|0025
-02|015D|000C|stone amber 
+02|015D|000C|pedra âmbar 
 03|017E|00B0
 04|0186|0026
-02|018A|000D|dancing ruby 
+02|018A|000D|dançando rubi 
 03|01AC|0082
 04|01B4|002C
-02|01B8|0013|obsidian starstone 
+02|01B8|0013|pedra da estrela obsidiana 
 03|01E0|004E
 04|01E8|0028
-02|01EC|000F|bright diamond 
+02|01EC|000F|diamante brilhante 
 03|0210|001E
-02|0214|0008|jewelry 
+02|0214|0008|joia 

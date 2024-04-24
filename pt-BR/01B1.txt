@@ -1,5 +1,5 @@
 01|0080|0080
-02|008C|000C|Earth Titan 
+02|008C|000C|Titã da Terra 
 01|00AF|00AF
 03|00CB|08E2
 06|010C|0581:1C6D
@@ -7,27 +7,27 @@
 06|01E5|0581:1C19
 06|01F7|01B1:09B2
 06|0206|01B1:0D3C
-02|0210|0028|What human is this who comes before me? 
+02|0210|0028|Que humano é esse que vem antes de mim? 
 06|0250|01B1:0DDC
-02|0260|0022|I have business before you, lord. 
+02|0260|0022|Tenho negócios diante de você, senhor. 
 06|0299|01B1:0D7C
-02|02A3|0038|What business could a living one have that concerns Me? 
+02|02A3|0038|Que negócio um ser vivo poderia ter que me preocupasse? 
 06|02F3|01B1:0DDC
-02|0303|0020|Vividos is now the Necromancer. 
+02|0303|0020|Vividos agora é o Necromante. 
 06|033A|01B1:0D3C
-02|0344|004C|I am very well aware of that, living one. And now Lothian must be interred. 
+02|0344|004C|Estou muito ciente disso, vivendo um. E agora Lothian deve ser enterrado. 
 06|03A8|01B1:0DDC
-02|03B8|001A|Lothian must be interred? 
+02|03B8|001A|Lothian deve ser enterrado? 
 06|03E9|01B1:0DAC
-02|03F3|0048|Yes, the scent of her rotting flesh shall perfume my garden of delight. 
+02|03F3|0048|Sim, o cheiro da sua carne podre perfumará o meu jardim de deleite. 
 06|0453|01B1:0DDC
-02|0463|0014|Lord, I beg a boon. 
+02|0463|0014|Senhor, eu imploro uma bênção. 
 06|048E|01B1:0D3C
-02|0498|003F|Bold you are to beg a boon from me, mortal. What is this boon? 
+02|0498|003F|Você é ousado em implorar por uma bênção minha, mortal. O que é esse benefício? 
 06|04EF|01B1:0DDC
-02|04FF|0026|I wish to become Vividos' apprentice. 
+02|04FF|0026|Desejo me tornar aprendiz de Vividos. 
 06|053C|01B1:0D7C
-02|0546|0056|You wish to apprentice to the Necromancer? Then fall before me and serve your master! 
+02|0546|0056|Você deseja ser aprendiz do Necromante? Então caia diante de mim e sirva ao seu mestre! 
 06|05B4|01B1:0DDC
 06|05C9|0581:1C19
 06|05E1|0581:29D8
@@ -39,18 +39,18 @@
 06|067C|0581:1C19
 06|06CE|057C:091C
 06|06DF|01B1:0DAC
-02|06E9|001C|Now, kneel before me, worm. 
+02|06E9|001C|Agora, ajoelhe-se diante de mim, verme. 
 06|071D|01B1:0DDC
 06|0746|01B1:0D3C
-02|0750|003F|To become the apprentice, you must inter Lothian into my clay. 
+02|0750|003F|Para se tornar um aprendiz, você deve enterrar Lothian em minha argila. 
 06|07A7|01B1:0DDC
-02|07B7|0018|How do I do this, lord? 
+02|07B7|0018|Como faço isso, senhor? 
 06|07E6|01B1:0D7C
-02|07F0|004F|Ask this of the Necromancer. He will teach you for it is his task to serve me. 
+02|07F0|004F|Pergunte isso ao Necromante. Ele irá ensiná-lo, pois é sua tarefa servir-me. 
 06|0857|01B1:0DDC
-02|0867|0013|Farewell, my lord. 
+02|0867|0013|Adeus, meu senhor. 
 06|0891|01B1:0DAC
-02|089B|006D|You may now leave my presence, live one. Do not come before me again until you yourself are the Necromancer. 
+02|089B|006D|Agora você pode sair da minha presença, viva uma. Não venha diante de mim novamente até que você mesmo seja o Necromante. 
 06|0926|01B1:0DDC
 06|0936|01B1:0CCD
 06|094B|0581:1C19

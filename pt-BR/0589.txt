@@ -35,14 +35,14 @@
 04|05D3|023F
 04|05DD|01B7
 04|05E5|0147
-02|05FB|000B|Excellent. 
+02|05FB|000B|Excelente. 
 06|0626|0589:0AD8
-02|0638|00AD|Truly an excellent performance overall. You are worthy of the title Acolyte. Now, defend yourself from -my- daemon. Banish it and you will be ready for the Ritual of Flame. 
+02|0638|00AD|Verdadeiramente um excelente desempenho geral. Você é digno do título de Acólito. Agora, defenda-se do -my- daemon. Bana-o e você estará pronto para o Ritual da Chama. 
 06|0721|0589:0080
 03|072C|0065
-02|0731|003A|You have failed the third test, Disciple. Prepare to die. 
+02|0731|003A|Você falhou no terceiro teste, discípulo. Prepare-se para morrer. 
 03|0794|007E
-02|0799|0053|I did not ask you to summon a daemon, Disciple. You have failed... prepare to die. 
+02|0799|0053|Eu não pedi para você invocar um daemon, discípulo. Você falhou... prepare-se para morrer. 
 06|081B|0583:1F4F
 07|0828|0589:0080|07C9
 06|0838|0581:1C19
@@ -94,22 +94,22 @@
 04|0E60|03C9
 04|0E6A|0341
 04|0ED6|02C1
-02|0EDB|0090|This is far better than I had hoped! If you will return to me my staff, we can begin the ceremony. Just put it anywhere, and be quick about it. 
+02|0EDB|0090|Isso é muito melhor do que eu esperava! Se você me devolver meu cajado, poderemos começar a cerimônia. Basta colocá-lo em qualquer lugar e ser rápido. 
 04|0F7E|0219
 06|0F89|0581:1C19
 04|0FE8|01AC
 04|0FF5|019F
 04|0FFD|0049
-02|1002|002C|Drop the staff. We must leave now, Acolyte. 
+02|1002|002C|Solte o pessoal. Devemos partir agora, Acólito. 
 03|1046|014A
 04|104E|0094
-02|1053|0077|I said drop it. This is your last warning, Acolyte. I do not need you so much that I will accept your insubordination. 
+02|1053|0077|Eu disse para largar isso. Este é o seu último aviso, Acólito. Não preciso tanto de você para aceitar sua insubordinação. 
 03|10E2|00AE
-02|10E7|0080|I see. You wish to test me. Well, I have passed or I have failed. But in either case, it won't matter to you. You will be dead! 
+02|10E7|0080|Eu vejo. Você deseja me testar. Bem, eu passei ou falhei. Mas em ambos os casos, isso não importará para você. Você estará morto! 
 03|1190|0099
 03|1197|FDE2
 03|11AB|007E
-02|11B0|0053|I did not ask you to banish a daemon, Disciple. You have failed... prepare to die. 
+02|11B0|0053|Eu não pedi para você banir um daemon, discípulo. Você falhou... prepare-se para morrer. 
 01|122E|122E
 06|1261|057C:15E7
 06|1288|057C:15E7

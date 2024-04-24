@@ -12,27 +12,27 @@
 05|026E|0581:2A56
 04|0278|0075
 06|028D|057C:091C
-02|029C|002C|Now I shall char the flesh from your bones! 
+02|029C|002C|Agora vou queimar a carne dos seus ossos! 
 06|02E1|0581:1C19
 04|02F5|0055
 06|030A|057C:091C
-02|0319|000C|Burn, fool! 
+02|0319|000C|Queime, idiota! 
 06|033E|0581:1C19
 04|0352|0057
 06|0367|057C:091C
-02|0376|000E|You will die! 
+02|0376|000E|Você vai morrer! 
 06|039D|0581:1C19
 04|03B1|0070
 06|03C6|057C:091C
-02|03D5|0027|Do not think that you can run from me! 
+02|03D5|0027|Não pense que você pode fugir de mim! 
 06|0415|0581:1C19
 04|0429|0061
 06|043E|057C:091C
-02|044D|0018|Ha! Do not run from me! 
+02|044D|0018|Ha! Não fuja de mim! 
 06|047E|0581:1C19
 04|0492|0060
 06|04A7|057C:091C
-02|04B6|0017|Pyros will devour you! 
+02|04B6|0017|Pyros irá devorar você! 
 06|04E6|0581:1C19
 01|04F7|04F7
 06|0560|0583:177A
@@ -48,17 +48,17 @@
 05|0729|0581:1A85
 04|0736|0057
 05|0740|0581:2A56
-02|0747|001D|You will die this day, fool! 
+02|0747|001D|Você vai morrer hoje, idiota! 
 06|077E|0581:1C19
 03|078D|00BB
 04|0795|005C
 05|079F|0581:2A56
-02|07A6|0022|Knave, Pyros will feast upon you! 
+02|07A6|0022|Valete, Pyros irá festejar com você! 
 06|07E2|0581:1C19
 03|07F1|0057
 04|07F9|004F
 05|0803|0581:2A56
-02|080A|0015|Feel the Fire, dolt! 
+02|080A|0015|Sinta o Fogo, idiota! 
 06|0839|0581:1C19
 01|084D|084D
 06|0883|0581:1C19

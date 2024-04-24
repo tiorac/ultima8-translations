@@ -10,46 +10,46 @@
 03|02AE|0617
 06|02B9|0581:1C19
 04|02D4|00AD
-02|02D8|001C|All right, one more time... 
-02|030A|001B|Where were you last night? 
-02|033B|0031|Really, I was at home with my poor, sick mother. 
+02|02D8|001C|Tudo bem, mais uma vez... 
+02|030A|001B|Onde você estava ontem à noite? 
+02|033B|0031|Na verdade, eu estava em casa com minha pobre e doente mãe. 
 03|0381|0541
 04|0389|0073
-02|038D|0022|Why have you not paid your taxes? 
-02|03C5|0022|Please sir, I have no more money. 
+02|038D|0022|Por que você não pagou seus impostos? 
+02|03C5|0022|Por favor, senhor, não tenho mais dinheiro. 
 03|03FC|04C6
 04|0404|0075
-02|0408|0023|I should throw you in the dungeon! 
-02|0441|0023|But-but who will feed my children? 
+02|0408|0023|Eu deveria jogar você na masmorra! 
+02|0441|0023|Mas... mas quem alimentará meus filhos? 
 03|0479|0449
 04|0481|0136
-02|0485|001F|I know that you were in on it! 
-02|04BA|0026|Confess, and I shall not torture you! 
+02|0485|001F|Eu sei que você estava envolvido nisso! 
+02|04BA|0026|Confesse e não irei torturá-lo! 
 06|0503|057C:15E7
-02|0513|0013|I beg of you, sir! 
-02|053C|0012|Please let me go! 
+02|0513|0013|Eu imploro, senhor! 
+02|053C|0012|Por favor, deixe-me ir! 
 06|0571|057C:15E7
-02|0581|0021|Right, I shall torture you then! 
+02|0581|0021|Certo, vou torturar você então! 
 03|05B7|030B
 04|05BF|0133
-02|05C3|0039|I swear on my mother's grave that I had no part in that. 
-02|0612|0008|Really? 
-02|0630|002C|I thought you said your mother was sick...? 
-02|0672|0008|Well... 
-02|0690|001E|She...she is sick. Very sick. 
-02|06C4|0019|She will be dead soon... 
+02|05C3|0039|Juro pelo túmulo da minha mãe que não tive parte nisso. 
+02|0612|0008|Realmente? 
+02|0630|002C|Achei que você disse que sua mãe estava doente...? 
+02|0672|0008|Bem... 
+02|0690|001E|Ela... ela está doente. Muito doente. 
+02|06C4|0019|Ela estará morta em breve... 
 03|06F2|01D0
 04|06FA|00A3
 06|070B|057C:15E7
-02|071B|001D|Tell me what I need to know! 
-02|074E|001D|I grow tired of your lies... 
+02|071B|001D|Diga-me o que preciso saber! 
+02|074E|001D|Estou cansado de suas mentiras... 
 06|078E|057C:15E7
 03|079D|0125
 04|07A5|011D
-02|07A9|0030|Please, I beg mercy in the name of the Tempest! 
-02|07EF|0023|You know Mordea never shows mercy! 
-02|0828|0043|She may feed you to the Lurker rather than put you in the dungeon! 
-02|0881|0028|Please, I beg of you, have mercy on me! 
+02|07A9|0030|Por favor, imploro misericórdia em nome da Tempestade! 
+02|07EF|0023|Você sabe que Mordea nunca mostra misericórdia! 
+02|0828|0043|Ela pode alimentar o Luker com você em vez de colocá-lo na masmorra! 
+02|0881|0028|Por favor, eu imploro, tenha piedade de mim! 
 03|08C5|F954
 01|08CA|08CA
 05|08E6|0581:2A56

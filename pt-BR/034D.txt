@@ -1,2 +1,2 @@
 01|0080|0080
-02|008C|000F|magic leggings 
+02|008C|000F|leggings mágicas 

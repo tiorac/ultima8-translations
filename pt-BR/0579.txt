@@ -1,6 +1,6 @@
 01|0080|0080
 05|008A|0581:36E7
-02|0090|00D1|SCROLL OF DISPELLING MAGICAL PORTALS.~By Mythran ~~This scroll has been constructed to unravel the countermagics used to seal all types of portals, including doors and sealed walls. Do not store in damp areas.
+02|0090|00D1|ROLO DE DISPULSÃO DE PORTAIS MÁGICOS.~Por Mythran ~~Este pergaminho foi construído para desvendar a contramagia usada para selar todos os tipos de portais, incluindo portas e paredes seladas. Não armazene em áreas úmidas.
 06|018B|0581:1C19
 06|01AC|057C:15E7
 06|01C4|0581:29D8
@@ -12,7 +12,7 @@
 04|029A|00AD
 06|02C5|0044:08B4
 03|02D4|0073
-02|02DA|002F|Hmmmm... Perhaps an additional item is needed. 
+02|02DA|002F|Hmmmm... Talvez seja necessário um item adicional. 
 06|0330|057C:15E7
 03|0347|00E1
 03|034F|FF30
@@ -20,14 +20,14 @@
 06|03B7|0579:047E
 06|03DE|057C:15E7
 04|03F8|0030
-02|03FE|0018|Hmmmm... Nothing found. 
+02|03FE|0018|Hmmmm... Nada encontrado. 
 01|042D|042D
 06|0463|0581:1C19
 01|047E|047E
 06|04F5|0581:1C19
 01|0520|0520
 05|052A|0581:36E7
-02|0530|0082|DETECTION SCROLL OF TRAPPED CHESTS.~Enchanted by Varkus ~ ~Caster! ~Using this scroll will forewarn you of all trap laden chests. 
+02|0530|0082|ROLO DE DETECÇÃO DE BAÚS PRENDIDOS. ~Encantado por Varkus ~ ~Caster! ~ Usar este pergaminho irá avisá-lo sobre todos os baús carregados de armadilhas. 
 06|05E2|0581:1C19
 06|0603|057C:15E7
 06|061B|0581:29D8
@@ -35,16 +35,16 @@
 06|0659|057C:15E7
 06|068D|0579:0755
 04|06AE|0034
-02|06B4|0019|No chests around here... 
+02|06B4|0019|Não há baús por aqui... 
 03|06E2|0045
 03|06FC|002B
-02|0702|0013|No traps detected! 
+02|0702|0013|Nenhuma armadilha detectada! 
 06|073C|057C:15E7
 01|0755|0755
 06|07C7|0581:1C19
 01|07F1|07F1
 05|07FB|0581:36E7
-02|0801|00AD|DESTRUCTION SCROLL OF TRAPS IN CHESTS.~Enchanted by Varkus ~ ~Caster! ~Casting this scroll will destroy traps within all nearby chests. ~Beware! You do so at your own risk! 
+02|0801|00AD|ROLO DE DESTRUIÇÃO DE ARMADILHAS EM BAÚS. ~Encantado por Varkus ~ ~Caster! ~ Lançar este pergaminho destruirá armadilhas dentro de todos os baús próximos. ~Cuidado! Você faz isso por sua conta e risco! 
 06|08DE|0581:1C19
 06|08FF|057C:15E7
 06|0920|057C:15E7
@@ -53,24 +53,24 @@
 06|0989|0579:0A9A
 06|09A5|0581:1C19
 04|09C1|0034
-02|09C7|0019|No chests around here... 
+02|09C7|0019|Não há baús por aqui... 
 03|09F5|0045
 03|0A0F|002B
-02|0A15|0013|No traps detected! 
+02|0A15|0013|Nenhuma armadilha detectada! 
 06|0A60|057C:15E7
 06|0A81|057C:15E7
 01|0A9A|0A9A
 06|0AD3|057C:0676
 01|0AF5|0AF5
 05|0AFF|0581:36E7
-02|0B05|00AA|SCROLL OF HEALING~Enchanted by Varkus ~ ~Caster! ~Casting this scroll will improve the quality of your health, and heal many of your minor wounds. ~Use only as directed. 
+02|0B05|00AA|ROLO DE CURA ~ Encantado por Varkus ~ ~Caster! ~ Lançar este pergaminho melhorará a qualidade de sua saúde e curará muitas de suas pequenas feridas. ~ Use apenas conforme as instruções. 
 06|0BE9|057C:15E7
 06|0C01|0581:29D8
 06|0C1E|057C:15E7
 06|0CA0|057C:15E7
 01|0CC1|0CC1
 05|0CCB|0581:36E7
-02|0CD1|00EF|SCROLL OF RESTORATION~Enchanted by Varkus ~ ~Caster! ~Casting this scroll will restore you to full health, and heal your major wounds. ~Beware! If you are already at prime health, this powerful magic may weaken you. ~Use only as directed. 
+02|0CD1|00EF|ROLO DE RESTAURAÇÃO ~ Encantado por Varkus ~ ~Caster! ~ Lançar este pergaminho irá restaurar sua saúde plena e curar suas feridas principais. ~Cuidado! Se você já está com a saúde perfeita, esta magia poderosa pode enfraquecê-lo. ~ Use apenas conforme as instruções. 
 06|0DFA|057C:15E7
 06|0E12|0581:29D8
 06|0E2F|057C:15E7
@@ -79,7 +79,7 @@
 06|0ECD|057C:15E7
 01|0EEE|0EEE
 05|0EF8|0581:36E7
-02|0EFE|0139|SCROLL OF INVISIBILITY~Enchanted by Magethief Vermin ~~In casting this scroll my friend you will become as clear as the wind itself. Mind that you practice stealth, for any noises you make may give you away. Mind to that you act quickly, lest this magic wear away while you are about your devious acts.~~%Vermin. 
+02|0EFE|0139|ROLO DE INVISIBILIDADE ~ Encantado por Magethief Vermin ~~ Ao lançar este pergaminho, meu amigo, você se tornará tão claro quanto o próprio vento. Lembre-se de praticar furtividade, pois qualquer barulho que você fizer pode denunciá-lo. Lembre-se de agir rapidamente, para que essa magia não desapareça enquanto você pratica seus atos tortuosos. ~~% Vermes. 
 06|1071|057C:15E7
 06|109E|057C:15E7
 06|10BF|057C:15E7
@@ -90,7 +90,7 @@
 05|11A7|057C:0113
 01|11E7|11E7
 05|11F1|0581:36E7
-02|11F7|00DC|SCROLL OF REVISIBILITY~Enchanted by Magethief Vermin ~Casting this scroll my friend will reveal any hidden treasure around you. Mind you though, do not cast this while you thieve, for you too will be revealed.~~%Vermin. 
+02|11F7|00DC|ROLO DE REVISIBILIDADE ~ Encantado por Magethief Vermin ~ Lançar este pergaminho, meu amigo, revelará qualquer tesouro escondido ao seu redor. Lembre-se, porém, não lance isso enquanto você rouba, pois você também será revelado.~~%Vermes. 
 06|130D|057C:15E7
 06|1339|057C:15E7
 06|135A|057C:15E7
